@@ -1,0 +1,72 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "[\"disciplina\":\"Contabilidade Geral\"]",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "[\"disciplina\":\"Direito Administrativo\"]",
+      "color": {
+        "a": 1,
+        "rgb": 1005987
+      }
+    },
+    {
+      "query": "[\"disciplina\":\"Tecnologia da Informação\"]",
+      "color": {
+        "a": 1,
+        "rgb": 3863282
+      }
+    },
+    {
+      "query": "[\"disciplina\":\"Direito Tributário\"]",
+      "color": {
+        "a": 1,
+        "rgb": 1687144
+      }
+    },
+    {
+      "query": "[\"disciplina\":\"Língua Portuguesa\"]",
+      "color": {
+        "a": 1,
+        "rgb": 6684774
+      }
+    },
+    {
+      "query": "[\"disciplina\":\"Direito Constitucional\"]",
+      "color": {
+        "a": 1,
+        "rgb": 13214247
+      }
+    },
+    {
+      "query": "tag:#template  ",
+      "color": {
+        "a": 1,
+        "rgb": 6512479
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -2.4,
+  "nodeSizeMultiplier": 0.814583333333333,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.124813862190334,
+  "repelStrength": 10.6403140652498,
+  "linkStrength": 1,
+  "linkDistance": 248,
+  "scale": 0.7955740594925099,
+  "close": false
+}

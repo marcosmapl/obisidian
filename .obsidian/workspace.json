@@ -1,0 +1,253 @@
+{
+  "main": {
+    "id": "abced4f993ad5d92",
+    "type": "split",
+    "children": [
+      {
+        "id": "e77dcfb46769458e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4181b1e56adbd08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concursos/Auditoria/Auditoria.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Auditoria"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "45b42b08c7b0614f",
+    "type": "split",
+    "children": [
+      {
+        "id": "516cbf818260916f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d80addb41ff0b48f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "ce82dfb6d7eddaab",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "851c0109639b0177",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 334.5
+  },
+  "right": {
+    "id": "85539bb65b2a9791",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f5f09527ddcdf39",
+        "type": "tabs",
+        "dimension": 57.60416666666666,
+        "children": [
+          {
+            "id": "f254928120b03d7b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "0371eee99b069dbd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Concursos/Contabilidade Geral/02 - Componentes Patrimoniais.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para 02 - Componentes Patrimoniais"
+            }
+          },
+          {
+            "id": "56cb9d41c46fa583",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2a1e6a8f30ae601a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          },
+          {
+            "id": "13422fa873e46705",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "f70b642b0827c287",
+        "type": "tabs",
+        "dimension": 42.39583333333334,
+        "children": [
+          {
+            "id": "45e21fb5d3efdbb2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 486.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "templates:Inserir modelo": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "d80addb41ff0b48f",
+  "lastOpenFiles": [
+    "Concursos/Auditoria/Conceitos Iniciais",
+    "Power BI/Power BI.md",
+    "Concursos/Auditoria/Auditoria.md",
+    "Power BI",
+    "Media/Pasted image 20251218093301.png",
+    "Media",
+    "Templates/Nota Hub.md",
+    "Templates/Nota para Conceito.md",
+    "Concursos/Tecnologia da Informação/Aula 42 ITIL 4/ITIL 4.md",
+    "Concursos/Tecnologia da Informação/Tecnologia da Informação.md",
+    "Templates/Templates.md",
+    "Templates/Nota Jurídica.md",
+    "Tema relacionado 3.md",
+    "Concursos/Língua Portuguesa/Ortografia e Acentuação/Ortografia e Acentuação.md",
+    "Concursos/Língua Portuguesa/Ortografia e Acentuação/Emprego do Hífen.md",
+    "Concursos/Língua Portuguesa/Ortografia e Acentuação/Encontro Vocálico.md",
+    "Concursos/Língua Portuguesa/Ortografia e Acentuação/Fonema.md",
+    "Concursos/Língua Portuguesa/Ortografia e Acentuação/Acentuação Gráfica.md",
+    "Concursos/Língua Portuguesa/Língua Portuguesa.md",
+    "Concursos/Tecnologia da Informação/Aula 01 - Banco de Dados/Banco de Dados.md",
+    "Concursos/Tecnologia da Informação/Aula 01 - Banco de Dados/Fluência de Dados.md",
+    "Concursos/Tecnologia da Informação/Aula 01 - Banco de Dados/Arquitetura ANSI-SPARC.md",
+    "Concursos/Tecnologia da Informação/Aula 01 - Banco de Dados/Pirâmide DIKW.md",
+    "Concursos/Tecnologia da Informação/Aula 01 - Banco de Dados/Tipos de Redundância.md",
+    "Concursos/Tecnologia da Informação/Aula 01 - Banco de Dados/Redundância Não Controlada.md",
+    "Concursos/Tecnologia da Informação/Aula 01 - Banco de Dados/Redundância Controlada.md",
+    "Concursos/Tecnologia da Informação/Aula 01 - Banco de Dados/Conceitos Básicos.md",
+    "Concursos/Tecnologia da Informação/Aula 42 ITIL 4",
+    "Concursos/Língua Portuguesa/Ortografia e Acentuação/Dígrafo.md",
+    "Mídia/Pasted image 20251217145145.png",
+    "Mídia/Pasted image 20251217112502.png",
+    "Leitura/Essencialismo - Greg McKeown (2014)/Essencialismo - Greg McKeown.md",
+    "Mídia/Pasted image 20251216164400.png",
+    "Mídia/Pasted image 20251216093947.png",
+    "Leitura/Essencialismo - Greg McKeown (2014)",
+    "Leitura",
+    "Concursos/Direito/Direito Constitucional/Teoria Geral da Constituição",
+    "Concursos/Raciocínio Lógico/Estruturas Lógicas",
+    "Concursos/Matemática Financeira/Sem título",
+    "Mídia/Pasted image 20251212163233.png",
+    "Mídia/Pasted image 20251212154258.png",
+    "Mídia/Pasted image 20251212152700.png",
+    "Concursos/Tecnologia da Informação/Aula 99 - Fluência de Dados",
+    "Mídia/Pasted image 20251212115232.png",
+    "Concursos/Língua Portuguesa/Ortografia e Acentuação",
+    "Mídia/definição-patrimônio.png",
+    "Sem título.canvas"
+  ]
+}
