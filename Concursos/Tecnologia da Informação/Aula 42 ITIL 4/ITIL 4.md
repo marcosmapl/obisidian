@@ -4,7 +4,7 @@ tópico: ITIL 4
 tags:
   - ti/itil4
 created: 2025-12-17T15:59:00
-completed: 0
+completed: 4
 node_size: "80"
 ---
 ## 🔹O que é ITIL
@@ -36,37 +36,34 @@ node_size: "80"
 
 ---
 ## 🔹Consumidores de Serviços
-### ▪️Cliente
 
->  Define os requisitos para um serviço e assume a responsabilidade pelos resultados do consumo desse serviço
+No ITIL 4 são definidos três [[Consumidores de Serviço]]:
+- Cliente
+- Usuário
+- Patrocinador
 
-#ti/itil4/consumidor/cliente
-### ▪️Usuário
-
->  Aquele que utiliza serviços
-
-#ti/itil4/consumidor/usuário
-### ▪️Patrocinador
-
->  Quem autoriza o orçamento para consumo de serviço.
-
-#ti/itil4/consumidor/patrocinador
-
-✨**Dica**: O termo também pode ser usado para descrever uma **organização ou indivíduo** que **fornece apoio financeiro** ou outro tipo de suporte para uma iniciativa.
+#ti/itil4/consumidor
 
 ---
 ## 🔹Aspectos da entrega de valor
-### ▪️Utilidade
 
->  **Utilidade** consiste na **funcionalidade** oferecida por um produto ou serviço para atender a uma necessidade em particular.
+No ITIL 4 são temos os seguintes [[Aspectos da Entrega de Valor]]:
+- Utilidade
+- Garantia
 
-📌A **utilidade** pode ser resumida como *"o que o serviço faz"* e pode ser usada para determinar se ele é *"adequado ao propósito".* 
+#ti/itil4/aspectos-entrega-valor
 
-#ti/itil4/utilidade
-### ▪️Garantia
+---
+## 🔹Modelo de 4 Dimensões
 
->  **Garantia** consiste na confirmação de que um produto ou serviço **atenderá aos requisitos** acordados.
+O [[Modelo de 4 Dimensões]] da ITIL sustenta uma **abordagem holística** do gerenciamento de serviços, garantindo a **criação de valor** para clientes e demais partes interessadas por meio de produtos e serviços.
+### As Quatro Dimensões
+1. **Organizações e Pessoas**  
+2. **Informação e Tecnologia**  
+3. **Parceiros e Fornecedores**  
+4. **Fluxos de Valor e Processos**
 
-📌A **garantia** pode ser resumida como *"o modo como o serviço funciona"* e pode ser usada para determinar se ele é *"adequado ao uso"*.
+---
+## 🔹Sistema de Valor de Serviço
 
-#ti/itil4/utilidade
+O **[[Sistema de Valor de Serviços]] (SVS)** descreve **como todos os componentes e atividades da organização trabalham em conjunto** para **criar valor** por meio de produtos e serviços.
