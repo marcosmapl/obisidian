@@ -4,11 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "e77dcfb46769458e",
+        "id": "56e2a00baf1a1631",
         "type": "tabs",
+        "dimension": 21.815965874466787,
         "children": [
           {
-            "id": "e4181b1e56adbd08",
+            "id": "85aa67bed04f02e5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Concursos/Auditoria/Auditoria.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Auditoria"
+            }
+          }
+        ]
+      },
+      {
+        "id": "e77dcfb46769458e",
+        "type": "tabs",
+        "dimension": 78.1840341255332,
+        "children": [
+          {
+            "id": "000ae01a2940369d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5
+    "width": 317.5
   },
   "right": {
     "id": "85539bb65b2a9791",
@@ -200,15 +223,23 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "d80addb41ff0b48f",
+  "active": "000ae01a2940369d",
   "lastOpenFiles": [
+    "Concursos/Auditoria/Conceitos Iniciais/Características Inerentes.md",
+    "Concursos/Auditoria/Auditoria.md",
+    "Concursos/Auditoria/Conceitos Iniciais/Risco de Auditoria.md",
+    "Concursos/Auditoria/Conceitos Iniciais/NBC TA 200.md",
+    "Concursos/Auditoria/Conceitos Iniciais/Princípios Éticos.md",
+    "Media/Pasted image 20251218112501.png",
+    "Media/Pasted image 20251218111301.png",
+    "Media/Pasted image 20251218111110.png",
+    "Templates/Nota Hub.md",
+    "Media/Pasted image 20251218100823.png",
     "Concursos/Auditoria/Conceitos Iniciais",
     "Power BI/Power BI.md",
-    "Concursos/Auditoria/Auditoria.md",
     "Power BI",
     "Media/Pasted image 20251218093301.png",
     "Media",
-    "Templates/Nota Hub.md",
     "Templates/Nota para Conceito.md",
     "Concursos/Tecnologia da Informação/Aula 42 ITIL 4/ITIL 4.md",
     "Concursos/Tecnologia da Informação/Tecnologia da Informação.md",
@@ -228,12 +259,9 @@
     "Concursos/Tecnologia da Informação/Aula 01 - Banco de Dados/Tipos de Redundância.md",
     "Concursos/Tecnologia da Informação/Aula 01 - Banco de Dados/Redundância Não Controlada.md",
     "Concursos/Tecnologia da Informação/Aula 01 - Banco de Dados/Redundância Controlada.md",
-    "Concursos/Tecnologia da Informação/Aula 01 - Banco de Dados/Conceitos Básicos.md",
     "Concursos/Tecnologia da Informação/Aula 42 ITIL 4",
-    "Concursos/Língua Portuguesa/Ortografia e Acentuação/Dígrafo.md",
     "Mídia/Pasted image 20251217145145.png",
     "Mídia/Pasted image 20251217112502.png",
-    "Leitura/Essencialismo - Greg McKeown (2014)/Essencialismo - Greg McKeown.md",
     "Mídia/Pasted image 20251216164400.png",
     "Mídia/Pasted image 20251216093947.png",
     "Leitura/Essencialismo - Greg McKeown (2014)",
@@ -242,12 +270,7 @@
     "Concursos/Raciocínio Lógico/Estruturas Lógicas",
     "Concursos/Matemática Financeira/Sem título",
     "Mídia/Pasted image 20251212163233.png",
-    "Mídia/Pasted image 20251212154258.png",
-    "Mídia/Pasted image 20251212152700.png",
     "Concursos/Tecnologia da Informação/Aula 99 - Fluência de Dados",
-    "Mídia/Pasted image 20251212115232.png",
-    "Concursos/Língua Portuguesa/Ortografia e Acentuação",
-    "Mídia/definição-patrimônio.png",
     "Sem título.canvas"
   ]
 }
