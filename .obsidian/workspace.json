@@ -4,44 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "09a7ba3e4f2a1131",
+        "id": "f51bfff63a4dff9c",
         "type": "tabs",
-        "dimension": 18.44349680170576,
         "children": [
           {
-            "id": "85aa67bed04f02e5",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Concursos/Direito/Direito Tributário/Direito Tributário.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Sumário de Direito Tributário"
-            }
-          }
-        ]
-      },
-      {
-        "id": "56e2a00baf1a1631",
-        "type": "tabs",
-        "dimension": 81.55650319829424,
-        "children": [
-          {
-            "id": "f373be8ebcd383f0",
+            "id": "cb45b1ee1f551ac1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Direito/Direito Tributário/Direito Tributário.md",
+                "file": "Concursos/Auditoria/00 - MOC Principal/Conceitos Fundamentais.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Direito Tributário"
+              "title": "Conceitos Fundamentais"
+            }
+          },
+          {
+            "id": "219570500c7f9282",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concursos/Auditoria/00 - MOC Principal/Auditoria — Definição e Objetivos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Auditoria — Definição e Objetivos"
             }
           }
         ]
@@ -101,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.5
+    "width": 492.5110321044922
   },
   "right": {
     "id": "85539bb65b2a9791",
@@ -175,16 +166,17 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Concursos/Auditoria/00 - MOC Principal/Conceitos Fundamentais.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de Conceitos Fundamentais"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       },
       {
         "id": "f70b642b0827c287",
@@ -209,8 +201,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 486.5,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,54 +214,53 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "d80addb41ff0b48f",
+  "active": "cb45b1ee1f551ac1",
   "lastOpenFiles": [
-    "Concursos/Direito/Direito Tributário/Aula 01 - Conceitos Introdutórios/Conceitos Introdutórios.md",
-    "Concursos/Direito/Direito Tributário/Direito Tributário.md",
-    "Concursos/Tecnologia da Informação/Aula 42 ITIL 4/ITIL 4.md",
-    "Concursos/Tecnologia da Informação/Aula 42 ITIL 4/Sistema de Valor de Serviços.md",
-    "Media/Pasted image 20251218163708.png",
-    "Concursos/Tecnologia da Informação/Aula 42 ITIL 4/Modelo de 4 Dimensões.md",
-    "Media/7kgdVN8elvmPAw3KWbzoYAa1JDrqDjqnEo1XprDZq2GnM9R05a.png",
-    "Concursos/Tecnologia da Informação/Aula 42 ITIL 4/Consumidores de Serviço.md",
-    "Concursos/Tecnologia da Informação/Aula 42 ITIL 4/Aspectos da Entrega de Valor.md",
     "Concursos/Auditoria/Auditoria.md",
-    "Concursos/Auditoria/Conceitos Iniciais/Características Inerentes.md",
-    "Concursos/Auditoria/Conceitos Iniciais/Risco de Auditoria.md",
-    "Concursos/Auditoria/Conceitos Iniciais/NBC TA 200.md",
-    "Concursos/Auditoria/Conceitos Iniciais/Princípios Éticos.md",
+    "Concursos/Auditoria/13 - Normas Brasileiras de Auditoria (CFC)",
+    "Concursos/Auditoria/12 - Laudo e Parecer Pericial Contábil",
+    "Concursos/Auditoria/11 - Controle Interno e Externo",
+    "Concursos/Auditoria/10 - Ética Profissional",
+    "Concursos/Auditoria/09 - Fraudes e Responsabilidade",
+    "Concursos/Auditoria/08 - Avaliação de Distorções",
+    "Concursos/Auditoria/07 - Procedimentos de Auditoria",
+    "Concursos/Auditoria/06 - Documentação de Auditoria",
+    "Concursos/Auditoria/05 - Materialidade e Relevância",
+    "Concursos/Auditoria/04 - Riscos de Auditoria",
+    "Concursos/Auditoria/00 - MOC Principal/Auditoria — Definição e Objetivos.md",
+    "Concursos/Contabilidade Geral/00 - MOC Principal/Campo de Aplicação.md",
+    "Auditoria — Definição e Objetivos.md",
+    "Concursos/Contabilidade Geral/Contabilidade Geral.md",
+    "Concursos/Língua Portuguesa/Ortografia e Acentuação/Emprego do Hífen.md",
+    "Concursos/Língua Portuguesa/Ortografia e Acentuação/Hiato.md",
+    "Templates/Nota Hub.md",
+    "Concursos/Língua Portuguesa/Ortografia e Acentuação/Acentuação Gráfica.md",
+    "Concursos/Língua Portuguesa/Língua Portuguesa.md",
+    "Concursos/Língua Portuguesa/Ortografia e Acentuação/Monossílabos Tônicos.md",
+    "Concursos/Língua Portuguesa/Ortografia e Acentuação/Paroxítona.md",
+    "Concursos/Língua Portuguesa/Ortografia e Acentuação/Oxítona.md",
+    "Concursos/Língua Portuguesa/Caderno de Erros (Português).md",
+    "Concursos/Língua Portuguesa/Ortografia e Acentuação/Ortografia.md",
+    "Concursos/Língua Portuguesa/Ortografia e Acentuação/Encontro Vocálico.md",
+    "Concursos/Língua Portuguesa/Ortografia e Acentuação/Dígrafo.md",
+    "Concursos/Língua Portuguesa/Ortografia e Acentuação/Hífen.md",
+    "Concursos/Raciocínio Lógico/Estruturas Lógicas/Quantificadores.md",
+    "Concursos/Raciocínio Lógico/Estruturas Lógicas/Proposição Lógica.md",
+    "Concursos/Raciocínio Lógico/Estruturas Lógicas/Bicondicional Lógica.md",
+    "Concursos/Língua Portuguesa/Ortografia e Acentuação/Dígrafo.md",
+    "Concursos/Língua Portuguesa/Ortografia e Acentuação/Fonema.md",
+    "Concursos/Direito/Direito.md",
+    "Concursos/Raciocínio Lógico/Estruturas Lógicas/Conectivos Lógicos.md",
+    "Media/Pasted image 20251218163708.png",
+    "Media/7kgdVN8elvmPAw3KWbzoYAa1JDrqDjqnEo1XprDZq2GnM9R05a.png",
     "Media/Pasted image 20251218112501.png",
     "Media/Pasted image 20251218111301.png",
     "Media/Pasted image 20251218111110.png",
-    "Templates/Nota Hub.md",
     "Media/Pasted image 20251218100823.png",
-    "Concursos/Auditoria/Conceitos Iniciais",
-    "Power BI/Power BI.md",
-    "Power BI",
     "Media/Pasted image 20251218093301.png",
-    "Media",
-    "Templates/Nota para Conceito.md",
-    "Concursos/Tecnologia da Informação/Tecnologia da Informação.md",
-    "Templates/Templates.md",
-    "Templates/Nota Jurídica.md",
-    "Tema relacionado 3.md",
-    "Concursos/Língua Portuguesa/Ortografia e Acentuação/Ortografia e Acentuação.md",
-    "Concursos/Língua Portuguesa/Ortografia e Acentuação/Emprego do Hífen.md",
-    "Concursos/Língua Portuguesa/Ortografia e Acentuação/Encontro Vocálico.md",
-    "Concursos/Língua Portuguesa/Ortografia e Acentuação/Fonema.md",
-    "Concursos/Língua Portuguesa/Ortografia e Acentuação/Acentuação Gráfica.md",
-    "Concursos/Língua Portuguesa/Língua Portuguesa.md",
-    "Concursos/Tecnologia da Informação/Aula 01 - Banco de Dados/Banco de Dados.md",
-    "Concursos/Tecnologia da Informação/Aula 42 ITIL 4",
     "Mídia/Pasted image 20251217145145.png",
     "Mídia/Pasted image 20251217112502.png",
     "Mídia/Pasted image 20251216164400.png",
-    "Leitura/Essencialismo - Greg McKeown (2014)",
-    "Leitura",
-    "Concursos/Direito/Direito Constitucional/Teoria Geral da Constituição",
-    "Concursos/Raciocínio Lógico/Estruturas Lógicas",
-    "Concursos/Matemática Financeira/Sem título",
-    "Concursos/Tecnologia da Informação/Aula 99 - Fluência de Dados",
     "Sem título.canvas"
   ]
 }

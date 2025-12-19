@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "📈",
+      "📊",
       "🧩",
       "📁",
-      "📚",
-      "📝",
-      "🖥"
+      "📚"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,10 +34,10 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "Concursos/Contabilidade Geral": "💰",
+  "Concursos/Contabilidade Geral": "📊",
   "Concursos/Auditoria": "🔍",
   "Concursos/Direito": "⚖",
-  "Concursos/Estatística": "📊",
+  "Concursos/Estatística": "📈",
   "Concursos/Legislação Tributária Municipal": "🏦",
   "Concursos/Língua Portuguesa": "📖",
   "Concursos/Matemática Financeira": "➕",

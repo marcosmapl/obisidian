@@ -7,230 +7,132 @@ created: 2025-12-18T08:19:00
 progresso %: "35"
 node_size: "80"
 ---
-## O que é Auditoria?
+## 📘 Sumário Geral - Auditoria
 
-> Ela é uma técnica contábil, cujo objetivo precípuo é constatar se as demonstrações contábeis foram elaboradas, em todos os aspectos relevantes, em conformidade com a estrutura de relatório financeiro aplicável.
-
-#auditoria
+#auditoria/sumário
 
 ---
-## Objetivo da Auditoria
+## 📌 MOC Principal
 
-> Constatar se as Demonstrações Contábeis foram elaboradas, em todos os aspectos relevantes, em conformidade com a estrutura de relatório financeiro aplicável.
-
-#auditoria/objetivo
-
----
-## Classificação
-
-### Auditoria Interna (NBC TI 01)
-
-> Auditorias internas são realizadas **dentro das organizações** para **auxiliar a administração** no cumprimento de seus objetivos, **agregando valor** aos resultados da entidade.
-#### Finalidade
-- Aperfeiçoar **processos**
-- Melhorar a **gestão**
-- Fortalecer os **controles internos**
-#### Escopo do Trabalho
-- Definido pela **gerência**
-
-🚨 O **auditor interno** é funcionário da entidade e está **subordinado à alta administração**, devendo preservar sua **autonomia profissional**.
-🚨 A **auditoria interna não é subordinada** à Controladoria nem a qualquer outro órgão externo.
-
-#auditoria/interna #auditoria/nbc-ti-01
+- [[Conceitos Fundamentais]]
+- [[Planejamento de Auditoria]]
+- [[Riscos de Auditoria]]
+- [[Materialidade e Relevância]]
+- [[Documentação de Auditoria]]
+- [[Procedimentos de Auditoria]]
+- [[Avaliação de Distorções Identificadas]]
+- [[Fraudes e Responsabilidade do Auditor]]
+- [[Ética Profissional e Conflito de Interesses]]
+- [[Controle Interno e Controle Externo]]
+- [[Laudo e Parecer Pericial Contábil]]
+- [[Normas Brasileiras de Auditoria — CFC]]
 
 ---
-### Auditoria Externa (Independente – NBC TA 200)
+## 📂 MOC — Auditoria: Conceitos Fundamentais
 
-> Tem por objetivo **aumentar o grau de confiança** dos usuários nas demonstrações contábeis, por meio da **expressão de opinião** do auditor independente.
-#### Extensão do Exame
-- Definida pelas **normas de auditoria**
-
-🚨 A **NBC TA 200** é a **norma-base** da Auditoria Independente das Demonstrações Contábeis.
-
-#auditoria/externa #auditoria/nbc-ta-200
-
-### Comparativo Auditoria Interna x Auditoria Externa
-
-![[Pasted image 20251218093301.png]]
+- [[Auditoria — Definição e Objetivos]]
+- [[Tipos de Auditoria]]
+- [[Usuários da Informação Contábil]]
+- [[Escopo da Auditoria]]
 
 ---
-## Obrigatoriedades
+## 📂 MOC — O Auditor
 
-### Auditores
-
-📌 **Resolução CFC nº 1.640/2021**
-**Art. 3º** — São atribuições privativas dos profissionais da **Contabilidade**:
-- XXI — **Auditoria interna** e operacional  
-- XXII — **Auditoria externa independente**
+- [[Características Inerentes]]
+- [[Princípios Éticos]]
+- [[Responsabilidades do Auditor]]
+- [[Independência e Objetividade]]
 
 ---
-### Entidades
+## 📂 MOC — Planejamento de Auditoria
 
-No Brasil, conforme a **Lei nº 6.404/76**, a **auditoria independente** é **obrigatória** para as demonstrações financeiras das:
-- **Companhias abertas**
-- **Sociedades de Grande Porte**
-- **Instituições financeiras**
-- **Companhias de seguros**
-- **Fundos de previdência complementar**
-- **Fundações públicas ou privadas** (de interesse público)
-- **Empresas reguladas por agências reguladoras**
+- [[Objetivos do Planejamento]]
+- [[Estratégia Global de Auditoria]]
+- [[Plano de Auditoria]]
+- [[Conhecimento do Negócio]]
+- [[Avaliação Inicial de Riscos]]
 
 ---
-### Sociedades de Grande Porte
+## 📂 MOC — Riscos de Auditoria
 
-📌 Consideram-se **Sociedades de Grande Porte** aquelas que, no exercício anterior, apresentaram:
-- **Ativo total** > R$ 240 milhões; **ou**
-- **Receita bruta anual** > R$ 300 milhões
-
-#auditoria/obrigatoriedade  
-#auditoria/obrigatoriedade/sociedade-grande-porte  
-#auditoria/obrigatoriedade/companhia-aberta
+- [[Risco Inerente]]
+- [[Risco de Controle]]
+- [[Risco de Detecção]]
+- [[Modelo de Risco de Auditoria]]
 
 ---
-## Tipos de Auditoria no Setor Público
+## 📂 MOC — Materialidade e Relevância
 
-### I. Auditoria de Avaliação da Gestão
-
-**Objetivo:**  
-Certificar a **regularidade da gestão** e da **aplicação dos recursos públicos**.
-
-**Foco principal (mnemônico: _CR2 LEG + 3E_):**
-- **C**ontas (tomada e prestação)
-- **R**egistros e documentos
-- **R**esponsabilidade na guarda de bens e valores
-- **LEG** — cumprimento da **legislação**
-- **3E** — **Economicidade, Eficiência e Eficácia**
-
-**Abrange:**
-- Contratos, convênios e ajustes  
-- Controles administrativos e contábeis  
-- Resultados operacionais e programas de governo  
-
-> 📌 **Ideia-chave:** olhar **ex post** para verificar se a gestão foi regular.
-
-#auditoria/avaliação-gestão
-#auditoria/ex-post
+- [[Conceito de Materialidade]]
+- [[Julgamento Profissional em Materialidade]]
+- [[Materialidade no Planejamento]]
+- [[Materialidade na Execução]]
 
 ---
-### II. Auditoria de Acompanhamento da Gestão
+## 📂 MOC — Documentação de Auditoria
 
-**Objetivo:**  
-Atuar **durante a execução da gestão**, em **tempo real**.
-
-**Foco (mnemônico: _TEMPO_):**
-- **T**empestividade
-- **E**vitar gargalos
-- **M**elhorias
-- **P**revenção de riscos
-- **O**timização de recursos
-
-> 📌 **Ideia-chave:** auditoria **concomitante** e **preventiva**.
-
-#auditoria/acompanhamento-gestão
+- [[Papéis de Trabalho]]
+- [[Finalidade da Documentação]]
+- [[Requisitos das NBCs]]
+- [[Arquivamento e Confidencialidade]]
 
 ---
-### III. Auditoria Contábil
+## 📂 MOC — Procedimentos de Auditoria
 
-**Objetivo:**  
-Opinar sobre a **fidedignidade das demonstrações contábeis**.
-
-**Foco (mnemônico: _RDPF_):**
-- **R**egistros contábeis
-- **D**emonstrações financeiras
-- **P**rincípios fundamentais de contabilidade
-- **F**idedignidade da informação
-
-**Abrange também:**
-- Recursos externos (organismos internacionais)
-- Projetos financiados por agentes financeiros
-
-> 📌 **Ideia-chave:** patrimônio, números e demonstrações.
-
-#auditoria/contábil
+- [[Procedimentos Analíticos]]
+- [[Confirmações Externas]]
+- [[Amostragem em Auditoria]]
+- [[Evidência de Auditoria]]
+- [[Testes de Controle]]
+- [[Testes Substantivos]]
 
 ---
-### IV. Auditoria Operacional
+## 📂 MOC — Avaliação de Distorções
 
-**Objetivo:**  
-Avaliar o **desempenho da gestão** e **assessorar o gestor**.
-
-**Foco (mnemônico: _3E + R_):**
-- **Economicidade**
-- **Eficiência**
-- **Eficácia**
-- **R**ecomendações
-
-**Abrange:**
-- Programas de governo
-- Projetos e atividades
-- Sistemas informatizados
-
-> 📌 **Ideia-chave:** auditoria **consultiva**, voltada à melhoria da gestão.
-
-#auditoria/operacional
+- [[Identificação de Distorções]]
+- [[Avaliação Individual de Distorções]]
+- [[Avaliação Agregada de Distorções]]
+- [[Comunicação das Distorções]]
 
 ---
-### V. Auditoria Especial
+## 📂 MOC — Fraudes e Responsabilidade
 
-**Objetivo:**  
-Examinar **fatos relevantes, incomuns ou extraordinários**.
-
-**Características (mnemônico: _FIDE_):**
-- **F**ato específico
-- **I**ncomum
-- **D**eterminação de autoridade competente
-- **E**xcepcional
-
-> 📌 **Ideia-chave:** auditoria **pontual**, fora do padrão regular.
-
-#auditoria/especial
-
-![[Pasted image 20251218100823.png]]
-
-#auditoria/tipos  
-#auditoria/setor-publico  
+- [[Conceito de Fraude]]
+- [[Responsabilidade do Auditor]]
+- [[Ceticismo Profissional]]
+- [[Limitações da Auditoria]]
 
 ---
-## NBC TA 200
+## 📂 MOC — Ética Profissional
 
-> Trata das responsabilidades gerais do auditor independente na condução da auditoria de demonstrações contábeis em conformidade com as normas brasileiras e internacionais de auditoria ([[NBC TA 200]]).
-
-#auditoria/nbc-ta-200
-
----
-## Características Inerentes do Auditor
-
-O auditor deve possuir, de forma permanente, duas [[Características Inerentes]]:
-- **Julgamento Profissional** (Como Agir?)
-- **Ceticismo Profissional** (Como Avaliar?)
-
-#auditoria/caracteristicas-do-auditor
-
-___
-## Risco de Auditoria
-
-Os [[Risco de Auditoria]] são classificados como:
-- Risco de **Distorção Relevante**
-	- Risco **Inerente**
-	- Risco de **Controle**
-- Risco de **Detecção**
-
-#auditoria/risco
-#auditoria/risco/distorção-relevante 
-#auditoria/risco/inerente
-#auditoria/risco/controle 
-#auditoria/risco/deteccao
+- [[Princípios Éticos]]
+- [[Código de Ética Profissional do Contador]]
+- [[Conflito de Interesses]]
+- [[Salvaguardas Éticas]]
 
 ---
-## [[Princípios Éticos]]
+## 📂 MOC — Controle Interno e Externo
 
-A17. Os princípios fundamentais de ética profissional relevantes para o auditor quando da condução de auditoria de demonstrações contábeis estão implícitos no Código de Ética Profissional do Contabilista e na NBC PA 01, que trata do controle de qualidade. Esses princípios estão em linha com os princípios do Código de Ética do IFAC, cujo cumprimento é exigido dos auditores.
+- [[Conceito de Controle Interno]]
+- [[Componentes do Controle Interno]]
+- [[Avaliação do Controle Interno]]
+- [[Controle Externo]]
 
-Esses princípios são:
-- **Integridade**;
-- **Objetividade**;
-- **Competência e zelo profissional**;
-- **Confidencialidade**;
-- **Comportamento (ou conduta) profissional**.
+---
+## 📂 MOC — Laudo e Parecer Pericial Contábil
 
-#auditoria/principios-eticos
+- [[Perícia Contábil — Conceitos]]
+- [[Laudo Pericial Contábil]]
+- [[Parecer Pericial Contábil]]
+- [[Estrutura e Requisitos Formais]]
+
+---
+## 📂 MOC — Normas Brasileiras de Auditoria (CFC)
+
+- [[NBC PA — Normas Profissionais do Auditor]]
+- [[NBC PP — Normas do Perito Contábil]]
+- [[NBC TA — Normas Técnicas de Auditoria]]
+- [[NBC TI — Normas de Auditoria Interna]]
+- [[NBC TP — Normas Técnicas de Perícia Contábil]]
+
+---

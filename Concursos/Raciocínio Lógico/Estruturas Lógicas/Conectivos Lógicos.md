@@ -15,13 +15,13 @@ node_size: "10"
 
 ### 2. Tipos de Conectivos Lógicos
 
-| Tipo | Nome                    | Forma usual         | Símbolo |
-| ---- | ----------------------- | ------------------- | ------- |
-| 1    | [[Conjunção]]           | **e**               | ∧       |
-| 2    | [[Disjunção]] Inclusiva | **ou**              | ∨       |
-| 3    | [[Disjunção]] Exclusiva | **ou...ou**         | ⊻       |
-| 4    | [[Condicional]]         | **se...então**      | →       |
-| 5    | [[Bicondicional]]       | **se e somente se** | ↔       |
+| Tipo | Nome                           | Forma usual         | Símbolo |
+| ---- | ------------------------------ | ------------------- | ------- |
+| 1    | [[Conjunção Lógica]]           | **e**               | ∧       |
+| 2    | [[Disjunção Lógica]] Inclusiva | **ou**              | ∨       |
+| 3    | [[Disjunção Lógica]] Exclusiva | **ou...ou**         | ⊻       |
+| 4    | [[Condicional Lógica]]                | **se...então**      | →       |
+| 5    | [[Bicondicional Lógica]]              | **se e somente se** | ↔       |
 
 📌 **Atenção de prova:**  
 - O **“ou”** pode ser **inclusivo** ou **exclusivo**, dependendo do contexto.

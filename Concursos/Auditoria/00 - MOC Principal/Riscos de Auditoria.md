@@ -6,23 +6,23 @@ node_size: "10"
 tags:
   - auditoria/risco
 ---
-## Conceito de Risco de Auditoria
+## 🔸Conceito de Risco de Auditoria
 
-É o risco de o auditor **expressar uma opinião inadequada** quando as demonstrações contábeis apresentarem **distorções relevantes**.
+> ✏️É o risco de o auditor **expressar uma opinião inadequada** quando as demonstrações contábeis apresentarem **distorções relevantes**.
 
 **Ideia-chave:** opinião errada sobre informação relevante.
 
 ---
 
-## Risco de Distorção Relevante
+## 🔸Risco de Distorção Relevante
 
-Refere-se aos riscos relacionados à **existência de distorção relevante** nas demonstrações contábeis, **antes da auditoria**.
+> ✏️Refere-se aos riscos relacionados à **existência de distorção relevante** nas demonstrações contábeis, **antes da auditoria**.
 
 #auditoria/risco/distorção-relevante
 
-### Risco Inerente
+### 🔹Risco Inerente
 
-É a **suscetibilidade natural** de uma afirmação (transação, saldo ou divulgação) a apresentar distorção relevante, **ANTES da consideração de controles internos**.
+> ✏️É a **suscetibilidade natural** de uma afirmação (transação, saldo ou divulgação) a apresentar distorção relevante, **ANTES da consideração de controles internos**.
 
 **Mnemônico:** _INERENTE = INATO_  
 
@@ -32,9 +32,9 @@ Refere-se aos riscos relacionados à **existência de distorção relevante** na
 
 ---
 
-### Risco de Controle
+### 🔹Risco de Controle
 
-É o risco de que uma distorção relevante **NÃO seja prevenida, detectada ou corrigida tempestivamente** pelo **controle interno**.
+> ✏️É o risco de que uma distorção relevante **NÃO seja prevenida, detectada ou corrigida tempestivamente** pelo **controle interno**.
 
 **Mnemônico:** _CONTROLE = CONTENÇÃO FALHA_  
 
@@ -44,9 +44,9 @@ Refere-se aos riscos relacionados à **existência de distorção relevante** na
 
 ---
 
-## Risco de Detecção
+## 🔸Risco de Detecção
 
-É o risco de que os **procedimentos executados pelo auditor** **NÃO detectem** uma distorção relevante existente.
+> ✏️É o risco de que os **procedimentos executados pelo auditor** **NÃO detectem** uma distorção relevante existente.
 
 **Mnemônico:** _DETECÇÃO = DO AUDITOR_ 
 
@@ -55,7 +55,7 @@ Refere-se aos riscos relacionados à **existência de distorção relevante** na
 #auditoria/risco/deteccao
 
 ---
-## Resumo para Prova
+## 🔸Resumo para Prova
 
 **Risco de Auditoria =**
 - **Risco Inerente** (existe por natureza)  

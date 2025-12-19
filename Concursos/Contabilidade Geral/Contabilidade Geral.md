@@ -4,6 +4,174 @@ created: 2025-12-11T14:18:00
 disciplina: Contabilidade Geral
 node_size: "80"
 ---
+## 📌 MOC Principal
+
+- [[Lei nº 6.404/1976 — Aspectos Contábeis]]
+- [[Pronunciamentos do CPC]]
+- [[Balanço Patrimonial]]
+- [[Ativo]]
+- [[Passivo]]
+- [[Patrimônio Líquido]]
+- [[Demonstração do Resultado do Exercício — DRE]]
+- [[Demonstração das Mutações do Patrimônio Líquido — DMPL]]
+- [[Demonstração dos Fluxos de Caixa — DFC]]
+- [[Análise Econômico-Financeira]]
+
+---
+## 📂 MOC — Lei nº 6.404/1976
+
+- [[Lei das S.A. — Estrutura Contábil]]
+- [[Atualizações e Alterações da Lei nº 6.404/1976]]
+- [[Demonstrações Contábeis Obrigatórias]]
+- [[Critérios de Avaliação Patrimonial]]
+
+---
+## 📂 MOC — Pronunciamentos do CPC
+
+- [[CPC — Estrutura Conceitual]]
+- [[CPC aplicáveis ao Ativo]]
+- [[CPC aplicáveis ao Passivo]]
+- [[CPC aplicáveis ao Patrimônio Líquido]]
+- [[Convergência às Normas Internacionais (IFRS)]]
+
+---
+## 📂 MOC — Balanço Patrimonial (BP)
+
+- [[Balanço Patrimonial — Conceito]]
+- [[Estrutura do Balanço Patrimonial]]
+- [[Classificação do Ativo]]
+- [[Classificação do Passivo]]
+- [[Patrimônio Líquido no BP]]
+- [[Critérios de Evidenciação no BP]]
+
+---
+## 📂 MOC — Ativo
+
+- [[Ativo — Conceito]]
+- [[Reconhecimento do Ativo]]
+- [[Critérios de Avaliação do Ativo]]
+- [[Evidenciação do Ativo]]
+- [[Redução ao Valor Recuperável — Impairment]]
+
+---
+## 📂 MOC — Ativo Circulante
+
+- [[Estoques]]
+- [[Tributos Recuperáveis]]
+- [[Contas a Receber de Clientes]]
+- [[Despesas Antecipadas]]
+- [[Instrumentos Financeiros — Ativo]]
+
+---
+## 📂 MOC — Estoques
+
+- [[Controle de Estoques]]
+- [[Critérios de Avaliação de Estoques]]
+- [[PEPS]]
+- [[UEPS]]
+- [[Média Ponderada Móvel]]
+
+---
+## 📂 MOC — Ativo Não Circulante
+
+- [[Investimentos Permanentes]]
+- [[Imobilizado]]
+- [[Intangível]]
+
+---
+## 📂 MOC — Investimentos
+
+- [[Participações Societárias Permanentes]]
+- [[Investimentos em Controladas]]
+- [[Investimentos em Coligadas]]
+- [[Método da Equivalência Patrimonial]]
+
+---
+## 📂 MOC — Passivo
+
+- [[Passivo — Conceito]]
+- [[Reconhecimento do Passivo]]
+- [[Critérios de Avaliação do Passivo]]
+- [[Evidenciação do Passivo]]
+
+---
+## 📂 MOC — Passivo Circulante e Não Circulante
+
+- [[Fornecedores]]
+- [[Empréstimos e Financiamentos]]
+- [[Debêntures]]
+- [[Obrigações Fiscais]]
+- [[Provisões]]
+- [[Contingências Passivas]]
+
+---
+## 📂 MOC — Patrimônio Líquido
+
+- [[Patrimônio Líquido — Conceito]]
+- [[Capital Social]]
+- [[Reservas de Capital]]
+- [[Reservas de Lucros]]
+- [[Ajustes de Avaliação Patrimonial]]
+- [[Outros Componentes do Patrimônio Líquido]]
+- [[Estrutura e Classificação do PL]]
+
+---
+## 📂 MOC — Demonstração do Resultado do Exercício (DRE)
+
+- [[DRE — Conceito]]
+- [[Receitas — Conceito e Classificação]]
+- [[Despesas — Conceito e Classificação]]
+- [[Estrutura da DRE]]
+- [[Receita Bruta e Receita Líquida]]
+- [[Resultado Bruto]]
+- [[Resultado Operacional]]
+- [[Resultado Antes de Impostos e Participações]]
+- [[Resultado Líquido do Exercício]]
+
+---
+## 📂 MOC — Avaliação de Receitas e Despesas
+
+- [[Critérios de Reconhecimento]]
+- [[Momento do Reconhecimento das Receitas]]
+- [[Momento do Reconhecimento das Despesas]]
+- [[Ajustes a Valor Presente]]
+
+---
+## 📂 MOC — Demonstração das Mutações do Patrimônio Líquido (DMPL)
+
+- [[DMPL — Conceito]]
+- [[Reservas de Capital na DMPL]]
+- [[Reservas de Lucros na DMPL]]
+- [[Ajustes de Avaliação Patrimonial na DMPL]]
+- [[Critérios de Cálculo — Lei nº 6.404/1976]]
+- [[Estrutura e Apresentação da DMPL]]
+
+---
+## 📂 MOC — Demonstração dos Fluxos de Caixa (DFC)
+
+- [[DFC — Conceito]]
+- [[Atividades Operacionais]]
+- [[Atividades de Investimento]]
+- [[Atividades de Financiamento]]
+- [[Método Direto]]
+- [[Método Indireto]]
+- [[Estrutura de Apresentação da DFC]]
+
+---
+## 📂 MOC — Análise Econômico-Financeira
+
+- [[Análise Vertical]]
+- [[Análise Horizontal]]
+- [[Indicadores de Liquidez]]
+- [[Indicadores de Endividamento]]
+- [[Indicadores de Rentabilidade]]
+- [[Indicadores de Retorno]]
+- [[Capital de Giro]]
+- [[Ciclo Operacional]]
+- [[Ciclo Financeiro ou de Caixa]]
+
+---
+
 ## 📘 Visão Geral — Contabilidade
 
 > **Contabilidade** é a **ciência social aplicada** que **estuda, registra, controla e interpreta** os **fenômenos que afetam o patrimônio** das entidades, com a finalidade de **fornecer informações econômicas e financeiras úteis à tomada de decisões**.
@@ -92,7 +260,7 @@ node_size: "80"
 
 ---
 
-## 📌 Escrituração
+## 🔹Escrituração
 
 > Técnica contábil destinada ao **registro sistemático e cronológico dos fatos contábeis**, com base em **documentos hábeis**, nos **livros contábeis próprios**, dentro de um **período contábil**.
 
@@ -107,7 +275,7 @@ node_size: "80"
 
 ---
 
-## 📌 Elaboração das Demonstrações Contábeis
+## 🔹Elaboração das Demonstrações Contábeis
 
 > Técnica contábil que consiste na **elaboração das demonstrações financeiras** ao **final do exercício social**, com base nos registros da escrituração.
 
@@ -128,7 +296,7 @@ node_size: "80"
 
 ---
 
-## 📌 Auditoria
+## 🔹Auditoria
 
 > Técnica contábil destinada à **verificação da fidedignidade e conformidade** das demonstrações contábeis, em relação às normas contábeis e legais.
 
@@ -158,7 +326,7 @@ node_size: "80"
 
 ---
 
-## 📌 Análise das Demonstrações Contábeis
+## 🔹Análise das Demonstrações Contábeis
 
 _(Análise de Balanços)_
 

@@ -9,51 +9,54 @@ tags:
 created: 2025-12-12T10:05:00
 node_size: "10"
 ---
-## 🔸Encontro Vocálico
-
-> Sequência de **vogais** na palavra, **sem interrupção por consoantes**.
-
----
-## 🔸Classificação do Encontro Vocálico
-
 ### 🔹 Ditongo
-- Encontro de **uma vogal + uma semivogal** (ou vice-versa), **na mesma sílaba**.
 
-📌 Ditongo **Crescente (sv + V)**
-- A **vogal é o núcleo da sílaba**
+> ✏️É o encontro de **uma vogal + uma semivogal** (ou vice-versa), **na mesma sílaba**.
 
-💡 **Exemplos:**
-	- precár**ia**s
-	- histór**ia**
-	- primár**io**
-	- indivíd**uo**s
-	- enq**ua**nto
-	- cinq**ue**nta
+#português/ditongo
+#### ▪️Ditongo Crescente (sv + V)
 
-📌Ditongo **Decrescente (V + sv)**
-- A **semivogal perde força sonora**
+💡**Exemplos:**
+- precár**ia**s
+- histór**ia**
+- primár**io**
+- indivíd**uo**s
+- enq**ua**nto
+- cinq**ue**nta
 
-💡 **Exemplos:**
-	- fôss**ei**s
-	- imóv**ei**s
-	- Man**au**s
-	- c**ãi**mbra
-	- am**am**
-	- beb**em**
+#português/ditongo/crescente
+#### ▪️Ditongo Decrescente (V + sv)
 
----
+💡**Exemplos:**
+- fôss**ei**s
+- imóv**ei**s
+- Man**au**s
+- c**ãi**mbra
+- am**am**
+- beb**em**
+
+#português/ditongo/decrescente
+
 ### 🔹 Tritongo
-📌Encontro de **semivogal + vogal + semivogal**, **na mesma sílaba**.
+
+> ✏️Encontro de **semivogal + vogal + semivogal**, **na mesma sílaba**.
 
 💡 **Exemplos:**
-	- q**uai**s
-	- sag**uão**
+- q**uai**s
+- sag**uão**
 
----
+#português/tritongo
+
 ### 🔹 Hiato
-- Encontro de **duas vogais em sílabas diferentes**.
-- Cada vogal forma o **núcleo de uma sílaba**.
+
+> ✏️É um encontro de duas vogais numa palavra que pertencem a sílabas diferentes na separação silábica
 
 💡 **Exemplos:**
-	- _sa-ú-de_
-	- _pa-ís_
+- s**a**-**ú**-de
+- p**a**-**í**s
+- b**a**-**ú**
+- r**a**-**i**-nha
+- v**o**-**o**
+- cr**e**-**em**
+
+#português/hiato

@@ -8,45 +8,45 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "[\"disciplina\":\"Contabilidade Geral\"]",
+      "query": "path:\"Concursos/Contabilidade Geral\"  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 3046706
       }
     },
     {
-      "query": "[\"disciplina\":\"Direito Administrativo\"]",
+      "query": "path:\"Concursos/Direito/Direito Administrativo\"  ",
       "color": {
         "a": 1,
-        "rgb": 1005987
+        "rgb": 6953882
       }
     },
     {
-      "query": "[\"disciplina\":\"Tecnologia da Informação\"]",
+      "query": "path:\"Concursos/Tecnologia da Informação\"  ",
       "color": {
         "a": 1,
-        "rgb": 3863282
+        "rgb": 2503224
       }
     },
     {
-      "query": "[\"disciplina\":\"Direito Tributário\"]",
+      "query": "path:\"Concursos/Direito/Direito Tributário\"  ",
       "color": {
         "a": 1,
         "rgb": 1687144
       }
     },
     {
-      "query": "[\"disciplina\":\"Língua Portuguesa\"]",
+      "query": "path:\"Concursos/Língua Portuguesa\"  ",
       "color": {
         "a": 1,
-        "rgb": 6684774
+        "rgb": 5125166
       }
     },
     {
-      "query": "[\"disciplina\":\"Direito Constitucional\"]",
+      "query": "path:\"Concursos/Direito/Direito Constitucional\"  ",
       "color": {
         "a": 1,
-        "rgb": 13214247
+        "rgb": 12000284
       }
     },
     {
@@ -54,6 +54,27 @@
       "color": {
         "a": 1,
         "rgb": 6512479
+      }
+    },
+    {
+      "query": "path:Concursos/Auditoria  ",
+      "color": {
+        "a": 1,
+        "rgb": 2046559
+      }
+    },
+    {
+      "query": "path:Concursos/Estatística  ",
+      "color": {
+        "a": 1,
+        "rgb": 33679
+      }
+    },
+    {
+      "query": "path:\"Concursos/Raciocínio Lógico\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 2635155
       }
     }
   ],
@@ -67,6 +88,6 @@
   "repelStrength": 10.6403140652498,
   "linkStrength": 1,
   "linkDistance": 248,
-  "scale": 0.7955740594925059,
-  "close": false
+  "scale": 0.12910514304677692,
+  "close": true
 }

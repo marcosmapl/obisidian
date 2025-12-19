@@ -6,7 +6,7 @@ tags:
   - auditoria/principios-eticos
 node_size: "10"
 ---
-## Exigências Éticas do Auditor
+## 🔸Exigências Éticas do Auditor
 
 O auditor deve cumprir as **exigências éticas relevantes**, inclusive as relativas à **independência**, na condução da auditoria das demonstrações contábeis.
 
@@ -17,7 +17,7 @@ O auditor deve cumprir as **exigências éticas relevantes**, inclusive as relat
 - Alinhamento ao **Código de Ética do IFAC**
 
 ---
-## Princípios Fundamentais de Ética Profissional (A17)
+## 🔸Princípios Fundamentais de Ética Profissional (A17)
 
 Os princípios éticos fundamentais relevantes para o auditor são:
 
@@ -27,27 +27,27 @@ Os princípios éticos fundamentais relevantes para o auditor são:
 4. **Confidencialidade**  
 5. **Comportamento (conduta) profissional**
 
-### Mnemônico
+🧩Mnemônico
 - **C3OI**  
 - **IOC3**
 
 > 📌 **Dica de prova:** a banca costuma **retirar ou trocar** um dos princípios e perguntar **qual não pertence** ao rol do item A17.
 
 ---
-## Conceito Essencial de Cada Princípio (Resumo)
+## 🔸Conceito Essencial de Cada Princípio (Resumo)
 
-### Integridade
+### 🔹Integridade
 - Ser **direto e honesto** em todas as relações profissionais e comerciais.
 
 #auditoria/ética/integridade
-### Objetividade
+### 🔹Objetividade
 - **Não comprometer o julgamento profissional** por:
   - Tendenciosidade  
   - Conflito de interesses  
   - Influência indevida
 
 #auditoria/ética/objetividade
-### Competência Profissional e Zelo
+### 🔹Competência Profissional e Zelo
 - **Manter conhecimento e habilidade atualizados**
 - Atuar com **diligência**, conforme:
   - Normas técnicas
@@ -55,18 +55,18 @@ Os princípios éticos fundamentais relevantes para o auditor são:
   - Legislação aplicável
 
 #auditoria/ética/competência
-### Confidencialidade
+### 🔹Confidencialidade
 - **Respeitar o sigilo** das informações obtidas em relações profissionais e comerciais.
 
 #auditoria/ética/confidencialidade
-### Comportamento Profissional
+### 🔹Comportamento Profissional
 - **Cumprir leis e regulamentos**
 - **Evitar condutas** que possam **desacreditar a profissão**
 
 #auditoria/ética/profissionalismo
 
 ---
-## Observação para Prova
+## 🔸Observação para Prova
 
 - As **definições detalhadas** (ex.: NBC PG 100) **raramente são cobradas**.
 - A cobrança se concentra:
