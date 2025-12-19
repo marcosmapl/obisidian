@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Auditoria/00 - MOC Principal/Conceitos Fundamentais.md",
+                "file": "Concursos/Auditoria/13 - Normas Brasileiras de Auditoria (CFC)/Normas Brasileiras de Auditoria — CFC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Conceitos Fundamentais"
+              "title": "Normas Brasileiras de Auditoria — CFC"
             }
           },
           {
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Auditoria/00 - MOC Principal/Auditoria — Definição e Objetivos.md",
+                "file": "Concursos/Auditoria/01 - Auditoria Conceitos Fundamentais/Auditoria — Definição e Objetivos.md",
                 "mode": "source",
                 "source": false
               },
@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concursos/Auditoria/00 - MOC Principal/Conceitos Fundamentais.md",
+                "file": "Concursos/Auditoria/13 - Normas Brasileiras de Auditoria (CFC)/Normas Brasileiras de Auditoria — CFC.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Conceitos Fundamentais"
+              "title": "Sumário de Normas Brasileiras de Auditoria — CFC"
             }
           }
         ],
@@ -214,9 +214,21 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "cb45b1ee1f551ac1",
+  "active": "d80addb41ff0b48f",
   "lastOpenFiles": [
-    "Concursos/Auditoria/Auditoria.md",
+    "Concursos/Auditoria/00 - Auditoria.md",
+    "Concursos/Auditoria/13 - Normas Brasileiras de Auditoria (CFC)/Normas Brasileiras de Auditoria — CFC.md",
+    "Concursos/Auditoria/12 - Laudo e Parecer Pericial Contábil/Laudo e Parecer Pericial Contábil.md",
+    "Concursos/Auditoria/11 - Controle Interno e Externo/Controle Interno e Controle Externo.md",
+    "Concursos/Auditoria/10 - Ética Profissional/Ética Profissional e Conflito de Interesses.md",
+    "Concursos/Auditoria/09 - Fraudes e Responsabilidade/Fraudes e Responsabilidade do Auditor.md",
+    "Concursos/Auditoria/08 - Avaliação de Distorções/Avaliação de Distorções Identificadas.md",
+    "Concursos/Auditoria/07 - Procedimentos de Auditoria/Procedimentos de Auditoria.md",
+    "Concursos/Auditoria/06 - Documentação de Auditoria/Documentação de Auditoria.md",
+    "Concursos/Auditoria/03 - Planejamento de Auditoria/Planejamento de Auditoria.md",
+    "Concursos/Auditoria/05 - Materialidade e Relevância/Materialidade e Relevância.md",
+    "Concursos/Auditoria/01 - Auditoria Conceitos Fundamentais/Auditoria — Definição e Objetivos.md",
+    "Concursos/Auditoria/01 - Auditoria Conceitos Fundamentais/Conceitos Fundamentais.md",
     "Concursos/Auditoria/13 - Normas Brasileiras de Auditoria (CFC)",
     "Concursos/Auditoria/12 - Laudo e Parecer Pericial Contábil",
     "Concursos/Auditoria/11 - Controle Interno e Externo",
@@ -227,7 +239,6 @@
     "Concursos/Auditoria/06 - Documentação de Auditoria",
     "Concursos/Auditoria/05 - Materialidade e Relevância",
     "Concursos/Auditoria/04 - Riscos de Auditoria",
-    "Concursos/Auditoria/00 - MOC Principal/Auditoria — Definição e Objetivos.md",
     "Concursos/Contabilidade Geral/00 - MOC Principal/Campo de Aplicação.md",
     "Auditoria — Definição e Objetivos.md",
     "Concursos/Contabilidade Geral/Contabilidade Geral.md",
@@ -241,16 +252,6 @@
     "Concursos/Língua Portuguesa/Ortografia e Acentuação/Oxítona.md",
     "Concursos/Língua Portuguesa/Caderno de Erros (Português).md",
     "Concursos/Língua Portuguesa/Ortografia e Acentuação/Ortografia.md",
-    "Concursos/Língua Portuguesa/Ortografia e Acentuação/Encontro Vocálico.md",
-    "Concursos/Língua Portuguesa/Ortografia e Acentuação/Dígrafo.md",
-    "Concursos/Língua Portuguesa/Ortografia e Acentuação/Hífen.md",
-    "Concursos/Raciocínio Lógico/Estruturas Lógicas/Quantificadores.md",
-    "Concursos/Raciocínio Lógico/Estruturas Lógicas/Proposição Lógica.md",
-    "Concursos/Raciocínio Lógico/Estruturas Lógicas/Bicondicional Lógica.md",
-    "Concursos/Língua Portuguesa/Ortografia e Acentuação/Dígrafo.md",
-    "Concursos/Língua Portuguesa/Ortografia e Acentuação/Fonema.md",
-    "Concursos/Direito/Direito.md",
-    "Concursos/Raciocínio Lógico/Estruturas Lógicas/Conectivos Lógicos.md",
     "Media/Pasted image 20251218163708.png",
     "Media/7kgdVN8elvmPAw3KWbzoYAa1JDrqDjqnEo1XprDZq2GnM9R05a.png",
     "Media/Pasted image 20251218112501.png",
