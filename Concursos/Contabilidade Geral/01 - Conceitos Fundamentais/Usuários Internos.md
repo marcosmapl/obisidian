@@ -1,0 +1,13 @@
+---
+disciplina: Contabilidade Geral
+tópico: Conceitos Fundamentais
+created: 2025-12-19T15:57:00
+---
+
+> ✏️São funcionárias da alta e média administração
+
+💡**Exemplos:**
+- Conselho de administração;
+- Acionistas **controladores**.
+
+#contabilidade/usuários/internos  

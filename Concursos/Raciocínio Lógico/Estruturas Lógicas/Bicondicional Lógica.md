@@ -104,6 +104,7 @@ Formas equivalentes:
 ---
 
 ### 7. Esquema-Resumo para DECORAR
+
 ⚠️ **Leve para a prova**
 
 - Bicondicional = **se e somente se**

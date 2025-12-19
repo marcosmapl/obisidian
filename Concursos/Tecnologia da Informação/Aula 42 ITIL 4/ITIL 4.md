@@ -4,8 +4,6 @@ tópico: ITIL 4
 tags:
   - ti/itil4
 created: 2025-12-17T15:59:00
-completed: 4
-node_size: "80"
 ---
 ## 🔹O que é ITIL
 

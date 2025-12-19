@@ -3,9 +3,6 @@ disciplina: Contabilidade Geral
 tópico: Conceitos Introdutórios
 created: 2025-12-11T14:34:00
 node_size: "10"
-tags:
-  - "#contabilidade/ramo/teórico"
-  - "#contabilidade/ramo/prático"
 ---
 ## 📌 Contabilidade Teórica
 

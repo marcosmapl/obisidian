@@ -13,46 +13,10 @@ tags:
 **Ideia-chave:** opinião errada sobre informação relevante.
 
 ---
+## 🔸Classificação do Risco de Auditoria
 
-## 🔸Risco de Distorção Relevante
-
-> ✏️Refere-se aos riscos relacionados à **existência de distorção relevante** nas demonstrações contábeis, **antes da auditoria**.
-
-#auditoria/risco/distorção-relevante
-
-### 🔹Risco Inerente
-
-> ✏️É a **suscetibilidade natural** de uma afirmação (transação, saldo ou divulgação) a apresentar distorção relevante, **ANTES da consideração de controles internos**.
-
-**Mnemônico:** _INERENTE = INATO_  
-
-> 📌 Existe **independentemente** de controles.
-
-#auditoria/risco/inerente
-
----
-
-### 🔹Risco de Controle
-
-> ✏️É o risco de que uma distorção relevante **NÃO seja prevenida, detectada ou corrigida tempestivamente** pelo **controle interno**.
-
-**Mnemônico:** _CONTROLE = CONTENÇÃO FALHA_  
-
-> 📌 O problema está no **controle interno**.
-
-#auditoria/risco/controle
-
----
-
-## 🔸Risco de Detecção
-
-> ✏️É o risco de que os **procedimentos executados pelo auditor** **NÃO detectem** uma distorção relevante existente.
-
-**Mnemônico:** _DETECÇÃO = DO AUDITOR_ 
-
-> 📌 Relacionado à **natureza, época e extensão** dos procedimentos de auditoria.
-
-#auditoria/risco/deteccao
+- [[Risco de Distorção Relevante]]
+- [[Risco de Detecção]]
 
 ---
 ## 🔸Resumo para Prova

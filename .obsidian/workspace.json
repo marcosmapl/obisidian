@@ -4,35 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f51bfff63a4dff9c",
+        "id": "99a22b2a2ec78061",
         "type": "tabs",
         "children": [
           {
-            "id": "cb45b1ee1f551ac1",
+            "id": "afef3aac1fe7fa09",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concursos/Auditoria/13 - Normas Brasileiras de Auditoria (CFC)/Normas Brasileiras de Auditoria — CFC.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Normas Brasileiras de Auditoria — CFC"
-            }
-          },
-          {
-            "id": "219570500c7f9282",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concursos/Auditoria/01 - Auditoria Conceitos Fundamentais/Auditoria — Definição e Objetivos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Auditoria — Definição e Objetivos"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
             }
           }
         ]
@@ -67,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:ti/itil4/consumidores",
+                "query": "prova",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 492.5110321044922
+    "width": 321.5110321044922
   },
   "right": {
     "id": "85539bb65b2a9791",
@@ -166,13 +148,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concursos/Auditoria/13 - Normas Brasileiras de Auditoria (CFC)/Normas Brasileiras de Auditoria — CFC.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Normas Brasileiras de Auditoria — CFC"
+              "title": "Sumário"
             }
           }
         ],
@@ -201,7 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 259.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,44 +195,44 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "d80addb41ff0b48f",
+  "active": "afef3aac1fe7fa09",
   "lastOpenFiles": [
-    "Concursos/Auditoria/00 - Auditoria.md",
-    "Concursos/Auditoria/13 - Normas Brasileiras de Auditoria (CFC)/Normas Brasileiras de Auditoria — CFC.md",
-    "Concursos/Auditoria/12 - Laudo e Parecer Pericial Contábil/Laudo e Parecer Pericial Contábil.md",
-    "Concursos/Auditoria/11 - Controle Interno e Externo/Controle Interno e Controle Externo.md",
-    "Concursos/Auditoria/10 - Ética Profissional/Ética Profissional e Conflito de Interesses.md",
-    "Concursos/Auditoria/09 - Fraudes e Responsabilidade/Fraudes e Responsabilidade do Auditor.md",
-    "Concursos/Auditoria/08 - Avaliação de Distorções/Avaliação de Distorções Identificadas.md",
-    "Concursos/Auditoria/07 - Procedimentos de Auditoria/Procedimentos de Auditoria.md",
-    "Concursos/Auditoria/06 - Documentação de Auditoria/Documentação de Auditoria.md",
-    "Concursos/Auditoria/03 - Planejamento de Auditoria/Planejamento de Auditoria.md",
-    "Concursos/Auditoria/05 - Materialidade e Relevância/Materialidade e Relevância.md",
-    "Concursos/Auditoria/01 - Auditoria Conceitos Fundamentais/Auditoria — Definição e Objetivos.md",
-    "Concursos/Auditoria/01 - Auditoria Conceitos Fundamentais/Conceitos Fundamentais.md",
-    "Concursos/Auditoria/13 - Normas Brasileiras de Auditoria (CFC)",
-    "Concursos/Auditoria/12 - Laudo e Parecer Pericial Contábil",
-    "Concursos/Auditoria/11 - Controle Interno e Externo",
-    "Concursos/Auditoria/10 - Ética Profissional",
-    "Concursos/Auditoria/09 - Fraudes e Responsabilidade",
-    "Concursos/Auditoria/08 - Avaliação de Distorções",
-    "Concursos/Auditoria/07 - Procedimentos de Auditoria",
-    "Concursos/Auditoria/06 - Documentação de Auditoria",
-    "Concursos/Auditoria/05 - Materialidade e Relevância",
-    "Concursos/Auditoria/04 - Riscos de Auditoria",
-    "Concursos/Contabilidade Geral/00 - MOC Principal/Campo de Aplicação.md",
-    "Auditoria — Definição e Objetivos.md",
+    "Concursos/Tecnologia da Informação/Tecnologia da Informação.md",
+    "Concursos/Raciocínio Lógico/Raciocínio Lógico.md",
+    "Concursos/Estatística/Estatística.md",
+    "Concursos/Direito/Direito Tributário/Direito Tributário.md",
+    "Concursos/Direito/Direito Constitucional/Direito Constitucional.md",
+    "Concursos/Direito/Direito Administrativo/Direito Administrativo.md",
+    "Concursos/Raciocínio Lógico/Estruturas Lógicas/Bicondicional Lógica.md",
+    "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/Usuários Externos.md",
+    "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/Elaboração das Demonstrações Contábeis.md",
+    "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/Conceitos Fundamentais.md",
+    "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/Auditoria - Técnica Contábil.md",
+    "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/Análise das Demonstrações Contábeis.md",
     "Concursos/Contabilidade Geral/Contabilidade Geral.md",
-    "Concursos/Língua Portuguesa/Ortografia e Acentuação/Emprego do Hífen.md",
-    "Concursos/Língua Portuguesa/Ortografia e Acentuação/Hiato.md",
-    "Templates/Nota Hub.md",
-    "Concursos/Língua Portuguesa/Ortografia e Acentuação/Acentuação Gráfica.md",
-    "Concursos/Língua Portuguesa/Língua Portuguesa.md",
-    "Concursos/Língua Portuguesa/Ortografia e Acentuação/Monossílabos Tônicos.md",
-    "Concursos/Língua Portuguesa/Ortografia e Acentuação/Paroxítona.md",
-    "Concursos/Língua Portuguesa/Ortografia e Acentuação/Oxítona.md",
-    "Concursos/Língua Portuguesa/Caderno de Erros (Português).md",
-    "Concursos/Língua Portuguesa/Ortografia e Acentuação/Ortografia.md",
+    "Concursos/Auditoria/Auditoria.md",
+    "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/Escrituração.md",
+    "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/Usuários Internos.md",
+    "Concursos/Contabilidade Geral/13 - DFC/DFC — Conceito.md",
+    "Concursos/Contabilidade Geral/13 - DFC",
+    "Concursos/Contabilidade Geral/12 - DMPL/DMPL — Conceito.md",
+    "Concursos/Contabilidade Geral/12 - DMPL",
+    "Concursos/Contabilidade Geral/11 - DRE/DRE — Conceito.md",
+    "Concursos/Contabilidade Geral/11 - DRE",
+    "Concursos/Contabilidade Geral/10 - Patrimônio Líquido",
+    "Concursos/Contabilidade Geral/08 - Passivo Circulante/Passivo Circulante — Conceito.md",
+    "Concursos/Contabilidade Geral/09 - Passivo Não Circulante/Passivo Não Circulante — Conceito.md",
+    "Concursos/Contabilidade Geral/10 - Patrimônio Líquido/Patrimônio Líquido — Conceito.md",
+    "Concursos/Contabilidade Geral/09 - Passivo Não Circulante",
+    "Concursos/Contabilidade Geral/08 - Passivo Circulante",
+    "Concursos/Contabilidade Geral/07 - Passivo",
+    "Concursos/Contabilidade Geral/06 - Ativo Não Circulante/Ativo Não Circulante — Conceito.md",
+    "Concursos/Contabilidade Geral/06 - Ativo Não Circulante",
+    "Concursos/Contabilidade Geral/05 - Estoques/Controle de Estoques.md",
+    "Concursos/Contabilidade Geral/05 - Estoques",
+    "Concursos/Contabilidade Geral/04 - Ativo Circulante/Ativo Circulante — Conceito.md",
+    "Concursos/Contabilidade Geral/04 - Ativo Circulante",
+    "Concursos/Contabilidade Geral/02 - Balanço Patrimonial (BP)/Balanço Patrimonial — Conceito.md",
     "Media/Pasted image 20251218163708.png",
     "Media/7kgdVN8elvmPAw3KWbzoYAa1JDrqDjqnEo1XprDZq2GnM9R05a.png",
     "Media/Pasted image 20251218112501.png",

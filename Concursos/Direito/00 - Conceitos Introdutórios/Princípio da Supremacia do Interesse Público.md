@@ -2,7 +2,6 @@
 disciplina: Direito
 tópico: Princípios
 created: 2025-12-12T04:51:00
-completed: -1
 ---
 
 > [!NOTE] Supremacia do Interesse Público

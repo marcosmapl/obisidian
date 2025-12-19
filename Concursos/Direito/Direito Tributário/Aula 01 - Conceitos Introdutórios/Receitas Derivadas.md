@@ -2,7 +2,6 @@
 disciplina: Direito Tributário
 tópico: Conceitos Introdutórios
 created: 2025-12-12T05:29:00
-completed:
 ---
 
 > [!NOTE] Receita Derivada

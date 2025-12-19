@@ -2,7 +2,6 @@
 disciplina: Direito Tributário
 tópico: Conceitos Introdutórios
 created: 2025-12-12T05:22:00
-completed: 2
 tags:
   - "#direito/tributário/receita/originária"
 ---

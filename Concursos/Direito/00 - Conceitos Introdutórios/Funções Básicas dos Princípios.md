@@ -2,7 +2,6 @@
 disciplina: Direito
 tópico: Princípios
 created: 2025-12-12T04:54:00
-completed:
 ---
 Os princípios possuem três funções básicas:
 - São normas;

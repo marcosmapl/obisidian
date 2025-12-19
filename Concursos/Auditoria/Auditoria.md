@@ -14,7 +14,7 @@ node_size: "80"
 ---
 ## 📌 MOC Principal
 
-- [[Conceitos Fundamentais]]
+- [[Concursos/Auditoria/01 - Conceitos Fundamentais/Conceitos Fundamentais|Conceitos Fundamentais]]
 - [[Planejamento de Auditoria]]
 - [[Riscos de Auditoria]]
 - [[Materialidade e Relevância]]
@@ -28,7 +28,7 @@ node_size: "80"
 - [[Normas Brasileiras de Auditoria — CFC]]
 
 ---
-## 📂 MOC — Auditoria: Conceitos Fundamentais
+## 📂 MOC — Conceitos Fundamentais
 
 - [[Auditoria — Definição e Objetivos]]
 - [[Tipos de Auditoria]]
@@ -55,10 +55,11 @@ node_size: "80"
 ---
 ## 📂 MOC — Riscos de Auditoria
 
+- [[Riscos de Auditoria]]
+- [[Risco de Distorção Relevante]]
 - [[Risco Inerente]]
 - [[Risco de Controle]]
 - [[Risco de Detecção]]
-- [[Modelo de Risco de Auditoria]]
 
 ---
 ## 📂 MOC — Materialidade e Relevância

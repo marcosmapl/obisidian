@@ -2,7 +2,6 @@
 disciplina: Direito
 tópico: Conceitos Introdutórios
 created: 2025-12-12T04:50:00
-completed:
 ---
 
 # ⚖️ Direito — Conceito Geral
