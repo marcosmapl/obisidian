@@ -1,13 +1,13 @@
 ---
 disciplina: Tecnologia da Informação
 tópico: ITIL 4
-tags:
-  - ti/itil4
-created: 2025-12-17T15:59:00
+created: 2025-12-22T08:41:00
 ---
 ## 🔹O que é ITIL
 
 > ITIL é um guia de melhores práticas para Gerenciamento de Serviços de TI.
+
+#ti/itil4
 
 ---
 ## 🔹Conceitos chave

@@ -7,16 +7,12 @@ created: 2025-12-18T08:19:00
 progresso %: "35"
 node_size: "80"
 ---
-## 📘 Sumário Geral - Auditoria
 
-#auditoria/sumário
-
----
 ## 📌 MOC Principal
 
-- [[Concursos/Auditoria/01 - Conceitos Fundamentais/Conceitos Fundamentais|Conceitos Fundamentais]]
-- [[Planejamento de Auditoria]]
-- [[Riscos de Auditoria]]
+- [[Concursos/Auditoria/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais|MOC — Conceitos Fundamentais]]
+- [[MOC — Planejamento de Auditoria]]
+- [[MOC — Riscos de Auditoria]]
 - [[Materialidade e Relevância]]
 - [[Documentação de Auditoria]]
 - [[Procedimentos de Auditoria]]
@@ -30,7 +26,7 @@ node_size: "80"
 ---
 ## 📂 MOC — Conceitos Fundamentais
 
-- [[Auditoria — Definição e Objetivos]]
+- [[Auditoria — Conceito]]
 - [[Tipos de Auditoria]]
 - [[Usuários da Informação Contábil]]
 - [[Escopo da Auditoria]]
@@ -55,7 +51,7 @@ node_size: "80"
 ---
 ## 📂 MOC — Riscos de Auditoria
 
-- [[Riscos de Auditoria]]
+- [[MOC — Riscos de Auditoria]]
 - [[Risco de Distorção Relevante]]
 - [[Risco Inerente]]
 - [[Risco de Controle]]
@@ -101,6 +97,7 @@ node_size: "80"
 - [[Conceito de Fraude]]
 - [[Responsabilidade do Auditor]]
 - [[Ceticismo Profissional]]
+- [[Julgamento Profissional]]
 - [[Limitações da Auditoria]]
 
 ---

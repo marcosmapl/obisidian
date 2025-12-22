@@ -7,6 +7,35 @@ created:
 node_size: "10"
 ---
 
-> Definição
+> [!note] Titulo
+> Conceito
+
+> [!summary] Titulo
+> Conceito
+
+> [!info] Titulo
+> Conceito
+
+> [!todo] Titulo
+> Conceito
+
+> [!warning] Titulo
+> Conceito
+
+> [!fail] Titulo
+> Conceito
+
+> [!bug] Titulo
+> Conceito
+
+> [!example] Titulo
+> Conceito
+
+> [!quote] Titulo
+> Conceito
+
+> [!cite] Titulo
+> Conceito
+
 
 #novo

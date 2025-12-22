@@ -4,7 +4,6 @@ tags:
   - ti
 created: 2025-12-17T16:00:00
 completed: 0
-node_size: "80"
 ---
 
 ## 📌 MOC Principal
