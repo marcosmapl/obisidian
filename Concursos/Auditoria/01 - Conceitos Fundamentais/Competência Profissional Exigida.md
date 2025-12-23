@@ -4,8 +4,14 @@ tópico: Conceitos Fundamentais
 created: 2025-12-22T11:46:00
 ---
 
-> [!NOTE] Conceito  
-> A **competência profissional em auditoria** corresponde ao conjunto de **habilitações legais, técnicas e éticas** exigidas para o exercício das atividades de auditoria, assegurando que tais serviços sejam prestados por profissionais devidamente qualificados e legalmente autorizados.
+## 🔸NBC T 12 - Da Auditoria Interna
+
+> [!note] Formação Profissional
+> A auditoria interna é de competência **exclusiva** de contador, registrado em **Conselho Regional de Contabilidade**, nesta norma denominado **Auditor Interno**.
+
+> [!warning] NBC T 12 foi revogada pela NBC TI 01, essa norma, por sua vez, não estabelece expressamente competência e formação.
+
+#auditoria/nbc_t_12 #auditoria/nbc_ti_01
 
 ---
 ## 🔸Resolução CFC nº 1.640/2021

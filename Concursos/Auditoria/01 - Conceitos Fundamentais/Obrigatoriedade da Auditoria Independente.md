@@ -21,7 +21,7 @@ Estão **obrigadas** à auditoria independente das demonstrações contábeis:
 - Obrigatoriedade **independente do porte**
 - Fiscalização da **CVM**
 
-#audotira/companhias_abertas
+#auditoria/companhias_abertas
 
 ---
 ### 🔸 Sociedades de Grande Porte

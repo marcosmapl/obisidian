@@ -1,36 +1,28 @@
 ---
 disciplina: Direito Constitucional
 tópico: Teoria Geral da Constituição
-tags:
-  - direito/constitucional
-  - direito/constitucional/teoria-constituição
-  - direito/constitucional/sentido-cultural
 created: 2025-12-14T22:18:00
 node_size: "10"
 ---
 
-### 1. Autor e Grau de Cobrança
+## Autor e Grau de Cobrança
 - **Meirelles Teixeira**
 - Concepção **pouco cobrada**, mas útil para:
   - Questões teóricas
   - Provas mais aprofundadas
 
-📌 **Palavra-chave:** *Cultura*
+> [!note] **Palavra-chave:** *Cultura*
 
 ---
-
-### 2. Ideia Central
-> **Direito = objeto cultural**
+## 2. Ideia Central
 
 - O Direito é parte da **cultura humana**.
 - Só pode ser compreendido como **produto da atividade humana**, inserido no tempo, no espaço e na história.
 
-🧠 **Mnemônico:**  
-**CULTURA = criação humana no tempo**
+> [!note] **Mnemônico:**  **CULTURA = criação humana no tempo**
 
 ---
-
-### 3. O que o Direito NÃO é (Ponto Clássico de Prova)
+### O que o Direito NÃO é (Ponto Clássico de Prova)
 
 #### ❌ Direito não é ser **real**
 - Seres reais pertencem à **natureza**.
@@ -52,7 +44,6 @@ node_size: "10"
 **RIV** → *Real, Ideal, Valor* (o Direito **não** é nenhum deles)
 
 ---
-
 ### 4. Classificação dos Seres
 Segundo Meirelles Teixeira, os seres se dividem em:
 
@@ -68,7 +59,6 @@ Segundo Meirelles Teixeira, os seres se dividem em:
 > Tudo que é produto da ação humana e varia historicamente = objeto cultural.
 
 ---
-
 ### 5. Constituição como Objeto Cultural
 - A Constituição:
   - É condicionada pela **cultura do povo**
@@ -78,7 +68,6 @@ Segundo Meirelles Teixeira, os seres se dividem em:
 > Cultura ↔ Constituição
 
 ---
-
 ### 6. Constituição Total (Conceito-chave)
 > **Constituição total** = expressão global da vida social
 

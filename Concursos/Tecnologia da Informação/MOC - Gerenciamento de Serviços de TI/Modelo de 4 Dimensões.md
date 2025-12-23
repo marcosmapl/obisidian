@@ -101,5 +101,5 @@ Além dos fatores específicos, todas as dimensões **influenciam e são influen
 ---
 
 #itil  
-#itil/quatro-dimensoes  
-#gestao-de-servicos
+#itil/dimensoes  
+#itil/gestao_servicos

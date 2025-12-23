@@ -13,7 +13,7 @@ tags:
 - [[Objetivos da Auditoria]]
 - [[Auditor Independente —  Objetivos Gerais]]
 - [[Características Inerentes]]
-- [[Competência Profissional]]
+- [[Competência Profissional Exigida]]
 - [[Distorção — Conceito]]
 - [[Limitações Inerentes]]
 - [[Auditoria Independente —  Objetivos Gerais]]
