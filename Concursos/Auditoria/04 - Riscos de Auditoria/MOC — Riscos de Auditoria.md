@@ -19,3 +19,8 @@ tags:
 - [[Risco de Distorção Relevante]] ⟶ ==NÃO== relacionados com os **procedimentos**.
 - [[Risco de Detecção]] ⟶ **falha nos procedimentos** (auditor).
 
+---
+
+## 🔸 Navegação
+
+**← MOC Principal:** [[Concursos/Auditoria/Auditoria|Auditoria]]

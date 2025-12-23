@@ -16,7 +16,7 @@ created: 2025-12-19T15:26:00
 - A Contabilidade **não estuda fatos isolados**, mas **fatos que alteram o patrimônio**.
 - Toda entidade com patrimônio **pode ser objeto da Contabilidade**, independentemente de finalidade lucrativa.
 
-## 🔗Links
+## � Links
 
 - [[Bens — Conceito]]
 - [[Direitos — Conceito]]

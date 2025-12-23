@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
@@ -11,42 +11,42 @@
       "query": "path:\"Concursos/Contabilidade Geral\"  ",
       "color": {
         "a": 1,
-        "rgb": 3046706
+        "rgb": 5361510
       }
     },
     {
-      "query": "path:\"Concursos/Direito/Direito Administrativo\"  ",
+      "query": "path:\"Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo\"  ",
       "color": {
         "a": 1,
-        "rgb": 6953882
+        "rgb": 16755021
       }
     },
     {
       "query": "path:\"Concursos/Tecnologia da Informação\"  ",
       "color": {
         "a": 1,
-        "rgb": 2503224
+        "rgb": 5090295
       }
     },
     {
-      "query": "path:\"Concursos/Direito/Direito Tributário\"  ",
+      "query": "path:\"Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário\"  ",
       "color": {
         "a": 1,
-        "rgb": 1687144
+        "rgb": 16767293
       }
     },
     {
       "query": "path:\"Concursos/Língua Portuguesa\"  ",
       "color": {
         "a": 1,
-        "rgb": 5125166
+        "rgb": 7651580
       }
     },
     {
-      "query": "path:\"Concursos/Direito/Direito Constitucional\"  ",
+      "query": "path:\"Concursos/Direito/03 - Ramos do Direito Público/Direito Constitucional\"  ",
       "color": {
         "a": 1,
-        "rgb": 12000284
+        "rgb": 16739179
       }
     },
     {
@@ -60,21 +60,35 @@
       "query": "path:Concursos/Auditoria  ",
       "color": {
         "a": 1,
-        "rgb": 2046559
+        "rgb": 16739179
       }
     },
     {
       "query": "path:Concursos/Estatística  ",
       "color": {
         "a": 1,
-        "rgb": 33679
+        "rgb": 11638780
       }
     },
     {
       "query": "path:\"Concursos/Raciocínio Lógico\"  ",
       "color": {
         "a": 1,
-        "rgb": 2635155
+        "rgb": 13393384
+      }
+    },
+    {
+      "query": "path:\"Concursos/Legislação Tributária Municipal\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16755021
+      }
+    },
+    {
+      "query": "path:\"Concursos/Matemática Financeira\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6547134
       }
     }
   ],
@@ -84,10 +98,10 @@
   "nodeSizeMultiplier": 0.814583333333333,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.124813862190334,
-  "repelStrength": 10.6403140652498,
-  "linkStrength": 1,
-  "linkDistance": 248,
-  "scale": 0.391912675046902,
-  "close": true
+  "centerStrength": 0.577087794432548,
+  "repelStrength": 18.6224125624554,
+  "linkStrength": 0.942541042112777,
+  "linkDistance": 44,
+  "scale": 0.07199155640756327,
+  "close": false
 }

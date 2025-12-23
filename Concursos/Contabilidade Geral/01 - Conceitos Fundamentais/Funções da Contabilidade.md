@@ -3,7 +3,7 @@ disciplina: Contabilidade Geral
 tópico: Conceitos Introdutórios
 created: 2025-12-11T14:51:00
 ---
-## 📌 Função Administrativa da Contabilidade
+## 🔸 Função Administrativa da Contabilidade
 
 > **Finalidade:** Auxiliar o **controle do patrimônio** e a **gestão interna** da entidade.
 
@@ -15,7 +15,7 @@ created: 2025-12-11T14:51:00
 #contabilidade/função/administrativa
 
 ---
-## 📌 Função Econômica da Contabilidade
+## 🔸 Função Econômica da Contabilidade
 
 > **Finalidade:** Evidenciar o **resultado do exercício**, apurando **lucro ou prejuízo**.
 
@@ -27,7 +27,7 @@ created: 2025-12-11T14:51:00
 #contabilidade/função/econômica
 
 ---
-## 📌 Resultado do Exercício (Rédito)
+## 🔸 Resultado do Exercício (Rédito)
 
 > **Rédito** corresponde ao **resultado econômico** da entidade em determinado período.
 
@@ -46,11 +46,6 @@ created: 2025-12-11T14:51:00
 #contabilidade/rédito
 
 ---
-## 🧠 Atenção Máxima (ponto clássico de erro)
-
-- **Receita ≠ Rédito**
-- Receita integra o resultado; **rédito é o resultado final**.
-- Bancas (FGV, FCC, CEBRASPE) exploram essa confusão.
-
+## 🔸 Atenção Máxima (ponto clássico de erro)
 ![[funções-contabilidade.png]]
 

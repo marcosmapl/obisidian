@@ -3,14 +3,14 @@ disciplina: Contabilidade Geral
 tópico: Conceitos Fundamentais
 created: 2025-12-19T15:07:00
 ---
-## 🔸Conceito de Contabilidade
+## 🔸 Conceito de Contabilidade
 
 > ✏️Ciência social aplicada que tem por objeto o **[[Patrimônio Líquido — Conceito|Patrimônio]] das [[Entidade — Conceito|Entidades]]**, estudando, registrando, controlando e interpretando os **fatos contábeis**, com o objetivo de **gerar informações úteis** para a tomada de decisões.
 
 #contabilidade/conceito
 
 ---
-## 🔸Objeto de Estudo
+## 🔸 Objeto de Estudo
 
 > ✏️A Contabilidade possui **objeto de estudo próprio**, que é o [[Patrimônio— Conceito|Patrimônio]] das [[Entidade — Conceito|Entidades]].
 
@@ -18,7 +18,7 @@ created: 2025-12-19T15:07:00
 #contabilidade/patrimônio  
 
 ---
-## 🔸Campo de Aplicação
+## 🔸 Campo de Aplicação
 
 O **campo de aplicação da Contabilidade** são as **AZIENDAS**, ou seja, as **entidades econômico-administrativas** que possuem patrimônio e praticam atos e fatos administrativos passíveis de registro contábil.
 
@@ -28,7 +28,7 @@ O **campo de aplicação da Contabilidade** são as **AZIENDAS**, ou seja, as **
 ➡️ [[Classificação das Aziendas]]
 
 ---
-## 🔸Finalidade Principal
+## 🔸 Finalidade Principal
 
 > Fornecer informações úteis, fidedignas e tempestivas sobre o **patrimônio** e a situação econômica, financeira e patrimonial da entidade, com a finalidade de **subsidiar o planejamento, o controle e a tomada de decisões**, bem como atender ao **cumprimento das obrigações legais (especialmente tributárias)** e à **prestação de contas (accountability e transparência)**.
 
@@ -50,30 +50,30 @@ O **campo de aplicação da Contabilidade** são as **AZIENDAS**, ou seja, as **
 #contabilidade/transparência
 
 ---
-## 🔸Patrimônio
+## 🔸 Patrimônio
 
 > ✏️O [[Patrimônio— Conceito|Patrimônio]] Conjunto de **[[Bens — Conceito|Bens]], [[Direitos — Conceito|Direitos]] e [[Obrigações — Conceito|Obrigações]]** pertencentes a uma entidade, passíveis de avaliação econômica.
 
 ---
-## 🔸Ativo
+## 🔸 Ativo
 
 > ✏️O [[Ativo — Conceito|Ativo]] é o conjunto de **recursos econômicos controlados** pela entidade, resultantes de **eventos passados**, dos quais se espera a obtenção de **benefícios econômicos futuros**.
 
 #contabilidade/patrimônio/ativo
 
 ---
-## 🔸Passivo
+## 🔸 Passivo
 > ✏️O [[Passivo — Conceito|Passivo]]  é o conjunto de **obrigações presentes** da entidade, oriundas de **eventos passados**, cuja liquidação se espera que resulte na **saída de recursos econômicos**.
 
 #contabilidade/patrimônio/passivo
 
 ---
-## 🔸Patrimônio Líquido
+## 🔸 Patrimônio Líquido
 
 > ✏️O [[Patrimônio Líquido — Conceito|Patrimônio Líquido]] é o valor residual dos **ativos da entidade após a dedução de todos os seus passivos**, representando o interesse residual dos proprietários.
 
 ---
-## 🔸Equação Fundamental da Contabilidade
+## 🔸 Equação Fundamental da Contabilidade
 
 > Relação básica que expressa o equilíbrio patrimonial:
 
@@ -82,7 +82,7 @@ O **campo de aplicação da Contabilidade** são as **AZIENDAS**, ou seja, as **
 #contabilidade/equação-fundamental
 
 ---
-## 🔸Usuários da Informação Contábil
+## 🔸 Usuários da Informação Contábil
 
 São classificados como:
 - [[Usuários Internos]]
@@ -92,7 +92,7 @@ São classificados como:
 #contabilidade/usuários/externos  
 #contabilidade/usuários/principais
 
-## 🔸Técnicas Contábeis
+## 🔸 Técnicas Contábeis
 
 > **Técnicas Contábeis** representam o **modo de aplicação prática do conhecimento contábil**, permitindo registrar, demonstrar, verificar e interpretar os fatos que afetam o patrimônio.
 
@@ -114,7 +114,7 @@ Existem quatro principais técnicas contábeis:
 #contabilidade/técnica/análise
 
 ---
-## 🧠 Quadro-Resumo (Prova)
+## 🔸 Quadro-Resumo (Prova)
 
 |Técnica|Finalidade|
 |---|---|

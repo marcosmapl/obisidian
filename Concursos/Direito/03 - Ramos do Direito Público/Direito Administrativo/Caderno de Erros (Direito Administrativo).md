@@ -1,9 +1,21 @@
 ---
 disciplina: Direito Administrativo
+tópico: Caderno de Erros
 created: 2025-12-11T15:00:00
+updated: 2025-12-23T00:00:00
+tags:
+  - direito/administrativo
+  - caderno-erros
+  - questões
 ---
 
-#questão/4002117645 #ano/2025 #banca/CESPE #órgão/SEFAZ-RJ
+## 🔸 Caderno de Erros — Direito Administrativo
+
+Questões comentadas e erros comuns em **Direito Administrativo**, focando em **pontos críticos** para provas e concursos.
+
+---
+
+## 🔸 Questões Comentadas
 
 Acerca da organização da administração pública, assinale a opção correta.
 
@@ -54,4 +66,10 @@ E) parecer da Advocacia Geral da União, que vincula os órgãos da Administraç
 > Art. 49. É da competência exclusiva do Congresso Nacional:
 > V - sustar os atos normativos do Poder Executivo que exorbitem do poder regulamentar ou dos limites de delegação legislativa;
 
-___
+---
+
+## 🔸 Navegação
+
+**← MOC Principal:** [[Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo/Direito Administrativo — MOC|Direito Administrativo — MOC]]  
+**← Ramos do Direito Público:** [[Concursos/Direito/03 - Ramos do Direito Público/MOC — Ramos do Direito Público|MOC Ramos do Direito Público]]  
+**← Índice Geral:** [[Concursos/Direito/Direito.md|Direito]]

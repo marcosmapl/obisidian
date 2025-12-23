@@ -9,7 +9,7 @@ A auditoria pode ser classificada em:
 - [[Auditoria Externa — Conceito]]
 
 ---
-## 🔹Comparativo Auditoria Interna x Auditoria Externa
+## 🔸 Comparativo Auditoria Interna x Auditoria Externa
 
 ![[Pasted image 20251218093301.png]]
 
@@ -109,7 +109,7 @@ A auditoria pode ser classificada em:
 #auditoria/especial
 
 ---
-## Resumo Tipos de Auditoria
+## 🔸 Resumo Tipos de Auditoria
 
 ![[Pasted image 20251218100823.png]]
 

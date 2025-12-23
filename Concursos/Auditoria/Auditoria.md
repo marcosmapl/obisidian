@@ -1,136 +1,80 @@
 ---
 disciplina: Auditoria
-tópico: Conceitos Introdutórios
+tópico: MOC Principal
 tags:
   - auditoria
+  - moc
 created: 2025-12-18T08:19:00
-progresso %: "35"
+updated: 2025-12-23T00:00:00
+progresso: 35
 node_size: "80"
 ---
 
-## 📌 MOC Principal
-
-- [[Concursos/Auditoria/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais|MOC — Conceitos Fundamentais]]
-- [[MOC — Planejamento de Auditoria]]
-- [[MOC — Riscos de Auditoria]]
-- [[Materialidade e Relevância]]
-- [[Documentação de Auditoria]]
-- [[Procedimentos de Auditoria]]
-- [[Avaliação de Distorções Identificadas]]
-- [[MOC — Fraudes e Responsabilidade]]
-- [[Ética Profissional e Conflito de Interesses]]
-- [[Controle Interno e Controle Externo]]
-- [[Laudo e Parecer Pericial Contábil]]
-- [[Normas Brasileiras de Auditoria — CFC]]
+> [!abstract] Sobre esta disciplina
+> **Auditoria** é o exame sistemático e independente das demonstrações contábeis, registros, operações e procedimentos de uma entidade, com o objetivo de **expressar uma opinião** sobre a adequação dessas informações às normas e princípios contábeis aplicáveis.
 
 ---
-## 📂 MOC — Conceitos Fundamentais
+## 🔸 Índice de Tópicos (MOCs)
 
-- [[Auditoria — Conceito]]
-- [[Classificação da Auditoria]]
-- [[Usuários da Informação Contábil]]
-- [[Escopo da Auditoria]]
+### 🔹 01 — [[Concursos/Auditoria/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais|MOC — Conceitos Fundamentais]]
+Definições, objetivos, classificações e fundamentos básicos da auditoria.
 
----
-## 📂 MOC — O Auditor
+### 🔹 02 — [[Concursos/Auditoria/02 - Auditor/MOC — O Auditor|MOC — O Auditor]]
+Perfil profissional, responsabilidades, ética e competências do auditor.
 
-- [[Características Inerentes]]
-- [[Princípios Éticos]]
-- [[Responsabilidades do Auditor]]
-- [[Independência e Objetividade]]
+### 🔹 03 — [[Concursos/Auditoria/03 - Planejamento de Auditoria/MOC — Planejamento de Auditoria|MOC — Planejamento de Auditoria]]
+Estratégia global, plano de auditoria e conhecimento do negócio.
 
----
-## 📂 MOC — Planejamento de Auditoria
+### 🔹 04 — [[Concursos/Auditoria/04 - Riscos de Auditoria/MOC — Riscos de Auditoria|MOC — Riscos de Auditoria]]
+Risco de auditoria, risco inerente, de controle e de detecção.
 
-- [[Objetivos do Planejamento]]
-- [[Estratégia Global de Auditoria]]
-- [[Plano de Auditoria]]
-- [[Conhecimento do Negócio]]
-- [[Avaliação Inicial de Riscos]]
+### 🔹 05 — [[Concursos/Auditoria/05 - Materialidade e Relevância/MOC — Materialidade e Relevância|MOC — Materialidade e Relevância]]
+Conceitos de materialidade no planejamento e execução da auditoria.
 
----
-## 📂 MOC — Riscos de Auditoria
+### 🔹 06 — [[Concursos/Auditoria/06 - Documentação de Auditoria/MOC — Documentação de Auditoria|MOC — Documentação de Auditoria]]
+Papéis de trabalho, evidências e requisitos de documentação.
 
-- [[MOC — Riscos de Auditoria]]
-- [[Risco de Distorção Relevante]]
-- [[Risco Inerente]]
-- [[Risco de Controle]]
-- [[Risco de Detecção]]
+### 🔹 07 — [[Concursos/Auditoria/07 - Procedimentos de Auditoria/MOC — Procedimentos de Auditoria|MOC — Procedimentos de Auditoria]]
+Testes, procedimentos analíticos, confirmações e evidências.
 
----
-## 📂 MOC — Materialidade e Relevância
+### 🔹 08 — [[Concursos/Auditoria/08 - Avaliação de Distorções/MOC — Avaliação de Distorções|MOC — Avaliação de Distorções]]
+Identificação, avaliação e comunicação de distorções encontradas.
 
-- [[Conceito de Materialidade]]
-- [[Julgamento Profissional em Materialidade]]
-- [[Materialidade no Planejamento]]
-- [[Materialidade na Execução]]
+### 🔹 09 — [[Concursos/Auditoria/09 - Fraudes e Responsabilidade/MOC — Fraudes e Responsabilidade|MOC — Fraudes e Responsabilidade]]
+Fraudes, erros, ceticismo profissional e limitações da auditoria.
 
----
-## 📂 MOC — Documentação de Auditoria
+### 🔹 10 — [[Concursos/Auditoria/10 - Ética Profissional/MOC — Ética Profissional|MOC — Ética Profissional]]
+Código de ética, independência e conflitos de interesse.
 
-- [[Papéis de Trabalho]]
-- [[Finalidade da Documentação]]
-- [[Requisitos das NBCs]]
-- [[Arquivamento e Confidencialidade]]
+### 🔹 11 — [[Concursos/Auditoria/11 - Controle Interno e Externo/MOC — Controle Interno e Externo|MOC — Controle Interno e Externo]]
+Avaliação e compreensão dos controles internos da entidade.
+
+### 🔹 12 — [[Concursos/Auditoria/12 - Laudo e Parecer Pericial Contábil/MOC — Laudo e Parecer Pericial|MOC — Laudo e Parecer Pericial]]
+Perícia contábil, estrutura de laudos e pareceres.
+
+### 🔹 13 — [[Concursos/Auditoria/13 - Normas Brasileiras de Auditoria (CFC)/MOC — Normas Brasileiras de Auditoria|MOC — Normas Brasileiras de Auditoria]]
+NBC TA, NBC PA, NBC TI, NBC PP e NBC TP.
 
 ---
-## 📂 MOC — Procedimentos de Auditoria
+## 🔸 Recursos Adicionais
 
-- [[Procedimentos Analíticos]]
-- [[Confirmações Externas]]
-- [[Amostragem em Auditoria]]
-- [[Evidência de Auditoria]]
-- [[Testes de Controle]]
-- [[Testes Substantivos]]
+### 🔹 Links Úteis
+- [[Caderno de Erros — Auditoria]]
+- [[Questões Comentadas — Auditoria]]
+- [[Resumo Visual — Auditoria]]
 
----
-## 📂 MOC — Avaliação de Distorções
-
-- [[Identificação de Distorções]]
-- [[Avaliação Individual de Distorções]]
-- [[Avaliação Agregada de Distorções]]
-- [[Comunicação das Distorções]]
+### 🔹 Tags Principais
+#auditoria #auditoria/conceitos #auditoria/procedimentos #auditoria/normas #auditoria/risco
 
 ---
-## 📂 MOC — Fraudes e Responsabilidade
+## 🔸 Progresso de Estudos
 
-- [[Conceito de Fraude]]
-- [[Responsabilidade do Auditor]]
-- [[Ceticismo Profissional]]
-- [[Julgamento Profissional]]
-- [[Limitações da Auditoria]]
+```dataview
+TABLE WITHOUT ID
+  file.name as "Tópico",
+  progresso as "Progresso %"
+FROM "Concursos/Auditoria"
+WHERE contains(file.name, "MOC")
+SORT file.name
+```
 
----
-## 📂 MOC — Ética Profissional
-
-- [[Princípios Éticos]]
-- [[Código de Ética Profissional do Contador]]
-- [[Conflito de Interesses]]
-- [[Salvaguardas Éticas]]
-
----
-## 📂 MOC — Controle Interno e Externo
-
-- [[Conceito de Controle Interno]]
-- [[Componentes do Controle Interno]]
-- [[Avaliação do Controle Interno]]
-- [[Controle Externo]]
-
----
-## 📂 MOC — Laudo e Parecer Pericial Contábil
-
-- [[Perícia Contábil — Conceitos]]
-- [[Laudo Pericial Contábil]]
-- [[Parecer Pericial Contábil]]
-- [[Estrutura e Requisitos Formais]]
-
----
-## 📂 MOC — Normas Brasileiras de Auditoria (CFC)
-
-- [[NBC PA — Normas Profissionais do Auditor]]
-- [[NBC PP — Normas do Perito Contábil]]
-- [[NBC TA — Normas Técnicas de Auditoria]]
-- [[NBC TI — Normas de Auditoria Interna]]
-- [[NBC TP — Normas Técnicas de Perícia Contábil]]
-
----

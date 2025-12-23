@@ -30,3 +30,8 @@
 
 Mnemônico:  
 **“Fraude é risco, não culpa automática do auditor.”**
+---
+
+## 🔸 Navegação
+
+**← MOC Principal:** [[Concursos/Auditoria/Auditoria|Auditoria]]

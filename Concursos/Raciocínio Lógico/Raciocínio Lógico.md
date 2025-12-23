@@ -1,124 +1,79 @@
 ---
 disciplina: Raciocínio Lógico
+tópico: MOC Principal
 created: 2025-12-13T05:17:00
+updated: 2025-12-23T00:00:00
 node_size: "80"
-completed: 13
+progresso: 10
 tags:
   - rlm
+  - moc
 ---
 
-## 📌 MOC Principal
-
-- [[Raciocínio Lógico — Conceitos Fundamentais]]
-- [[Estrutura Lógica de Relações]]
-- [[Dedução Lógica]]
-- [[Tipos de Raciocínio]]
-- [[Hipóteses, Premissas e Conclusões]]
-- [[Processo Lógico de Validação]]
-- [[Formação de Conceitos e Discriminação]]
+> [!abstract] Sobre esta disciplina
+> **Raciocínio Lógico** reúne fundamentos da lógica proposicional e de primeira ordem, estruturas e estratégias de resolução de problemas, frequentemente explorados em provas de concursos públicos.
 
 ---
-## 📂 MOC — Conceitos Fundamentais
+## 📌 Índice de Tópicos (MOCs)
 
-- [[Raciocínio Lógico — Definição]]
-- [[Proposição]]
-- [[Argumento Lógico]]
-- [[Validade e Verdade]]
-- [[Inferência Lógica]]
+### 01 — [[Concursos/Raciocínio Lógico/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais|MOC — Conceitos Fundamentais]]
+Definições básicas: proposições, argumentos, validade e inferência.
 
----
-## 📂 MOC — Estrutura Lógica de Relações
+### 02 — [[Concursos/Raciocínio Lógico/02 - Estruturas Lógicas/MOC — Estruturas Lógicas|MOC — Estruturas Lógicas]]
+Operadores, quantificadores, leis do pensamento e equivalências.
 
-- [[Relações entre Pessoas]]
-- [[Relações entre Lugares]]
-- [[Relações entre Objetos]]
-- [[Eventos Fictícios]]
-- [[Relações Arbitrárias]]
-- [[Representação por Diagramas]]
-- [[Tabelas Lógicas]]
+### 03 — [[Concursos/Raciocínio Lógico/03 - Lógica de Primeira Ordem/MOC — Lógica de Primeira Ordem|MOC — Lógica de Primeira Ordem]]
+Predicados, quantificadores e tradução de enunciados.
 
----
-## 📂 MOC — Dedução de Informações
+### 04 — [[Concursos/Raciocínio Lógico/04 - Argumentação e Validade/MOC — Argumentação e Validade|MOC — Argumentação e Validade]]
+Validade vs verdade, testes por tabela-verdade e falácias.
 
-- [[Dedução Lógica — Conceito]]
-- [[Extração de Novas Informações]]
-- [[Eliminação de Possibilidades]]
-- [[Condições Necessárias]]
-- [[Condições Suficientes]]
+### 05 — [[Concursos/Raciocínio Lógico/05 - Estruturas Lógicas/MOC — Estruturas Lógicas (Geral)|MOC — Estruturas Lógicas (Geral)]]
+Materiais gerais: equivalências, De Morgan, implicação e contraposição.
 
----
-## 📂 MOC — Tipos de Raciocínio
+### 06 — [[Concursos/Raciocínio Lógico/06 - Diagramas Lógicos/MOC — Diagramas Lógicos|MOC — Diagramas Lógicos]]
+Diagramas de Venn e representações gráficas de relações.
 
-- [[Raciocínio Verbal]]
-- [[Raciocínio Matemático]]
-- [[Raciocínio Sequencial]]
-- [[Raciocínio Espacial]]
-- [[Raciocínio Temporal]]
+### 07 — [[Concursos/Raciocínio Lógico/07 - Lógica Proposicional/MOC — Lógica Proposicional|MOC — Lógica Proposicional]]
+Tabelas-verdade, conectivos e equivalências usuais.
 
----
-## 📂 MOC — Raciocínio Verbal
+### 08 — [[Concursos/Raciocínio Lógico/08 - Lógica Sequencial/MOC — Lógica Sequencial|MOC — Lógica Sequencial]]
+Sequências de eventos, ordenação e posicionamento lógico.
 
-- [[Interpretação Lógica de Enunciados]]
-- [[Conectivos Lógicos]]
-- [[Negação de Proposições]]
-- [[Equivalências Lógicas]]
+### 09 — [[Concursos/Raciocínio Lógico/09 - Análise Combinatória Lógica/MOC — Análise Combinatória Lógica|MOC — Análise Combinatória Lógica]]
+Arranjos, permutações e combinações aplicadas a lógica.
+
+### 10 — [[Concursos/Raciocínio Lógico/10 - Raciocínio Matemático/MOC — Raciocínio Matemático|MOC — Raciocínio Matemático]]
+Sequências numéricas, padrões e problemas quantitativos.
+
+### 11 — [[Concursos/Raciocínio Lógico/11 - Verdades e Mentiras/MOC — Verdades e Mentiras|MOC — Verdades e Mentiras]]
+Consistência de declarações e puzzles de verdade/mentira.
+
+### 12 — [[Concursos/Raciocínio Lógico/12 - Orientação Espacial e Temporal/MOC — Orientação Espacial e Temporal|MOC — Orientação Espacial e Temporal]]
+Direção, posição, cronologia e simultaneidade.
+
+### 13 — [[Concursos/Raciocínio Lógico/13 - Estratégias de Resolução/MOC — Estratégias de Resolução|MOC — Estratégias de Resolução]]
+Leitura lógica, tradução e técnicas de resolução.
 
 ---
-## 📂 MOC — Raciocínio Matemático
+## 📊 Progresso (Dataview)
 
-- [[Problemas Lógicos Numéricos]]
-- [[Sequências Numéricas]]
-- [[Padrões Lógicos Matemáticos]]
-
----
-## 📂 MOC — Raciocínio Sequencial
-
-- [[Sequência Lógica de Eventos]]
-- [[Ordem e Posicionamento]]
-- [[Análise de Etapas]]
+```dataview
+TABLE WITHOUT ID file.name as "MOC", progresso as "Progresso %"
+FROM "Concursos/Raciocínio Lógico"
+WHERE contains(file.name, "MOC —")
+SORT file.name
+```
 
 ---
-## 📂 MOC — Orientação Espacial e Temporal
+## 🔑 Dicas Essenciais
 
-- [[Orientação Espacial]]
-- [[Relações de Direção e Posição]]
-- [[Orientação Temporal]]
-- [[Ordem Cronológica]]
-- [[Antes, Depois e Simultaneidade]]
-
----
-## 📂 MOC — Hipóteses e Conclusões
-
-- [[Hipóteses]]
-- [[Premissas]]
-- [[Conclusões Determinadas]]
-- [[Relação Premissas × Conclusão]]
+- **Tabela-verdade**: base para validade e equivalências.
+- **Quantificadores**: atenção à negação e escopo.
+- **Falácias**: não confunda validade com verdade.
+- **Tradução de enunciados**: mantenha consistência de símbolos.
 
 ---
-## 📂 MOC — Processo Lógico
+## 🏷️ Tags
 
-- [[Processo de Raciocínio Lógico]]
-- [[Validação de Argumentos]]
-- [[Raciocínio Válido]]
-- [[Falácias Lógicas]]
-
----
-## 📂 MOC — Formação de Conceitos
-
-- [[Formação de Conceitos]]
-- [[Classificação]]
-- [[Generalização]]
-- [[Discriminação de Elementos]]
-- [[Identificação de Semelhanças e Diferenças]]
-
----
-## 📂 MOC — Resolução de Questões
-
-- [[Leitura Lógica do Enunciado]]
-- [[Tradução do Texto em Estrutura Lógica]]
-- [[Estratégias de Resolução]]
-- [[Erros Comuns em Raciocínio Lógico]]
-
----
-
-#raciocinio-logico
+#raciocinio-logico #rlm/moc #rlm/proposicional #rlm/predicados

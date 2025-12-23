@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1271a4bcc7eda33b",
+        "id": "f058393e469d90e9",
         "type": "tabs",
         "children": [
           {
-            "id": "7a37a70e63d2ca8f",
+            "id": "14bb83f902db2fbb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Direito/03 - Ramos do Direito Público/Direito Constitucional/Teoria Geral da Constituição/Sentido Sociológico.md",
+                "file": "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/Direito Tributário — MOC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sentido Sociológico"
+              "title": "Direito Tributário — MOC"
             }
           }
         ]
@@ -152,17 +152,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concursos/Direito/03 - Ramos do Direito Público/Direito Constitucional/Teoria Geral da Constituição/Sentido Sociológico.md",
+                "file": "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/Direito Tributário — MOC.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Sentido Sociológico"
+              "title": "Sumário de Direito Tributário — MOC"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "f70b642b0827c287",
@@ -187,7 +187,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 536.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,44 +201,44 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "7a37a70e63d2ca8f",
+  "active": "14bb83f902db2fbb",
   "lastOpenFiles": [
-    "Concursos/Direito/03 - Ramos do Direito Público/Direito Constitucional/Teoria Geral da Constituição/Sentido Normativo-Concretista.md",
-    "Concursos/Direito/03 - Ramos do Direito Público/Direito Constitucional/Teoria Geral da Constituição/Sentido Cultural.md",
-    "Concursos/Direito/03 - Ramos do Direito Público/Direito Constitucional/Teoria Geral da Constituição/Sentido Jurídico.md",
-    "Concursos/Direito/Conceitos Fundamentais/Direito — Conceito e Finalidade.md",
-    "Concursos/Direito/Jurisprudência e Precedentes/Jurisprudência e Precedentes — MOC.md",
-    "Concursos/Direito/Jurisprudência e Precedentes/Jurisprudência — Conceito.md",
-    "Concursos/Direito/MOC — Direito.md",
-    "Concursos/Direito/Direito — MOC.md",
-    "Concursos/Auditoria/Auditoria.md",
-    "Concursos/Direito/Ramos do Direito/Direito Constitucional/Teoria Geral da Constituição/Sentido Cultural.md",
-    "Concursos/Tecnologia da Informação/MOC - Gerenciamento de Serviços de TI/Modelo de 4 Dimensões.md",
-    "Leitura/Essencialismo - Greg McKeown (2014)/Essencialismo - Greg McKeown.md",
-    "Concursos/Auditoria/01 - Conceitos Fundamentais/Obrigatoriedade da Auditoria Independente.md",
-    "Concursos/Auditoria/01 - Conceitos Fundamentais/Competência Profissional Exigida.md",
-    "Concursos/Auditoria/01 - Conceitos Fundamentais/Classificação da Auditoria.md",
-    "Concursos/Auditoria/01 - Conceitos Fundamentais/Auditoria Externa — Conceito.md",
-    "Concursos/Auditoria/01 - Conceitos Fundamentais/Auditoria Interna — Conceito.md",
-    "Concursos/Auditoria/09 - Fraudes e Responsabilidade/Erro em Auditoria — Conceito.md",
-    "Concursos/Auditoria/01 - Conceitos Fundamentais/Objetivos da Auditoria.md",
-    "Concursos/Auditoria/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais.md",
-    "Concursos/Auditoria/01 - Conceitos Fundamentais/Distorção — Conceito.md",
-    "Distorção — Conceito em Auditoria.md",
-    "Concursos/Auditoria/09 - Fraudes e Responsabilidade/Fraude em Auditoria — Conceito.md",
-    "Concursos/Auditoria/09 - Fraudes e Responsabilidade/MOC — Fraudes e Responsabilidade.md",
-    "Templates/Nota Hub.md",
-    "Templates/Nota para Conceito.md",
-    "Concursos/Direito/Ramos do Direito/Direito Tributário/Sem título",
-    "Concursos/Direito/Jurisprudência e Precedentes",
-    "Concursos/Direito/Atos, Institutos e Categorias Jurídicas",
-    "Concursos/Direito/Normas Jurídicas e Legais Relevantes",
-    "Concursos/Direito/Ramos do Direito/Direito Previdenciário",
-    "Concursos/Direito/Ramos do Direito/Direito do Trabalho",
-    "Concursos/Direito/Ramos do Direito/Direito Processual",
-    "Concursos/Direito/Ramos do Direito/Direito do Consumidor",
-    "Concursos/Direito/Ramos do Direito/Direito Empresarial",
-    "Concursos/Direito/Ramos do Direito/Direito Civil",
+    "Concursos/Direito/Direito.md",
+    "Concursos/Contabilidade Geral/Contabilidade Geral.md",
+    "Concursos/Estatística/Estatística.md",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/Direito Tributário — MOC.md",
+    "Concursos/Direito/05 - Ramos do Direito Processual/Direito Processual Penal/Processo Penal — MOC.md",
+    "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/Patrimônio— Conceito.md.bak",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/06 - Tributos — Conceito e Classificação/Contribuições Especiais.md",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/06 - Tributos — Conceito e Classificação/Empréstimos Compulsórios.md",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/06 - Tributos — Conceito e Classificação/Contribuições de Melhoria.md",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/06 - Tributos — Conceito e Classificação/Taxas.md",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/06 - Tributos — Conceito e Classificação/Impostos.md",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/06 - Tributos — Conceito e Classificação/Classificação dos Tributos.md",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/06 - Tributos — Conceito e Classificação/Tributo — Conceito.md",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/07 - Impostos por Competência Constitucional/Impostos dos Municípios — Art. 156 da CF-1988.md",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/07 - Impostos por Competência Constitucional/Impostos dos Estados e DF — Art. 155 da CF-1988.md",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/07 - Impostos por Competência Constitucional/Impostos da União — Art. 153 da CF-1988.md",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/18 - Súmulas Vinculantes em Matéria Tributária/MOC — Súmulas Vinculantes em Matéria Tributária.md",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/18 - Súmulas Vinculantes em Matéria Tributária",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/17 - Planejamento Tributário/MOC — Planejamento Tributário.md",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/17 - Planejamento Tributário",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/16 - Tributação no Regime Falimentar/MOC — Tributação no Regime Falimentar.md",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/16 - Tributação no Regime Falimentar",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/15 - Cobrança Judicial da Dívida Ativa/MOC — Cobrança Judicial da Dívida Ativa.md",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/15 - Cobrança Judicial da Dívida Ativa",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/14 - Simples Nacional/MOC — Simples Nacional.md",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/14 - Simples Nacional",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/13 - Administração Tributária/MOC — Administração Tributária.md",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/13 - Administração Tributária",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/12 - Crédito Tributário/MOC — Crédito Tributário.md",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/12 - Crédito Tributário",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/11 - Obrigação Tributária/MOC — Obrigação Tributária.md",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/11 - Obrigação Tributária",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/10 - Legislação Tributária/MOC — Legislação Tributária.md",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/10 - Legislação Tributária",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/09 - Código Tributário Nacional — CTN/MOC — Código Tributário Nacional — CTN.md",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/08 - Repartição das Receitas Tributárias/MOC — Repartição das Receitas Tributárias.md",
     "Media/Pasted image 20251218163708.png",
     "Media/7kgdVN8elvmPAw3KWbzoYAa1JDrqDjqnEo1XprDZq2GnM9R05a.png",
     "Media/Pasted image 20251218112501.png",

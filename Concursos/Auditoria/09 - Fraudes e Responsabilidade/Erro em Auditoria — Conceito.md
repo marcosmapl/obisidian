@@ -10,7 +10,7 @@ created: 2025-12-22T16:05:00
 > [!info] **Base normativa:** **NBC TA 200** — Objetivos gerais do auditor independente
 
 ---
-## 🔍 Características Essenciais
+## 🔸 Características Essenciais
 
 - **Não há dolo**
 - Decorre de **negligência, imperícia ou falha operacional**
@@ -21,7 +21,7 @@ created: 2025-12-22T16:05:00
 > A ausência de intenção distingue o **erro** da **fraude**.
 
 ---
-## 🧩 Exemplos Comuns de Erro
+## 🔸 Exemplos Comuns de Erro
 
 - Lançamento contábil em conta incorreta
 - Cálculo equivocado de depreciação
@@ -29,7 +29,7 @@ created: 2025-12-22T16:05:00
 - Omissão involuntária em notas explicativas
 
 ---
-## ⚖️ Erro × Fraude (síntese para prova)
+## 🔸 Erro × Fraude (síntese para prova)
 
 |Critério|Erro|Fraude|
 |---|---|---|
@@ -41,7 +41,7 @@ created: 2025-12-22T16:05:00
 - [[Fraude em Auditoria — Conceito]]
 
 ---
-## ⚠️ Atenção para Prova
+## 🔸 Atenção para Prova
 
 > [!WARNING]
 > 
@@ -56,7 +56,7 @@ Mnemônico:
 **“Erro = Falha sem intenção.”**
 
 ---
-## 🔗 Links Relacionados
+## 🔸 Links Relacionados
 
 - [[Distorção — Conceito]]
 - [[Fraude em Auditoria — Conceito]]

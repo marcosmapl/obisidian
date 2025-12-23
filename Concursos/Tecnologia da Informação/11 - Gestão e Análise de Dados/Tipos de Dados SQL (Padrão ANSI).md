@@ -10,6 +10,9 @@ A linguagem **SQL (ANSI)** define um conjunto de tipos de dados utilizados para 
 
 ## 📝 Tipos de Dados Textuais
 
+> [!link] Ver também
+> [[Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/Tipos Textuais SQL|Tipos Textuais SQL]] · [[Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/CHAR (SQL ANSI)|CHAR]] · [[Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/VARCHAR (SQL ANSI)|VARCHAR]] · [[Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/CLOB (SQL ANSI)|CLOB]]
+
 Utilizados para armazenamento de caracteres e cadeias de texto.
 
 - **CHAR(n)**  
@@ -23,8 +26,10 @@ Utilizados para armazenamento de caracteres e cadeias de texto.
     
 
 ---
-
 ## 🔢 Tipos de Dados Numéricos
+
+> [!link] Ver também
+> [[Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/Tipos Numéricos SQL|Tipos Numéricos SQL]]
 
 Utilizados para valores inteiros ou reais.
 
@@ -48,6 +53,9 @@ Utilizados para valores inteiros ou reais.
 
 ## 🧬 Tipos de Dados Binários
 
+> [!link] Ver também
+> [[Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/Tipos Binários SQL|Tipos Binários SQL]]
+
 Armazenam dados em formato binário.
 
 - **BIT(n)**  
@@ -64,6 +72,9 @@ Armazenam dados em formato binário.
 
 ## 🔘 Tipo de Dado Booleano
 
+> [!link] Ver também
+> [[Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/Tipo Booleano SQL|Tipo Booleano SQL]]
+
 Utilizado para valores lógicos.
 
 - **TRUE**
@@ -76,6 +87,9 @@ Utilizado para valores lógicos.
 ---
 
 ## 📅 Tipos de Dados de Data
+
+> [!link] Ver também
+> [[Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/Tipos Data e Hora SQL|Tipos Data e Hora SQL]]
 
 Representam datas do calendário.
 
@@ -97,6 +111,9 @@ Representam datas do calendário.
 
 ## ⏰ Tipos de Dados de Hora
 
+> [!link] Ver também
+> [[Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/Tipos Data e Hora SQL|Tipos Data e Hora SQL]]
+
 Representam horários.
 
 - **TIME**  
@@ -116,6 +133,9 @@ Representam horários.
 ---
 
 ## ⏱️ Outros Tipos de Dados Temporais
+
+> [!link] Ver também
+> [[Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/Tipos Data e Hora SQL|Tipos Data e Hora SQL]] · [[Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/Outros Tipos SQL|Outros Tipos SQL]]
 
 Tipos avançados relacionados a data e hora.
 

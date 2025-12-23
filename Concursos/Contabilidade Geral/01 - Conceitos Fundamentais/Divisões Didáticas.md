@@ -4,7 +4,7 @@ tópico: Conceitos Introdutórios
 created: 2025-12-11T14:34:00
 node_size: "10"
 ---
-## 📌 Contabilidade Teórica
+## 🔸 Contabilidade Teórica
 
 > **Ramo da Contabilidade** voltado ao **estudo científico** da Contabilidade, analisando e sistematizando seus **princípios, teorias, conceitos, postulados e axiomas**.
 
@@ -21,7 +21,7 @@ node_size: "10"
 #contabilidade/ramo/teórico
 
 ---
-## 📌 Contabilidade Prática
+## 🔸 Contabilidade Prática
 
 > **Ramo da Contabilidade** voltado à **aplicação dos conceitos teóricos**, por meio do **registro, classificação, mensuração e evidenciação** dos fatos contábeis, conforme a legislação e as normas vigentes.
 
@@ -37,11 +37,5 @@ node_size: "10"
 #contabilidade/ramo/prático
 
 ---
-## 🧠 Quadro-Síntese (Prova)
-
-| Aspecto        | Contabilidade Teórica   | Contabilidade Prática     |
-| -------------- | ----------------------- | ------------------------- |
-| Foco           | Fundamentos científicos | Aplicação operacional     |
-| Pergunta-chave | Por quê?                | Como?                     |
-| Conteúdo       | Princípios e teorias    | Registros e demonstrações |
+## 🔸 Quadro-Síntese (Prova)
 | Natureza       | Conceitual              | Operacional               |

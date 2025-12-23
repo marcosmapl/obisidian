@@ -31,7 +31,7 @@ Para caracterização de fraude em auditoria, devem coexistir:
 |Tratamento pelo auditor|Avaliação de risco elevado|Avaliação padrão|
 
 ---
-## ⚠️ Atenção para Prova
+## 🔸 Atenção para Prova
 
 > [!WARNING]  
 > Pegadinhas recorrentes:
@@ -49,7 +49,7 @@ Mnemônico:
 **“Fraude = Dolo + Distorção.”**
 
 ---
-## 🔗 Links Relacionados
+## 🔸 Links Relacionados
 
 - [[Distorção — Conceito]]
 - [[Risco de Auditoria — Conceito]]

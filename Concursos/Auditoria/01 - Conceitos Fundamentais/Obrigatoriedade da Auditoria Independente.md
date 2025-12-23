@@ -15,7 +15,7 @@ created: 2025-12-22T11:57:00
 ## 🔸Entidades Obrigadas à Auditoria Independente
 
 Estão **obrigadas** à auditoria independente das demonstrações contábeis:
-### 🔸 Companhias Abertas
+### 🔹 Companhias Abertas
 
 - Possuem valores mobiliários negociados no mercado
 - Obrigatoriedade **independente do porte**
@@ -24,7 +24,7 @@ Estão **obrigadas** à auditoria independente das demonstrações contábeis:
 #auditoria/companhias_abertas
 
 ---
-### 🔸 Sociedades de Grande Porte
+### 🔹 Sociedades de Grande Porte
 
 Nos termos do **art. 3º da Lei nº 11.638/2007**, consideram-se de grande porte as sociedades ou conjunto de sociedades sob controle comum que, no exercício anterior, apresentaram:
 
@@ -37,7 +37,7 @@ Nos termos do **art. 3º da Lei nº 11.638/2007**, consideram-se de grande porte
 #auditoria/sociedades_grande_porte
 
 ---
-### 🔸Outras Instituições
+### 🔹 Outras Instituições
 
 > [!example] Exemplos
 > - Instituições Financeiras

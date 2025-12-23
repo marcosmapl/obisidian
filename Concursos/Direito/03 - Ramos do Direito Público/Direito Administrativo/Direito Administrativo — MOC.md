@@ -3,39 +3,38 @@ disciplina: Direito Administrativo
 created: 2025-12-11T15:01:00
 completed: 0
 ---
-## ⚖️ Direito Administrativo  — Conceito Geral
+## 🔸 Direito Administrativo  — Conceito Geral
 
 > ✏️**Direito Administrativo** é o ramo do [[Direito Público]] que estuda o conjunto de **princípios, normas e institutos** que disciplinam a **organização**, o **funcionamento** e a **atuação da Administração Pública**, bem como as **relações jurídicas** entre o Estado e os particulares no exercício da **função administrativa**.
 
 #direito/administrativo  #direito/público  
 
 ---
-## 📌 MOC Principal
+## � MOC Principal
 
-- [[Fontes do Direito Administrativo]]
-- [[Regime Jurídico-Administrativo]]
-- [[Administração Pública — Conceito, Poderes e Deveres]]
-- [[Organização Administrativa Brasileira]]
-- [[Poderes Administrativos]]
-- [[Atos Administrativos]]
-- [[Licitações Públicas]]
-- [[Contratos Administrativos]]
-- [[Serviços Públicos]]
-- [[Servidores Públicos]]
-- [[Bens Públicos]]
-- [[Responsabilidade Civil do Estado]]
-- [[Improbidade Administrativa]]
-- [[Controle da Administração Pública]]
-- [[Lei Geral de Proteção de Dados — LGPD]]
-- [[Lei Anticorrupção]]
-
----
-## 📂 MOC — Fontes do Direito
-
-- [[Fontes do Direito Administrativo]]
+### 🔹 01 — [[Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo/01 - Conceito e Fontes/MOC — Conceito e Fontes|MOC — Conceito e Fontes]]
+### 🔹 02 — [[Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo/02 - Regime Jurídico-Administrativo/MOC — Regime Jurídico-Administrativo|MOC — Regime Jurídico-Administrativo]]
+### 🔹 03 — [[Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo/03 - Administração Pública e Organização Administrativa/MOC — Administração Pública e Organização Administrativa|MOC — Administração Pública e Organização Administrativa]]
+### 🔹 04 — [[Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo/04 - Poderes Administrativos/MOC — Poderes Administrativos|MOC — Poderes Administrativos]]
+### 🔹 05 — [[Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo/05 - Atos Administrativos/MOC — Atos Administrativos|MOC — Atos Administrativos]]
+### 🔹 06 — [[Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo/06 - Licitações Públicas/MOC — Licitações Públicas|MOC — Licitações Públicas]]
+### 🔹 07 — [[Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo/07 - Contratos Administrativos/MOC — Contratos Administrativos|MOC — Contratos Administrativos]]
+### 🔹 08 — [[Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo/08 - Serviços Públicos/MOC — Serviços Públicos|MOC — Serviços Públicos]]
+### 🔹 09 — [[Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo/09 - Servidores Públicos/MOC — Servidores Públicos|MOC — Servidores Públicos]]
+### 🔹 10 — [[Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo/10 - Bens Públicos/MOC — Bens Públicos|MOC — Bens Públicos]]
+### 🔹 11 — [[Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo/11 - Responsabilidade Civil do Estado/MOC — Responsabilidade Civil do Estado|MOC — Responsabilidade Civil do Estado]]
+### 🔹 12 — [[Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo/12 - Improbidade Administrativa/MOC — Improbidade Administrativa|MOC — Improbidade Administrativa]]
+### 🔹 13 — [[Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo/13 - Controle da Administração Pública/MOC — Controle da Administração Pública|MOC — Controle da Administração Pública]]
+### 🔹 14 — [[Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo/14 - LGPD/MOC — LGPD|MOC — LGPD]]
+### 🔹 15 — [[Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo/15 - Lei Anticorrupção/MOC — Lei Anticorrupção|MOC — Lei Anticorrupção]]
 
 ---
-## 📂 MOC — Regime Jurídico-Administrativo
+## � MOC — Fontes do Direito
+
+- [[Fontes do Direito Administrativo]]
+
+---
+## 🔸 MOC — Regime Jurídico-Administrativo
 
 - [[Regime Jurídico-Administrativo — Conceito]]
 - [[Supremacia do Interesse Público]]
@@ -43,7 +42,7 @@ completed: 0
 - [[Prerrogativas e Restrições da Administração]]
 
 ---
-## 📂 MOC — Administração Pública
+## 🔸 MOC — Administração Pública
 
 - [[Administração Pública — Conceito]]
 - [[Poderes do Administrador Público]]
@@ -196,6 +195,13 @@ completed: 0
 - [[Alterações da Lei nº 13.853/2019]]
 - [[Lei Anticorrupção — Lei nº 12.846/2013]]
 - [[Responsabilização Administrativa e Civil]]
+
+---
+
+## 🔸 Recursos Adicionais
+
+### 🔹 Caderno de Erros
+[[Caderno de Erros (Direito Administrativo)|Questões comentadas e erros comuns]]
 
 ---
 

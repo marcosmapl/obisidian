@@ -9,9 +9,9 @@ created: 2025-12-19T14:58:00
 #contabilidade/patrimônio/ativo
 
 ---
-## 🔸Classificação do Ativo
+## 🔸 Classificação do Ativo
 
-### 🔹Ativo Circulante
+### 🔹 Ativo Circulante
 
 > ✏️Ativos que a entidade **espera realizar, vender ou consumir no curso normal do ciclo operacional**, ou **até 12 meses** após a data do balanço, ou ainda mantidos para negociação.
 
@@ -24,7 +24,7 @@ created: 2025-12-19T14:58:00
 
 #contabilidade/patrimônio/ativo/circulante
 
-### 🔹Ativo Não Circulante
+### 🔹 Ativo Não Circulante
 
 > ✏️Ativos que **não se enquadram como circulantes**, ou seja, cuja realização ou consumo ocorre **após 12 meses** da data do balanço.
 
