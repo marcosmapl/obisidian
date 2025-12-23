@@ -17,7 +17,7 @@ node_size: "80"
 - [[Documentação de Auditoria]]
 - [[Procedimentos de Auditoria]]
 - [[Avaliação de Distorções Identificadas]]
-- [[Fraudes e Responsabilidade do Auditor]]
+- [[MOC — Fraudes e Responsabilidade]]
 - [[Ética Profissional e Conflito de Interesses]]
 - [[Controle Interno e Controle Externo]]
 - [[Laudo e Parecer Pericial Contábil]]
@@ -27,7 +27,7 @@ node_size: "80"
 ## 📂 MOC — Conceitos Fundamentais
 
 - [[Auditoria — Conceito]]
-- [[Tipos de Auditoria]]
+- [[Classificação da Auditoria]]
 - [[Usuários da Informação Contábil]]
 - [[Escopo da Auditoria]]
 

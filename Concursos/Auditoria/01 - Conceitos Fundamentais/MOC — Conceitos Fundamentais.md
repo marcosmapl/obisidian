@@ -10,6 +10,7 @@ tags:
 ## 🔸Conceitos Fundamentais
 
 - [[Auditoria — Conceito]]
+- [[Objetivos da Auditoria]]
 - [[Auditor Independente —  Objetivos Gerais]]
 - [[Características Inerentes]]
 - [[Competência Profissional]]
@@ -18,7 +19,7 @@ tags:
 - [[Auditoria Independente —  Objetivos Gerais]]
 - [[Obrigatoriedade da Auditoria Independente]]
 - [[Segurança Razoável]]
-- [[Tipos de Auditoria]]
+- [[Classificação da Auditoria]]
 - [[Usuários da Informação Contábil]]
 
 #auditoria

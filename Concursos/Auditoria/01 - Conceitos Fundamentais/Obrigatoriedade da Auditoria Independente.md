@@ -4,30 +4,24 @@ tópico: Conceitos Fundamentais
 created: 2025-12-22T11:57:00
 ---
 
-> [!NOTE] Conceito  
-> A **auditoria independente** é **obrigatória** para determinadas entidades definidas em lei, com a finalidade de assegurar a **fidedignidade, transparência e confiabilidade** das demonstrações financeiras, protegendo investidores, credores, o mercado e o interesse público.
-
----
 ## 🔸Fundamentos Legais
 
 ### 🔹 Lei nº 6.404/1976 — Lei das Sociedades por Ações
 
-- **Art. 177, § 3º**    
-- **Art. 163, III**
-- **Art. 176**
-
-Estabelece a obrigatoriedade de auditoria independente para determinadas entidades, especialmente aquelas com **relevância econômica ou interesse público**.
+ > [!info] **Art. 177, § 3º**    
+ > As demonstrações financeiras das **companhias abertas** observarão, ainda, as normas expedidas pela **Comissão de Valores Mobiliários** e serão obrigatoriamente submetidas a auditoria por **auditores independentes** nela registrados
 
 ---
 ## 🔸Entidades Obrigadas à Auditoria Independente
 
 Estão **obrigadas** à auditoria independente das demonstrações contábeis:
-
 ### 🔸 Companhias Abertas
 
 - Possuem valores mobiliários negociados no mercado
 - Obrigatoriedade **independente do porte**
 - Fiscalização da **CVM**
+
+#audotira/companhias_abertas
 
 ---
 ### 🔸 Sociedades de Grande Porte
@@ -40,66 +34,21 @@ Nos termos do **art. 3º da Lei nº 11.638/2007**, consideram-se de grande porte
 > [!IMPORTANT]  
 > A obrigatoriedade independe da forma societária (S.A. ou LTDA).
 
----
-### 🔸 Instituições Financeiras
-
-Incluem:
-
-- Bancos    
-- Cooperativas de crédito
-- Sociedades financeiras
-
-📌 Fiscalização:
-
-- **Banco Central do Brasil (BACEN)**
+#auditoria/sociedades_grande_porte
 
 ---
-### 🔸 Companhias de Seguros
-
-- Seguradoras
-- Resseguradoras
-- Entidades abertas de previdência complementar
-
-📌 Fiscalização:
-
-- **SUSEP**
-
----
-### 🔸 Fundos de Previdência Complementar
-
-- Entidades fechadas e abertas    
-- Interesse público relevante
-
----
-### 🔸 Empresas Reguladas por Agências Reguladoras
+### 🔸Outras Instituições
 
 > [!example] Exemplos
-> - ANEEL
-> - ANATEL
-> - ANVISA
-> - ANTT
+> - Instituições Financeiras
+> - Companhias de Seguro
+> - Fundos de Previdência Complementar
+> - Fundações Públicas e Privadas (interesse público)
+> - Empresas subordinadas a Agências Reguladoras
 
 ---
-### 🔸 Fundações de Interesse Público
 
-- Fundações públicas
-- Fundações privadas com relevante interesse social
-
----
-## 🔸Finalidade da Obrigatoriedade
-
-A auditoria independente obrigatória visa:
-
-- Garantir a **transparência contábil**
-- Reduzir **assimetria informacional**
-- Proteger **investidores e credores**
-- Fortalecer a **governança corporativa**
-- Assegurar **confiabilidade do mercado**
-
----
-## 🔸Atenção para Prova
-
-> [!TIP]  
+> [!warning]  Atenção para Prova
 > Pontos recorrentes em concursos:
 > 
 > - Auditoria independente **não é facultativa** para companhias abertas
