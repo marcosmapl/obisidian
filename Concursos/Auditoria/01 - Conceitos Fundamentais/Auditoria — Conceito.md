@@ -20,9 +20,4 @@ tags:
 
 #auditoria/relatório
 
-### 🔹Evidências de auditoria
-
-> São as informações que o auditor utiliza como **base** (ou fundamento) para suas **conclusões** e para a **opinião** a ser inserida no relatório de auditoria.
-
-#auditoria/evidência
 

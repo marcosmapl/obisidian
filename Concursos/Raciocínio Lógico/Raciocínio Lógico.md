@@ -31,28 +31,28 @@ Validade vs verdade, testes por tabela-verdade e falácias.
 ### 05 — [[Concursos/Raciocínio Lógico/05 - Estruturas Lógicas/MOC — Estruturas Lógicas (Geral)|MOC — Estruturas Lógicas (Geral)]]
 Materiais gerais: equivalências, De Morgan, implicação e contraposição.
 
-### 06 — [[Concursos/Raciocínio Lógico/06 - Diagramas Lógicos/MOC — Diagramas Lógicos|MOC — Diagramas Lógicos]]
+### 06 — [[MOC — Diagramas Lógicos|MOC — Diagramas Lógicos]]
 Diagramas de Venn e representações gráficas de relações.
 
-### 07 — [[Concursos/Raciocínio Lógico/07 - Lógica Proposicional/MOC — Lógica Proposicional|MOC — Lógica Proposicional]]
+### 07 — [[MOC — Lógica Proposicional|MOC — Lógica Proposicional]]
 Tabelas-verdade, conectivos e equivalências usuais.
 
-### 08 — [[Concursos/Raciocínio Lógico/08 - Lógica Sequencial/MOC — Lógica Sequencial|MOC — Lógica Sequencial]]
+### 08 — [[MOC — Lógica Sequencial|MOC — Lógica Sequencial]]
 Sequências de eventos, ordenação e posicionamento lógico.
 
-### 09 — [[Concursos/Raciocínio Lógico/09 - Análise Combinatória Lógica/MOC — Análise Combinatória Lógica|MOC — Análise Combinatória Lógica]]
+### 09 — [[MOC — Análise Combinatória Lógica|MOC — Análise Combinatória Lógica]]
 Arranjos, permutações e combinações aplicadas a lógica.
 
-### 10 — [[Concursos/Raciocínio Lógico/10 - Raciocínio Matemático/MOC — Raciocínio Matemático|MOC — Raciocínio Matemático]]
+### 10 — [[MOC — Raciocínio Matemático|MOC — Raciocínio Matemático]]
 Sequências numéricas, padrões e problemas quantitativos.
 
-### 11 — [[Concursos/Raciocínio Lógico/11 - Verdades e Mentiras/MOC — Verdades e Mentiras|MOC — Verdades e Mentiras]]
+### 11 — [[MOC — Verdades e Mentiras|MOC — Verdades e Mentiras]]
 Consistência de declarações e puzzles de verdade/mentira.
 
-### 12 — [[Concursos/Raciocínio Lógico/12 - Orientação Espacial e Temporal/MOC — Orientação Espacial e Temporal|MOC — Orientação Espacial e Temporal]]
+### 12 — [[MOC — Orientação Espacial e Temporal|MOC — Orientação Espacial e Temporal]]
 Direção, posição, cronologia e simultaneidade.
 
-### 13 — [[Concursos/Raciocínio Lógico/13 - Estratégias de Resolução/MOC — Estratégias de Resolução|MOC — Estratégias de Resolução]]
+### 13 — [[MOC — Estratégias de Resolução|MOC — Estratégias de Resolução]]
 Leitura lógica, tradução e técnicas de resolução.
 
 ---

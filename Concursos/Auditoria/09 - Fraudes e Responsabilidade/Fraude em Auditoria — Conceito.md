@@ -18,9 +18,6 @@ Para caracterização de fraude em auditoria, devem coexistir:
 > [!IMPORTANT]  
 > Sem intenção, **não há fraude**, mas **erro**.
 
-📎 Ver:
-- [[Erro em Auditoria — Conceito]]
-
 ---
 ## 🔸Fraude × Erro (comparação direta)
 
@@ -53,6 +50,8 @@ Mnemônico:
 
 - [[Distorção — Conceito]]
 - [[Risco de Auditoria — Conceito]]
+- [[Erro em Auditoria — Conceito]]
+- [[Materialidade em Auditoria]]
 
 
 

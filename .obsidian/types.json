@@ -6,6 +6,7 @@
     "Data": "datetime",
     "Situação": "text",
     "completed": "number",
-    "created": "datetime"
+    "created": "datetime",
+    "updated": "datetime"
   }
 }

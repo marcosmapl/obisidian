@@ -1,5 +1,10 @@
 {
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "Media",
-  "promptDelete": false
+  "promptDelete": false,
+  "readableLineLength": true,
+  "showLineNumber": false,
+  "showIndentGuide": true,
+  "foldIndent": true,
+  "propertiesInDocument": "visible"
 }

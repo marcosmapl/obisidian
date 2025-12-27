@@ -9,7 +9,7 @@ created: 2025-12-22T15:24:00
 
 > [!info] **Base normativa**: NBC TA 200 — Objetivos gerais do auditor independente
 
-#auditoria/risco/distorção-relevante 
+#auditoria/distorção
 
 
 ---
@@ -18,10 +18,11 @@ created: 2025-12-22T15:24:00
 > [!IMPORTANT]  
 > **Distorção relevante** é aquela que, **individualmente ou em conjunto**, pode **influenciar as decisões econômicas** dos usuários das demonstrações contábeis.
 
-#auditoria/distorção-relevante
+#auditoria/risco/distorção_relevante
 
 ---
 ## 🔸Links Relacionados
 
 - [[Erro em Auditoria — Conceito]]
 - [[Fraude em Auditoria — Conceito]]
+- [[Risco de Distorção Relevante]]

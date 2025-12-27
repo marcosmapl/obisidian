@@ -14,7 +14,7 @@ tags:
 - [[Ceticismo Profissional]]
 - [[Julgamento Profissional]]
 - [[Princípios Éticos]]
-- [[Características Inerentes]]
+- [[Características Inerentes do Auditor]]
 - [[Competência Profissional Exigida]]
 - [[Independência e Objetividade]]
 - [[Responsabilidades do Auditor]]

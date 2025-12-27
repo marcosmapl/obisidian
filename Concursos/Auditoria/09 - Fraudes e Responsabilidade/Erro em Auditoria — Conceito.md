@@ -37,9 +37,6 @@ created: 2025-12-22T16:05:00
 |Natureza|Culposa|Dolosa|
 |Tratamento|Procedimentos normais|Procedimentos reforçados|
 
-📎 Ver:
-- [[Fraude em Auditoria — Conceito]]
-
 ---
 ## 🔸 Atenção para Prova
 

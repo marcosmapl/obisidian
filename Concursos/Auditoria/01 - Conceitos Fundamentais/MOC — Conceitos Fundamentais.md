@@ -10,16 +10,15 @@ tags:
 ## 🔸Conceitos Fundamentais
 
 - [[Auditoria — Conceito]]
-- [[Objetivos da Auditoria]]
+- [[MOC — Objetivos da Auditoria]]
+- [[Classificação da Auditoria]]
+- [[Obrigatoriedade da Auditoria Independente]]
 - [[Auditor Independente —  Objetivos Gerais]]
-- [[Características Inerentes]]
+- [[Limitações Inerentes da Auditoria]]
+- [[Características Inerentes do Auditor]]
 - [[Competência Profissional Exigida]]
 - [[Distorção — Conceito]]
-- [[Limitações Inerentes]]
-- [[Auditoria Independente —  Objetivos Gerais]]
-- [[Obrigatoriedade da Auditoria Independente]]
 - [[Segurança Razoável]]
-- [[Classificação da Auditoria]]
 - [[Usuários da Informação Contábil]]
 
 #auditoria
@@ -33,7 +32,6 @@ Trata das responsabilidades gerais do auditor independente na condução da audi
 #auditoria/nbc-ta-200
 
 ---
-
 ## 🔸 Navegação
 
 **← MOC Principal:** [[Concursos/Auditoria/Auditoria|Auditoria]]

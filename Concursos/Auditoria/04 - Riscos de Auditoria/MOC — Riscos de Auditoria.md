@@ -18,6 +18,7 @@ tags:
 
 - [[Risco de Distorção Relevante]] ⟶ ==NÃO== relacionados com os **procedimentos**.
 - [[Risco de Detecção]] ⟶ **falha nos procedimentos** (auditor).
+- [[Risco de Auditoria Interna]] ⟶ **não atingir o objetivo** dos trabalhos.
 
 ---
 
