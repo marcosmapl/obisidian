@@ -25,3 +25,15 @@ created: 2025-12-19T14:32:00
 📌 Não se confunde com Patrimônio Líquido.
 
 #contabilidade/patrimônio/bruto
+
+## 🔸Links relacionados
+
+- [[Ativo — Conceito]]
+- [[Passivo — Conceito]]
+- [[Patrimônio — Conceito]]
+
+---
+## 🧭Navegação
+
+- ⬅️ [[MOC — Conceitos Fundamentais]]
+- 📊 [[Contabilidade Geral]]

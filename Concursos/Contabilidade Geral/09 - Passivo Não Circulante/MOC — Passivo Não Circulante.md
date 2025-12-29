@@ -33,3 +33,8 @@ tags:
 - Tributos diferidos
 - Provisões para passivos contingentes
 
+
+---
+## 🧭Navegação
+
+- 📊 [[Contabilidade Geral]]

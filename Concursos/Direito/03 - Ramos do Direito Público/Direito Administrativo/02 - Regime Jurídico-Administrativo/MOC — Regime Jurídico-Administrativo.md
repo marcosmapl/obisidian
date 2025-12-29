@@ -12,7 +12,7 @@ tags:
 
 ## Navegação — Regime Jurídico-Administrativo
 
-- [[Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo/02 - Regime Jurídico-Administrativo/Regime Jurídico-Administrativo — Conceito]]
+- [[Bens de Uso — Conceito]]
 - [[Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo/02 - Regime Jurídico-Administrativo/Supremacia do Interesse Público]]
 - [[Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo/02 - Regime Jurídico-Administrativo/Indisponibilidade do Interesse Público]]
 - [[Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo/02 - Regime Jurídico-Administrativo/Prerrogativas e Restrições da Administração]]

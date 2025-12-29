@@ -31,3 +31,8 @@ tags:
 2. Resultado de evento passado
 3. Potencial de gerar benefícios econômicos futuros
 
+
+---
+## 🧭Navegação
+
+- 📊 [[Contabilidade Geral]]

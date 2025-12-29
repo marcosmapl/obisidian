@@ -47,5 +47,11 @@ created: 2025-12-11T14:51:00
 
 ---
 ## 🔸 Atenção Máxima (ponto clássico de erro)
+
 ![[funções-contabilidade.png]]
 
+---
+## 🧭 Navegação
+
+- ⬅️ [[MOC — Conceitos Fundamentais]]
+- 📊 [[Contabilidade Geral]]

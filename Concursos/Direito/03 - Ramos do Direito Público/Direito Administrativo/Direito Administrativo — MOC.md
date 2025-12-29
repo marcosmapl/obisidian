@@ -36,7 +36,7 @@ completed: 0
 ---
 ## 🔸 MOC — Regime Jurídico-Administrativo
 
-- [[Regime Jurídico-Administrativo — Conceito]]
+- [[Bens de Uso — Conceito]]
 - [[Supremacia do Interesse Público]]
 - [[Indisponibilidade do Interesse Público]]
 - [[Prerrogativas e Restrições da Administração]]
@@ -158,7 +158,7 @@ completed: 0
 ---
 ## 📂 MOC — Responsabilidade Civil do Estado
 
-- [[Responsabilidade Civil do Estado — Conceito]]
+- [[Bens de Venda — Conceito]]
 - [[Fundamentos da Responsabilidade Estatal]]
 - [[Ação de Indenização]]
 - [[Ação Regressiva]]

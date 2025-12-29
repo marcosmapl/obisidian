@@ -41,3 +41,8 @@ tags:
 
 $$\text{PL} = \text{Ativo} - \text{Passivo Exigível}$$
 
+
+---
+## 🧭Navegação
+
+- 📊 [[Contabilidade Geral]]

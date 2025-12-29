@@ -12,7 +12,7 @@ tags:
 
 ## Navegação — Responsabilidade Civil do Estado
 
-- [[Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo/11 - Responsabilidade Civil do Estado/Responsabilidade Civil do Estado — Conceito]]
+- [[Bens de Venda — Conceito]]
 - [[Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo/11 - Responsabilidade Civil do Estado/Fundamentos da Responsabilidade Estatal]]
 - [[Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo/11 - Responsabilidade Civil do Estado/Ação de Indenização]]
 - [[Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo/11 - Responsabilidade Civil do Estado/Ação Regressiva]]

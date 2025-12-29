@@ -2,36 +2,32 @@
 disciplina: Contabilidade Geral
 tópico: Conceitos Introdutórios
 created: 2025-12-19T15:00:00
+updated: 2025-12-29T11:23:00
 ---
-> ✏️ Conjunto de **obrigações presentes** da entidade, **resultantes de eventos passados**, cuja liquidação se espera que resulte na **saída de recursos econômicos** capazes de gerar benefícios econômicos.
 
-#contabilidade/patrimônio/passivo
+## 🔸Definição
+
+> [!note] Passivo
+> Conjunto de **obrigações presentes** da entidade, **resultantes de eventos passados**, cuja liquidação se espera que resulte na **saída de recursos econômicos** capazes de gerar benefícios econômicos.
+
+#contabilidade/passivo
 
 ---
 ## 🔸 Classificação do Passivo
 
-### 🔹 Passivo Circulante
-
-> ✏️Obrigações que a entidade **espera liquidar no curso normal do ciclo operacional**, ou **até 12 meses** após a data do balanço, ou mantidas para negociação.
-
-💡 **Exemplos:**
-- Fornecedores  
-- Empréstimos e financiamentos de curto prazo  
-- Obrigações fiscais  
-- Salários e encargos sociais a pagar  
-- Dividendos a pagar  
-
-#contabilidade/patrimônio/passivo/circulante
+- [[Passivo Circulante — Conceito]]
+- [[Passivo Não Circulante — Conceito]]
 
 ---
-### 🔹 Passivo Não Circulante
+## 🔗Links relacionados
 
-> ✏️Obrigações cuja liquidação está prevista para ocorrer **após 12 meses** da data do balanço.
+- [[Ativo — Conceito]]
+- [[Patrimônio — Conceito]]
+- [[Patrimônio Líquido — Conceito]]
+- [[Obrigações — Conceito]]
 
-💡 **Exemplos:**
-- Empréstimos e financiamentos de longo prazo  
-- Debêntures  
-- Provisões de longo prazo  
-- Obrigações fiscais de longo prazo  
+---
+## 🧭Navegação
 
-#contabilidade/patrimônio/passivo/não-circulante
+- ⬅️ [[MOC — Conceitos Fundamentais]]
+- 📊 [[Contabilidade Geral]]

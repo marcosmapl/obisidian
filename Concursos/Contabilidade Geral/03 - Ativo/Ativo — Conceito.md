@@ -2,36 +2,33 @@
 disciplina: Contabilidade Geral
 tópico: Conceitos Introdutórios
 created: 2025-12-19T14:58:00
+updated: 2025-12-29T11:06:00
 ---
- 
- > ✏️Conjunto de **bens**, **direitos** e recursos controlados pela entidade, capazes de gerar **benefícios econômicos futuros**.
+## 🔸 Definição
 
-#contabilidade/patrimônio/ativo
+ > [!note] Ativo
+ > Conjunto de **bens**, **direitos** e **outros recursos** controlados pela entidade, capazes de gerar **benefícios econômicos futuros**.
+
+#contabilidade/ativo
 
 ---
 ## 🔸 Classificação do Ativo
 
-### 🔹 Ativo Circulante
+- [[Ativo Circulante — Conceito]]
+- [[Ativo Não Circulante — Conceito]]
+- [[Ativo Imobilizado — Conceito]]
 
-> ✏️Ativos que a entidade **espera realizar, vender ou consumir no curso normal do ciclo operacional**, ou **até 12 meses** após a data do balanço, ou ainda mantidos para negociação.
+---
+## 🔗Links relacionados
 
-💡**Exemplos:**
-- Caixa
-- Bancos
-- Contas a receber
-- Estoques
-- Aplicações financeiras de curto prazo
+- [[Bens — Conceito]]
+- [[Direitos — Conceito]]
+- [[Passivo — Conceito]]
+- [[Patrimônio — Conceito]]
+- [[Patrimônio Líquido — Conceito]]
+ 
+---
+## 🧭Navegação
 
-#contabilidade/patrimônio/ativo/circulante
-
-### 🔹 Ativo Não Circulante
-
-> ✏️Ativos que **não se enquadram como circulantes**, ou seja, cuja realização ou consumo ocorre **após 12 meses** da data do balanço.
-
-**Subdivisões:**
-- **Realizável a Longo Prazo** (créditos e direitos de longo prazo)  
-- **Investimentos** (participações societárias permanentes)  
-- **Imobilizado** (bens corpóreos destinados à manutenção das atividades, como máquinas e edifícios)  
-- **Intangível** (bens incorpóreos, como softwares, marcas e patentes)  
-
-#contabilidade/patrimônio/ativo/não-circulante
+- ⬅️ [[MOC — Conceitos Fundamentais]]
+- 📊 [[Contabilidade Geral]]

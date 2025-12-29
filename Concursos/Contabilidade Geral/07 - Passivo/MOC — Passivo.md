@@ -31,3 +31,8 @@ tags:
 2. Resultado de evento passado
 3. Expectativa de saída de recursos que incorporam benefícios econômicos
 
+
+---
+## 🧭Navegação
+
+- 📊 [[Contabilidade Geral]]

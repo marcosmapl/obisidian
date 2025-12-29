@@ -37,3 +37,8 @@ tags:
 - **Método Direto**: Apresenta recebimentos e pagamentos brutos
 - **Método Indireto**: Ajusta o lucro líquido pelos itens que não afetaram o caixa
 
+
+---
+## 🧭Navegação
+
+- 📊 [[Contabilidade Geral]]

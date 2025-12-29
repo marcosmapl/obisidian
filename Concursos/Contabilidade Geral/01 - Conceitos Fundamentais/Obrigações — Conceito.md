@@ -2,15 +2,20 @@
 disciplina: Contabilidade Geral
 tópico: Conceitos Introdutórios
 created: 2025-12-19T14:46:00
+updated: 2025-12-29T15:31:00
 ---
 
-> ✏️**Compromissos financeiros e legais** assumidos pela entidade.
+## 🔸Definição
+
+> [!note] Obrigações
+> Sãp os **compromissos financeiros e legais** assumidos pela entidade.
 
 📌Integram o **Passivo**
  
 📌Representam as **Dívidas** e **Responsabilidades**
 
-💡**Exemplos:**
+### 🔹Exemplos
+
 - Empréstimos a Pagar
 - Salários a PAgar
 - Fornecedores (Duplicatas a Pagar)
@@ -20,4 +25,18 @@ created: 2025-12-19T14:46:00
 - Promissórias a Pagar
 - Contas a Pagar
 
-#contabilidade/patrimônio/obrigações
+#contabilidade/obrigações
+
+---
+## 🔗Links relacionados
+
+- [[Bens — Conceito]]
+- [[Passivo — Conceito]]
+- [[Patrimônio — Conceito]]
+- [[Direitos — Conceito]]
+
+---
+## 🧭 Navegação
+
+- ⬅️ [[MOC — Conceitos Fundamentais]]
+- 📊 [[Contabilidade Geral]]

@@ -11,10 +11,8 @@ tags:
 ## 🔸 Ativo Não Circulante
 
 - [[Ativo Não Circulante — Conceito]]
-- [[Ativo Realizável a Longo Prazo]]
+- [[Ativo Imobilizado — Conceito]]
 - [[Investimentos Permanentes]]
-- [[Imobilizado]]
-- [[Intangível]]
 - [[Depreciação]]
 - [[Amortização]]
 - [[Exaustão]]
@@ -35,3 +33,8 @@ tags:
 3. **Imobilizado**: Bens corpóreos destinados à manutenção das atividades
 4. **Intangível**: Bens incorpóreos (marcas, patentes, goodwill)
 
+
+---
+## 🧭Navegação
+
+- 📊 [[Contabilidade Geral]]

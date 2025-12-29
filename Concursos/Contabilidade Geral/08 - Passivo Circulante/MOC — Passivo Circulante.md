@@ -35,3 +35,8 @@ tags:
 - Salários e encargos sociais
 - Provisões para contingências
 
+
+---
+## 🧭Navegação
+
+- 📊 [[Contabilidade Geral]]

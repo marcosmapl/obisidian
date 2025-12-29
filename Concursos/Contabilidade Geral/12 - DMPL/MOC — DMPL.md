@@ -35,3 +35,8 @@ tags:
 - Transações com acionistas
 - Constituição/reversão de reservas
 
+
+---
+## 🧭Navegação
+
+- 📊 [[Contabilidade Geral]]

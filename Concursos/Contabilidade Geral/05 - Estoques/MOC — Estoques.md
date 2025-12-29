@@ -35,3 +35,8 @@ tags:
 
 > [!warning] UEPS não é permitido pelas normas brasileiras (CPC 16)
 
+
+---
+## 🧭Navegação
+
+- 📊 [[Contabilidade Geral]]

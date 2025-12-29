@@ -45,3 +45,8 @@ tags:
 (=) Resultado Líquido do Exercício
 ```
 
+
+---
+## 🧭Navegação
+
+- 📊 [[Contabilidade Geral]]

@@ -10,21 +10,16 @@ tags:
 
 ## 🔸 Conceitos Fundamentais
 
-- [[Conceitos Fundamentais]]
-- [[Patrimônio— Conceito]]
+- [[Patrimônio — Conceito]]
 - [[Bens — Conceito]]
 - [[Direitos — Conceito]]
 - [[Obrigações — Conceito]]
 - [[Entidade — Conceito]]
 - [[Divisões Didáticas]]
 - [[Funções da Contabilidade]]
-- [[Escrituração]]
-- [[Elaboração das Demonstrações Contábeis]]
-- [[Análise das Demonstrações Contábeis]]
-- [[Auditoria - Técnica Contábil]]
+- [[Técnicas Contábeis]]
 - [[Classificação das Aziendas]]
-- [[Usuários Internos]]
-- [[Usuários Externos]]
+- [[Usuários das Informações Contábeis]]
 
 #contabilidade/conceitos-fundamentais
 
@@ -37,3 +32,8 @@ tags:
 **Equação Fundamental:**
 $$\text{Ativo} = \text{Passivo} + \text{Patrimônio Líquido}$$
 
+
+---
+## 🧭Navegação
+
+- 📊 [[Contabilidade Geral]]

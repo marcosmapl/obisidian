@@ -4,7 +4,10 @@ tópico: Conceitos Fundamentais
 created: 2025-12-19T15:59:00
 ---
 
-> ✏️São os demais usuários que não sejam funcionárias da alta e média administração
+## 🔸Definição
+
+> [!note] Usuários Externos
+> São os demais usuários que não sejam funcionárias da alta e média administração
 
 💡**Exemplos:**
 - Empregados;
@@ -15,9 +18,16 @@ created: 2025-12-19T15:59:00
 - Governo e agências reguladoras;
 - Público em geral.
 
-#### 🧩**Lembrar para prova**
+### 🧩Lembrar para prova
 
-> Os **principais usuários** da Contabilidade são, em regra, **externos**, pois **não podem exigir informações diretamente da entidade** e dependem das **demonstrações contábeis** para tomada de decisão.
+>[!tip] Os **principais usuários** da Contabilidade são, em regra, **externos**, pois **não podem exigir informações diretamente da entidade** e dependem das **demonstrações contábeis** para tomada de decisão.
 
 #contabilidade/usuários/externos  
 #contabilidade/usuários/principais
+
+---
+## 🧭Navegação
+
+- ⬅️ [[Usuários das Informações Contábeis]]
+- ⬅️ [[MOC — Conceitos Fundamentais]]
+- 📊 [[Contabilidade Geral]]

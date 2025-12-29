@@ -51,3 +51,9 @@ A doutrina classifica as aziendas, **quanto ao fim a que se destinam**, em três
 - Empresa é **espécie** de azienda econômica.
 
 ![[tipos-azienda.png]]
+
+---
+## 🧭Navegação
+
+- ⬅️ [[MOC — Conceitos Fundamentais]]
+- 📊 [[Contabilidade Geral]]

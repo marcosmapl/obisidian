@@ -34,3 +34,8 @@ tags:
 - Estoques
 - Despesas antecipadas
 
+
+---
+## 🧭Navegação
+
+- 📊 [[Contabilidade Geral]]

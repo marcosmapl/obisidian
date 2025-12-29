@@ -36,3 +36,8 @@ Ativo Não Circulante     | Passivo Não Circulante
                          | Patrimônio Líquido
 ```
 
+
+---
+## 🧭Navegação
+
+- 📊 [[Contabilidade Geral]]

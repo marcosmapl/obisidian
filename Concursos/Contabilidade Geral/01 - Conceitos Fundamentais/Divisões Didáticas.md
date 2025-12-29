@@ -37,5 +37,7 @@ node_size: "10"
 #contabilidade/ramo/prático
 
 ---
-## 🔸 Quadro-Síntese (Prova)
-| Natureza       | Conceitual              | Operacional               |
+## 🧭 Navegação
+
+- ⬅️ [[MOC — Conceitos Fundamentais]]
+- 📊 [[Contabilidade Geral]]
