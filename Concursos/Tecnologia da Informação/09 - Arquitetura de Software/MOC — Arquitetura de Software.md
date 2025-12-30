@@ -9,10 +9,17 @@ tags:
   - moc
 ---
 
-## Navegação — Arquitetura de Software
+## Índice — Arquitetura de Software
 
-- [[Concursos/Tecnologia da Informação/09 - Arquitetura de Software/Arquitetura de Software — Conceitos]]
-- [[Concursos/Tecnologia da Informação/09 - Arquitetura de Software/Arquitetura em Camadas]]
-- [[Concursos/Tecnologia da Informação/09 - Arquitetura de Software/SOA — Arquitetura Orientada a Serviços]]
-- [[Concursos/Tecnologia da Informação/09 - Arquitetura de Software/Web Services]]
-- [[Concursos/Tecnologia da Informação/09 - Arquitetura de Software/Portais Corporativos e Colaborativos]]
+- [[Arquitetura de Software — Conceitos]]
+- [[Arquitetura em Camadas]]
+- [[REST]]
+- [[SOA — Arquitetura Orientada a Serviços]]
+- [[Web Services]]
+- [[MVC]]
+- [[Microserviços]]
+
+---
+## Navegação
+
+- [[Tecnologia da Informação]]

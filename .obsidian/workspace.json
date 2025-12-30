@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Concursos/Auditoria/Auditoria.md",
+                    "file": "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/SQL/DML.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Auditoria"
+                  "title": "DML"
                 }
               }
             ]
@@ -44,7 +44,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Concursos/Auditoria/Auditoria.md",
+                        "file": "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/SQL/DML.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -72,7 +72,7 @@
                         }
                       },
                       "icon": "lucide-git-fork",
-                      "title": "Gráfico de Auditoria"
+                      "title": "Gráfico de DML"
                     }
                   }
                 ]
@@ -88,10 +88,10 @@
                     "state": {
                       "type": "file-properties",
                       "state": {
-                        "file": "Concursos/Auditoria/Auditoria.md"
+                        "file": "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/SQL/DML.md"
                       },
                       "icon": "lucide-info",
-                      "title": "Propriedades do arquivo Auditoria"
+                      "title": "Propriedades do arquivo DML"
                     }
                   }
                 ]
@@ -132,7 +132,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Evidências",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -302,32 +302,35 @@
   },
   "active": "0970cb3967c33eef",
   "lastOpenFiles": [
-    "Concursos/Tecnologia da Informação/Tecnologia da Informação.md",
-    "Sem título.canvas",
-    "Concursos/Tecnologia da Informação/01 - Governança e Gestão de TI/MOC — Governança e Gestão de TI.md",
-    "Concursos/Auditoria/Auditoria.md",
-    "README.md",
-    "Concursos/Tecnologia da Informação/08 - Programação e Desenvolvimento/MOC — Programação e Desenvolvimento.md",
-    "Concursos/Tecnologia da Informação/08 - Programação e Desenvolvimento/Programação Estruturada.md",
-    "Concursos/Tecnologia da Informação/07 - Testes e Qualidade de Software/MOC — Testes e Qualidade de Software.md",
-    "Concursos/Tecnologia da Informação/06 - Requisitos de Software/MOC — Requisitos de Software.md",
-    "Concursos/Tecnologia da Informação/05 - Engenharia de Software/MOC — Engenharia de Software.md",
-    "Concursos/Tecnologia da Informação/04 - Gestão de Processos/MOC — Gestão de Processos.md",
-    "Concursos/Tecnologia da Informação/03 - Gerência de Projetos/MOC — Gerência de Projetos.md",
-    "Concursos/Tecnologia da Informação/02 - Gerenciamento de Serviços de TI/MOC — Gerenciamento de Serviços de TI.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/CLOB (SQL ANSI).md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/VARCHAR (SQL ANSI).md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/CHAR (SQL ANSI).md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/Tipos Textuais SQL.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/SQL ANSI.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/Outros Tipos SQL.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/Tipos Data e Hora SQL.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/Tipo Booleano SQL.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/Tipos Binários SQL.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/Tipos Numéricos SQL.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/SQL/SQL ANSI.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/SQL/DDL.md",
+    "DEFAULT.md",
+    "CHECK.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/SQL/UNIQUE.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/Banco de Dados/MOC — Bancos de Dados.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/Banco de Dados/Tipos de Chaves.md",
+    "Integridade Referencial.md",
     "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/MOC — Gestão e Análise de Dados.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/Bancos de Dados — Conceitos Básicos.md",
-    "Concursos/Auditoria/01 - Conceitos Fundamentais/MOC — Classificação da Auditoria.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/SQL/FOREIGN KEY.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/SQL/PRIMARY KEY.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/SQL/DML.md",
+    "Concursos/Tecnologia da Informação/Tecnologia da Informação.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/Banco de Dados/Chave Candidata.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/Banco de Dados/Chave Natural.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/Banco de Dados/Chave Primária.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/Banco de Dados/Chave Estrangeira.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/Classificações de Integridade.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/Modelagem de Dados.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/SQL",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/Banco de Dados",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/Banco de Dados/Chave Surrogada (Artificial).md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/Banco de Dados/Chave Composta.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/Banco de Dados/Tipos de Redundância.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/SQL/Tipos Numéricos SQL.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/Pirâmide DIKW.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/SQL/NOT NULL.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/SQL/RENAME.md",
+    "Sem título.canvas",
     "Media/Pasted image 20251229231614.png",
     "Media/Pasted image 20251227163046.png",
     "Media/Pasted image 20251227163014.png",
@@ -341,8 +344,6 @@
     "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/15 - Cobrança Judicial da Dívida Ativa",
     "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/14 - Simples Nacional",
     "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/13 - Administração Tributária",
-    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/12 - Crédito Tributário",
-    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/11 - Obrigação Tributária",
     "Media/Pasted image 20251218163708.png",
     "Media/7kgdVN8elvmPAw3KWbzoYAa1JDrqDjqnEo1XprDZq2GnM9R05a.png",
     "Media/Pasted image 20251218112501.png",

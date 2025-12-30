@@ -3,7 +3,7 @@ disciplina: Tecnologia da Informação
 tópico: MOC Principal
 created: 2025-12-17T16:00:00
 updated: 2025-12-30T10:57:00
-progresso: 5
+progresso: 12
 ---
 
 > [!abstract] Sobre esta disciplina
@@ -92,26 +92,129 @@ progresso: 5
 
 ### 07 — [[MOC — Testes e Qualidade de Software]]
 
+- [[Testes de Software — Conceitos]]
+- [[Tipos de Testes]]
+- [[Técnicas de Testes]]
+- [[Documentação de Testes]]
+- [[Avaliação da Qualidade de Software]]
 
 ### 08 — [[MOC — Programação e Desenvolvimento]]
 
+- [[Lógica de Programação]]
+- [[Estrutura de Dados]]
+- [[Paradigmas de Programação]]
+- [[Programação Estruturada]]
+- [[Programação Orientada a Objetos]]
+- [[Git e Controle de Versão]]
+- [[Desenvolvimento Web]]
+- [[HTML e XHTML]]
+- [[HTTP e HTTPS]]
+- [[JavaScript]]
+- [[NodeJS]]
+- [[JSON]]
+- [[CSS]]
 
 ### 09 — [[MOC — Arquitetura de Software]]
 
+- [[Arquitetura de Software — Conceitos]]
+- [[Arquitetura em Camadas]]
+- [[REST]]
+- [[SOA — Arquitetura Orientada a Serviços]]
+- [[Web Services]]
+- [[MVC]]
+- [[Microserviços]]
 
 ### 10 — [[MOC — DevOps]]
 
-
+- [[DevOps — Conceitos]]
+- [[Arquitetura DevOps]]
+- [[Pilares do DevOps]]
+- [[Práticas DevOps]]
+- [[Integração Contínua]]
+- [[Entrega Contínua]]
+- [[Colaboração e Operação]]
 ### 11 — [[MOC — Gestão e Análise de Dados]]
 
-
+- [[MOC — Bancos de Dados]]
+- [[SQL ANSI]]
+- [[Projeto de Banco de Dados]]
+- [[Normalização]]
+- [[Modelagem de Dados Relacionais]]
+- [[Modelagem Multidimensional]]
+- [[Data Warehouse]]
+- [[ETL e ELT]]
+- [[OLAP]]
+- [[Data Mining]]
+- [[Business Intelligence]]
+- [[Analytics]]
+- [[Inteligência Artificial]]
+- [[Machine Learning]]
+- [[Big Data]]
+- [[Data Lake]]
+- [[Pipeline de Dados]]
+- [[NoSQL]]
+- [[Principais SGBDs]]
+- [[Python para Ciência de Dados]]
+- [[Gestão do Conhecimento]]
 ### 12 — [[MOC — Segurança da Informação]]
 
+- [[Segurança da Informação — Conceitos]]
+- [[Análise de Riscos]]
+- [[Gestão de Vulnerabilidades]]
+- [[Resposta a Incidentes]]
+- [[Testes de Invasão]]
+- [[Políticas de Segurança]]
+- [[Auditoria de Segurança]]
+- [[Backup e Contingência]]
+- [[Desenvolvimento Seguro de Software]]
+- [[Criptografia]]
+- [[Assinatura Digital]]
+- [[Autenticação]]
+- [[Segurança de Redes]]
+- [[Firewall]]
+- [[IDS]]
+- [[EDR]]
+- [[VPN]]
+- [[SIEM]]
+- [[LGPD e Governança de Dados]]
+- [[ISO - IEC 27001:2022]]
+- [[ISO - IEC 27002:2022]]
 
 ### 13 — [[MOC — Redes de Computadores]]
 
-
+- [[Redes — Conceitos]]
+- [[Tipos de Redes]]
+- [[Meios de Transmissão]]
+- [[Topologias de Rede]]
+- [[Arquitetura de Redes]]
+- [[Dispositivos de Rede]]
+- [[Modelo OSI]]
+- [[TCP/IP]]
+- [[Rede Wireless]]
+- [[Acesso Remoto]]
+- [[Administração de Redes]]
+- [[Active Directory]]
+- [[Serviços de E-mail]]
+- [[Ferramentas de Colaboração]]
 ### 14 — [[MOC — Infraestrutura de TIC]]
 
-
+- [[Computação em Nuvem]]
+- [[IaaS]]
+- [[PaaS]]
+- [[SaaS]]
+- [[Multicloud]]
+- [[Linux]]
+- [[Windows Server]]
+- [[DNS]]
+- [[DHCP]]
+- [[Web Servers]]
+- [[Virtualização]]
+- [[VMware]]
+- [[Hyper-V]]
+- [[Contêineres]]
+- [[Kubernetes]]
+- [[Gestão de Data Center]]
+- [[VPN e Conectividade]]
+- [[Telefonia e Videoconferência]]
+- [[Servidor de E-mail]]
 

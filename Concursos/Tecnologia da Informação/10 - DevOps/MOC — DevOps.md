@@ -9,12 +9,17 @@ tags:
   - moc
 ---
 
-## Navegação — DevOps
+## Índice — DevOps
 
-- [[Concursos/Tecnologia da Informação/10 - DevOps/DevOps — Conceitos]]
-- [[Concursos/Tecnologia da Informação/10 - DevOps/Arquitetura DevOps]]
-- [[Concursos/Tecnologia da Informação/10 - DevOps/Pilares do DevOps]]
-- [[Concursos/Tecnologia da Informação/10 - DevOps/Práticas DevOps]]
-- [[Concursos/Tecnologia da Informação/10 - DevOps/Integração Contínua]]
-- [[Concursos/Tecnologia da Informação/10 - DevOps/Entrega Contínua]]
-- [[Concursos/Tecnologia da Informação/10 - DevOps/Colaboração e Operação]]
+- [[DevOps — Conceitos]]
+- [[Arquitetura DevOps]]
+- [[Pilares do DevOps]]
+- [[Práticas DevOps]]
+- [[Integração Contínua]]
+- [[Entrega Contínua]]
+- [[Colaboração e Operação]]
+
+---
+## Navegação
+
+- [[Tecnologia da Informação]]

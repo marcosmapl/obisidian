@@ -36,7 +36,7 @@ A linguagem SQL implementa vários tipos de dado:
 
 SQL é uma linguagem que permite realizar determinadas operações em um banco de dados relacional por meio de um conjunto de comandos. Em geral, esses comandos são agrupados basicamente em quatro **sublinguagens:**
 - [[DDL]] (Data Definition Language)
-- DML
+- [[DML]]
 - DTL
 - DCL
 
