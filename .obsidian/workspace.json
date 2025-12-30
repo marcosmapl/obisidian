@@ -4,24 +4,103 @@
     "type": "split",
     "children": [
       {
-        "id": "f058393e469d90e9",
-        "type": "tabs",
+        "id": "946c20eeb14d2f8a",
+        "type": "split",
         "children": [
           {
-            "id": "14bb83f902db2fbb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/06 - Tributos — Conceito e Classificação/Tributo — Conceito.md",
-                "mode": "source",
-                "source": false
+            "id": "70df1836b878e0d1",
+            "type": "tabs",
+            "dimension": 74.37536316095293,
+            "children": [
+              {
+                "id": "0970cb3967c33eef",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Concursos/Auditoria/Auditoria.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Auditoria"
+                }
+              }
+            ]
+          },
+          {
+            "id": "24944be2be98882e",
+            "type": "split",
+            "dimension": 25.624636839047067,
+            "children": [
+              {
+                "id": "93d1dd46280d08f7",
+                "type": "tabs",
+                "dimension": 61.858407079646014,
+                "children": [
+                  {
+                    "id": "8a2d4f96b3806d40",
+                    "type": "leaf",
+                    "state": {
+                      "type": "localgraph",
+                      "state": {
+                        "file": "Concursos/Auditoria/Auditoria.md",
+                        "options": {
+                          "collapse-filter": true,
+                          "search": "",
+                          "localJumps": 1,
+                          "localBacklinks": true,
+                          "localForelinks": true,
+                          "localInterlinks": false,
+                          "showTags": false,
+                          "showAttachments": false,
+                          "hideUnresolved": false,
+                          "collapse-color-groups": true,
+                          "colorGroups": [],
+                          "collapse-display": true,
+                          "showArrow": false,
+                          "textFadeMultiplier": 0,
+                          "nodeSizeMultiplier": 1,
+                          "lineSizeMultiplier": 1,
+                          "collapse-forces": false,
+                          "centerStrength": 0.518713248970312,
+                          "repelStrength": 10,
+                          "linkStrength": 1,
+                          "linkDistance": 250,
+                          "scale": 0.22751270030345386,
+                          "close": true
+                        }
+                      },
+                      "icon": "lucide-git-fork",
+                      "title": "Gráfico de Auditoria"
+                    }
+                  }
+                ]
               },
-              "icon": "lucide-file",
-              "title": "Tributo — Conceito"
-            }
+              {
+                "id": "97259f50ac44c200",
+                "type": "tabs",
+                "dimension": 38.141592920353986,
+                "children": [
+                  {
+                    "id": "25b2d532781a899e",
+                    "type": "leaf",
+                    "state": {
+                      "type": "file-properties",
+                      "state": {
+                        "file": "Concursos/Auditoria/Auditoria.md"
+                      },
+                      "icon": "lucide-info",
+                      "title": "Propriedades do arquivo Auditoria"
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
           }
-        ]
+        ],
+        "direction": "vertical"
       }
     ],
     "direction": "vertical"
@@ -78,7 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411.5
+    "width": 338.5110321044922
   },
   "right": {
     "id": "85539bb65b2a9791",
@@ -160,9 +239,29 @@
               "icon": "lucide-list",
               "title": "Sumário de Direito Tributário — MOC"
             }
+          },
+          {
+            "id": "b170e42cd9d7dc2b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "934d6756b85cc3ae",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {},
+              "icon": "GA-ICON",
+              "title": "Graph Analysis"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       },
       {
         "id": "f70b642b0827c287",
@@ -201,35 +300,35 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "14bb83f902db2fbb",
+  "active": "0970cb3967c33eef",
   "lastOpenFiles": [
-    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/06 - Tributos — Conceito e Classificação/MOC — Tributos.md",
-    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/01 - Conceitos Básicos do Direito Tributário/MOC — Conceitos Fundamentais.md",
-    "Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo/05 - Atos Administrativos/MOC — Atos Administrativos.md",
-    "Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo/05 - Atos Administrativos/Atos Administrativos Vinculados.md",
-    "Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo/05 - Atos Administrativos/Atos Administrativos Discricionários.md",
-    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/06 - Tributos — Conceito e Classificação/Tributo — Conceito.md",
+    "Concursos/Tecnologia da Informação/Tecnologia da Informação.md",
+    "Sem título.canvas",
+    "Concursos/Tecnologia da Informação/01 - Governança e Gestão de TI/MOC — Governança e Gestão de TI.md",
+    "Concursos/Auditoria/Auditoria.md",
+    "README.md",
+    "Concursos/Tecnologia da Informação/08 - Programação e Desenvolvimento/MOC — Programação e Desenvolvimento.md",
+    "Concursos/Tecnologia da Informação/08 - Programação e Desenvolvimento/Programação Estruturada.md",
+    "Concursos/Tecnologia da Informação/07 - Testes e Qualidade de Software/MOC — Testes e Qualidade de Software.md",
+    "Concursos/Tecnologia da Informação/06 - Requisitos de Software/MOC — Requisitos de Software.md",
+    "Concursos/Tecnologia da Informação/05 - Engenharia de Software/MOC — Engenharia de Software.md",
+    "Concursos/Tecnologia da Informação/04 - Gestão de Processos/MOC — Gestão de Processos.md",
+    "Concursos/Tecnologia da Informação/03 - Gerência de Projetos/MOC — Gerência de Projetos.md",
+    "Concursos/Tecnologia da Informação/02 - Gerenciamento de Serviços de TI/MOC — Gerenciamento de Serviços de TI.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/CLOB (SQL ANSI).md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/VARCHAR (SQL ANSI).md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/CHAR (SQL ANSI).md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/Tipos Textuais SQL.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/SQL ANSI.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/Outros Tipos SQL.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/Tipos Data e Hora SQL.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/Tipo Booleano SQL.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/Tipos Binários SQL.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/Tipos Numéricos SQL.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/MOC — Gestão e Análise de Dados.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/Bancos de Dados — Conceitos Básicos.md",
+    "Concursos/Auditoria/01 - Conceitos Fundamentais/MOC — Classificação da Auditoria.md",
     "Media/Pasted image 20251229231614.png",
-    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/03 - Princípios Gerais do Direito Tributário/Princípio do Pecúnia non Olet.md",
-    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/03 - Princípios Gerais do Direito Tributário/MOC — Princípios Gerais do Direito Tributário.md",
-    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/Direito Tributário — MOC.md",
-    "Concursos/Direito/01 - Fundamentos do Direito/Medidas Provisórias.md",
-    "Concursos/Direito/01 - Fundamentos do Direito/MOC — Fundamentos do Direito.md",
-    "Concursos/Direito/01 - Fundamentos do Direito/Direito — Conceito e Finalidade.md",
-    "Templates/Nota Hub.md",
-    "Concursos/Direito/01 - Fundamentos do Direito/Lei Ordinária.md",
-    "Concursos/Direito/02 - Princípios Gerais do Direito/MOC — Princípios Gerais do Direito.md",
-    "Concursos/Direito/02 - Princípios Gerais do Direito/Princípio do Estado Democrático de Direito.md",
-    "Tributo — Conceito.md",
-    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/06 - Tributos — Conceito e Classificação/Taxas.md",
-    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/06 - Tributos — Conceito e Classificação/Impostos.md",
-    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/06 - Tributos — Conceito e Classificação/Empréstimos Compulsórios.md",
-    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/06 - Tributos — Conceito e Classificação/Contribuições Especiais.md",
-    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/06 - Tributos — Conceito e Classificação/Contribuições de Melhoria.md",
-    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/06 - Tributos — Conceito e Classificação/Classificação dos Tributos.md",
-    "Concursos/Contabilidade Geral/Contabilidade Geral.md",
-    "Concursos/Direito/03 - Ramos do Direito Público/Direito Constitucional/MOC — Direito Constitucional.md",
-    "Concursos/Direito/03 - Ramos do Direito Público/Direito Constitucional/01 - Teoria Geral da Constituição/MOC — Teoria Geral da Constituição.md",
     "Media/Pasted image 20251227163046.png",
     "Media/Pasted image 20251227163014.png",
     "Media/Pasted image 20251226164446.png",
@@ -248,7 +347,6 @@
     "Media/7kgdVN8elvmPAw3KWbzoYAa1JDrqDjqnEo1XprDZq2GnM9R05a.png",
     "Media/Pasted image 20251218112501.png",
     "Media/Pasted image 20251218111301.png",
-    "Media/Pasted image 20251218111110.png",
-    "Sem título.canvas"
+    "Media/Pasted image 20251218111110.png"
   ]
 }

@@ -11,9 +11,8 @@ tags:
 
 ## Navegação — Gestão e Análise de Dados
 
-- [[Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/Informação nas Organizações]]
-- [[Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/Bancos de Dados — Conceitos Básicos]]
-- [[Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/SQL ANSI]]
+- [[Bancos de Dados — Conceitos Básicos]]
+- [[SQL ANSI]]
 - [[Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/Tipos de Dados SQL (Padrão ANSI)]]
 - [[Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/Tipos Textuais SQL]]
 - [[Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/Tipos Numéricos SQL]]
@@ -41,3 +40,8 @@ tags:
 - [[Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/Python para Ciência de Dados]]
 - [[Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/R para Ciência de Dados]]
 - [[Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/Gestão do Conhecimento]]
+
+---
+## Navegação
+
+- [[Tecnologia da Informação]]

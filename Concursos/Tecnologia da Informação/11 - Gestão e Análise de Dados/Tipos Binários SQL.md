@@ -14,3 +14,19 @@ Armazenam dados em formato binário.
     
 - **BLOB** (_Binary Large Object_)  
     Grandes volumes de dados binários (imagens, arquivos, etc.).
+
+---
+## Tópicos Relacionados
+
+- [[Tipos Textuais SQL]]
+- [[Tipos Numéricos SQL]]
+- [[Tipo Booleano SQL]]
+- [[Tipos Data e Hora SQL]]
+- [[Outros Tipos SQL]]
+
+---
+## Navegação
+
+- [[Tecnologia da Informação]]
+- [[MOC — Gestão e Análise de Dados]]
+- [[SQL ANSI]]

@@ -9,14 +9,19 @@ tags:
   - moc
 ---
 
-## Navegação — Governança e Gestão de TI
+## Índice — Governança e Gestão de TI
 
-- [[Concursos/Tecnologia da Informação/01 - Governança e Gestão de TI/Governança de TIC — Conceitos]]
-- [[Concursos/Tecnologia da Informação/01 - Governança e Gestão de TI/Gestão Estratégica de TI]]
-- [[Concursos/Tecnologia da Informação/01 - Governança e Gestão de TI/Planejamento Estratégico Organizacional]]
-- [[Concursos/Tecnologia da Informação/01 - Governança e Gestão de TI/Ciclo PDCA]]
-- [[Concursos/Tecnologia da Informação/01 - Governança e Gestão de TI/Alinhamento Estratégico Negócio–TI]]
-- [[Concursos/Tecnologia da Informação/01 - Governança e Gestão de TI/PETI — Plano Estratégico de TI]]
-- [[Concursos/Tecnologia da Informação/01 - Governança e Gestão de TI/PDTI — Plano Diretor de TI]]
-- [[Concursos/Tecnologia da Informação/01 - Governança e Gestão de TI/COBIT 2019]]
-- [[Concursos/Tecnologia da Informação/01 - Governança e Gestão de TI/Governança Adaptativa]]
+- [[Governança de TIC — Conceitos]]
+- [[Gestão Estratégica de TI]]
+- [[Planejamento Estratégico Organizacional]]
+- [[Ciclo PDCA]]
+- [[Alinhamento Estratégico Negócio–TI]]
+- [[PETI — Plano Estratégico de TI]]
+- [[PDTI — Plano Diretor de TI]]
+- [[COBIT 2019]]
+- [[Governança Adaptativa]]
+
+---
+## Navegação
+
+- [[Tecnologia da Informação]]

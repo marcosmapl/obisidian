@@ -9,18 +9,21 @@ tags:
   - moc
 ---
 
-## Navegação — Gerência de Projetos
+## Índice — Gerência de Projetos
 
-- [[Concursos/Tecnologia da Informação/03 - Gerência de Projetos/Gerenciamento de Projetos — Conceitos Básicos]]
-- [[Concursos/Tecnologia da Informação/03 - Gerência de Projetos/PMBOK 7]]
-- [[Concursos/Tecnologia da Informação/03 - Gerência de Projetos/Planejamento e Controle de Projetos]]
-- [[Concursos/Tecnologia da Informação/03 - Gerência de Projetos/Métricas de Projeto]]
-- [[Concursos/Tecnologia da Informação/03 - Gerência de Projetos/Escritório de Projetos (PMO)]]
-- [[Concursos/Tecnologia da Informação/03 - Gerência de Projetos/Gestão de Escopo]]
-- [[Concursos/Tecnologia da Informação/03 - Gerência de Projetos/Gestão do Tempo e Cronograma]]
-- [[Concursos/Tecnologia da Informação/03 - Gerência de Projetos/Caminho Crítico]]
-- [[Concursos/Tecnologia da Informação/03 - Gerência de Projetos/Gestão da Mudança Organizacional]]
-- [[Concursos/Tecnologia da Informação/03 - Gerência de Projetos/Metodologias Ágeis]]
-- [[Concursos/Tecnologia da Informação/03 - Gerência de Projetos/Scrum]]
-- [[Concursos/Tecnologia da Informação/03 - Gerência de Projetos/Kanban]]
-- [[Concursos/Tecnologia da Informação/03 - Gerência de Projetos/SAFe]]
+- [[Gerenciamento de Projetos — Conceitos Básicos]]
+- [[PMBOK 7]]
+- [[Planejamento e Controle de Projetos]]
+- [[Métricas de Projeto]]
+- [[Escritório de Projetos (PMO)]]
+- [[Gestão de Escopo]]
+- [[Gestão do Tempo e Cronograma]]
+- [[Caminho Crítico]]
+- [[Gestão da Mudança Organizacional]]
+- [[Metodologias Ágeis]]
+- [[SAFe]]
+
+---
+## Navegação
+
+- [[Tecnologia da Informação]]

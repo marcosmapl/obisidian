@@ -9,9 +9,14 @@ tags:
   - moc
 ---
 
-## Navegação — Gerenciamento de Serviços de TI
+## Índice — Gerenciamento de Serviços de TI
 
-- [[Concursos/Tecnologia da Informação/02 - Gerenciamento de Serviços de TI/ITIL 4 — Conceitos]]
-- [[Concursos/Tecnologia da Informação/02 - Gerenciamento de Serviços de TI/Princípios do ITIL 4]]
-- [[Concursos/Tecnologia da Informação/02 - Gerenciamento de Serviços de TI/Dimensões do Gerenciamento de Serviços]]
-- [[Concursos/Tecnologia da Informação/02 - Gerenciamento de Serviços de TI/Práticas do ITIL 4]]
+- [[ITIL 4 — Conceitos]]
+- [[Princípios do ITIL 4]]
+- [[Dimensões do Gerenciamento de Serviços]]
+- [[Práticas do ITIL 4]]
+
+---
+## Navegação
+
+- [[Tecnologia da Informação]]

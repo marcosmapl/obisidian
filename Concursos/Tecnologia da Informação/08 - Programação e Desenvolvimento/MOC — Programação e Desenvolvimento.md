@@ -9,12 +9,12 @@ tags:
   - moc
 ---
 
-## Navegação — Programação e Desenvolvimento
+## Índice — Programação e Desenvolvimento
 
-- [[Concursos/Tecnologia da Informação/08 - Programação e Desenvolvimento/Lógica de Programação]]
-- [[Concursos/Tecnologia da Informação/08 - Programação e Desenvolvimento/Estrutura de Dados]]
-- [[Concursos/Tecnologia da Informação/08 - Programação e Desenvolvimento/Paradigmas de Programação]]
-- [[Concursos/Tecnologia da Informação/08 - Programação e Desenvolvimento/Programação Estruturada]]
+- [[Lógica de Programação]]
+- [[Estrutura de Dados]]
+- [[Paradigmas de Programação]]
+- [[Programação Estruturada]]
 - [[Concursos/Tecnologia da Informação/08 - Programação e Desenvolvimento/Programação Orientada a Objetos]]
 - [[Concursos/Tecnologia da Informação/08 - Programação e Desenvolvimento/Git e Controle de Versão]]
 - [[Concursos/Tecnologia da Informação/08 - Programação e Desenvolvimento/GitHub]]
@@ -30,3 +30,8 @@ tags:
 - [[Concursos/Tecnologia da Informação/08 - Programação e Desenvolvimento/CSS]]
 - [[Concursos/Tecnologia da Informação/08 - Programação e Desenvolvimento/Ferramentas CASE]]
 - [[Concursos/Tecnologia da Informação/08 - Programação e Desenvolvimento/Interoperabilidade de Sistemas]]
+
+---
+## Navegação
+
+- [[Tecnologia da Informação]]

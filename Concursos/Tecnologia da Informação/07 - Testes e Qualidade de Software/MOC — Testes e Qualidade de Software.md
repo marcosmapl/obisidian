@@ -9,10 +9,15 @@ tags:
   - moc
 ---
 
-## Navegação — Testes e Qualidade de Software
+## Índice — Testes e Qualidade de Software
 
-- [[Concursos/Tecnologia da Informação/07 - Testes e Qualidade de Software/Testes de Software — Conceitos]]
-- [[Concursos/Tecnologia da Informação/07 - Testes e Qualidade de Software/Tipos de Testes]]
-- [[Concursos/Tecnologia da Informação/07 - Testes e Qualidade de Software/Técnicas de Testes]]
-- [[Concursos/Tecnologia da Informação/07 - Testes e Qualidade de Software/Documentação de Testes]]
-- [[Concursos/Tecnologia da Informação/07 - Testes e Qualidade de Software/Avaliação da Qualidade de Software]]
+- [[Testes de Software — Conceitos]]
+- [[Tipos de Testes]]
+- [[Técnicas de Testes]]
+- [[Documentação de Testes]]
+- [[Avaliação da Qualidade de Software]]
+
+---
+## Navegação
+
+- [[Tecnologia da Informação]]

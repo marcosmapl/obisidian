@@ -15,3 +15,19 @@ Utilizados para valores inteiros ou reais.
     Número real de precisão simples.
 - **DOUBLE PRECISION**  
     Número real de maior precisão.
+
+---
+## Tópicos Relacionados
+
+- [[Tipos Textuais SQL]]
+- [[Tipos Binários SQL]]
+- [[Tipo Booleano SQL]]
+- [[Tipos Data e Hora SQL]]
+- [[Outros Tipos SQL]]
+
+---
+## Navegação
+
+- [[Tecnologia da Informação]]
+- [[MOC — Gestão e Análise de Dados]]
+- [[SQL ANSI]]

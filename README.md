@@ -1,9 +1,8 @@
-# 🧠 Base de Conhecimento Pessoal
+## 🧠 Base de Conhecimento Pessoal
 
 > Meu repositório centralizado de conhecimento, organizado em Obsidian para estudo, pesquisa e desenvolvimento contínuo.
 
 ---
-
 ## 📖 Sobre
 
 Esta é minha **Base de Conhecimento Pessoal** (Personal Knowledge Base), construída com o método **Zettelkasten** e organizada através de **MOCs (Maps of Content)** para facilitar a navegação e conexão entre ideias.
@@ -16,7 +15,6 @@ O objetivo é criar um **segundo cérebro digital** que:
 - 🚀 Potencializa o aprendizado através da escrita
 
 ---
-
 ## 🗂️ Estrutura Principal
 
 ### 📚 **Concursos**
@@ -42,7 +40,7 @@ Conteúdo organizado por disciplinas para preparação de concursos públicos.
 ### 📖 **Leitura**
 Biblioteca pessoal de livros organizados por categorias temáticas.
 
-**9 Categorias principais:**
+8 Categorias principais:**
 1. **Desenvolvimento Pessoal** — Produtividade, hábitos, mindset
 2. **Negócios e Empreendedorismo** — Estratégia, marketing, liderança
 3. **Finanças e Investimentos** — Finanças pessoais, investimentos, economia
@@ -51,10 +49,9 @@ Biblioteca pessoal de livros organizados por categorias temáticas.
 6. **Literatura e Ficção** — Romance, ficção científica, clássicos
 7. **História e Biografias** — História mundial, do Brasil, biografias
 8. **Saúde e Bem-Estar** — Saúde física, mental, nutrição
-9. **Direito e Legislação** — Civil, constitucional, tributário
 
 **Características:**
-- 📚 27 subcategorias especializadas
+- 📚 24 subcategorias especializadas
 - 📝 Resumos e notas de cada capítulo
 - 🎯 Acompanhamento de progresso de leitura
 - 💡 Extração de insights e conceitos-chave
@@ -71,7 +68,6 @@ Modelos reutilizáveis para diferentes tipos de notas.
 Armazenamento de recursos multimídia (imagens, diagramas, PDFs).
 
 ---
-
 ## 🧭 Navegação
 
 ### MOCs Principais
@@ -91,7 +87,6 @@ Armazenamento de recursos multimídia (imagens, diagramas, PDFs).
 - Graph view para visualizar conexões
 
 ---
-
 ## 📊 Metodologia
 
 ### Zettelkasten
@@ -106,15 +101,7 @@ Mapas de conteúdo que organizam notas por tema:
 - Navegação bidirecional (ida e volta)
 - Visão panorâmica de cada área
 
-### Progressive Summarization
-Técnica de destaque em camadas:
-1. **Camada 1** — Texto completo
-2. **Camada 2** — Negrito (ideias principais)
-3. **Camada 3** — Realce (insights essenciais)
-4. **Camada 4** — Resumo executivo
-
 ---
-
 ## 🎯 Objetivos
 
 - ✅ Centralizar conhecimento de múltiplas fontes
@@ -125,7 +112,6 @@ Técnica de destaque em camadas:
 - ✅ Base para produção de conteúdo próprio
 
 ---
-
 ## 🛠️ Ferramentas
 
 **Obsidian Plugins utilizados:**
@@ -136,22 +122,10 @@ Técnica de destaque em camadas:
 - Admonition — Caixas de destaque
 
 ---
-
-## 📈 Estatísticas
-
-```dataview
-TABLE length(file.outlinks) as "Links Saindo", length(file.inlinks) as "Links Entrando"
-WHERE file.name != "README"
-SORT length(file.outlinks) DESC
-LIMIT 10
-```
-
----
-
 ## 📝 Licença
 
 Esta é uma base de conhecimento **pessoal** para fins de estudo e desenvolvimento individual.
 
 ---
 
-**Última atualização:** 23 de dezembro de 2025
+**Última atualização:** 30 de dezembro de 2025

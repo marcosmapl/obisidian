@@ -9,16 +9,21 @@ tags:
   - moc
 ---
 
-## Navegação — Requisitos de Software
+## Índice — Requisitos de Software
 
-- [[Concursos/Tecnologia da Informação/06 - Requisitos de Software/Requisitos de Software — Conceito]]
-- [[Concursos/Tecnologia da Informação/06 - Requisitos de Software/Requisitos Funcionais]]
-- [[Concursos/Tecnologia da Informação/06 - Requisitos de Software/Requisitos Não Funcionais]]
-- [[Concursos/Tecnologia da Informação/06 - Requisitos de Software/Engenharia de Requisitos]]
-- [[Concursos/Tecnologia da Informação/06 - Requisitos de Software/Levantamento de Requisitos]]
-- [[Concursos/Tecnologia da Informação/06 - Requisitos de Software/Histórias de Usuário]]
-- [[Concursos/Tecnologia da Informação/06 - Requisitos de Software/Casos de Uso]]
-- [[Concursos/Tecnologia da Informação/06 - Requisitos de Software/Gerenciamento de Requisitos]]
-- [[Concursos/Tecnologia da Informação/06 - Requisitos de Software/Especificação de Requisitos]]
-- [[Concursos/Tecnologia da Informação/06 - Requisitos de Software/Validação de Requisitos]]
-- [[Concursos/Tecnologia da Informação/06 - Requisitos de Software/Gerência de Configuração e Mudança]]
+- [[Requisitos de Software — Conceito]]
+- [[Requisitos Funcionais]]
+- [[Requisitos Não Funcionais]]
+- [[Engenharia de Requisitos]]
+- [[Levantamento de Requisitos]]
+- [[Histórias de Usuário]]
+- [[Casos de Uso]]
+- [[Gerenciamento de Requisitos]]
+- [[Especificação de Requisitos]]
+- [[Validação de Requisitos]]
+- [[Gerência de Configuração e Mudança]]
+
+---
+## Navegação
+
+- [[Tecnologia da Informação]]

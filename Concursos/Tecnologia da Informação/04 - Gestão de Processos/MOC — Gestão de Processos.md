@@ -9,11 +9,16 @@ tags:
   - moc
 ---
 
-## Navegação — Gestão de Processos
+## Índice — Gestão de Processos
 
-- [[Concursos/Tecnologia da Informação/04 - Gestão de Processos/Gestão de Processos — Conceitos]]
-- [[Concursos/Tecnologia da Informação/04 - Gestão de Processos/Modelagem de Processos]]
-- [[Concursos/Tecnologia da Informação/04 - Gestão de Processos/Análise de Processos]]
-- [[Concursos/Tecnologia da Informação/04 - Gestão de Processos/BPM — Business Process Management]]
-- [[Concursos/Tecnologia da Informação/04 - Gestão de Processos/Workflow]]
-- [[Concursos/Tecnologia da Informação/04 - Gestão de Processos/Gerenciamento Eletrônico de Documentos]]
+- [[Gestão de Processos — Conceitos]]
+- [[Modelagem de Processos]]
+- [[Análise de Processos]]
+- [[BPM — Business Process Management]]
+- [[Workflow]]
+- [[Gerenciamento Eletrônico de Documentos]]
+
+---
+## Navegação
+
+- [[Tecnologia da Informação]]
