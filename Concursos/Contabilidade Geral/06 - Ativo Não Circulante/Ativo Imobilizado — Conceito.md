@@ -34,5 +34,5 @@ updated: 2025-12-29T14:55:00
 ## 🧭Navegação
 
 - ⬅️ [[Ativo — Conceito]]
-- ⬅️ [[MOC — Conceitos Fundamentais]]
+- ⬅️ [[Concursos/Auditoria/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais]]
 - 📊 [[Contabilidade Geral]]

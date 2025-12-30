@@ -45,3 +45,9 @@ tags:
 - Assegurar isonomia
 - Evitar decisões contraditórias
 
+
+---
+## 🧭Navegação
+
+- ⚖️ [[Direito]]
+

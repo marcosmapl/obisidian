@@ -28,5 +28,5 @@ updated: 2025-12-29T11:31:00
 ## 🧭Navegação
 
 - ⬅️ [[Passivo — Conceito]]
-- ⬅️ [[MOC — Conceitos Fundamentais]]
+- ⬅️ [[Concursos/Auditoria/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais]]
 - 📊 [[Contabilidade Geral]]

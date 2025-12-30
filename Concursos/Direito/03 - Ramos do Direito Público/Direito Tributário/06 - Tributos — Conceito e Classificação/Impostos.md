@@ -63,6 +63,6 @@ tags:
 
 ## 🔸 Navegação
 
-**← Tópico 06:** [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/06 - Tributos — Conceito e Classificação/MOC — Tributos — Conceito e Classificação|MOC Tributos — Conceito e Classificação]]  
+**← Tópico 06:** [[MOC — Tributos|MOC Tributos — Conceito e Classificação]]  
 **→ Tópico 07:** [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/07 - Impostos por Competência Constitucional/MOC — Impostos por Competência Constitucional|MOC Impostos por Competência Constitucional]]  
 **← Índice:** [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/Direito Tributário — MOC|Direito Tributário — MOC]]

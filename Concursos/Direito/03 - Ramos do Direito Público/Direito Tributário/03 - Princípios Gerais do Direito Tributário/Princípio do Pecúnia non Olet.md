@@ -1,0 +1,2 @@
+
+==Esta hipótese é considerada pela doutrina como o **_princípio do pecúnia non olet_,** que tem como tradução “dinheiro não cheira”.== A origem da expressão se deve a um imperador romano que cobrava pelo uso dos banheiros públicos, e, ao ser questionado sobre o fato pelo seu filho, o imperador segurou uma moeda de ouro e lhe perguntou: cheira? Seu filho disse: não cheira.

@@ -12,6 +12,7 @@ tags:
 
 ## Navegação — Princípios Gerais
 
+- [[Princípio do Pecúnia non Olet]]
 - [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/03 - Princípios Gerais do Direito Tributário/Princípio da Legalidade Tributária]]
 - [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/03 - Princípios Gerais do Direito Tributário/Princípio da Anterioridade]]
 - [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/03 - Princípios Gerais do Direito Tributário/Princípio da Isonomia Tributária]]

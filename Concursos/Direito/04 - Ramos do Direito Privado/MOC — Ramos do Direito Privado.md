@@ -42,3 +42,9 @@ O **Direito Privado** regula as relações entre particulares em posição de ig
 - Empresa e sociedades
 - Relações de consumo
 
+
+---
+## 🧭Navegação
+
+- ⚖️ [[Direito]]
+

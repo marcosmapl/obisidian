@@ -55,5 +55,5 @@ A doutrina classifica as aziendas, **quanto ao fim a que se destinam**, em três
 ---
 ## 🧭Navegação
 
-- ⬅️ [[MOC — Conceitos Fundamentais]]
+- ⬅️ [[Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais]]
 - 📊 [[Contabilidade Geral]]

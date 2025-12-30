@@ -82,7 +82,7 @@ completed: 0
 ---
 ## 📂 MOC — Atos Administrativos
 
-- [[Atos Administrativos — Conceito]]
+- [[Atos Administrativos Vinculados]]
 - [[Requisitos dos Atos Administrativos]]
 - [[Atributos dos Atos Administrativos]]
 - [[Classificação dos Atos Administrativos]]

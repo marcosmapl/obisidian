@@ -7,17 +7,18 @@ node_size: "80"
 completed: 0
 ---
 
-## 🔸 Direito Constitucional — Conceito Geral
+## 🔸 Definição
 
-> Direito constitucional é o ramo do [[Direito Público]] dedicado a estudar as normas constitucionais, interpretando as normas de organização dos poderes e dos direitos fundamentais. 
+> [!note] Direito constitucional 
+> É o ramo do [[Direito Público]] dedicado a estudar as normas constitucionais, interpretando as normas de organização dos poderes e dos direitos fundamentais. 
 
 #direito/constitucional #direito/público  
 
 ---
 ## 🔸 MOC Principal (Navegação por Tópicos)
 
-1. [[Concursos/Direito/03 - Ramos do Direito Público/Direito Constitucional/01 - Teoria Geral da Constituição/MOC — Teoria Geral da Constituição]]
-2. [[Concursos/Direito/03 - Ramos do Direito Público/Direito Constitucional/02 - Princípios Fundamentais/MOC — Princípios Fundamentais]]
+1. [[Concursos/Direito/03 - Ramos do Direito Público/Direito Constitucional/01 - Teoria Geral da Constituição/MOC — Teoria Geral da Constituição|MOC — Teoria Geral da Constituição]]
+2. [[Concursos/Direito/03 - Ramos do Direito Público/Direito Constitucional/02 - Princípios Fundamentais/MOC — Princípios Fundamentais|MOC — Princípios Fundamentais]]
 3. [[Concursos/Direito/03 - Ramos do Direito Público/Direito Constitucional/03 - Direitos e Garantias Fundamentais/MOC — Direitos e Garantias Fundamentais]]
 4. [[Concursos/Direito/03 - Ramos do Direito Público/Direito Constitucional/04 - Nacionalidade, Direitos Políticos e Partidos/MOC — Nacionalidade, Direitos Políticos e Partidos]]
 5. [[Concursos/Direito/03 - Ramos do Direito Público/Direito Constitucional/05 - Organização do Estado/MOC — Organização do Estado]]
@@ -144,15 +145,9 @@ completed: 0
 - [[Disposições Gerais]]
 - [[Disposições Transitórias]]
 
+
 ---
+## 🧭Navegação
 
-## 📊 Progresso dos MOCs
-
-```dataview
-table tópico as "Tópico", progresso
-from "Concursos/Direito/03 - Ramos do Direito Público/Direito Constitucional"
-where contains(file.name, "MOC — ")
-sort file.name asc
-```
-
-#direito/constitucional
+- ⬅️ [[MOC — Ramos do Direito Público]]
+- ⚖️ [[Direito]]

@@ -12,7 +12,8 @@ tags:
 
 ## Navegação — Atos Administrativos
 
-- [[Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo/05 - Atos Administrativos/Atos Administrativos — Conceito]]
+- [[Atos Administrativos Vinculados]]
+- [[Atos Administrativos Discricionários]]
 - [[Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo/05 - Atos Administrativos/Requisitos dos Atos Administrativos]]
 - [[Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo/05 - Atos Administrativos/Atributos dos Atos Administrativos]]
 - [[Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo/05 - Atos Administrativos/Classificação dos Atos Administrativos]]

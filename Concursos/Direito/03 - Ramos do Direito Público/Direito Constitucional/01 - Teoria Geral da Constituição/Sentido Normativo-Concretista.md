@@ -100,14 +100,6 @@ A força normativa será **maior** quando:
 **Tempo + sociedade + consciência = força normativa**
 
 ---
-
-## 🔸 Navegação
-
-**← Módulo anterior:** [[Concursos/Direito/03 - Ramos do Direito Público/Direito Constitucional/01 - Teoria Geral da Constituição/MOC — Teoria Geral da Constituição|MOC Teoria Geral]]  
-**→ Próximo:** [[Concursos/Direito/03 - Ramos do Direito Público/Direito Constitucional/01 - Teoria Geral da Constituição/Sentido Político|Sentido Político]]
-
----
-
 ### 8. Práxis Constitucional e Vontade de Constituição
 - A força normativa **não depende apenas do texto**.
 - Depende também da:
@@ -120,3 +112,11 @@ A força normativa será **maior** quando:
 
 🧠 **Significado:**  
 Disposição coletiva de **cumprir, defender e concretizar** a Constituição.
+
+---
+## 🧭Navegação
+
+- ⬅️ [[MOC — Teoria Geral da Constituição]]
+- ⬅️ [[MOC — Direito Constitucional]]
+- ⬅️ [[MOC — Ramos do Direito Público]]
+- ⚖️ [[Direito]]

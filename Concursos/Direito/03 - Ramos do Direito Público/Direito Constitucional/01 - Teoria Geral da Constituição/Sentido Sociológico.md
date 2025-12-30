@@ -104,21 +104,6 @@ node_size: "10"
 
 ---
 
-## 🔸 Navegação
-
-**← Módulo anterior:** [[Concursos/Direito/03 - Ramos do Direito Público/Direito Constitucional/01 - Teoria Geral da Constituição/MOC — Teoria Geral da Constituição|MOC Teoria Geral]]  
-**← Voltar ao Índice:** [[Concursos/Direito/03 - Ramos do Direito Público/Direito Constitucional/Direito Constitucional — MOC|MOC Direito Constitucional]]
-- Essência = **fatores reais de poder**
-- Texto escrito só vale se refletir o poder real
-- Conflito:
-  - **Real > Escrita**
-- Todo Estado tem Constituição, com ou sem papel
-
-🧠 **Frase-chave para memorização:**  
-> *“Para Lassalle, quem manda de verdade escreve a Constituição real.”*
-
----
-
 ### 9. Dica Estratégica de Prova
 - Se a questão mencionar:
   - **Fatores reais de poder**
@@ -126,3 +111,11 @@ node_size: "10"
   - **Constituição real x escrita**
   - **Fato social**  
 ➡ **Marque: Ferdinand Lassalle**
+
+---
+## 🧭Navegação
+
+- ⬅️ [[MOC — Teoria Geral da Constituição]]
+- ⬅️ [[MOC — Direito Constitucional]]
+- ⬅️ [[MOC — Ramos do Direito Público]]
+- ⚖️ [[Direito]]

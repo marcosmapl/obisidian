@@ -20,5 +20,5 @@ updated: 2025-12-29T10:24:00
 ## 🧭Navegação
 
 - ⬅️ [[Usuários das Informações Contábeis]]
-- ⬅️ [[MOC — Conceitos Fundamentais]]
+- ⬅️ [[Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais]]
 - 📊 [[Contabilidade Geral]]

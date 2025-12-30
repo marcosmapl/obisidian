@@ -1,28 +1,17 @@
 ---
 disciplina: Direito Tributário
-tópico: Tributos — Conceito e Classificação
+tópico: Conceitos Fundamentais
 created: 2025-12-23T00:00:00
-updated: 2025-12-23T00:00:00
-progresso: 0
-tags:
-  - direito
-  - tributário
-  - moc
+updated: 2025-12-29T21:53:00
 ---
 
-## 🔸 Tributos — Conceito e Classificação
+## 🔸Conceitos Fundamentais
 
-**Tributos** são **prestações pecuniárias** obrigatórias, imposto unilateralmente pelo Estado, em virtude de lei, e destinadas ao custeio das despesas públicas ou investimentos.
-
----
-
-## 🔸 Navegação — Tipos de Tributos
-
-### 🔹 Conceitos Fundamentais
 - [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/06 - Tributos — Conceito e Classificação/Tributo — Conceito|Tributo — Conceito]]
 - [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/06 - Tributos — Conceito e Classificação/Classificação dos Tributos|Classificação dos Tributos]]
 
-### 🔹 Espécies de Tributos
+---
+## 🔸Espécies de Tributos
 - [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/06 - Tributos — Conceito e Classificação/Impostos|Impostos]]
 - [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/06 - Tributos — Conceito e Classificação/Taxas|Taxas]]
 - [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/06 - Tributos — Conceito e Classificação/Contribuições de Melhoria|Contribuições de Melhoria]]

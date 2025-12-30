@@ -35,5 +35,5 @@ created: 2025-12-19T16:08:00
 ## 🧭Navegação
 
 - ⬅️ [[Técnicas Contábeis]]
-- ⬅️ [[MOC — Conceitos Fundamentais]]
+- ⬅️ [[Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais]]
 - 📊 [[Contabilidade Geral]]

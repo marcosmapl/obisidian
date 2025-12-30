@@ -10,12 +10,13 @@ tags:
   - moc
 ---
 
-## 🔸 Navegação — Teoria Geral da Constituição
+## 🔸Conceitos Fundamentais
 
-### 🔹 Conceitos Fundamentais
 - [[Concursos/Direito/03 - Ramos do Direito Público/Direito Constitucional/01 - Teoria Geral da Constituição/Teoria Geral da Constituição|Teoria Geral da Constituição]]
 
-### 🔹 Sentidos da Constituição
+---
+## 🔸Sentidos da Constituição
+
 - [[Concursos/Direito/03 - Ramos do Direito Público/Direito Constitucional/01 - Teoria Geral da Constituição/Sentido Cultural|Sentido Cultural]]
 - [[Concursos/Direito/03 - Ramos do Direito Público/Direito Constitucional/01 - Teoria Geral da Constituição/Sentido Jurídico|Sentido Jurídico]]
 - [[Concursos/Direito/03 - Ramos do Direito Público/Direito Constitucional/01 - Teoria Geral da Constituição/Sentido Normativo-Concretista|Sentido Normativo-Concretista]]
@@ -23,7 +24,8 @@ tags:
 - [[Concursos/Direito/03 - Ramos do Direito Público/Direito Constitucional/01 - Teoria Geral da Constituição/Sentido Sociológico|Sentido Sociológico]]
 
 ---
+## 🧭Navegação
 
-## 🔸 Voltar
-
-**← Voltar para:** [[Concursos/Direito/03 - Ramos do Direito Público/Direito Constitucional/Direito Constitucional — MOC|MOC Direito Constitucional]]
+- ⬅️ [[MOC — Direito Constitucional]]
+- ⬅️ [[MOC — Ramos do Direito Público]]
+- ⚖️ [[Direito]]

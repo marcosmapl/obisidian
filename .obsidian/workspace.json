@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e226a161b13fbf89",
+        "id": "f058393e469d90e9",
         "type": "tabs",
         "children": [
           {
-            "id": "08cb4569a1d04b7c",
+            "id": "14bb83f902db2fbb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/06 - Tributos — Conceito e Classificação/Tributo — Conceito.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tributo — Conceito"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Conceitos Fundamentos",
+                "query": "Evidências",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -197,35 +201,35 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "08cb4569a1d04b7c",
+  "active": "14bb83f902db2fbb",
   "lastOpenFiles": [
-    "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/Direitos — Conceito.md",
-    "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/Patrimônio — Conceito.md",
-    "Concursos/Contabilidade Geral/10 - Patrimônio Líquido/Patrimônio Líquido — Conceito.md",
-    "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/Bens — Conceito.md",
-    "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/Obrigações — Conceito.md",
-    "Concursos/Contabilidade Geral/03 - Ativo/Ativo — Conceito.md",
-    "Concursos/Contabilidade Geral/07 - Passivo/Passivo — Conceito.md",
-    "Concursos/Contabilidade Geral/09 - Passivo Não Circulante/Passivo Não Circulante — Conceito.md",
-    "Concursos/Contabilidade Geral/08 - Passivo Circulante/Passivo Circulante — Conceito.md",
-    "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais.md",
-    "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/Bens Numerários — Conceito.md",
-    "Concursos/Contabilidade Geral/06 - Ativo Não Circulante/Ativo Imobilizado — Conceito.md",
-    "Concursos/Contabilidade Geral/06 - Ativo Não Circulante/Ativo Não Circulante — Conceito.md",
-    "Concursos/Contabilidade Geral/04 - Ativo Circulante/Ativo Circulante — Conceito.md",
-    "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/Usuários das Informações Contábeis.md",
-    "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/Usuários Externos.md",
-    "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/Usuários Internos.md",
-    "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/Classificação das Aziendas.md",
-    "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/Técnicas Contábeis.md",
-    "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/Análise das Demonstrações Contábeis — Conceito.md",
-    "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/Auditoria (Técnica Contábil) — Conceito.md",
-    "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/Elaboração das Demonstrações Contábeis — Conceito.md",
-    "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/Escrituração — Conceito.md",
-    "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/Funções da Contabilidade.md",
-    "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/Divisões Didáticas.md",
-    "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/Entidade — Conceito.md",
-    "Media/Pasted image 20251229102051.png",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/06 - Tributos — Conceito e Classificação/MOC — Tributos.md",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/01 - Conceitos Básicos do Direito Tributário/MOC — Conceitos Fundamentais.md",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo/05 - Atos Administrativos/MOC — Atos Administrativos.md",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo/05 - Atos Administrativos/Atos Administrativos Vinculados.md",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo/05 - Atos Administrativos/Atos Administrativos Discricionários.md",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/06 - Tributos — Conceito e Classificação/Tributo — Conceito.md",
+    "Media/Pasted image 20251229231614.png",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/03 - Princípios Gerais do Direito Tributário/Princípio do Pecúnia non Olet.md",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/03 - Princípios Gerais do Direito Tributário/MOC — Princípios Gerais do Direito Tributário.md",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/Direito Tributário — MOC.md",
+    "Concursos/Direito/01 - Fundamentos do Direito/Medidas Provisórias.md",
+    "Concursos/Direito/01 - Fundamentos do Direito/MOC — Fundamentos do Direito.md",
+    "Concursos/Direito/01 - Fundamentos do Direito/Direito — Conceito e Finalidade.md",
+    "Templates/Nota Hub.md",
+    "Concursos/Direito/01 - Fundamentos do Direito/Lei Ordinária.md",
+    "Concursos/Direito/02 - Princípios Gerais do Direito/MOC — Princípios Gerais do Direito.md",
+    "Concursos/Direito/02 - Princípios Gerais do Direito/Princípio do Estado Democrático de Direito.md",
+    "Tributo — Conceito.md",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/06 - Tributos — Conceito e Classificação/Taxas.md",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/06 - Tributos — Conceito e Classificação/Impostos.md",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/06 - Tributos — Conceito e Classificação/Empréstimos Compulsórios.md",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/06 - Tributos — Conceito e Classificação/Contribuições Especiais.md",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/06 - Tributos — Conceito e Classificação/Contribuições de Melhoria.md",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/06 - Tributos — Conceito e Classificação/Classificação dos Tributos.md",
+    "Concursos/Contabilidade Geral/Contabilidade Geral.md",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Constitucional/MOC — Direito Constitucional.md",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Constitucional/01 - Teoria Geral da Constituição/MOC — Teoria Geral da Constituição.md",
     "Media/Pasted image 20251227163046.png",
     "Media/Pasted image 20251227163014.png",
     "Media/Pasted image 20251226164446.png",

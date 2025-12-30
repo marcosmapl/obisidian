@@ -96,8 +96,9 @@ Nem tudo que está no texto constitucional é Constituição para Schmitt.
 ➡ **Marque: Carl Schmitt**
 
 ---
+## 🧭Navegação
 
-## 🔸 Navegação
-
-**← Módulo anterior:** [[Concursos/Direito/03 - Ramos do Direito Público/Direito Constitucional/01 - Teoria Geral da Constituição/MOC — Teoria Geral da Constituição|MOC Teoria Geral]]  
-**→ Próximo:** [[Concursos/Direito/03 - Ramos do Direito Público/Direito Constitucional/01 - Teoria Geral da Constituição/Sentido Normativo-Concretista|Sentido Normativo-Concretista]]
+- ⬅️ [[MOC — Teoria Geral da Constituição]]
+- ⬅️ [[MOC — Direito Constitucional]]
+- ⬅️ [[MOC — Ramos do Direito Público]]
+- ⚖️ [[Direito]]

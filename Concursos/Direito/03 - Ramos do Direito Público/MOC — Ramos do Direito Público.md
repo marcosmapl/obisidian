@@ -12,19 +12,19 @@ tags:
 
 O **Direito Público** regula as relações em que o Estado é parte com supremacia, tutelando o interesse público.
 
-### � Direito Constitucional
-[[Direito Constitucional — MOC|→ MOC Direito Constitucional]]
+### 🔹Direito Constitucional
+[[MOC — Direito Constitucional|→ MOC Direito Constitucional]]
 
-### 🔹 Direito Administrativo
+### 🔹Direito Administrativo
 [[Direito Administrativo — MOC|→ MOC Direito Administrativo]]
 
-### 🔹 Direito Tributário
+### 🔹Direito Tributário
 [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/Direito Tributário — MOC|→ MOC Direito Tributário]]
 
-### 🔹 Direito Financeiro
+### 🔹Direito Financeiro
 [[Concursos/Direito/03 - Ramos do Direito Público/Direito Financeiro/Direito Financeiro — MOC|→ MOC Direito Financeiro]]
 
-### 🔹 Direito Penal
+### 🔹Direito Penal
 [[Concursos/Direito/03 - Ramos do Direito Público/Direito Penal/Direito Penal — MOC|→ MOC Direito Penal]]
 
 #direito/publico
@@ -37,4 +37,10 @@ O **Direito Público** regula as relações em que o Estado é parte com suprema
 > - **Indisponibilidade** dos interesses públicos
 > - **Legalidade estrita**: administração só pode agir conforme a lei
 > - **Finalidade pública**: todos os atos visam o bem comum
+
+
+---
+## 🧭Navegação
+
+- ⚖️ [[Direito]]
 

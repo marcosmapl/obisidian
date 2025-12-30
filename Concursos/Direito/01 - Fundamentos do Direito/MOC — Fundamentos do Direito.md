@@ -34,3 +34,9 @@ tags:
 - **Posição das partes**: supremacia ou igualdade
 - **Disponibilidade**: normas cogentes ou dispositivas
 
+
+---
+## 🧭Navegação
+
+- ⚖️ [[Direito]]
+

@@ -47,3 +47,9 @@ O **Direito Processual** regula a atividade jurisdicional do Estado e o exercíc
 - Partes processuais
 - Atos processuais
 
+
+---
+## 🧭Navegação
+
+- ⚖️ [[Direito]]
+

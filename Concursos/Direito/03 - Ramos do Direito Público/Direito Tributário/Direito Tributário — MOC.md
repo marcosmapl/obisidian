@@ -3,33 +3,35 @@ disciplina: Direito Tributário
 created: 2025-12-12T04:10:00
 completed: 3
 ---
-## 🔸 Direito Tributário  — Conceito Geral
+## 🔸 Conceito Geral
 
-> Direito Tributário é a disciplina jurídica dos tributos. Com isso se abrange todo o conteúdo de princípios e normas reguladores da **criação**, **fiscalização** e **arrecadação** das prestações de natureza tributária." (Luciano Amaro)
+> [!note] Direito Tributário 
+> É a disciplina jurídica dos tributos. Com isso se abrange todo o conteúdo de princípios e normas reguladores da **criação**, **fiscalização** e **arrecadação** das prestações de natureza tributária." (Luciano Amaro)
 
 #direito/tributário #direito/público 
 
 ---
-## 🔸 MOC Principal — Navegação por Tópicos
+## 🔸[[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/01 - Conceitos Básicos do Direito Tributário/MOC — Conceitos Fundamentais|🗂️ 01 MOC — Conceitos Básicos]]
 
-1. [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/01 - Conceitos Básicos do Direito Tributário/MOC — Conceitos Básicos do Direito Tributário|MOC — Conceitos Básicos do Direito Tributário]]
-2. [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/02 - Sistema Tributário Nacional/MOC — Sistema Tributário Nacional|MOC — Sistema Tributário Nacional]]
-3. [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/03 - Princípios Gerais do Direito Tributário/MOC — Princípios Gerais do Direito Tributário|MOC — Princípios Gerais do Direito Tributário]]
-4. [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/04 - Competência Tributária/MOC — Competência Tributária|MOC — Competência Tributária]]
-5. [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/05 - Limitações do Poder de Tributar/MOC — Limitações do Poder de Tributar|MOC — Limitações do Poder de Tributar]]
-6. [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/06 - Tributos — Conceito e Classificação/MOC — Tributos — Conceito e Classificação|MOC — Tributos — Conceito e Classificação]]
-7. [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/07 - Impostos por Competência Constitucional/MOC — Impostos por Competência Constitucional|MOC — Impostos por Competência Constitucional]]
-8. [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/08 - Repartição das Receitas Tributárias/MOC — Repartição das Receitas Tributárias|MOC — Repartição das Receitas Tributárias]]
-9. [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/09 - Código Tributário Nacional — CTN/MOC — Código Tributário Nacional — CTN]]
-10. [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/10 - Legislação Tributária/MOC — Legislação Tributária]]
-11. [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/11 - Obrigação Tributária/MOC — Obrigação Tributária]]
-12. [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/12 - Crédito Tributário/MOC — Crédito Tributário]]
-13. [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/13 - Administração Tributária/MOC — Administração Tributária]]
-14. [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/14 - Simples Nacional/MOC — Simples Nacional]]
-15. [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/15 - Cobrança Judicial da Dívida Ativa/MOC — Cobrança Judicial da Dívida Ativa]]
-16. [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/16 - Tributação no Regime Falimentar/MOC — Tributação no Regime Falimentar]]
-17. [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/17 - Planejamento Tributário/MOC — Planejamento Tributário]]
-18. [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/18 - Súmulas Vinculantes em Matéria Tributária/MOC — Súmulas Vinculantes em Matéria Tributária]]
+## 🔸[[Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais|🗂️ 01 MOC — Conceitos Fundamentais]]
+
+1. [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/02 - Sistema Tributário Nacional/MOC — Sistema Tributário Nacional|MOC — Sistema Tributário Nacional]]
+2. [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/03 - Princípios Gerais do Direito Tributário/MOC — Princípios Gerais do Direito Tributário|MOC — Princípios Gerais do Direito Tributário]]
+3. [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/04 - Competência Tributária/MOC — Competência Tributária|MOC — Competência Tributária]]
+4. [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/05 - Limitações do Poder de Tributar/MOC — Limitações do Poder de Tributar|MOC — Limitações do Poder de Tributar]]
+5. [[MOC — Tributos|MOC — Tributos]]
+6. [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/07 - Impostos por Competência Constitucional/MOC — Impostos por Competência Constitucional|MOC — Impostos por Competência Constitucional]]
+7. [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/08 - Repartição das Receitas Tributárias/MOC — Repartição das Receitas Tributárias|MOC — Repartição das Receitas Tributárias]]
+8. [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/09 - Código Tributário Nacional — CTN/MOC — Código Tributário Nacional — CTN]]
+9. [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/10 - Legislação Tributária/MOC — Legislação Tributária]]
+10. [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/11 - Obrigação Tributária/MOC — Obrigação Tributária]]
+11. [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/12 - Crédito Tributário/MOC — Crédito Tributário]]
+12. [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/13 - Administração Tributária/MOC — Administração Tributária]]
+13. [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/14 - Simples Nacional/MOC — Simples Nacional]]
+14. [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/15 - Cobrança Judicial da Dívida Ativa/MOC — Cobrança Judicial da Dívida Ativa]]
+15. [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/16 - Tributação no Regime Falimentar/MOC — Tributação no Regime Falimentar]]
+16. [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/17 - Planejamento Tributário/MOC — Planejamento Tributário]]
+17. [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/18 - Súmulas Vinculantes em Matéria Tributária/MOC — Súmulas Vinculantes em Matéria Tributária]]
 
 ---
 ## 📂 MOC — Conceitos Básicos do Direito Tributário

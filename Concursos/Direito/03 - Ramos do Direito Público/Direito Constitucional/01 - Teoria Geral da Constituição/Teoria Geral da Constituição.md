@@ -8,9 +8,10 @@ created: 2025-12-14T21:40:00
 node_size: "10"
 ---
 
-## 🔸 Teoria Geral da Constituição
+## 🔸 Definição
 
-**Teoria Geral da Constituição** é o ramo do [[Direito Constitucional]] que estuda os **conceitos fundamentais**, os **princípios**, as **características** e as **classificações** das constituições, analisando a **essência** e os **sentidos** do constitucionalismo moderno.
+> [!note] Teoria Geral da Constituição
+> É o ramo do [[MOC — Direito Constitucional|Direito Constitucional]] que estuda os **conceitos fundamentais**, os **princípios**, as **características** e as **classificações** das constituições, analisando a **essência** e os **sentidos** do constitucionalismo moderno.
 
 ---
 
@@ -23,16 +24,6 @@ Uma Constituição é o **conjunto de normas jurídicas** que:
 - Estabelecem a **estrutura do poder**
 - Definem os **direitos e deveres** dos cidadãos
 - Prescrevem os **procedimentos** de funcionamento estatal
-
-### 🔹 Sentidos da Constituição
-
-A Constituição pode ser compreendida sob diferentes **perspectivas** ou **sentidos**:
-
-1. **Sentido Jurídico** — A Constituição como **norma superior** que vincula toda a atividade estatal
-2. **Sentido Político** — A Constituição como **expressão da vontade soberana** e da decisão política
-3. **Sentido Sociológico** — A Constituição como **fato social**, refletindo a realidade do grupo
-4. **Sentido Cultural** — A Constituição como **produto cultural** e expressão de valores
-5. **Sentido Normativo-Concretista** — A Constituição com **força normativa** que se adapta aos tempos
 
 ---
 
@@ -52,8 +43,9 @@ A Constituição pode ser compreendida sob diferentes **perspectivas** ou **sent
 - **Semi-rígida** — Parte rígida, parte flexível
 
 ---
+## 🧭Navegação
 
-## 🔸 Navegação
-
-**→ Explorar sentidos:** [[Concursos/Direito/03 - Ramos do Direito Público/Direito Constitucional/01 - Teoria Geral da Constituição/MOC — Teoria Geral da Constituição|MOC Teoria Geral da Constituição]]  
-**← Voltar:** [[Concursos/Direito/03 - Ramos do Direito Público/Direito Constitucional/Direito Constitucional — MOC|MOC Direito Constitucional]]
+- ⬅️ [[MOC — Teoria Geral da Constituição]]
+- ⬅️ [[MOC — Direito Constitucional]]
+- ⬅️ [[MOC — Ramos do Direito Público]]
+- ⚖️ [[Direito]]

@@ -9,15 +9,16 @@ created: 2025-12-14T22:12:00
 node_size: "10"
 ---
 
-### 1. Autor e Teoria
+## 1. Autor e Teoria
+
 - **Hans Kelsen**
 - Criador da **Teoria Pura do Direito**
 
 📌 **Palavra-chave:** *Norma*
 
 ---
+## 2. Ideia Central
 
-### 2. Ideia Central
 > **Constituição = norma jurídica pura**
 
 - A Constituição é:
@@ -30,8 +31,8 @@ node_size: "10"
 📌 Análise **exclusivamente jurídica**.
 
 ---
+## 3. Funções da Constituição
 
-### 3. Funções da Constituição
 A Constituição:
 - **Organiza** o poder político  
 - **Estrutura** o Estado  
@@ -42,8 +43,8 @@ A Constituição:
 **OELG** → *Organiza, Estrutura, Limita, Garante*
 
 ---
+## 4. Fundamento de Validade (Ponto-chave de Prova)
 
-### 4. Fundamento de Validade (Ponto-chave de Prova)
 - A Constituição **não** retira sua validade:
   - Dos **fatores reais de poder**
   - Da realidade social  
@@ -55,8 +56,8 @@ A Constituição:
 - **Kelsen** → norma jurídica / validade formal  
 
 ---
+## 5. Ordenamento Jurídico em Kelsen
 
-### 5. Ordenamento Jurídico em Kelsen
 > O Direito é um **sistema hierárquico de normas**
 
 - Normas inferiores → retiram validade das superiores  
@@ -70,15 +71,14 @@ A Constituição:
 **Escada Kelseniana** → *cada degrau sustenta o de baixo*
 
 ---
+## 6. A Pergunta Central
 
-### 6. A Pergunta Central
 > **De onde a Constituição tira seu fundamento de validade?**
 
 ➡ Resposta exige distinguir **dois sentidos de Constituição**.
 
 ---
-
-### 7. Dois Sentidos de Constituição em Kelsen (Tema Altamente Cobrado)
+## 7. Dois Sentidos de Constituição em Kelsen (Tema Altamente Cobrado)
 
 #### 🔹 Sentido Lógico-Jurídico
 - Constituição = **Norma Hipotética Fundamental**
@@ -95,27 +95,8 @@ A Constituição:
 **“Obedeça-se à Constituição positiva!”**
 
 ---
+## 8. Esquema-Resumo do Fundamento de Validade
 
-#### 🔹 Sentido Jurídico-Positivo
-
----
-
-## 🔸 Navegação
-
-**← Módulo anterior:** [[Concursos/Direito/03 - Ramos do Direito Público/Direito Constitucional/01 - Teoria Geral da Constituição/MOC — Teoria Geral da Constituição|MOC Teoria Geral]]  
-**➤ Sentido Normativo:** [[Concursos/Direito/03 - Ramos do Direito Público/Direito Constitucional/01 - Teoria Geral da Constituição/Sentido Normativo-Concretista|Sentido Normativo-Concretista]]
-- Constituição = **norma positiva suprema**
-- Características:
-  - Escrita  
-  - Documento solene  
-  - Procedimento especial de alteração  
-
-📌 Exemplo brasileiro:
-- **Constituição Federal de 1988 (CF/88)**
-
----
-
-### 8. Esquema-Resumo do Fundamento de Validade
 - Normas inferiores  
 ⬇  
 - Constituição positiva (escrita)  
@@ -126,13 +107,9 @@ A Constituição:
 > *Em Kelsen, toda norma vale porque outra autoriza — até chegar à norma hipotética fundamental.*
 
 ---
+## 🧭Navegação
 
-### 9. Dica Estratégica de Prova
-- Se a questão mencionar:
-  - **Norma hipotética fundamental**
-  - **Hierarquia de normas**
-  - **Validade formal**
-  - **Teoria Pura do Direito**  
-➡ **Resposta: Hans Kelsen**
-
----
+- ⬅️ [[MOC — Teoria Geral da Constituição]]
+- ⬅️ [[MOC — Direito Constitucional]]
+- ⬅️ [[MOC — Ramos do Direito Público]]
+- ⚖️ [[Direito]]

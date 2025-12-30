@@ -100,9 +100,9 @@ A Constituição total resulta da **combinação** de:
 - Concepção **cultural** (valores e valores morais)
 
 ---
+## 🧭Navegação
 
-## 🔸 Navegação
-
-**← Módulo anterior:** [[Concursos/Direito/03 - Ramos do Direito Público/Direito Constitucional/01 - Teoria Geral da Constituição/MOC — Teoria Geral da Constituição|MOC Teoria Geral]]  
-**→ Próximo:** [[Concursos/Direito/03 - Ramos do Direito Público/Direito Constitucional/01 - Teoria Geral da Constituição/Sentido Político|Sentido Político]]
-- Concepção **sociológica** (fatores
+- ⬅️ [[MOC — Teoria Geral da Constituição]]
+- ⬅️ [[MOC — Direito Constitucional]]
+- ⬅️ [[MOC — Ramos do Direito Público]]
+- ⚖️ [[Direito]]

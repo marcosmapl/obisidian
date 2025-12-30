@@ -17,6 +17,7 @@ tags:
 - [[Distinção entre Princípios e Regras]]
 - [[Colisão de Princípios]]
 - [[Princípio da Dignidade da Pessoa Humana]]
+- [[Princípio do Estado Democrático de Direito]]
 - [[Princípio da Legalidade]]
 - [[Princípio da Igualdade]]
 - [[Princípio da Segurança Jurídica]]
@@ -38,4 +39,10 @@ tags:
 1. **Fundamentadora**: base do sistema jurídico
 2. **Interpretativa**: orientam a interpretação das normas
 3. **Integrativa**: preenchem lacunas do ordenamento
+
+
+---
+## 🧭Navegação
+
+- ⚖️ [[Direito]]
 

@@ -72,7 +72,7 @@ A Constituição Federal estabelece as seguintes espécies normativas:
 ---
 ## 🔸Links Relacionados
 
-- [[Direito Constitucional — MOC]]
+- [[MOC — Direito Constitucional]]
 - [[Teoria da Norma Jurídica]]
 - [[Processo Legislativo]]
 - [[Hierarquia das Normas Jurídicas]]

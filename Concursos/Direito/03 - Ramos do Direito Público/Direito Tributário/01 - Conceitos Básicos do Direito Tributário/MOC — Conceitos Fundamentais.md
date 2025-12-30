@@ -1,18 +1,13 @@
 ---
 disciplina: Direito Tributário
-tópico: Conceitos Básicos do Direito Tributário
+tópico: Conceitos Fundamentais
 created: 2025-12-23T00:00:00
-updated: 2025-12-23T00:00:00
-progresso: 0
-tags:
-  - direito
-  - tributário
-  - moc
+updated: 2025-12-29T21:50:00
 ---
 
-## Navegação — Conceitos Básicos
+## 🔸Conceitos Fundamentais
 
-- [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/01 - Conceitos Básicos do Direito Tributário/Tributos — Conceito e Classificação]]
+- [[Tributo — Conceito]]
 - [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/01 - Conceitos Básicos do Direito Tributário/Natureza Jurídica do Tributo]]
 - [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/01 - Conceitos Básicos do Direito Tributário/Receitas Públicas]]
 - [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/01 - Conceitos Básicos do Direito Tributário/Receitas Tributárias]]

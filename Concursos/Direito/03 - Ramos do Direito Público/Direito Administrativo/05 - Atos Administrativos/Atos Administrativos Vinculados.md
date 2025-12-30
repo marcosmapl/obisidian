@@ -1,0 +1,3 @@
+
+- Ato Vinculado
+- Ato Discricionário

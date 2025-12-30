@@ -11,7 +11,7 @@ node_size: "80"
 ---
 ## 🔸Definição
 
-> [!note] Contabilidade
+> [!abstract] Contabilidade
 > **Contabilidade Geral** é a ciência que estuda, registra e controla o patrimônio das entidades, fornecendo informações úteis para a **tomada de decisões** por usuários internos e externos, através de demonstrações contábeis padronizadas.
 
 #contabilidade/conceito

@@ -4,7 +4,8 @@ tópico: Conceitos Fundamentais
 created: 2025-12-22T10:57:00
 ---
 
-> ✏️**Lei Ordinária** é a espécie normativa primária utilizada para disciplinar matérias de competência legislativa geral, aprovada pelo **processo legislativo ordinário**, mediante **maioria simples** dos votos, desde que presente a maioria absoluta dos parlamentares (quórum de presença).
+> [!note] Lei Ordinária
+> É a espécie normativa primária utilizada para disciplinar matérias de competência legislativa geral, aprovada pelo **processo legislativo ordinário**, mediante **maioria simples** dos votos, desde que presente a maioria absoluta dos parlamentares (quórum de presença).
 
 ---
 ## 🔸Fundamento Constitucional
