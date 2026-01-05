@@ -1,10 +1,8 @@
 ---
 disciplina: Raciocínio Lógico
-tópico: Conceitos Introdutórios
+tópico: Conceitos Fundamentais
 created: 2025-12-15T15:56:00
-tags:
-  - rlm/conectivos/condicional
-node_size: "10"
+updated: 2026-01-05T05:17:00
 ---
 
 ### 1. Conceito Básico

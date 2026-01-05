@@ -45,8 +45,6 @@ A Auditoria Contábil abrange:
 ---
 ## Tópicos Relacionados
 
-- [[Auditoria]]
-- [[MOC — Classificação da Auditoria]]
 - [[Auditoria Governamental — Conceito]]
 - [[Auditoria de Avaliação da Gestão — Conceito]]
 - [[Auditoria de Acompanhamento da Gestão — Conceito]]

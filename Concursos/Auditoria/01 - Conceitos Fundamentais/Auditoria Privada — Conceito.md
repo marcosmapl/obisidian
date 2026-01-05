@@ -37,7 +37,6 @@ A **Auditoria Privada** pode ser:
 - [[Auditoria Governamental — Conceito]]
 - [[Auditoria Interna — Conceito]]
 - [[Auditoria Externa — Conceito]]
-- [[MOC — Classificação da Auditoria]]
-- [[Auditoria]]
+
 
 #audioria/privada

@@ -18,7 +18,7 @@ tags:
 - [[Colisão de Princípios]]
 - [[Princípio da Dignidade da Pessoa Humana]]
 - [[Princípio do Estado Democrático de Direito]]
-- [[Princípio da Legalidade]]
+- [[Princípio da Legalidade Administrativa]]
 - [[Princípio da Igualdade]]
 - [[Princípio da Segurança Jurídica]]
 - [[Princípio da Boa-fé]]

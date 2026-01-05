@@ -36,8 +36,6 @@ updated: 2025-12-30T09:18:00
 ---
 ## Tópicos Relacionados
 
-- [[Auditoria]]
-- [[MOC — Classificação da Auditoria]]
 - [[Auditoria Governamental — Conceito]]
 - [[Auditoria de Acompanhamento da Gestão — Conceito]]
 - [[Auditoria Contábil — Conceito]]

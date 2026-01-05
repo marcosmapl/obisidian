@@ -3,7 +3,7 @@ disciplina: Direito Tributário
 created: 2025-12-12T04:10:00
 completed: 3
 ---
-## 🔸 Conceito Geral
+## Conceito Geral
 
 > [!note] Direito Tributário 
 > É a disciplina jurídica dos tributos. Com isso se abrange todo o conteúdo de princípios e normas reguladores da **criação**, **fiscalização** e **arrecadação** das prestações de natureza tributária." (Luciano Amaro)
@@ -11,40 +11,17 @@ completed: 3
 #direito/tributário #direito/público 
 
 ---
-## 🔸[[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/01 - Conceitos Básicos do Direito Tributário/MOC — Conceitos Fundamentais|🗂️ 01 MOC — Conceitos Básicos]]
-
-## 🔸[[Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais|🗂️ 01 MOC — Conceitos Fundamentais]]
-
-1. [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/02 - Sistema Tributário Nacional/MOC — Sistema Tributário Nacional|MOC — Sistema Tributário Nacional]]
-2. [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/03 - Princípios Gerais do Direito Tributário/MOC — Princípios Gerais do Direito Tributário|MOC — Princípios Gerais do Direito Tributário]]
-3. [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/04 - Competência Tributária/MOC — Competência Tributária|MOC — Competência Tributária]]
-4. [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/05 - Limitações do Poder de Tributar/MOC — Limitações do Poder de Tributar|MOC — Limitações do Poder de Tributar]]
-5. [[MOC — Tributos|MOC — Tributos]]
-6. [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/07 - Impostos por Competência Constitucional/MOC — Impostos por Competência Constitucional|MOC — Impostos por Competência Constitucional]]
-7. [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/08 - Repartição das Receitas Tributárias/MOC — Repartição das Receitas Tributárias|MOC — Repartição das Receitas Tributárias]]
-8. [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/09 - Código Tributário Nacional — CTN/MOC — Código Tributário Nacional — CTN]]
-9. [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/10 - Legislação Tributária/MOC — Legislação Tributária]]
-10. [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/11 - Obrigação Tributária/MOC — Obrigação Tributária]]
-11. [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/12 - Crédito Tributário/MOC — Crédito Tributário]]
-12. [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/13 - Administração Tributária/MOC — Administração Tributária]]
-13. [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/14 - Simples Nacional/MOC — Simples Nacional]]
-14. [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/15 - Cobrança Judicial da Dívida Ativa/MOC — Cobrança Judicial da Dívida Ativa]]
-15. [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/16 - Tributação no Regime Falimentar/MOC — Tributação no Regime Falimentar]]
-16. [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/17 - Planejamento Tributário/MOC — Planejamento Tributário]]
-17. [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/18 - Súmulas Vinculantes em Matéria Tributária/MOC — Súmulas Vinculantes em Matéria Tributária]]
-
----
-## 📂 MOC — Conceitos Básicos do Direito Tributário
+## 📂 01 [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais|MOC — Conceitos Fundamentais]]
 
 - [[Tributos — Conceito e Classificação]]
 - [[Natureza Jurídica do Tributo]]
-- [[Receitas Públicas]]
-- [[Receitas Tributárias]]
-- [[Receitas Não Tributárias]]
+- [[Receita Pública — Conceito]]
+- [[Receita Tributária — Conceito]]
+- [[Receita Não Tributária — Conceito]]
 - [[Preço Público]]
 - [[Multa — Natureza Jurídica]]
 - [[Sanção por Ato Ilícito]]
-- [[Capacidade Tributária Ativa]]
+- [[Capacidade Tributária Ativa  — Conceito]]
 - [[Parafiscalidade]]
 
 ---
@@ -59,10 +36,10 @@ completed: 3
 ## 📂 MOC — Princípios Gerais do Direito Tributário
 
 - [[Princípio da Legalidade Tributária]]
-- [[Princípio da Anterioridade]]
+- [[Princípio da Anterioridade Tributária]]
 - [[Princípio da Isonomia Tributária]]
 - [[Princípio da Capacidade Contributiva]]
-- [[Princípio da Vedação ao Confisco]]
+- [[Princípio do Não Confisco]]
 - [[Princípio da Irretroatividade Tributária]]
 
 ---
@@ -79,7 +56,7 @@ completed: 3
 ## 📂 MOC — Limitações do Poder de Tributar
 
 - [[Limitações Constitucionais ao Poder de Tributar]]
-- [[Imunidades Tributárias]]
+- [[Imunidade Tributária  — Conceito]]
 - [[Isenções Tributárias]]
 - [[Arts. 150 a 152 da CF/1988]]
 
@@ -109,8 +86,8 @@ completed: 3
 
 - [[Tributo — Conceito]]
 - [[Classificação dos Tributos]]
-- [[Impostos]]
-- [[Taxas]]
+- [[Imposto — Conceito]]
+- [[Taxas — Conceito]]
 - [[Contribuições de Melhoria]]
 - [[Empréstimos Compulsórios]]
 - [[Contribuições Especiais]]
@@ -128,7 +105,7 @@ completed: 3
 ## 📂 MOC — Obrigação Tributária
 
 - [[Obrigação Tributária — Conceito]]
-- [[Fato Gerador]]
+- [[Fato Gerador — Conceito]]
 - [[Sujeito Ativo]]
 - [[Sujeito Passivo]]
 - [[Responsabilidade Tributária]]
@@ -192,16 +169,7 @@ completed: 3
 ## 📂 MOC — Revisão
 
 - [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/Caderno de Erros|Caderno de Erros]]
----
 
-## 📊 Progresso dos MOCs
-
-```dataview
-table tópico as "Tópico", progresso
-from "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário"
-where contains(file.name, "MOC — ")
-sort file.name asc
-```
 
 #direito/tributário
 

@@ -1,6 +1,6 @@
 ---
 disciplina: Contabilidade Geral
-tópico: Conceitos Introdutórios
+tópico: Conceitos Fundamentais
 created: 2025-12-19T14:58:00
 updated: 2025-12-29T11:06:00
 ---

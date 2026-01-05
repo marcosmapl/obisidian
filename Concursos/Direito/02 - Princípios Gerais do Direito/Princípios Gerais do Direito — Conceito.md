@@ -13,7 +13,7 @@ created: 2025-12-20T15:53:00
 ## 🔸 Princípios Estruturantes do Ordenamento Jurídico
 
 - [[Princípio da Dignidade da Pessoa Humana]]    
-- [[Princípio da Legalidade]]
+- [[Princípio da Legalidade Administrativa]]
 - [[Princípio da Segurança Jurídica]]
 - [[Princípio da Igualdade (Isonomia)]]
 - [[Princípio da Justiça]]
@@ -75,10 +75,10 @@ created: 2025-12-20T15:53:00
 ## 🔸 Princípios do Direito Tributário
 
 - [[Princípio da Legalidade Tributária]]
-- [[Princípio da Anterioridade]]
+- [[Princípio da Anterioridade Tributária]]
 - [[Princípio da Isonomia Tributária]]
 - [[Princípio da Capacidade Contributiva]]
-- [[Princípio da Vedação ao Confisco]]
+- [[Princípio do Não Confisco]]
 - [[Princípio da Irretroatividade Tributária]]
 
 ---

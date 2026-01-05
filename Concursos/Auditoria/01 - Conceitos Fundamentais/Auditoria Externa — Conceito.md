@@ -44,7 +44,6 @@ updated: 2025-12-30T09:48:00
 ---
 ## Tópicos Relacionados
 
-- [[Auditoria]]
-- [[MOC — Classificação da Auditoria]]
 - [[Auditoria Privada — Conceito]]
 - [[Auditoria Interna — Conceito]]
+- [[Risco de Auditoria — Conceito]]

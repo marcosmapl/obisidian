@@ -12,8 +12,11 @@ updated: 2025-12-26T00:20:00
 
 #ti/bd/ansi-sparc/independencia_logica 
 
+> [!warning] Dependendo o tipo de alteração, ela poderá ser refletida nos níveis superiores.
+
+
 ---
-## 🔸Links Relacionados
+## Tópicos Relacionados
 
 - [[Arquitetura ANSI-SPARC]]
 - [[Independência Física de Dados]]

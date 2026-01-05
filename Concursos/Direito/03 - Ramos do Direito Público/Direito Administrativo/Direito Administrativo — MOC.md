@@ -3,38 +3,74 @@ disciplina: Direito Administrativo
 created: 2025-12-11T15:01:00
 completed: 0
 ---
-## 🔸 Direito Administrativo  — Conceito Geral
+## Conceito Geral
 
-> ✏️**Direito Administrativo** é o ramo do [[Direito Público]] que estuda o conjunto de **princípios, normas e institutos** que disciplinam a **organização**, o **funcionamento** e a **atuação da Administração Pública**, bem como as **relações jurídicas** entre o Estado e os particulares no exercício da **função administrativa**.
+> [!note] Direito Administrativo
+> É o ramo do [[Direito Público]] que estuda o conjunto de **princípios, normas e institutos** que disciplinam a **organização**, o **funcionamento** e a **atuação da Administração Pública**, bem como as **relações jurídicas** entre o Estado e os particulares no exercício da **função administrativa**.
 
 #direito/administrativo  #direito/público  
 
 ---
-## � MOC Principal
+## MOC Principal
 
-### 🔹 01 — [[Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo/01 - Conceito e Fontes/MOC — Conceito e Fontes|MOC — Conceito e Fontes]]
-### 🔹 02 — [[Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo/02 - Regime Jurídico-Administrativo/MOC — Regime Jurídico-Administrativo|MOC — Regime Jurídico-Administrativo]]
-### 🔹 03 — [[Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo/03 - Administração Pública e Organização Administrativa/MOC — Administração Pública e Organização Administrativa|MOC — Administração Pública e Organização Administrativa]]
-### 🔹 04 — [[Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo/04 - Poderes Administrativos/MOC — Poderes Administrativos|MOC — Poderes Administrativos]]
-### 🔹 05 — [[Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo/05 - Atos Administrativos/MOC — Atos Administrativos|MOC — Atos Administrativos]]
-### 🔹 06 — [[Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo/06 - Licitações Públicas/MOC — Licitações Públicas|MOC — Licitações Públicas]]
-### 🔹 07 — [[Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo/07 - Contratos Administrativos/MOC — Contratos Administrativos|MOC — Contratos Administrativos]]
-### 🔹 08 — [[Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo/08 - Serviços Públicos/MOC — Serviços Públicos|MOC — Serviços Públicos]]
-### 🔹 09 — [[Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo/09 - Servidores Públicos/MOC — Servidores Públicos|MOC — Servidores Públicos]]
-### 🔹 10 — [[Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo/10 - Bens Públicos/MOC — Bens Públicos|MOC — Bens Públicos]]
-### 🔹 11 — [[Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo/11 - Responsabilidade Civil do Estado/MOC — Responsabilidade Civil do Estado|MOC — Responsabilidade Civil do Estado]]
-### 🔹 12 — [[Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo/12 - Improbidade Administrativa/MOC — Improbidade Administrativa|MOC — Improbidade Administrativa]]
-### 🔹 13 — [[Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo/13 - Controle da Administração Pública/MOC — Controle da Administração Pública|MOC — Controle da Administração Pública]]
-### 🔹 14 — [[Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo/14 - LGPD/MOC — LGPD|MOC — LGPD]]
-### 🔹 15 — [[Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo/15 - Lei Anticorrupção/MOC — Lei Anticorrupção|MOC — Lei Anticorrupção]]
+### 01 — [[Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo/01 - Conceito e Fontes/MOC — Conceito e Fontes|MOC — Conceito e Fontes]]
+
+### 02 — [[Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo/02 - Princípios Administrativos/MOC — Princípios Administrativos|MOC — Princípios Administrativos]]
+### 03 — [[MOC — Regime Jurídico-Administrativo|MOC — Regime Jurídico-Administrativo]]
+### 04 — [[MOC — Administração Pública e Organização Administrativa|MOC — Administração Pública e Organização Administrativa]]
+### 05 — [[MOC — Poderes Administrativos|MOC — Poderes Administrativos]]
+### 06 — [[MOC — Atos Administrativos|MOC — Atos Administrativos]]
+### 07 — [[MOC — Licitações Públicas|MOC — Licitações Públicas]]
+### 08 — [[MOC — Contratos Administrativos|MOC — Contratos Administrativos]]
+### 09 — [[MOC — Serviços Públicos|MOC — Serviços Públicos]]
+### 10 — [[MOC — Servidores Públicos|MOC — Servidores Públicos]]
+### 11 — [[MOC — Bens Públicos|MOC — Bens Públicos]]
+### 12 — [[MOC — Responsabilidade Civil do Estado|MOC — Responsabilidade Civil do Estado]]
+### 13 — [[MOC — Improbidade Administrativa|MOC — Improbidade Administrativa]]
+### 14 — [[MOC — Controle da Administração Pública|MOC — Controle da Administração Pública]]
+### 15 — [[MOC — LGPD|MOC — LGPD]]
+### 16 — [[MOC — Lei Anticorrupção|MOC — Lei Anticorrupção]]
 
 ---
-## � MOC — Fontes do Direito
+## MOC — Conceito e Fontes
 
 - [[Fontes do Direito Administrativo]]
 
 ---
-## 🔸 MOC — Regime Jurídico-Administrativo
+## MOC — Princípios Administrativos
+
+- [[Princípio da Legalidade Administrativa]]
+- [[Princípio da Impessoalidade]]
+- [[Princípio da Moralidade]]
+- [[Princípio da Publicidade]]
+- [[Princípio da Eficiência]]
+- [[Princípio da Supremacia do Interesse Público]]
+- [[Princípio da Indisponibilidade do Interesse Público]]
+- [[Princípio da Continuidade do Serviço Público]]
+- [[Princípio da Motivação]]
+- [[Princípio da Razoabilidade]]
+- [[Princípio da Proporcionalidade]]
+- [[Princípio da Autotutela]]
+- [[Princípio da Segurança Jurídica]]
+- [[Princípio da Proteção da Confiança]]
+- [[Princípio da Finalidade]]
+- [[Princípio da Hierarquia]]
+- [[Princípio da Especialidade]]
+- [[Princípio da Presunção de Legitimidade e Veracidade]]
+- [[Princípio da Oficialidade]]
+- [[Princípio da Autoexecutoriedade]]
+- [[Princípio da Igualdade Administrativa]]
+- [[Princípio do Devido Processo Legal Administrativo]]
+- [[Princípio do Contraditório e da Ampla Defesa]]
+- [[Princípio da Transparência]]
+- [[Princípio da Responsabilização do Estado]]
+- [[Princípio da Proporcionalidade na Jurisprudência]]
+- [[Princípio da Moralidade e Controle Judicial]]
+- [[Princípio da Segurança Jurídica no STF]]
+- [[Princípios Administrativos e Ativismo Judicial]]
+
+---
+## MOC — Regime Jurídico-Administrativo
 
 - [[Bens de Uso — Conceito]]
 - [[Supremacia do Interesse Público]]
@@ -42,7 +78,7 @@ completed: 0
 - [[Prerrogativas e Restrições da Administração]]
 
 ---
-## 🔸 MOC — Administração Pública
+## MOC — Administração Pública
 
 - [[Administração Pública — Conceito]]
 - [[Poderes do Administrador Público]]
@@ -50,7 +86,7 @@ completed: 0
 - [[Uso e Abuso do Poder]]
 
 ---
-## 📂 MOC — Organização Administrativa
+## MOC — Organização Administrativa
 
 - [[Organização Administrativa — Princípios]]
 - [[Centralização e Descentralização]]
@@ -59,7 +95,7 @@ completed: 0
 - [[Administração Pública Indireta]]
 
 ---
-## 📂 MOC — Entidades da Administração Indireta
+## MOC — Entidades da Administração Indireta
 
 - [[Autarquias]]
 - [[Fundações Públicas]]
@@ -70,7 +106,7 @@ completed: 0
 - [[Contratos de Gestão]]
 
 ---
-## 📂 MOC — Poderes Administrativos
+## MOC — Poderes Administrativos
 
 - [[Poder Vinculado]]
 - [[Poder Discricionário]]
@@ -80,7 +116,7 @@ completed: 0
 - [[Poder de Polícia]]
 
 ---
-## 📂 MOC — Atos Administrativos
+## MOC — Atos Administrativos
 
 - [[Atos Administrativos Vinculados]]
 - [[Requisitos dos Atos Administrativos]]
@@ -91,7 +127,7 @@ completed: 0
 - [[Invalidação dos Atos Administrativos]]
 
 ---
-## 📂 MOC — Licitações Públicas
+## MOC — Licitações Públicas
 
 - [[Licitação — Conceito e Finalidades]]
 - [[Princípios das Licitações]]
@@ -108,7 +144,7 @@ completed: 0
 - [[Lei nº 14.133/2021]]
 
 ---
-## 📂 MOC — Contratos Administrativos
+## MOC — Contratos Administrativos
 
 - [[Contratos Administrativos — Conceito]]
 - [[Peculiaridades dos Contratos Administrativos]]
@@ -120,7 +156,7 @@ completed: 0
 - [[Rescisão Contratual]]
 
 ---
-## 📂 MOC — Serviços Públicos
+## MOC — Serviços Públicos
 
 - [[Serviços Públicos — Conceito]]
 - [[Classificação dos Serviços Públicos]]
@@ -131,7 +167,7 @@ completed: 0
 - [[Autorização de Serviços Públicos]]
 
 ---
-## 📂 MOC — Servidores Públicos
+## MOC — Servidores Públicos
 
 - [[Servidores Públicos — Conceito]]
 - [[Regramento Constitucional dos Servidores Públicos]]
@@ -141,7 +177,7 @@ completed: 0
 - [[Responsabilidade dos Servidores Públicos]]
 
 ---
-## 📂 MOC — Bens Públicos
+## MOC — Bens Públicos
 
 - [[Bens Públicos — Conceito]]
 - [[Regime Jurídico dos Bens Públicos]]
@@ -156,7 +192,7 @@ completed: 0
 - [[Cessão de Uso]]
 
 ---
-## 📂 MOC — Responsabilidade Civil do Estado
+## MOC — Responsabilidade Civil do Estado
 
 - [[Bens de Venda — Conceito]]
 - [[Fundamentos da Responsabilidade Estatal]]
@@ -164,7 +200,7 @@ completed: 0
 - [[Ação Regressiva]]
 
 ---
-## 📂 MOC — Improbidade Administrativa
+## MOC — Improbidade Administrativa
 
 - [[Improbidade Administrativa — Conceito]]
 - [[Lei nº 8.429/1992]]
@@ -173,7 +209,7 @@ completed: 0
 - [[Sanções por Improbidade]]
 
 ---
-## 📂 MOC — Controle da Administração Pública
+## MOC — Controle da Administração Pública
 
 - [[Controle da Administração Pública — Conceito]]
 - [[Tipos de Controle]]
@@ -189,7 +225,7 @@ completed: 0
 - [[Meios de Controle Jurisdicional]]
 
 ---
-## 📂 MOC — Proteção de Dados e Compliance
+## MOC — Proteção de Dados e Compliance
 
 - [[Lei Geral de Proteção de Dados — Lei nº 13.709/2018]]
 - [[Alterações da Lei nº 13.853/2019]]
@@ -197,12 +233,10 @@ completed: 0
 - [[Responsabilização Administrativa e Civil]]
 
 ---
+## Recursos Adicionais
 
-## 🔸 Recursos Adicionais
+### Caderno de Erros
 
-### 🔹 Caderno de Erros
-[[Caderno de Erros (Direito Administrativo)|Questões comentadas e erros comuns]]
+- [[Caderno de Erros (Direito Administrativo)]]
 
----
 
-#direito/administrativo

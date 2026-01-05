@@ -8,12 +8,13 @@ updated: 2025-12-26T00:19:00
 
 > [!note] Independência Física de Dados
 > Permite alterar o **esquema interno** sem afetar o **esquema conceitual externo**. Isso pode ser necessário para reorganizar os arquivos físicos visando melhorar o desempenho, sem alterar como os usuários veem e interagem com os dados.
-
  
 #ti/bd/ansi-sparc/independencia_fisica 
 
+> [!warning] Dependendo o tipo de alteração, ela poderá ser refletida nos níveis superiores.
+
 ---
-## 🔸Links Relacionados
+## Tópicos Relacionados
 
 - [[Arquitetura ANSI-SPARC]]
 - [[Independência Lógica de Dados]]

@@ -13,19 +13,16 @@ tags:
   - livro/essencialismo
 ---
 ## Primeira Parte: Essência
-> Qual é a mentalidade básica do essencialista?
+
+> [!quote] Qual é a mentalidade básica do essencialista?
 ### [[Capítulo 1 — O Essencialista]]
 
 Introduz o essencialismo como uma filosofia de vida baseada em foco, escolha consciente e eliminação do supérfluo. Mostrar que tentar fazer tudo leva à mediocridade, enquanto dizer “não” ao trivial permite excelência no essencial.  
-
-#essencialismo #foco #priorização #menosPorémMelhor
 
 ---
 ### [[Capítulo 2 — Escolher]]
 
 A escolha é um poder inalienável. Quando não escolhemos deliberadamente, alguém escolhe por nós. O essencialista substitui “tenho que fazer” por “escolho fazer”, assumindo total responsabilidade pelo uso do tempo e da energia.  
-
-#escolha #autonomia #responsabilidade #decisão
 
 ---
 ### [[Capítulo 3 — Discernir]]
@@ -43,6 +40,7 @@ Toda escolha exige renúncia. Tentar manter tudo resulta em estratégias incoere
 
 ---
 ## Segunda Parte: Explorar
+
 > Como discernir as muitas trivialidades do pouco que é vital?
 ### [[Capítulo 5 — Escapar]]
 

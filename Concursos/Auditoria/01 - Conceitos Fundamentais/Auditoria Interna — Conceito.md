@@ -31,9 +31,9 @@ created: 2025-12-22T21:48:00
 ---
 ## Tópicos Relacionados
 
-- [[Auditoria]]
-- [[MOC — Classificação da Auditoria]]
 - [[Auditoria Privada — Conceito]]
 - [[Auditoria Externa — Conceito]]
+- [[Risco de Auditoria — Conceito]]
+- [[Risco de Auditoria Interna]]
 
 #auditoria/interna #auditoria/nbc_ti_01

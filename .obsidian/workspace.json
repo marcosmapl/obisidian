@@ -4,103 +4,98 @@
     "type": "split",
     "children": [
       {
-        "id": "946c20eeb14d2f8a",
-        "type": "split",
+        "id": "93d1dd46280d08f7",
+        "type": "tabs",
+        "dimension": 66.94386694386695,
         "children": [
           {
-            "id": "70df1836b878e0d1",
+            "id": "6250139811b0bf12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/05 - Limitações do Poder de Tributar/Limitação ao Poder de Tributar  — Conceito.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Limitação ao Poder de Tributar  — Conceito"
+            },
+            "group": "74653a20cfcc7561"
+          }
+        ]
+      },
+      {
+        "id": "bd20b3555fb9de03",
+        "type": "split",
+        "dimension": 33.056133056133056,
+        "children": [
+          {
+            "id": "3fd37369b31127d2",
             "type": "tabs",
-            "dimension": 74.37536316095293,
+            "dimension": 67.01388888888889,
             "children": [
               {
-                "id": "0970cb3967c33eef",
+                "id": "032f33b364a380ee",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
+                  "type": "localgraph",
                   "state": {
-                    "file": "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/SQL/DML.md",
-                    "mode": "source",
-                    "source": false
+                    "file": "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/05 - Limitações do Poder de Tributar/Limitação ao Poder de Tributar  — Conceito.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.2588386562181625,
+                      "close": true
+                    }
                   },
-                  "icon": "lucide-file",
-                  "title": "DML"
-                }
+                  "icon": "lucide-git-fork",
+                  "title": "Gráfico de Limitação ao Poder de Tributar  — Conceito"
+                },
+                "group": "74653a20cfcc7561"
               }
             ]
           },
           {
-            "id": "24944be2be98882e",
-            "type": "split",
-            "dimension": 25.624636839047067,
+            "id": "4a5facbcbea6bbdd",
+            "type": "tabs",
+            "dimension": 32.98611111111111,
             "children": [
               {
-                "id": "93d1dd46280d08f7",
-                "type": "tabs",
-                "dimension": 61.858407079646014,
-                "children": [
-                  {
-                    "id": "8a2d4f96b3806d40",
-                    "type": "leaf",
-                    "state": {
-                      "type": "localgraph",
-                      "state": {
-                        "file": "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/SQL/DML.md",
-                        "options": {
-                          "collapse-filter": true,
-                          "search": "",
-                          "localJumps": 1,
-                          "localBacklinks": true,
-                          "localForelinks": true,
-                          "localInterlinks": false,
-                          "showTags": false,
-                          "showAttachments": false,
-                          "hideUnresolved": false,
-                          "collapse-color-groups": true,
-                          "colorGroups": [],
-                          "collapse-display": true,
-                          "showArrow": false,
-                          "textFadeMultiplier": 0,
-                          "nodeSizeMultiplier": 1,
-                          "lineSizeMultiplier": 1,
-                          "collapse-forces": false,
-                          "centerStrength": 0.518713248970312,
-                          "repelStrength": 10,
-                          "linkStrength": 1,
-                          "linkDistance": 250,
-                          "scale": 0.22751270030345386,
-                          "close": true
-                        }
-                      },
-                      "icon": "lucide-git-fork",
-                      "title": "Gráfico de DML"
-                    }
-                  }
-                ]
-              },
-              {
-                "id": "97259f50ac44c200",
-                "type": "tabs",
-                "dimension": 38.141592920353986,
-                "children": [
-                  {
-                    "id": "25b2d532781a899e",
-                    "type": "leaf",
-                    "state": {
-                      "type": "file-properties",
-                      "state": {
-                        "file": "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/SQL/DML.md"
-                      },
-                      "icon": "lucide-info",
-                      "title": "Propriedades do arquivo DML"
-                    }
-                  }
-                ]
+                "id": "25b2d532781a899e",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/05 - Limitações do Poder de Tributar/Limitação ao Poder de Tributar  — Conceito.md"
+                  },
+                  "icon": "lucide-info",
+                  "title": "Propriedades do arquivo Limitação ao Poder de Tributar  — Conceito"
+                }
               }
-            ],
-            "direction": "horizontal"
+            ]
           }
         ],
-        "direction": "vertical"
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -132,7 +127,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"tópico\":Conceitos Intr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -157,7 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338.5110321044922
+    "width": 432.5
   },
   "right": {
     "id": "85539bb65b2a9791",
@@ -254,6 +249,26 @@
             "id": "934d6756b85cc3ae",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "213cd78e08b9929b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "88b3d984d86778fb",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -261,7 +276,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       },
       {
         "id": "f70b642b0827c287",
@@ -286,7 +301,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 450.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -300,36 +315,37 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "0970cb3967c33eef",
+  "active": "6250139811b0bf12",
   "lastOpenFiles": [
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/SQL/SQL ANSI.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/SQL/DDL.md",
-    "DEFAULT.md",
-    "CHECK.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/SQL/UNIQUE.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/Banco de Dados/MOC — Bancos de Dados.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/Banco de Dados/Tipos de Chaves.md",
-    "Integridade Referencial.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/MOC — Gestão e Análise de Dados.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/SQL/FOREIGN KEY.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/SQL/PRIMARY KEY.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/SQL/DML.md",
-    "Concursos/Tecnologia da Informação/Tecnologia da Informação.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/Banco de Dados/Chave Candidata.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/Banco de Dados/Chave Natural.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/Banco de Dados/Chave Primária.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/Banco de Dados/Chave Estrangeira.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/Classificações de Integridade.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/Modelagem de Dados.md",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais.md",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/01 - Conceitos Fundamentais/Capacidade Tributária Passiva  — Conceito.md",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/01 - Conceitos Fundamentais/Capacidade Tributária Ativa  — Conceito.md",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/Direito Tributário — MOC.md",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/05 - Limitações do Poder de Tributar/Limitação ao Poder de Tributar  — Conceito.md",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/05 - Limitações do Poder de Tributar/MOC — Limitações do Poder de Tributar.md",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/05 - Limitações do Poder de Tributar/Imunidade Tributária  — Conceito.md",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/06 - Tributos/MOC — Tributos - Conceito e Espécies.md",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/01 - Conceitos Fundamentais/Fato Gerador — Conceito.md",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/03 - Princípios Tributários/MOC — Princípios Tributários.md",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/06 - Tributos/Tributo — Conceito.md",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/03 - Princípios Tributários/Princípio do Pecúnia Non Olet.md",
+    "Capacidade Contributiva.md",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/03 - Princípios Tributários/Princípio do Não Confisco.md",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/03 - Princípios Tributários/Princípio da Legalidade Tributária.md",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/03 - Princípios Tributários/Princípio da Isonomia Tributária.md",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/03 - Princípios Tributários/Princípio da Irretroatividade Tributária.md",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/03 - Princípios Tributários/Princípio da Capacidade Contributiva.md",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/03 - Princípios Tributários/Princípio da Anterioridade Tributária.md",
+    "Concursos/Raciocínio Lógico/02 - Estruturas Lógicas/Bicondicional Lógica.md",
+    "Concursos/Raciocínio Lógico/02 - Estruturas Lógicas/Condicional Lógica.md",
+    "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/Bens — Conceito.md",
+    "Concursos/Contabilidade Geral/03 - Ativo/Ativo — Conceito.md",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Constitucional/02 - Princípios Fundamentais/MOC — Princípios Fundamentais.md",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/05 - Limitações do Poder de Tributar/Imunidade de Imprensa.md",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo/02 - Princípios Administrativos/Princípio da Legalidade Administrativa.md",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo/02 - Princípios Administrativos",
     "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/SQL",
     "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/Banco de Dados",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/Banco de Dados/Chave Surrogada (Artificial).md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/Banco de Dados/Chave Composta.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/Banco de Dados/Tipos de Redundância.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/SQL/Tipos Numéricos SQL.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/Pirâmide DIKW.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/SQL/NOT NULL.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/SQL/RENAME.md",
     "Sem título.canvas",
     "Media/Pasted image 20251229231614.png",
     "Media/Pasted image 20251227163046.png",
@@ -343,7 +359,6 @@
     "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/16 - Tributação no Regime Falimentar",
     "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/15 - Cobrança Judicial da Dívida Ativa",
     "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/14 - Simples Nacional",
-    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/13 - Administração Tributária",
     "Media/Pasted image 20251218163708.png",
     "Media/7kgdVN8elvmPAw3KWbzoYAa1JDrqDjqnEo1XprDZq2GnM9R05a.png",
     "Media/Pasted image 20251218112501.png",

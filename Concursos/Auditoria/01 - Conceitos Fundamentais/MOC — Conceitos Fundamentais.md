@@ -31,7 +31,3 @@ Trata das responsabilidades gerais do auditor independente na condução da audi
 
 #auditoria/nbc-ta-200
 
----
-## 🧭Navegação
-
-- 🔍 [[Auditoria]]
