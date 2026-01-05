@@ -11,61 +11,21 @@ completed: 3
 #direito/tributário #direito/público 
 
 ---
-## 📂 01 [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais|MOC — Conceitos Fundamentais]]
+## Índice de Tópicos (MOCs)
 
-- [[Tributos — Conceito e Classificação]]
-- [[Natureza Jurídica do Tributo]]
-- [[Receita Pública — Conceito]]
-- [[Receita Tributária — Conceito]]
-- [[Receita Não Tributária — Conceito]]
-- [[Preço Público]]
-- [[Multa — Natureza Jurídica]]
-- [[Sanção por Ato Ilícito]]
-- [[Capacidade Tributária Ativa  — Conceito]]
-- [[Parafiscalidade]]
+### 01. [[MOC — Conceitos Fundamentais]]
+### 02. [[MOC — Sistema Tributário Nacional]]
 
----
-## 📂 MOC — Sistema Tributário Nacional
+### 03. [[MOC — Princípios Tributários]]
 
-- [[Sistema Tributário Nacional — Conceito]]
-- [[Princípios Constitucionais Tributários]]
-- [[Arts. 145 a 152 da CF/1988]]
-- [[Política Urbana — Art. 182 da CF/1988]]
+### 04. [[MOC — Competência Tributária]]
 
----
-## 📂 MOC — Princípios Gerais do Direito Tributário
+### 05. [[MOC — Limitações do Poder de Tributar]]
 
-- [[Princípio da Legalidade Tributária]]
-- [[Princípio da Anterioridade Tributária]]
-- [[Princípio da Isonomia Tributária]]
-- [[Princípio da Capacidade Contributiva]]
-- [[Princípio do Não Confisco]]
-- [[Princípio da Irretroatividade Tributária]]
+### 06. [[MOC — Tributos - Conceito e Espécies]]
+### 07. [[MOC — Impostos por Competência Constitucional]]
 
----
-## 📂 MOC — Competência Tributária
 
-- [[Competência Tributária — Conceito]]
-- [[Características da Competência Tributária]]
-- [[Competência da União]]
-- [[Competência dos Estados]]
-- [[Competência do Distrito Federal]]
-- [[Competência dos Municípios]]
-
----
-## 📂 MOC — Limitações do Poder de Tributar
-
-- [[Limitações Constitucionais ao Poder de Tributar]]
-- [[Imunidade Tributária  — Conceito]]
-- [[Isenções Tributárias]]
-- [[Arts. 150 a 152 da CF/1988]]
-
----
-## 📂 MOC — Impostos por Competência Constitucional
-
-- [[Impostos da União — Art. 153 da CF/1988]]
-- [[Impostos dos Estados e do Distrito Federal — Art. 155 da CF/1988]]
-- [[Impostos dos Municípios — Art. 156 da CF/1988]]
 
 ---
 ## 📂 MOC — Repartição das Receitas Tributárias

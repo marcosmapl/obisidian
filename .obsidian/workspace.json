@@ -4,36 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "93d1dd46280d08f7",
-        "type": "tabs",
-        "dimension": 66.94386694386695,
-        "children": [
-          {
-            "id": "6250139811b0bf12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/05 - Limitações do Poder de Tributar/Limitação ao Poder de Tributar  — Conceito.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Limitação ao Poder de Tributar  — Conceito"
-            },
-            "group": "74653a20cfcc7561"
-          }
-        ]
-      },
-      {
         "id": "bd20b3555fb9de03",
         "type": "split",
-        "dimension": 33.056133056133056,
         "children": [
           {
             "id": "3fd37369b31127d2",
             "type": "tabs",
-            "dimension": 67.01388888888889,
+            "dimension": 74.09372236958444,
             "children": [
               {
                 "id": "032f33b364a380ee",
@@ -41,7 +18,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/05 - Limitações do Poder de Tributar/Limitação ao Poder de Tributar  — Conceito.md",
+                    "file": "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/07 - Impostos por Competência Constitucional/Impostos da União.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -69,16 +46,30 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Gráfico de Limitação ao Poder de Tributar  — Conceito"
-                },
-                "group": "74653a20cfcc7561"
+                  "title": "Gráfico de Impostos da União"
+                }
+              },
+              {
+                "id": "236ae5adf298f607",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/07 - Impostos por Competência Constitucional/Impostos da União.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Impostos da União"
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "4a5facbcbea6bbdd",
             "type": "tabs",
-            "dimension": 32.98611111111111,
+            "dimension": 25.906277630415563,
             "children": [
               {
                 "id": "25b2d532781a899e",
@@ -86,10 +77,10 @@
                 "state": {
                   "type": "file-properties",
                   "state": {
-                    "file": "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/05 - Limitações do Poder de Tributar/Limitação ao Poder de Tributar  — Conceito.md"
+                    "file": "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/07 - Impostos por Competência Constitucional/Impostos da União.md"
                   },
                   "icon": "lucide-info",
-                  "title": "Propriedades do arquivo Limitação ao Poder de Tributar  — Conceito"
+                  "title": "Propriedades do arquivo Impostos da União"
                 }
               }
             ]
@@ -269,6 +260,16 @@
             "id": "88b3d984d86778fb",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "82224bc701d1905c",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -276,7 +277,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 9
       },
       {
         "id": "f70b642b0827c287",
@@ -315,18 +316,24 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "6250139811b0bf12",
+  "active": "236ae5adf298f607",
   "lastOpenFiles": [
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/07 - Impostos por Competência Constitucional/MOC — Impostos por Competência Constitucional.md",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/Direito Tributário — MOC.md",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/07 - Impostos por Competência Constitucional/Impostos da União.md",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/04 - Competência Tributária/Competência Tributária — Conceito.md",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/04 - Competência Tributária/MOC — Competência Tributária.md",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/03 - Princípios Tributários/MOC — Princípios Tributários.md",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/02 - Sistema Tributário Nacional/MOC — Sistema Tributário Nacional.md",
     "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais.md",
+    "Concursos/Auditoria/Auditoria.md",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/05 - Limitações do Poder de Tributar/Limitação ao Poder de Tributar  — Conceito.md",
     "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/01 - Conceitos Fundamentais/Capacidade Tributária Passiva  — Conceito.md",
     "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/01 - Conceitos Fundamentais/Capacidade Tributária Ativa  — Conceito.md",
-    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/Direito Tributário — MOC.md",
-    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/05 - Limitações do Poder de Tributar/Limitação ao Poder de Tributar  — Conceito.md",
     "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/05 - Limitações do Poder de Tributar/MOC — Limitações do Poder de Tributar.md",
     "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/05 - Limitações do Poder de Tributar/Imunidade Tributária  — Conceito.md",
     "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/06 - Tributos/MOC — Tributos - Conceito e Espécies.md",
     "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/01 - Conceitos Fundamentais/Fato Gerador — Conceito.md",
-    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/03 - Princípios Tributários/MOC — Princípios Tributários.md",
     "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/06 - Tributos/Tributo — Conceito.md",
     "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/03 - Princípios Tributários/Princípio do Pecúnia Non Olet.md",
     "Capacidade Contributiva.md",
@@ -337,12 +344,6 @@
     "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/03 - Princípios Tributários/Princípio da Capacidade Contributiva.md",
     "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/03 - Princípios Tributários/Princípio da Anterioridade Tributária.md",
     "Concursos/Raciocínio Lógico/02 - Estruturas Lógicas/Bicondicional Lógica.md",
-    "Concursos/Raciocínio Lógico/02 - Estruturas Lógicas/Condicional Lógica.md",
-    "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/Bens — Conceito.md",
-    "Concursos/Contabilidade Geral/03 - Ativo/Ativo — Conceito.md",
-    "Concursos/Direito/03 - Ramos do Direito Público/Direito Constitucional/02 - Princípios Fundamentais/MOC — Princípios Fundamentais.md",
-    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/05 - Limitações do Poder de Tributar/Imunidade de Imprensa.md",
-    "Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo/02 - Princípios Administrativos/Princípio da Legalidade Administrativa.md",
     "Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo/02 - Princípios Administrativos",
     "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/SQL",
     "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/Banco de Dados",

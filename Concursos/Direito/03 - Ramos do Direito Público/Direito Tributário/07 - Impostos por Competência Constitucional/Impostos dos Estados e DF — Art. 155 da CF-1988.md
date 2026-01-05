@@ -41,7 +41,7 @@ Art. 155 da Constituição Federal de 1988 enumera os **impostos de competência
 
 ## 🔸 Navegação
 
-**← Anterior:** [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/07 - Impostos por Competência Constitucional/Impostos da União — Art. 153 da CF-1988|Impostos da União]]  
+**← Anterior:** [[Impostos da União|Impostos da União]]  
 **← MOC:** [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/07 - Impostos por Competência Constitucional/MOC — Impostos por Competência Constitucional|MOC Impostos por Competência]]  
 **➤ Próximo:** [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/07 - Impostos por Competência Constitucional/Impostos dos Municípios — Art. 156 da CF-1988|Impostos dos Municípios]]  
 **← Índice:** [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/Direito Tributário — MOC|Direito Tributário — MOC]]
