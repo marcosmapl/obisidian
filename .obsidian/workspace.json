@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Auditoria/03 - Fases da Auditoria/Planejamento da Auditoria.md",
+                "file": "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/06 - Tributos/Tributo — Conceito.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Planejamento da Auditoria"
+              "title": "Tributo — Conceito"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"tags\"]",
+                "query": "Anomalias",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Concursos/Auditoria/03 - Fases da Auditoria/Planejamento da Auditoria.md",
+                "file": "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/06 - Tributos/Tributo — Conceito.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -123,7 +123,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Planejamento da Auditoria"
+              "title": "Gráfico de Tributo — Conceito"
             }
           },
           {
@@ -297,54 +297,54 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "d80addb41ff0b48f",
+  "active": "236ae5adf298f607",
   "lastOpenFiles": [
-    "Concursos/Contabilidade Geral/14 - Princípios Contábeis/Princípio da Entidade.md",
-    "Concursos/Contabilidade Geral/14 - Princípios Contábeis/MOC — Princípios Contábeis.md",
-    "Concursos/Contabilidade Geral/14 - Princípios Contábeis",
-    "Concursos/Auditoria/03 - Fases da Auditoria/Plano de Auditoria — Conceito.md",
-    "Concursos/Auditoria/03 - Fases da Auditoria/Planejamento da Auditoria.md",
-    "Concursos/Auditoria/03 - Fases da Auditoria/Estratégia Global — Conceito.md",
-    "Concursos/Auditoria/03 - Fases da Auditoria/Monitoramento da Auditoria.md",
-    "Concursos/Auditoria/03 - Fases da Auditoria/Execução da Auditoria.md",
-    "Concursos/Auditoria/03 - Fases da Auditoria/Emissão do Relatório da Auditoria.md",
-    "Concursos/Auditoria/03 - Fases da Auditoria/MOC — Fases da Auditoria.md",
-    "Imposto de Importação (II).md",
-    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/07 - Impostos por Competência Constitucional/MOC — Impostos Federais.md",
-    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/07 - Impostos por Competência Constitucional/MOC — Impostos por Competência Constitucional.md",
     "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/01 - Conceitos Fundamentais/Tributos — Conceito e Classificação.md",
     "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/06 - Tributos/Tributo — Conceito.md",
-    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/01 - Conceitos Fundamentais/Receitas Originárias — Conceito.md",
-    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/01 - Conceitos Fundamentais/Receitas Derivadas — Conceito.md",
-    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/01 - Conceitos Fundamentais/Receita Tributária — Conceito.md",
-    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/01 - Conceitos Fundamentais/Receita Pública — Conceito.md",
-    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/01 - Conceitos Fundamentais/Receita Não Tributária — Conceito.md",
-    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/03 - Princípios Tributários/Princípio do Pecúnia Non Olet.md",
-    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/03 - Princípios Tributários/Princípio do Não Confisco.md",
-    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/03 - Princípios Tributários/Princípio da Legalidade Tributária.md",
-    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/03 - Princípios Tributários/Princípio da Isonomia Tributária.md",
-    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/03 - Princípios Tributários/Princípio da Irretroatividade Tributária.md",
-    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/03 - Princípios Tributários/Princípio da Capacidade Contributiva.md",
-    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/03 - Princípios Tributários/Princípio da Anterioridade Tributária.md",
-    "Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo/02 - Princípios Administrativos",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/SQL",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/Banco de Dados",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais.md",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/Direito Tributário — MOC.md",
+    "Concursos/Tecnologia da Informação/Tecnologia da Informação.md",
+    "Concursos/Tecnologia da Informação/14 - Infraestrutura de TIC/MOC — Infraestrutura de TIC.md",
+    "Concursos/Tecnologia da Informação/13 - Redes de Computadores/MOC — Redes de Computadores.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/MOC — Gestão e Análise de Dados.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence/MOC — Business Intelligence.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence/Pirâmide DIKW.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence",
+    "Concursos/Tecnologia da Informação/12 - Segurança da Informação/MOC — Segurança da Informação.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/02 - Modelos de Dados/MOC — Modelo de Dados.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/02 - Modelos de Dados/Modelagem de Dados.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/03 - Modelo Relacional/MOC — Modelo Relacional.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/05 - SQL/INSERT.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/04 - Normalização/MOC — Normalização.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/04 - Normalização/Dependência de Dados.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/Classificações de Integridade.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/Power BI.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/MOC — Bancos de Dados.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/04 - Normalização/Anomalias de Dados.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/06 - Restrições de Integridade/MOC — Restrições de Integridade.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/11 - Bancos de Dados Não Relacionais/MOC — Bancos de Dados Não Relacionais (NoSQL).md",
+    "Concursos/Tecnologia da Informação/10 - DevOps/MOC — DevOps.md",
+    "Concursos/Tecnologia da Informação/09 - Arquitetura de Software/MOC — Arquitetura de Software.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/07 - Junções e Agregações",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/11 - Bancos de Dados Não Relacionais",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/10 - Desempenho e Otimização",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/09 - Administração de Banco de Dados",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/08 - Transações e Controle de Concorrência",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/06 - Restrições de Integridade",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/04 - Normalização",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/03 - Modelo Relacional",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/02 - Modelos de Dados",
+    "Media/Pasted image 20260106154249.png",
     "Sem título.canvas",
     "Media/Pasted image 20251229231614.png",
     "Media/Pasted image 20251227163046.png",
     "Media/Pasted image 20251227163014.png",
     "Media/Pasted image 20251226164446.png",
     "Media/Pasted image 20251226001200.png",
-    "Concursos/Raciocínio Lógico/07 - Lógica Proposicional",
-    "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/Patrimônio— Conceito.md.bak",
-    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/18 - Súmulas Vinculantes em Matéria Tributária",
-    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/17 - Planejamento Tributário",
-    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/16 - Tributação no Regime Falimentar",
-    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/15 - Cobrança Judicial da Dívida Ativa",
     "Media/Pasted image 20251218163708.png",
     "Media/7kgdVN8elvmPAw3KWbzoYAa1JDrqDjqnEo1XprDZq2GnM9R05a.png",
     "Media/Pasted image 20251218112501.png",
-    "Media/Pasted image 20251218111301.png",
-    "Media/Pasted image 20251218111110.png"
+    "Media/Pasted image 20251218111301.png"
   ]
 }

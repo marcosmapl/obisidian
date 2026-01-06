@@ -2,11 +2,7 @@
 disciplina: Tecnologia da Informação
 tópico: Segurança da Informação
 created: 2025-12-23T00:00:00
-updated: 2025-12-23T00:00:00
-progresso: 0
-tags:
-  - ti
-  - moc
+updated: 2026-01-06T17:00:00
 ---
 
 ## Índice — Segurança da Informação
@@ -33,7 +29,3 @@ tags:
 - [[ISO - IEC 27001:2022]]
 - [[ISO - IEC 27002:2022]]
 
----
-## Navegação
-
-- [[Tecnologia da Informação]]

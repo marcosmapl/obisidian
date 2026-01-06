@@ -2,11 +2,7 @@
 disciplina: Tecnologia da Informação
 tópico: DevOps
 created: 2025-12-23T00:00:00
-updated: 2025-12-23T00:00:00
-progresso: 0
-tags:
-  - ti
-  - moc
+updated: 2026-01-06T16:50:00
 ---
 
 ## Índice — DevOps
@@ -19,7 +15,3 @@ tags:
 - [[Entrega Contínua]]
 - [[Colaboração e Operação]]
 
----
-## Navegação
-
-- [[Tecnologia da Informação]]

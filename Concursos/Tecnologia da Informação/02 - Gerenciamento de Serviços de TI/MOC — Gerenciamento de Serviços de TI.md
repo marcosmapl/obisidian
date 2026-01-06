@@ -2,11 +2,8 @@
 disciplina: Tecnologia da Informação
 tópico: Gerenciamento de Serviços de TI
 created: 2025-12-23T00:00:00
-updated: 2025-12-23T00:00:00
+updated: 2026-01-06T16:50:00
 progresso: 0
-tags:
-  - ti
-  - moc
 ---
 
 ## Índice — Gerenciamento de Serviços de TI
@@ -15,8 +12,3 @@ tags:
 - [[Princípios do ITIL 4]]
 - [[Dimensões do Gerenciamento de Serviços]]
 - [[Práticas do ITIL 4]]
-
----
-## Navegação
-
-- [[Tecnologia da Informação]]

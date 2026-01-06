@@ -2,11 +2,7 @@
 disciplina: Tecnologia da Informação
 tópico: Redes de Computadores
 created: 2025-12-23T00:00:00
-updated: 2025-12-23T00:00:00
-progresso: 0
-tags:
-  - ti
-  - moc
+updated: 2026-01-06T17:00:00
 ---
 
 ## Índice — Redes de Computadores
@@ -26,7 +22,3 @@ tags:
 - [[Serviços de E-mail]]
 - [[Ferramentas de Colaboração]]
 
----
-## Navegação
-
-- [[Tecnologia da Informação]]

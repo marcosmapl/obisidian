@@ -2,11 +2,7 @@
 disciplina: Tecnologia da Informação
 tópico: Requisitos de Software
 created: 2025-12-23T00:00:00
-updated: 2025-12-23T00:00:00
-progresso: 0
-tags:
-  - ti
-  - moc
+updated: 2026-01-06T16:50:00
 ---
 
 ## Índice — Requisitos de Software
@@ -22,8 +18,3 @@ tags:
 - [[Especificação de Requisitos]]
 - [[Validação de Requisitos]]
 - [[Gerência de Configuração e Mudança]]
-
----
-## Navegação
-
-- [[Tecnologia da Informação]]

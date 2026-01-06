@@ -21,7 +21,3 @@ tags:
 - [[COBIT 2019]]
 - [[Governança Adaptativa]]
 
----
-## Navegação
-
-- [[Tecnologia da Informação]]

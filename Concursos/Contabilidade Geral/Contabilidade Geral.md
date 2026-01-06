@@ -19,7 +19,7 @@ node_size: "80"
 ---
 ## Índice
 
-### 1. [[MOC — Conceitos Fundamentais]]
+### 1. [[Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais]]
 
 ### 2. [[MOC — Balanço Patrimonial]]
 
