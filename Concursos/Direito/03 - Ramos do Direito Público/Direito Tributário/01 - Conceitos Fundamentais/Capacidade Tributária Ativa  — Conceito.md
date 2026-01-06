@@ -12,7 +12,7 @@ updated: 2026-01-05T06:00:00
 
 > [!tip] Quem tem capacidade tributária ativa **não necessariamente detém competência tributária**.
 
-#direito/tributário/capacidade_tributaria_ativa
+#direito/tributario/capacidade_tributaria_ativa
 
 ---
 ## Fundamento Legal

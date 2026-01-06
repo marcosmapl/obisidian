@@ -11,7 +11,7 @@ updated: 2026-01-04T15:50:00
 
 > [!tip] Finalidade: preservar o **federalismo**.
 
-#direito/tributário/imunidade_reciproca
+#direito/tributario/imunidade_reciproca
 
 ---
 ## Fundamento Constitucional

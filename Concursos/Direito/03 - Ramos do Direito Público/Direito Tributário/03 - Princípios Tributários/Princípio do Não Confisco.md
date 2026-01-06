@@ -12,7 +12,7 @@ updated: 2026-01-05T05:40:00
 
 > [!tip] O tributo pode ser oneroso, mas **não pode ser excessivo a ponto de equivaler a confisco**.
 
-#direito/tributário/principio_nao_confisco
+#direito/tributario/principio_nao_confisco
 
 ---
 ## Fundamento Constitucional

@@ -12,7 +12,7 @@ updated: 2026-01-04T13:10:00
 
 > [!tip] Diferem da isenção, pois **decorrem diretamente da Constituição** e **não podem ser afastadas por lei infraconstitucional**.
 
-#direito/tributário/imunidades_tributarias
+#direito/tributario/imunidades_tributarias
 
 ---
 ## Fundamento Constitucional

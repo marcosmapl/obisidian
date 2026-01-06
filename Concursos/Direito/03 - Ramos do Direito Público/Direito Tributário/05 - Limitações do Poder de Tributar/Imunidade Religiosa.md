@@ -12,7 +12,7 @@ updated: 2026-01-04T16:00:00
 
 > [!tip] Finalidade: garantir a **liberdade religiosa** e a **laicidade do Estado**, sem interferência fiscal indevida.
 
-#direito/tributário/imunidade_religiosa
+#direito/tributario/imunidade_religiosa
 
 ---
 ## Fundamento Constitucional

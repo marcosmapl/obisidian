@@ -12,7 +12,7 @@ updated: 2026-01-05T05:50:00
 
 > [!tip] Sem fato gerador **não há tributo exigível**.
 
-#direito/tributário/fato_gerador
+#direito/tributario/fato_gerador
 
 ---
 ## Fundamento Legal

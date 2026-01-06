@@ -12,7 +12,7 @@ updated: 2026-01-04T16:25:00
 
 > [!tip] Finalidade: promover o **direito à educação** e a **assistência social**, incentivando atividades de relevante interesse público.
 
-#direito/tributário/imunidade_educacional_assistencial
+#direito/tributario/imunidade_educacional_assistencial
 
 ---
 ## Fundamento Constitucional

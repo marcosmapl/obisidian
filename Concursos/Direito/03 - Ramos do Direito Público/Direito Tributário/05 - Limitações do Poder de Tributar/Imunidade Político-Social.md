@@ -12,7 +12,7 @@ updated: 2026-01-04T16:25:00
 
 > [!tip] Finalidade: assegurar o **pluralismo político**, a **liberdade sindical** e a **promoção dos direitos sociais**, sem interferência fiscal indevida do Estado.
 
-#direito/tributário/imunidade_politico_social
+#direito/tributario/imunidade_politico_social
 
 ---
 ## Fundamento Constitucional

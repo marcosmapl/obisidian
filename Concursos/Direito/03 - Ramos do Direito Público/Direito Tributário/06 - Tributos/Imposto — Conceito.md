@@ -10,7 +10,7 @@ updated: 2025-12-23T00:00:00
 > [!note] Imposto
 > São **tributos** cuja obrigação de pagar não depende de atividade específica do contribuinte, sendo cobrados **unilateralmente** pelo Estado com base na capacidade contributiva.
 
-#direito/tributário/imposto
+#direito/tributario/imposto
 
 ---
 ## Características

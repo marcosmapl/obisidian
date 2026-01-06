@@ -12,7 +12,7 @@ updated: 2026-01-05T04:40:00
 
 > [!tip] Finalidade: incentir a **cultura nacional**, combater a **pirataria** e **difundir a cultura brasileira**.
 
-#direito/tributário/imunidade_musical
+#direito/tributario/imunidade_musical
 
 ---
 ## Fundamento Constitucional

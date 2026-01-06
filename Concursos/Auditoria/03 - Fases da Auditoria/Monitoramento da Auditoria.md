@@ -27,6 +27,6 @@ Esta fase ocorre após a emissão do relatório e tem como propósito principal 
 ## 🔸 Links Relacionados
 
 - [[MOC — Fases da Auditoria]]
-- [[Planejamento da Auditoria — Conceito]]
-- [[Execução da Auditoria — Conceito]]
-- [[Emissão do Relatório da Auditoria — Conceito]]
+- [[Planejamento da Auditoria]]
+- [[Execução da Auditoria]]
+- [[Emissão do Relatório da Auditoria]]

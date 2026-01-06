@@ -9,7 +9,7 @@ updated: 2026-01-03T16:54:00
 > [!NOTE] Receita Derivada
 > Receita obtida pelo Estado por meio do **poder de império**, retirando recursos do patrimônio dos particulares.
 
-#direito/tributário/receita_derivada
+#direito/tributario/receita_derivada
 
 ---
 ## Exemplos

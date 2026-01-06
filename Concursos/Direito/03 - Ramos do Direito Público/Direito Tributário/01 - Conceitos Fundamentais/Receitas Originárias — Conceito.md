@@ -9,7 +9,7 @@ updated: 2026-01-03T16:44:00
 > [!NOTE] Receita Originária
 > Receita obtida pela **exploração do patrimônio do Estado** ou de **atividade econômica**.
 
-#direito/tributário/receita_originaria
+#direito/tributario/receita_originaria
 
 ---
 ## Exemplos

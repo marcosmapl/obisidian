@@ -12,7 +12,7 @@ updated: 2026-01-05T06:05:00
 
 > [!tip] Refere-se a **quem pode ser obrigado a pagar o tributo**, independentemente de possuir personalidade jurídica plena.
 
-#direito/tributário/capacidade_tributaria_passiva
+#direito/tributario/capacidade_tributaria_passiva
 
 ---
 ## Fundamento Legal

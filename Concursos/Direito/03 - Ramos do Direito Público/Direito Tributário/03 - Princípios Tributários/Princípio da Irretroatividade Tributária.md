@@ -12,7 +12,7 @@ updated: 2026-01-05T05:40:00
 
 > [!tip] O contribuinte só pode ser tributado com base em **lei anterior ao fato gerador**.
 
-#direito/tributário/principio_irretroatividade
+#direito/tributario/principio_irretroatividade
 
 ---
 ## Fundamento Constitucional

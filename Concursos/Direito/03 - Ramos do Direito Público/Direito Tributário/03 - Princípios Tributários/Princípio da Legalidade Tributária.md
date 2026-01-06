@@ -12,7 +12,7 @@ updated: 2026-01-05T05:20:00
 
 > [!tip] No Direito Tributário, **não há tributo sem lei anterior que o estabeleça**.
 
-#direito/tributário/principio_legalidade_tributaria
+#direito/tributario/principio_legalidade_tributaria
 
 ---
 ## Fundamento Constitucional

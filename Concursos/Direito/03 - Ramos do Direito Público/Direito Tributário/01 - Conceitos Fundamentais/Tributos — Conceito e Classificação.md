@@ -2,12 +2,13 @@
 disciplina: Direito Tributário
 tópico: Conceitos Fundamentais
 created: 2025-12-20T15:37:00
+updated: 2026-01-06T10:00:00
 ---
 ## 📌 Conceito de Tributo
 
 > **Art. 3º, CTN** — Tributo é toda **prestação pecuniária compulsória**, em **moeda** ou **cujo valor nela se possa exprimir**, que **NÃO** constitua **sanção de ato ilícito**, instituída em **lei** e cobrada mediante **atividade administrativa plenamente vinculada**.
 
-#direito/tributário/tributo
+#direito/tributario/tributo
 
 ---
 ## 📌 Características do Tributo (Art. 3º, CTN)

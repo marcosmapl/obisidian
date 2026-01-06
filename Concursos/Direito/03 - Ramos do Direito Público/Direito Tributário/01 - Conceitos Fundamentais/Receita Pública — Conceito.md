@@ -8,7 +8,7 @@ created: 2025-12-20T15:41:00
 > [!note] Receita Pública
 > **Receita pública** é o **ingresso de recursos financeiros** nos cofres do Estado, de forma **definitiva**, destinado ao **custeio das despesas públicas** e à consecução das **finalidades estatais**.
 
-#direito/tributário/receita_publica
+#direito/tributario/receita_publica
 
 ---
 ## Classificações

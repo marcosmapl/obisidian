@@ -8,7 +8,7 @@ completed: 3
 > [!note] Direito Tributário 
 > É a disciplina jurídica dos tributos. Com isso se abrange todo o conteúdo de princípios e normas reguladores da **criação**, **fiscalização** e **arrecadação** das prestações de natureza tributária." (Luciano Amaro)
 
-#direito/tributário #direito/público 
+#direito/tributario #direito/público 
 
 ---
 ## Índice de Tópicos (MOCs)
@@ -131,5 +131,5 @@ completed: 3
 - [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/Caderno de Erros|Caderno de Erros]]
 
 
-#direito/tributário
+#direito/tributario
 

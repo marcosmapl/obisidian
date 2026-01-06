@@ -53,6 +53,6 @@ A fase de execução busca prover o suporte necessário para:
 ## 🔸 Links Relacionados
 
 - [[MOC — Fases da Auditoria]]
-- [[Planejamento da Auditoria — Conceito]]
-- [[Emissão do Relatório da Auditoria — Conceito]]
-- [[Monitoramento da Auditoria — Conceito]]
+- [[Planejamento da Auditoria]]
+- [[Emissão do Relatório da Auditoria]]
+- [[Monitoramento da Auditoria]]

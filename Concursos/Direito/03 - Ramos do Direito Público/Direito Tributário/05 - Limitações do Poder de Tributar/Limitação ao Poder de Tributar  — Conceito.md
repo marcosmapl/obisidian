@@ -12,7 +12,7 @@ updated: 2026-01-05T05:10:00
 
 > [!tip] As limitações **não retiram a competência**, mas **condicionam o seu exercício**.
 
-#direito/tributário/limitacao_poder_tributar
+#direito/tributario/limitacao_poder_tributar
 
 ---
 ## Fundamento Constitucional

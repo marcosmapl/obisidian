@@ -12,7 +12,7 @@ updated: 2026-01-04T16:35:00
 
 > [!tip] Finalidade: garantir o **acesso à cultura, à educação e à informação**, promovendo o pluralismo de ideias.
 
-#direito/tributário/imunidade_cultural
+#direito/tributario/imunidade_cultural
 
 ---
 ## Fundamento Constitucional

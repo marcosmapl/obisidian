@@ -33,6 +33,6 @@ De acordo com as fontes, um relatório de auditoria deve conter, minimamente:
 ## 🔸 Links Relacionados
 
 - [[MOC — Fases da Auditoria]]
-- [[Planejamento da Auditoria — Conceito]]
-- [[Execução da Auditoria — Conceito]]
-- [[Monitoramento da Auditoria — Conceito]]
+- [[Planejamento da Auditoria]]
+- [[Execução da Auditoria]]
+- [[Monitoramento da Auditoria]]

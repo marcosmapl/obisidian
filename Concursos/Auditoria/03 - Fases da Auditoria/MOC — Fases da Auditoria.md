@@ -7,24 +7,27 @@ node_size: "10"
 tags:
   - auditoria/planejamento
 ---
-	
+
+## Etapas da Auditoria
+
 Podemos dividir o trabalho da auditoria em **quatro fases**:
-- [[Planejamento da Auditoria — Conceito]]
-- [[Execução da Auditoria — Conceito]]
-- [[Emissão do Relatório da Auditoria — Conceito]]
-- [[Monitoramento da Auditoria — Conceito]]
+- [[Planejamento da Auditoria]]
+- [[Execução da Auditoria]]
+- [[Emissão do Relatório da Auditoria]]
+- [[Monitoramento da Auditoria]]
 
 > [!tip] Dica
 > As normas de **auditoria externa** não fazem essa separação de **forma expressa**, enquanto que as normas de **auditoria governamental**, por sua vez, versam sobre esse fluxo de trabalho.
 
-#auditoria/planejamento
+#auditoria/fases
 
 ---
-## 🔸Fluxo de Trabalho da Auditoria
+## Fluxo de Trabalho da Auditoria
 
 ![[Pasted image 20251226164446.png]]
 
 ---
-## 🔸 Links Relacionados
+## Tópicos Links Relacionados
 
-- [[Concursos/Auditoria/Auditoria|Auditoria]]
+- [[Auditoria — Conceito]]
+- [[Risco de Auditoria — Conceito]]

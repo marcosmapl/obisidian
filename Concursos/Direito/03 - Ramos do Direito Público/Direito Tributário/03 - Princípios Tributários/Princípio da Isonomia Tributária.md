@@ -12,7 +12,7 @@ updated: 2026-01-05T05:35:00
 
 > [!tip] Contribuintes em situações equivalentes devem receber **tratamento tributário equivalente**.
 
-#direito/tributário/principio_isonomia_tributaria
+#direito/tributario/principio_isonomia_tributaria
 
 ---
 ## Fundamento Constitucional

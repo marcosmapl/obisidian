@@ -14,7 +14,7 @@ updated: 2025-12-29T21:56:00
 
 > [!important] Tributos são **Receitas Derivadas**
 
-#direito/tributário/tributo
+#direito/tributario/tributo
 
 ---
 ## Prestação pecuniária em moeda ou cujo valor nela se possa exprimir

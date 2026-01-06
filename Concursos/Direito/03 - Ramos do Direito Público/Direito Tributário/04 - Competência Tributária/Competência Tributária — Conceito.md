@@ -12,7 +12,7 @@ updated: 2026-01-05T04:50:00
 
 > [!tip] A competência tributária decorre **exclusivamente da Constituição** e não pode ser criada por lei infraconstitucional.
 
-#direito/tributário/competencia_tributaria
+#direito/tributario/competencia_tributaria
 
 ---
 ## Características Essenciais

@@ -12,7 +12,7 @@ updated: 2026-01-05T05:35:00
 
 > [!tip] A tributação deve respeitar a **aptidão econômica** do contribuinte.
 
-#direito/tributário/principio_capacidade_contributiva
+#direito/tributario/principio_capacidade_contributiva
 
 ---
 ## Fundamento Constitucional
