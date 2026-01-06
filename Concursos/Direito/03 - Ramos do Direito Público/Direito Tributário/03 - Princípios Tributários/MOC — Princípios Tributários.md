@@ -14,6 +14,7 @@ tags:
 
 - [[Princípio da Anterioridade Tributária]]
 - [[Princípio da Capacidade Contributiva]]
+- [[Princípio da Entidade]]
 - [[Princípio da Irretroatividade Tributária]]
 - [[Princípio da Isonomia Tributária]]
 - [[Princípio da Legalidade Tributária]]
