@@ -25,110 +25,29 @@ completed: 3
 ### 06. [[MOC — Tributos - Conceito e Espécies]]
 ### 07. [[MOC — Impostos por Competência Constitucional]]
 
+### 08. [[MOC — Repartição das Receitas Tributárias]]
 
+### 09. [[MOC — Código Tributário Nacional — CTN]]
 
----
-## 📂 MOC — Repartição das Receitas Tributárias
+### 10. [[MOC — Legislação Tributária]]
 
-- [[Repartição das Receitas Tributárias — Conceito]]
-- [[Arts. 157 a 162 da CF/1988]]
-- [[Transferências Constitucionais]]
+### 11. [[MOC — Obrigação Tributária]]
 
----
-## 📂 MOC — Código Tributário Nacional (CTN)
+### 12. [[MOC — Crédito Tributário]]
 
-- [[CTN — Estrutura Geral]]
-- [[CTN — Normas Gerais de Direito Tributário]]
-- [[Hierarquia do CTN no Sistema Tributário]]
+### 13. [[MOC — Administração Tributária]]
 
----
-## 📂 MOC — Tributos
+### 14. [[MOC — Simples Nacional]]
 
-- [[Tributo — Conceito]]
-- [[Classificação dos Tributos]]
-- [[Imposto — Conceito]]
-- [[Taxas — Conceito]]
-- [[Contribuições de Melhoria]]
-- [[Empréstimos Compulsórios]]
-- [[Contribuições Especiais]]
+### 15. [[MOC — Cobrança Judicial da Dívida Ativa]]
 
----
-## 📂 MOC — Legislação Tributária
+### 16. [[MOC — Tributação no Regime Falimentar]]
 
-- [[Legislação Tributária — Conceito]]
-- [[Vigência da Legislação Tributária]]
-- [[Aplicação da Legislação Tributária]]
-- [[Interpretação da Legislação Tributária]]
-- [[Integração da Legislação Tributária]]
+### 17. [[MOC — Planejamento Tributário]]
 
----
-## 📂 MOC — Obrigação Tributária
+### 18. [[MOC — Súmulas Vinculantes em Matéria Tributária]]
 
-- [[Obrigação Tributária — Conceito]]
-- [[Fato Gerador — Conceito]]
-- [[Sujeito Ativo]]
-- [[Sujeito Passivo]]
-- [[Responsabilidade Tributária]]
-
----
-## 📂 MOC — Crédito Tributário
-
-- [[Crédito Tributário — Conceito]]
-- [[Constituição do Crédito Tributário]]
-- [[Suspensão do Crédito Tributário]]
-- [[Extinção do Crédito Tributário]]
-- [[Exclusão do Crédito Tributário]]
-- [[Garantias e Privilégios do Crédito Tributário]]
-
----
-## 📂 MOC — Administração Tributária
-
-- [[Administração Tributária — Conceito]]
-- [[Fiscalização Tributária]]
-- [[Dívida Ativa]]
-- [[Certidão Negativa de Débitos]]
-
----
-## 📂 MOC — Simples Nacional
-
-- [[Simples Nacional — Conceito]]
-- [[Lei Complementar nº 123/2006]]
-- [[Hipóteses de Enquadramento]]
-- [[Hipóteses de Exclusão]]
-
----
-## 📂 MOC — Cobrança Judicial da Dívida Ativa
-
-- [[Execução Fiscal — Conceito]]
-- [[Lei nº 6.830/1980]]
-- [[Procedimento da Execução Fiscal]]
-
----
-## 📂 MOC — Tributação no Regime Falimentar
-
-- [[Créditos Tributários na Falência]]
-- [[Ordem de Preferência dos Créditos]]
-- [[Habilitação de Créditos Tributários]]
-
----
-## 📂 MOC — Planejamento Tributário
-
-- [[Planejamento Tributário — Conceito]]
-- [[Elisão Fiscal]]
-- [[Evasão Fiscal]]
-- [[Abuso de Formas]]
-
----
-## 📂 MOC — Súmulas Vinculantes (STF)
-
-- [[Súmulas Vinculantes do STF — Tributário]]
-- [[Efeitos das Súmulas Vinculantes]]
-- [[Aplicação na Administração Tributária]]
-
-
-## 📂 MOC — Revisão
-
-- [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/Caderno de Erros|Caderno de Erros]]
+### 19. [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/Caderno de Erros|Caderno de Erros]]
 
 
 #direito/tributário

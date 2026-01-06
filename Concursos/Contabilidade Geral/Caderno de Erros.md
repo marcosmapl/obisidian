@@ -2,7 +2,8 @@
 disciplina: Contabilidade Geral
 created: 2025-12-11T14:40:00
 ---
-# Questão 4001031645
+## Questão 4001031645
+
 #ano/2022 #banca/FGV #questão/4001031645 #órgão/MP-GO #contabilidade/usuários 
 Ministério Público do Estado de Goiás - Analista Contábil 
 
@@ -17,5 +18,23 @@ E) não podem exigir que as entidades que reportam forneçam informações diret
 > [!NOTE] Gabarito E)
 > O item 1.5 do CPC 00 (R2) afirma que muitos investidores, credores por empréstimos e outros credores, existentes e potenciais, não podem exigir que as entidades que reportam forneçam informações diretamente a eles, devendo se basear em relatórios financeiros para fins gerais para muitas das informações financeiras de que necessitam. Consequentemente, eles são os principais usuários aos quais se destinam relatórios financeiros para fins gerais. 
 
+---
 
+## Questão 4001407701
+
+#ano/2023
+#banca/IBADE
+#órgão/IPM-RB
+#questão/4001407701
+
+Podemos afirmar que o objetivo principal da escrituração contábil é:
+
+A) fornecer informações para a elaboração de relatórios fiscais.
+B) registrar todas as transações financeiras de uma organização.
+C) apurar o resultado financeiro de uma organização.
+D) controlar o fluxo de caixa de uma organização.
+E) analisar e interpretar as demonstrações contábeis.
+
+> [!NOTE] Gabarito B)
+> Em um primeiro momento, devemos escriturar, por meio de lançamentos contábeis, todos os eventos que geram alteração no patrimônio da entidade.
 

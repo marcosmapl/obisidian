@@ -19,4 +19,3 @@ updated: 2025-12-29T21:53:00
 - [[Empréstimos Compulsórios|Empréstimos Compulsórios]]
 - [[Contribuições Especiais|Contribuições Especiais]]
 
-

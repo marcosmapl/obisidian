@@ -2,16 +2,11 @@
 disciplina: Direito Tributário
 tópico: Súmulas Vinculantes em Matéria Tributária
 created: 2025-12-23T00:00:00
-updated: 2025-12-23T00:00:00
-progresso: 0
-tags:
-  - direito
-  - tributário
-  - moc
+updated: 2026-01-05T21:40:00
 ---
 
-## Navegação — Súmulas Vinculantes (STF)
+## Índice
 
-- [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/18 - Súmulas Vinculantes em Matéria Tributária/Súmulas Vinculantes do STF — Tributário]]
-- [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/18 - Súmulas Vinculantes em Matéria Tributária/Efeitos das Súmulas Vinculantes]]
-- [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/18 - Súmulas Vinculantes em Matéria Tributária/Aplicação na Administração Tributária]]
+- [[Súmulas Vinculantes do STF — Tributário]]
+- [[Efeitos das Súmulas Vinculantes]]
+- [[Aplicação na Administração Tributária]]
