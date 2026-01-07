@@ -1,16 +1,18 @@
 ---
 disciplina: Contabilidade Geral
-tópico: Conceitos Fundamentais
+tópico: Passivo
 created: 2025-12-29T11:28:00
-updated: 2025-12-29T11:28:00
+updated: 2026-01-07T11:40:00
 ---
-## 🔸 Definição
+## Definição
 
 > [!note] Passivo Circulante
-> Obrigações que a entidade **espera liquidar no curso normal do ciclo operacional**, ou **até 12 meses** após a data do balanço, ou mantidas para negociação.
+> São as **obrigações exigíveis até o término do exercício social seguinte** (curto prazo).
 
 #contabilidade/passivo_circulante
-### 🔹Exemplos
+
+---
+## Exemplos
 
 - Fornecedores  
 - Empréstimos e financiamentos de curto prazo  
@@ -19,15 +21,8 @@ updated: 2025-12-29T11:28:00
 - Dividendos a pagar  
 
 ---
-## 🔗Links relacionados
+## Tópicos Relacionados
 
 - [[Passivo — Conceito]]
 - [[Passivo Não Circulante — Conceito]]
 - [[Obrigações — Conceito]]
-
----
-## 🧭Navegação
-
-- ⬅️ [[Passivo — Conceito]]
-- ⬅️ [[Concursos/Auditoria/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais]]
-- 📊 [[Contabilidade Geral]]

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/06 - Tributos/Tributo — Conceito.md",
+                "file": "Concursos/Contabilidade Geral/02 - Balanço Patrimonial (BP)/Balanço Patrimonial — Conceito.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tributo — Conceito"
+              "title": "Balanço Patrimonial — Conceito"
             }
           }
         ]
@@ -252,13 +252,24 @@
             "id": "0937118d0f145d12",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "0fec8a116faf7f6c",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
               "title": "Graph Analysis"
             }
           }
-        ]
+        ],
+        "currentTab": 12
       },
       {
         "id": "f70b642b0827c287",
@@ -299,33 +310,33 @@
   },
   "active": "236ae5adf298f607",
   "lastOpenFiles": [
-    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/01 - Conceitos Fundamentais/Tributos — Conceito e Classificação.md",
+    "Concursos/Contabilidade Geral/02 - Balanço Patrimonial (BP)/MOC — Balanço Patrimonial.md",
+    "Concursos/Contabilidade Geral/03 - Ativo/MOC — Ativo.md",
+    "Concursos/Contabilidade Geral/04 - Ativo Circulante/MOC — Ativo Circulante.md",
+    "Concursos/Contabilidade Geral/05 - Estoques/MOC — Estoques.md",
+    "Concursos/Contabilidade Geral/06 - Ativo Não Circulante/MOC — Ativo Não Circulante.md",
+    "Concursos/Contabilidade Geral/07 - Passivo/MOC — Passivo.md",
+    "Concursos/Contabilidade Geral/07 - Passivo/Passivo Não Exigível — Conceito.md",
+    "Concursos/Contabilidade Geral/07 - Passivo/Passivo Exigível — Conceito.md",
+    "Concursos/Contabilidade Geral/07 - Passivo/Passivo — Conceito.md",
+    "Concursos/Contabilidade Geral/07 - Passivo/Passivo Financeiro — Conceito.md",
+    "Concursos/Contabilidade Geral/07 - Passivo/Passivo Operacional — Conceito.md",
+    "Concursos/Contabilidade Geral/09 - Passivo Não Circulante/MOC — Passivo Não Circulante.md",
+    "Concursos/Contabilidade Geral/08 - Passivo Circulante/MOC — Passivo Circulante.md",
+    "Concursos/Contabilidade Geral/09 - Passivo Não Circulante/Passivo Não Circulante — Conceito.md",
+    "Concursos/Contabilidade Geral/06 - Ativo Não Circulante/Ativo Não Circulante — Conceito.md",
+    "Concursos/Contabilidade Geral/06 - Ativo Não Circulante/Ativo Imobilizado — Conceito.md",
+    "Concursos/Contabilidade Geral/08 - Passivo Circulante/Passivo Circulante — Conceito.md",
+    "Concursos/Contabilidade Geral/03 - Ativo/Ativo — Conceito.md",
+    "Concursos/Contabilidade Geral/06 - Ativo Não Circulante/Ativo Realizável a Longo Prazo — Conceito.md",
+    "Concursos/Contabilidade Geral/06 - Ativo Não Circulante/Investimentos (Ativo) — Conceito.md",
+    "Concursos/Contabilidade Geral/04 - Ativo Circulante/Ativo Circulante — Conceito.md",
+    "Concursos/Contabilidade Geral/10 - Patrimônio Líquido/Patrimônio Líquido — Conceito.md",
+    "Concursos/Contabilidade Geral/02 - Balanço Patrimonial (BP)/Balanço Patrimonial — Conceito.md",
+    "Concursos/Contabilidade Geral/Contabilidade Geral.md",
     "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/06 - Tributos/Tributo — Conceito.md",
-    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais.md",
-    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/Direito Tributário — MOC.md",
-    "Concursos/Tecnologia da Informação/Tecnologia da Informação.md",
-    "Concursos/Tecnologia da Informação/14 - Infraestrutura de TIC/MOC — Infraestrutura de TIC.md",
-    "Concursos/Tecnologia da Informação/13 - Redes de Computadores/MOC — Redes de Computadores.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/MOC — Gestão e Análise de Dados.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence/MOC — Business Intelligence.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence/Pirâmide DIKW.md",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/01 - Conceitos Fundamentais/Tributos — Conceito e Classificação.md",
     "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence",
-    "Concursos/Tecnologia da Informação/12 - Segurança da Informação/MOC — Segurança da Informação.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/02 - Modelos de Dados/MOC — Modelo de Dados.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/02 - Modelos de Dados/Modelagem de Dados.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/03 - Modelo Relacional/MOC — Modelo Relacional.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/05 - SQL/INSERT.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/04 - Normalização/MOC — Normalização.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/04 - Normalização/Dependência de Dados.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/Classificações de Integridade.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/Power BI.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/MOC — Bancos de Dados.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/04 - Normalização/Anomalias de Dados.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/06 - Restrições de Integridade/MOC — Restrições de Integridade.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/11 - Bancos de Dados Não Relacionais/MOC — Bancos de Dados Não Relacionais (NoSQL).md",
-    "Concursos/Tecnologia da Informação/10 - DevOps/MOC — DevOps.md",
-    "Concursos/Tecnologia da Informação/09 - Arquitetura de Software/MOC — Arquitetura de Software.md",
     "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/07 - Junções e Agregações",
     "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/11 - Bancos de Dados Não Relacionais",
     "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/10 - Desempenho e Otimização",
