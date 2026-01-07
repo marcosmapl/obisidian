@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3fd37369b31127d2",
+        "id": "93d1dd46280d08f7",
         "type": "tabs",
         "children": [
           {
-            "id": "236ae5adf298f607",
+            "id": "6250139811b0bf12",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/06 - Tributos/Tributo — Conceito.md",
+                "file": "Concursos/Língua Portuguesa/Tipologia Textual/Tipologia Textual —  Conceito.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tributo — Conceito"
+              "title": "Tipologia Textual —  Conceito"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Anomalias",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,45 +87,8 @@
       {
         "id": "5f5f09527ddcdf39",
         "type": "tabs",
-        "dimension": 29.646017699115045,
+        "dimension": 57.60416666666666,
         "children": [
-          {
-            "id": "032f33b364a380ee",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/06 - Tributos/Tributo — Conceito.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.2588386562181625,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Gráfico de Tributo — Conceito"
-            }
-          },
           {
             "id": "f254928120b03d7b",
             "type": "leaf",
@@ -239,17 +202,7 @@
             }
           },
           {
-            "id": "82224bc701d1905c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "0937118d0f145d12",
+            "id": "7364a5bd2ad70a4b",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -258,12 +211,13 @@
               "title": "Graph Analysis"
             }
           }
-        ]
+        ],
+        "currentTab": 9
       },
       {
         "id": "f70b642b0827c287",
         "type": "tabs",
-        "dimension": 70.35398230088495,
+        "dimension": 42.39583333333334,
         "children": [
           {
             "id": "45e21fb5d3efdbb2",
@@ -283,7 +237,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5,
+    "width": 450.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -297,45 +251,46 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "236ae5adf298f607",
+  "active": "6250139811b0bf12",
   "lastOpenFiles": [
-    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/01 - Conceitos Fundamentais/Tributos — Conceito e Classificação.md",
-    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/06 - Tributos/Tributo — Conceito.md",
-    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais.md",
-    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/Direito Tributário — MOC.md",
-    "Concursos/Tecnologia da Informação/Tecnologia da Informação.md",
-    "Concursos/Tecnologia da Informação/14 - Infraestrutura de TIC/MOC — Infraestrutura de TIC.md",
-    "Concursos/Tecnologia da Informação/13 - Redes de Computadores/MOC — Redes de Computadores.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/MOC — Gestão e Análise de Dados.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence/MOC — Business Intelligence.md",
+    "Imposto de Importação (II).md",
+    "Concursos/Língua Portuguesa/Tipologia Textual/Texto Injuntivo.md",
+    "Concursos/Língua Portuguesa/Tipologia Textual/Tipologia Textual —  Conceito.md",
+    "Concursos/Língua Portuguesa/Tipologia Textual/Texto Dissertativo-Argumentativo.md",
+    "Concursos/Língua Portuguesa/Tipologia Textual/Texto Dissertativo-Expositivo.md",
+    "Concursos/Língua Portuguesa/Tipologia Textual/Texto Descritivo.md",
+    "Concursos/Língua Portuguesa/Tipologia Textual/Texto Narrativo.md",
+    "Media/Pasted image 20260106214409.png",
+    "Concursos/Língua Portuguesa/12 - Tipologia Textual/MOC — Tipologia Textual.md",
+    "Concursos/Língua Portuguesa/Língua Portuguesa.md",
+    "Concursos/Auditoria/06 - Documentação de Auditoria/MOC — Documentação de Auditoria.md",
+    "Concursos/Auditoria/06 - Documentação de Auditoria/Arquivo Final.md",
+    "Concursos/Auditoria/06 - Documentação de Auditoria/Arquivo de Auditoria.md",
+    "Concursos/Auditoria/06 - Documentação de Auditoria/Documentação de Auditoria.md",
+    "Concursos/Auditoria/06 - Documentação de Auditoria/Confidencialidade.md",
+    "Concursos/Auditoria/06 - Documentação de Auditoria/Propriedade da Documentação.md",
+    "Concursos/Auditoria/06 - Documentação de Auditoria/Requisitos da Documentação.md",
+    "Concursos/Auditoria/06 - Documentação de Auditoria/Classificação da Documentação de Auditoria.md",
+    "Concursos/Auditoria/06 - Documentação de Auditoria/Circunstâncias Excepcionais.md",
+    "Discussões de Assuntos Significativos.md",
+    "Concursos/Auditoria/06 - Documentação de Auditoria/Finalidades da Documentação.md",
+    "Concursos/Contabilidade Geral/02 - Balanço Patrimonial (BP)/Balanço Patrimonial — Conceito.md",
+    "Media/Pasted image 20260106154249.png",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/07 - Impostos por Competência Constitucional/Imposto de Importação (II).md",
     "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence/Pirâmide DIKW.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence/MOC — Business Intelligence.md",
     "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence",
-    "Concursos/Tecnologia da Informação/12 - Segurança da Informação/MOC — Segurança da Informação.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/02 - Modelos de Dados/MOC — Modelo de Dados.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/02 - Modelos de Dados/Modelagem de Dados.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/03 - Modelo Relacional/MOC — Modelo Relacional.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/05 - SQL/INSERT.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/04 - Normalização/MOC — Normalização.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/04 - Normalização/Dependência de Dados.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/Classificações de Integridade.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/Power BI.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/MOC — Bancos de Dados.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/04 - Normalização/Anomalias de Dados.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/06 - Restrições de Integridade/MOC — Restrições de Integridade.md",
     "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/11 - Bancos de Dados Não Relacionais/MOC — Bancos de Dados Não Relacionais (NoSQL).md",
-    "Concursos/Tecnologia da Informação/10 - DevOps/MOC — DevOps.md",
-    "Concursos/Tecnologia da Informação/09 - Arquitetura de Software/MOC — Arquitetura de Software.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/07 - Junções e Agregações",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/10 - Desempenho e Otimização/MOC — Desempenho e Otimização.md",
     "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/11 - Bancos de Dados Não Relacionais",
     "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/10 - Desempenho e Otimização",
     "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/09 - Administração de Banco de Dados",
     "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/08 - Transações e Controle de Concorrência",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/07 - Junções e Agregações",
     "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/06 - Restrições de Integridade",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/05 - SQL",
     "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/04 - Normalização",
     "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/03 - Modelo Relacional",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/02 - Modelos de Dados",
-    "Media/Pasted image 20260106154249.png",
     "Sem título.canvas",
     "Media/Pasted image 20251229231614.png",
     "Media/Pasted image 20251227163046.png",
@@ -344,7 +299,6 @@
     "Media/Pasted image 20251226001200.png",
     "Media/Pasted image 20251218163708.png",
     "Media/7kgdVN8elvmPAw3KWbzoYAa1JDrqDjqnEo1XprDZq2GnM9R05a.png",
-    "Media/Pasted image 20251218112501.png",
-    "Media/Pasted image 20251218111301.png"
+    "Media/Pasted image 20251218112501.png"
   ]
 }
