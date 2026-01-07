@@ -2,13 +2,10 @@
 disciplina: Contabilidade Geral
 tópico: Estoques
 created: 2025-12-23T00:00:00
-progresso: 0
-node_size: "10"
-tags:
-  - contabilidade/estoques
+updated: 2026-01-07T11:55:00
 ---
 
-## 🔸 Estoques
+## Índice
 
 - [[Estoques — Conceito]]
 - [[Controle de Estoques]]
@@ -35,8 +32,3 @@ tags:
 
 > [!warning] UEPS não é permitido pelas normas brasileiras (CPC 16)
 
-
----
-## 🧭Navegação
-
-- 📊 [[Contabilidade Geral]]

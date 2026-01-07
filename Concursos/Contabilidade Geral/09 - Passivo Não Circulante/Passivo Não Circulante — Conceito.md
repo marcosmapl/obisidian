@@ -2,16 +2,18 @@
 disciplina: Contabilidade Geral
 tópico: Conceitos Fundamentais
 created: 2025-12-29T11:31:00
-updated: 2025-12-29T11:31:00
+updated: 2026-01-07T11:45:00
 ---
 
 ## 🔸 Definição
 
 > [!note] Passivo Não Circulante
-> Obrigações cuja liquidação está prevista para ocorrer **após 12 meses** da data do balanço.
+> São as **obrigações exigíveis após o término do exercício social seguinte** (longo prazo).
 
 #contabilidade/passivo_não_circulante 
-### 🔹Exemplos
+
+---
+## Exemplos
 
 - Empréstimos e financiamentos de longo prazo  
 - Debêntures  
@@ -19,14 +21,8 @@ updated: 2025-12-29T11:31:00
 - Obrigações fiscais de longo prazo  
 
 ---
-## 🔗Links relacionados
+## Tópicos Relacionados
 
 - [[Passivo — Conceito]]
 - [[Passivo Circulante — Conceito]]
 - [[Obrigações — Conceito]]
-
-## 🧭Navegação
-
-- ⬅️ [[Passivo — Conceito]]
-- ⬅️ [[Concursos/Auditoria/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais]]
-- 📊 [[Contabilidade Geral]]

@@ -8,7 +8,7 @@ tags:
   - contabilidade/ativo
 ---
 
-## 🔸 Ativo
+## Índice
 
 - [[Ativo — Conceito]]
 - [[Reconhecimento do Ativo]]
@@ -20,19 +20,3 @@ tags:
 
 #contabilidade/ativo
 
----
-## 🔸 Definição
-
-> [!info] CPC 00 (R2)
-> **Ativo** é um recurso econômico presente controlado pela entidade como resultado de eventos passados. Recurso econômico é um direito que tem o potencial de produzir **benefícios econômicos**.
-
-**Critérios de Reconhecimento:**
-1. Controle pela entidade
-2. Resultado de evento passado
-3. Potencial de gerar benefícios econômicos futuros
-
-
----
-## 🧭Navegação
-
-- 📊 [[Contabilidade Geral]]

@@ -1,14 +1,11 @@
 ---
 disciplina: Contabilidade Geral
-tópico: Passivo Não Circulante
+tópico: Passivo
 created: 2025-12-23T00:00:00
-progresso: 0
-node_size: "10"
-tags:
-  - contabilidade/passivo-nao-circulante
+updated: 2026-01-07T11:50:00
 ---
 
-## 🔸 Passivo Não Circulante
+## Passivo Não Circulante
 
 - [[Passivo Não Circulante — Conceito]]
 - [[Fornecedores de Longo Prazo]]
@@ -21,20 +18,3 @@ tags:
 
 #contabilidade/passivo-nao-circulante
 
----
-## 🔸 Classificação
-
-> [!info] Lei 6.404/1976 - Art. 180
-> No **Passivo Não Circulante**, serão classificadas as obrigações da companhia quando se vencerem em prazo superior a doze meses.
-
-**Principais Grupos:**
-- Financiamentos de longo prazo
-- Debêntures
-- Tributos diferidos
-- Provisões para passivos contingentes
-
-
----
-## 🧭Navegação
-
-- 📊 [[Contabilidade Geral]]

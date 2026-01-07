@@ -8,9 +8,10 @@ updated: 2025-12-29T14:55:00
 ## Definição
 
 > [!note] Ativo Imobilizado
-> São bens **físicos** e **tangíveis** que uma empresa possui e uso por **mais de um ciclo operacional** para gerar receita.
+> São bens **físicos** e **tangíveis** que uma empresa possui e uso por **mais de um ciclo operacional**, destinados à **manutenção das atividades da entidade**, tais como máquinas, equipamentos e edifícios.  
 
-### 🔹Exemplos
+---
+## Exemplos
 
 - Terrenos
 - Edificações
@@ -22,17 +23,11 @@ updated: 2025-12-29T14:55:00
 - Consórcios em andamento
 
 ---
-## 🔗 Links relacionados
+## Tópicos relacionados
 
 - [[Ativo — Conceito]]
-- [[Ativo Circulante — Conceito]]
-- [[Bens — Conceito]]
-- [[Direitos — Conceito]]
+- [[Ativo Não Circulante — Conceito]]
+- [[Ativo Realizável a Longo Prazo — Conceito]]
+- [[Investimentos (Ativo) — Conceito]]
+- [[Bens Tangíveis — Conceito]]
 - [[Estoques — Conceito]]
-
----
-## 🧭Navegação
-
-- ⬅️ [[Ativo — Conceito]]
-- ⬅️ [[Concursos/Auditoria/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais]]
-- 📊 [[Contabilidade Geral]]
