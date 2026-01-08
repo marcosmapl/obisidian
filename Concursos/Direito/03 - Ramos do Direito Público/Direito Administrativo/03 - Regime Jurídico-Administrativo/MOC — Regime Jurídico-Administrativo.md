@@ -2,18 +2,13 @@
 disciplina: Direito Administrativo
 tópico: Regime Jurídico-Administrativo
 created: 2025-12-23T00:00:00
-updated: 2025-12-23T00:00:00
-progresso: 0
-tags:
-  - direito
-  - administrativo
-  - moc
+updated: 2026-01-08T06:15:00
 ---
 
-## Navegação — Regime Jurídico-Administrativo
+## Índice
 
 - [[Organização Administrativa]]
 - [[Bens de Uso — Conceito]]
-- [[Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo/02 - Regime Jurídico-Administrativo/Supremacia do Interesse Público]]
-- [[Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo/02 - Regime Jurídico-Administrativo/Indisponibilidade do Interesse Público]]
-- [[Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo/02 - Regime Jurídico-Administrativo/Prerrogativas e Restrições da Administração]]
+- [[Supremacia do Interesse Público]]
+- [[Indisponibilidade do Interesse Público]]
+- [[Prerrogativas e Restrições da Administração]]

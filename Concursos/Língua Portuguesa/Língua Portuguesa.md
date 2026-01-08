@@ -7,7 +7,6 @@ tags:
 created: 2025-12-12T08:54:00
 updated: 2025-12-23T00:00:00
 progresso: 5
-node_size: "80"
 ---
 
 > [!abstract] Sobre esta disciplina
@@ -56,97 +55,6 @@ Tipos textuais: narrativo, descritivo, dissertativo, injuntivo.
 Figuras de palavras, pensamento, sintaxe e som.
 
 ---
-## 📚 Recursos Adicionais
+## Links Úteis
 
-### 🔗 Links Úteis
 - [[Concursos/Língua Portuguesa/Caderno de Erros (Português)|Caderno de Erros]]
-- [[Questões Comentadas — Português]]
-- [[Resumo de Regras Gramaticais]]
-- [[Dicas por Banca Examinadora]]
-
-### 🏷️ Tags Principais
-#portugues #portugues/gramatica #portugues/interpretacao #portugues/redacao
-
----
-## 📊 Progresso de Estudos
-
-```dataview
-TABLE WITHOUT ID
-  file.name as "Tópico",
-  progresso as "Progresso %"
-FROM "Concursos/Língua Portuguesa"
-WHERE contains(file.name, "MOC")
-SORT file.name
-```
-
----
-## 🔑 Dicas Essenciais para Concursos
-
-### ✅ Pontos Mais Cobrados
-
-**1. Interpretação de Textos** (30-40% das questões)
-- Leia SEMPRE o texto antes das questões
-- Sublinhe palavras-chave
-- Atenção aos conectivos (mas, porém, embora)
-- Desconfie de alternativas absolutas
-
-**2. Pontuação** (especialmente vírgula)
-- Entre sujeito e verbo → PROIBIDO
-- Termos intercalados → vírgula dupla
-- Orações adverbiais deslocadas → vírgula
-
-**3. Concordância Verbal**
-- Sujeito posposto é pegadinha clássica
-- Atenção a coletivos e partitivos
-
-**4. Regência Verbal**
-- Aspirar, assistir, visar, preferir
-- Memorize as principais
-
-**5. Crase**
-- Macete: troque por palavra masculina
-- Se surgir "ao" → há crase
-
----
-## 📖 Estrutura de Estudo Recomendada
-
-```
-Fase 1: Base Gramatical (40% do tempo)
-├── Ortografia e Acentuação
-├── Morfologia
-├── Sintaxe
-└── Pontuação
-
-Fase 2: Gramática Aplicada (30% do tempo)
-├── Concordância
-├── Regência
-├── Crase
-└── Colocação Pronominal
-
-Fase 3: Interpretação (30% do tempo)
-├── Tipologia Textual
-├── Interpretação de Textos
-├── Semântica
-└── Figuras de Linguagem
-```
-
----
-## 💡 Estratégias de Prova
-
-> [!tip] Ordem de Resolução
-> 1. **Interpretação de textos** (enquanto está concentrado)
-> 2. **Gramática objetiva** (concordância, regência, crase)
-> 3. **Pontuação e reescrita** (mais trabalhosas)
-
-> [!warning] Armadilhas Comuns
-> - Alternativas que distorcem o texto
-> - Regras com exceções (sujeito simples x composto)
-> - Troca de preposições na regência
-> - Vírgula separando sujeito e verbo
-
-> [!success] Revisão Final
-> - Refaça questões erradas 3x
-> - Crie mnemônicos para regras difíceis
-> - Simule provas com tempo cronometrado
-> - Revise [[Concursos/Língua Portuguesa/Caderno de Erros (Português)|Caderno de Erros]] antes da prova
-

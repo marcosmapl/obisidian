@@ -22,12 +22,6 @@ updated: 2026-01-03T18:20:00
 - [[Princípio da Publicidade]]
 - [[Princípio da Eficiência]]
 
-### Relaciona-se diretamente com:
-
-- [[Atos Administrativos]]
-- [[Controle da Administração Pública]]
-- [[Improbidade Administrativa]]
-
 ---
 ## Princípios Constitucionais Implícitos
 
@@ -78,20 +72,6 @@ updated: 2026-01-03T18:20:00
 - [[Leading Cases sobre Princípios Administrativos]]
 
 ---
-## Princípios x Atos Administrativos
-
-> [!tip] Aplicação prática dos princípios sobre os atos
-
-- [[Princípios como Elemento de Validade do Ato Administrativo]]
-- [[Violação a Princípios e Nulidade do Ato]]
-- [[Princípios e Discricionariedade Administrativa]]
-- [[Controle de Mérito x Controle de Legalidade]]
-
-### Conexão direta com:
-- [[MOC — Atos Administrativos]]
-- [[Poderes Administrativos]]
-
----
 ## Princípios x Controle da Administração Pública
 
 > [!tip] Parâmetro central do controle interno, externo e judicial
@@ -101,9 +81,3 @@ updated: 2026-01-03T18:20:00
 - [[Princípios e Controle pelo TCU]]
 - [[Princípios e Controle Interno]]
 - [[Princípios Administrativos e Improbidade]]
-
-### Conexão direta com:
-- [[MOC — Controle da Administração Pública]]
-- [[MOC — Improbidade Administrativa]]
-
----

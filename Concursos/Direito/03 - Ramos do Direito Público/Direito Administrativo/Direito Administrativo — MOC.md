@@ -31,43 +31,6 @@ completed: 0
 ### 15 — [[MOC — LGPD|MOC — LGPD]]
 ### 16 — [[MOC — Lei Anticorrupção|MOC — Lei Anticorrupção]]
 
----
-## MOC — Conceito e Fontes
-
-- [[Fontes do Direito Administrativo]]
-
----
-## MOC — Princípios Administrativos
-
-- [[Princípio da Legalidade Administrativa]]
-- [[Princípio da Impessoalidade]]
-- [[Princípio da Moralidade]]
-- [[Princípio da Publicidade]]
-- [[Princípio da Eficiência]]
-- [[Princípio da Supremacia do Interesse Público]]
-- [[Princípio da Indisponibilidade do Interesse Público]]
-- [[Princípio da Continuidade do Serviço Público]]
-- [[Princípio da Motivação]]
-- [[Princípio da Razoabilidade]]
-- [[Princípio da Proporcionalidade]]
-- [[Princípio da Autotutela]]
-- [[Princípio da Segurança Jurídica]]
-- [[Princípio da Proteção da Confiança]]
-- [[Princípio da Finalidade]]
-- [[Princípio da Hierarquia]]
-- [[Princípio da Especialidade]]
-- [[Princípio da Presunção de Legitimidade e Veracidade]]
-- [[Princípio da Oficialidade]]
-- [[Princípio da Autoexecutoriedade]]
-- [[Princípio da Igualdade Administrativa]]
-- [[Princípio do Devido Processo Legal Administrativo]]
-- [[Princípio do Contraditório e da Ampla Defesa]]
-- [[Princípio da Transparência]]
-- [[Princípio da Responsabilização do Estado]]
-- [[Princípio da Proporcionalidade na Jurisprudência]]
-- [[Princípio da Moralidade e Controle Judicial]]
-- [[Princípio da Segurança Jurídica no STF]]
-- [[Princípios Administrativos e Ativismo Judicial]]
 
 ---
 ## MOC — Regime Jurídico-Administrativo
@@ -110,9 +73,9 @@ completed: 0
 
 - [[Poder Vinculado]]
 - [[Poder Discricionário]]
-- [[Poder Hierárquico]]
-- [[Poder Disciplinar]]
-- [[Poder Regulamentar]]
+- [[Poder Hierárquico — Conceito]]
+- [[Poder Disciplinar — Conceito]]
+- [[Poder Normativo — Conceito]]
 - [[Poder de Polícia]]
 
 ---

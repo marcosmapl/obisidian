@@ -35,15 +35,3 @@ Existem 5 tipos principais:
 
 > [!important] O fator principal que determina a Tipologia Textual é a **Intenção do Autor**. 
 
----
-## Observações Estratégicas (Prova)
-
-📌 Um texto pode apresentar **mais de uma tipologia**, havendo uma **tipologia predominante**.
-
-📌 Em provas, a banca costuma cobrar: 
-- identificação da tipologia dominante;
-- características linguísticas associadas;
-- diferença entre **tipo textual** e **gênero textual**.
-
-📌 Redações de concursos exigem, via de regra, o **texto dissertativo-argumentativo**.
-

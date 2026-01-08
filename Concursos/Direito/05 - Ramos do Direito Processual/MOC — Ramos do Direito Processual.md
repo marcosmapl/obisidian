@@ -53,3 +53,7 @@ O **Direito Processual** regula a atividade jurisdicional do Estado e o exercíc
 
 - ⚖️ [[Direito]]
 
+> [!tip] Discurso Direto
+> Narrado em **primeira pessoa**, apresentando as palavras exatas do personagem:
+> "- Sempre é tarde para os amigos, replicou Sofia, em ar de censura."
+> (Machado de Assis, Quincas Borba, cap. XXXIV)
