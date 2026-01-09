@@ -25,15 +25,8 @@ created: 2025-12-19T16:08:00
 
 
 ---
-## 🔗Links relacionados
+## Tópicos relacionados
 
 - [[Escrituração — Conceito]]
 - [[Auditoria (Técnica Contábil) — Conceito]]
 - [[Elaboração das Demonstrações Contábeis — Conceito]]
-
----
-## 🧭Navegação
-
-- ⬅️ [[Técnicas Contábeis]]
-- ⬅️ [[Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais]]
-- 📊 [[Contabilidade Geral]]

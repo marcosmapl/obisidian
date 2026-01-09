@@ -15,9 +15,24 @@ updated: 2026-01-05T22:20:00
 
 > [!tip] A escrituração é **obrigatória**, **cronológica** e **baseada em documentos comprobatórios**.
 
-
-
 #contabilidade/técnica_contábil/escrituração
+
+---
+## Estrutura
+
+A escrituração deve conter, no mínimo:
+- **Data do registro contábil**, ou seja, a data em que o fato contábil ocorreu
+- **Conta Devedora**
+- **Conta Credora**
+- **Histórico** que represente a essência econômica da transação ou o **Código de histórico** padronizado, neste caso baseado em tabela auxiliar inclusa em livro próprio
+- **Valor do registro contábil**
+- **Informação** que permita **identificar**, de forma unívoca, *todos os registros* que integram um mesmo lançamento contábil.
+
+![[Pasted image 20260109061520.png]]
+
+> [!warning] O histórico pode ser substituído por um código padronizado. Esse código deve estar padronizado e deve ser apresentado em um livro próprio, que também deve ser autenticado.
+
+> [!warning] O local pode ser suprimido, considerando-se que foi feito no local da sede.
 
 ---
 ## Prova

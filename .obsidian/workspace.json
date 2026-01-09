@@ -11,10 +11,14 @@
             "id": "6250139811b0bf12",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/Escrituração — Conceito.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Escrituração — Conceito"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Esc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +74,8 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -259,46 +264,6 @@
   },
   "active": "6250139811b0bf12",
   "lastOpenFiles": [
-    "Concursos/Direito/Direito.md",
-    "Concursos/Direito/12 - Direito Empresarial/MOC — Direito Empresarial.md",
-    "Concursos/Direito/11 - Direito Financeiro/MOC — Direito Financeiro.md",
-    "Concursos/Direito/10 - Direito Tributário/MOC — Direito Tributário.md",
-    "Concursos/Direito/08 - Direito Penal/MOC — Direito Penal.md",
-    "Concursos/Direito/09 - Direito Processual Penal/MOC — Direito Processual Penal.md",
-    "Concursos/Direito/03 - Ramos do Direito Público/MOC — Ramos do Direito Público.md",
-    "Concursos/Direito/03 - Ramos do Direito Público",
-    "Concursos/Direito/06 - Direito Civil/MOC — Direito Civil.md",
-    "Concursos/Direito/06 - Direito Civil/Direito Civil — MOC.md",
-    "Concursos/Direito/07 - Direito Processual Civil/MOC — Direito Processual Civil.md",
-    "Concursos/Direito/05 - Direito Administrativo/MOC — Direito Administrativo.md",
-    "Concursos/Direito/04 - Direito Constitucional/MOC — Direito Constitucional.md",
-    "Concursos/Direito/04 - Direito Constitucional/01 - Teoria Geral da Constituição/MOC — Teoria Geral da Constituição.md",
-    "Concursos/Direito/02 - Teoria da Norma Jurídica/MOC — Teoria da Norma Jurídica.md",
-    "Concursos/Direito/02 - Teoria da Norma Jurídica",
-    "Concursos/Direito/01 - Introdução ao Direito/MOC — Fundamentos do Direito.md",
-    "Concursos/Direito/01 - Introdução ao Direito/MOC — Introdução ao Direito.md",
-    "Concursos/Direito/01 - Introdução ao Direito",
-    "Concursos/Direito/05 - Direito Administrativo/02 - Princípios Administrativos/MOC — Princípios Administrativos.md",
-    "Concursos/Direito/03 - Princípios Gerais do Direito/MOC — Princípios Gerais do Direito.md",
-    "Concursos/Direito/03 - Princípios Gerais do Direito/Princípios do Direito — Conceito.md",
-    "Concursos/Auditoria/01 - Conceitos Fundamentais/Auditoria Operacional — Conceito.md",
-    "Leitura/Desenvolvimento Pessoal/Produtividade e Gestão de Tempo/Essencialismo - Greg McKeown (2014)/Essencialismo - Greg McKeown.md",
-    "Leitura/Desenvolvimento Pessoal/Produtividade e Gestão de Tempo/MOC — Produtividade e Gestão de Tempo.md",
-    "Concursos/Auditoria/06 - Documentação de Auditoria/Classificações da Documentação de Auditoria.md",
-    "Concursos/Auditoria/06 - Documentação de Auditoria/MOC — Documentação de Auditoria.md",
-    "Concursos/Auditoria/06 - Documentação de Auditoria/Requisitos da Documentação.md",
-    "Concursos/Auditoria/06 - Documentação de Auditoria/Arquivo Final.md",
-    "Concursos/Contabilidade Geral/14 - Princípios Contábeis/Sem título",
-    "Concursos/Contabilidade Geral/02 - Técnica Contábil e Escrituração",
-    "Concursos/Contabilidade Geral/12 - Demonstrações Contábeis/4 - DFC",
-    "Concursos/Contabilidade Geral/12 - Demonstrações Contábeis/3 - DMPL",
-    "Concursos/Contabilidade Geral/12 - Demonstrações Contábeis/2 - DLPA",
-    "Concursos/Contabilidade Geral/12 - Demonstrações Contábeis",
-    "Media/Pasted image 20260108055424.png",
-    "Media/Pasted image 20260108051532.png",
-    "Media/Pasted image 20260108051030.png",
-    "Media/Pasted image 20260106214409.png",
-    "Media/Pasted image 20260106154249.png",
     "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence",
     "Sem título.canvas",
     "Media/Pasted image 20251229231614.png",
