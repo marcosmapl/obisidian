@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo/03 - Regime Jurídico-Administrativo/MOC — Regime Jurídico-Administrativo.md",
+                "file": "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/Escrituração — Conceito.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MOC — Regime Jurídico-Administrativo"
+              "title": "Escrituração — Conceito"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Esc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -205,6 +206,16 @@
             "id": "7364a5bd2ad70a4b",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "031c7c1743c0591f",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -212,7 +223,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       },
       {
         "id": "f70b642b0827c287",
@@ -253,35 +264,35 @@
   },
   "active": "6250139811b0bf12",
   "lastOpenFiles": [
-    "Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo/03 - Regime Jurídico-Administrativo/Organização Administrativa.md",
+    "Media/Pasted image 20260109061520.png",
+    "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/Análise das Demonstrações Contábeis — Conceito.md",
+    "Contas Sintéticas.md",
+    "Contas Analíticas.md",
+    "Conta Contábil — Conceito.md",
+    "Contas Bilaterais.md",
+    "Contas Unilaterais.md",
+    "Contas Estáveis.md",
+    "Contas Instáveis.md",
+    "Contas Devedoras.md",
+    "Contas Retificadoras.md",
+    "Contas de Compensação.md",
+    "Contas Credoras.md",
+    "Contas de Resultado.md",
+    "Contas Patrimoniais.md",
+    "Despesa — Conceito.md",
+    "Receita — Conceito.md",
+    "Poder Disciplinar — Conceito.md",
+    "Concursos/Contabilidade Geral/14 - Princípios Contábeis/MOC — Princípios Contábeis.md",
+    "Concursos/Contabilidade Geral/Contabilidade Geral.md",
     "Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo/03 - Regime Jurídico-Administrativo/MOC — Regime Jurídico-Administrativo.md",
+    "Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo/03 - Regime Jurídico-Administrativo/Organização Administrativa.md",
     "Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo/Direito Administrativo — MOC.md",
     "Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo/02 - Princípios Administrativos/MOC — Princípios Administrativos.md",
     "Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo/01 - Conceito e Fontes/MOC — Conceito e Fontes.md",
     "Atos Normativos.md",
-    "Poder Disciplinar — Conceito.md",
     "Media/Pasted image 20260108055424.png",
-    "Poder Hierárquico — Conceito.md",
-    "Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo/05 - Poderes Administrativos/Poderes Administrativos — Conceito.md",
-    "Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo/05 - Poderes Administrativos/Poder Normativo — Conceito.md",
     "Media/Pasted image 20260108051532.png",
-    "Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo/05 - Poderes Administrativos/Deveres Administrativos — Conceito.md",
-    "Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo/05 - Poderes Administrativos/MOC — Poderes Administrativos.md",
     "Media/Pasted image 20260108051030.png",
-    "Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo/05 - Poderes Administrativos/00 - Poderes Administrativos.md",
-    "Concursos/Língua Portuguesa/12 - Tipologia Textual/Tipologia Textual —  Conceito.md",
-    "Concursos/Língua Portuguesa/12 - Tipologia Textual/Texto Dissertativo-Argumentativo.md",
-    "Concursos/Língua Portuguesa/12 - Tipologia Textual/Texto Descritivo.md",
-    "Concursos/Língua Portuguesa/12 - Tipologia Textual/Discurso Direto.md",
-    "Concursos/Língua Portuguesa/12 - Tipologia Textual/Texto Narrativo.md",
-    "Concursos/Língua Portuguesa/12 - Tipologia Textual/Discurso Indireto.md",
-    "Concursos/Língua Portuguesa/12 - Tipologia Textual/Discurso Indireto Livre.md",
-    "Concursos/Língua Portuguesa/12 - Tipologia Textual/MOC — Tipologia Textual.md",
-    "Concursos/Língua Portuguesa/12 - Tipologia Textual/Texto Injuntivo.md",
-    "Concursos/Língua Portuguesa/12 - Tipologia Textual/Texto Dissertativo-Expositivo.md",
-    "Concursos/Língua Portuguesa/01 - Ortografia e Acentuação/MOC — Ortografia e Acentuação.md",
-    "Concursos/Língua Portuguesa/Língua Portuguesa.md",
-    "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/07 - Impostos por Competência Constitucional/Imposto de Importação (II) 1.md",
     "Media/Pasted image 20260106214409.png",
     "Media/Pasted image 20260106154249.png",
     "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence",
