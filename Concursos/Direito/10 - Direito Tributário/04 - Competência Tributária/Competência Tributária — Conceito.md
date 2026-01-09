@@ -63,7 +63,7 @@ updated: 2026-01-05T04:50:00
 ---
 ## Tópicos Relacionados
 
-- [[Limitação ao Poder de Tributar  — Conceito]]
+- [[Limitações ao Poder de Tributar]]
 - [[Imunidade Tributária  — Conceito]]
 - [[Capacidade Tributária Ativa  — Conceito]]
 - [[Princípios Constitucionais Tributários]]

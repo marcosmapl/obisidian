@@ -1,15 +1,12 @@
 ---
 disciplina: Direito Constitucional
 tópico: Teoria Geral da Constituição
-tags:
-  - direito/constitucional
-  - direito/constitucional/teoria-constituição
-  - direito/constitucional/sentido-cultural
 created: 2025-12-14T22:18:00
-node_size: "10"
+updated: 2026-01-09T15:31:00
 ---
 
-### 1. Autor e Grau de Cobrança
+## Autor e Grau de Cobrança
+
 - **Meirelles Teixeira**
 - Concepção **pouco cobrada**, mas útil para:
   - Questões teóricas
@@ -18,8 +15,8 @@ node_size: "10"
 📌 **Palavra-chave:** *Cultura*
 
 ---
+## Ideia Central
 
-### 2. Ideia Central
 > **Direito = objeto cultural**
 
 - O Direito é parte da **cultura humana**.
@@ -29,8 +26,7 @@ node_size: "10"
 **CULTURA = criação humana no tempo**
 
 ---
-
-### 3. O que o Direito NÃO é (Ponto Clássico de Prova)
+## O que o Direito NÃO é (Ponto Clássico de Prova)
 
 #### ❌ Direito não é ser **real**
 - Seres reais pertencem à **natureza**.
@@ -52,8 +48,8 @@ node_size: "10"
 **RIV** → *Real, Ideal, Valor* (o Direito **não** é nenhum deles)
 
 ---
+## Classificação dos Seres
 
-### 4. Classificação dos Seres
 Segundo Meirelles Teixeira, os seres se dividem em:
 
 1. **Reais**  
@@ -68,8 +64,8 @@ Segundo Meirelles Teixeira, os seres se dividem em:
 > Tudo que é produto da ação humana e varia historicamente = objeto cultural.
 
 ---
+## Constituição como Objeto Cultural
 
-### 5. Constituição como Objeto Cultural
 - A Constituição:
   - É condicionada pela **cultura do povo**
   - Ao mesmo tempo, **condiciona essa cultura**
@@ -78,8 +74,8 @@ Segundo Meirelles Teixeira, os seres se dividem em:
 > Cultura ↔ Constituição
 
 ---
+## Constituição Total (Conceito-chave)
 
-### 6. Constituição Total (Conceito-chave)
 > **Constituição total** = expressão global da vida social
 
 - Abrange:
@@ -91,18 +87,11 @@ Segundo Meirelles Teixeira, os seres se dividem em:
 - Não se limita ao texto escrito.
 
 ---
+## Integração das Concepções
 
-### 7. Integração das Concepções
 A Constituição total resulta da **combinação** de:
 - Concepção **sociológica** (fatores sociais)
 - Concepção **política** (decisões de poder)
 - Concepção **jurídica** (normas escritas)
 - Concepção **cultural** (valores e valores morais)
 
----
-## 🧭Navegação
-
-- ⬅️ [[MOC — Teoria Geral da Constituição]]
-- ⬅️ [[MOC — Direito Constitucional]]
-- ⬅️ [[MOC — Ramos do Direito Público]]
-- ⚖️ [[Direito]]

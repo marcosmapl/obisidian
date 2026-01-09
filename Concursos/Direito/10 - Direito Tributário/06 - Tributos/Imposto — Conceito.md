@@ -15,41 +15,19 @@ updated: 2025-12-23T00:00:00
 ---
 ## Características
 
-### 🔹 Conceito Constitucional
+### Conceito Constitucional
+
 - Art. 16 do CTN: "Imposto é o tributo cuja obrigação tem por fato gerador uma situação independente de qualquer atividade estatal específica, relativa ao contribuinte"
 
-### 🔹 Requisitos
+### Requisitos
+
 1. **Não vinculado** a atividade estatal específica
 2. Baseado em **capacidade contributiva**
 3. **Obrigatoriedade** unilateral
 4. Destina-se ao **tesouro público** (receita geral)
 
 ---
-
-## 🔸 Classificação Constitucional
-
-### 🔹 Impostos Federais (Art. 153)
-- Imposto de Importação (II)
-- Imposto de Exportação (IE)
-- Imposto sobre Renda (IR)
-- Imposto sobre Produtos Industrializados (IPI)
-- Imposto sobre Operações Financeiras (IOF)
-- Imposto sobre a Propriedade Territorial Rural (ITR)
-- Imposto sobre a Propriedade de Veículos Automotores (IPVA) — competência compartilhada
-
-### 🔹 Impostos Estaduais (Art. 155)
-- Imposto sobre Circulação de Mercadorias e Serviços (ICMS)
-- Imposto sobre a Propriedade de Veículos Automotores (IPVA)
-- Imposto sobre Transmissão Causa Mortis e Doações (ITCMD)
-
-### 🔹 Impostos Municipais (Art. 156)
-- Imposto sobre a Propriedade Predial e Territorial Urbana (IPTU)
-- Imposto sobre Transmissão Inter vivos de Bens Imóveis (ITBI)
-- Imposto sobre Serviços de Qualquer Natureza (ISS)
-
----
-
-## 🔸 Distinção de Outros Tributos
+## Distinção de Outros Tributos
 
 | Tributo | Obrigação | Vinculação | Exemplo |
 |---------|-----------|-----------|---------|
@@ -57,10 +35,3 @@ updated: 2025-12-23T00:00:00
 | **Taxa** | Bilateral | Vinculada a serviço | Taxa de licença |
 | **Contribuição** | Bilateral | Vinculada a atividade | Contribuição sindical |
 
----
-
-## 🔸 Navegação
-
-**← Tópico 06:** [[MOC — Tributos - Conceito e Espécies|MOC Tributos — Conceito e Classificação]]  
-**→ Tópico 07:** [[MOC — Impostos por Competência Constitucional|MOC Impostos por Competência Constitucional]]  
-**← Índice:** [[MOC — Direito Tributário|MOC — Direito Tributário]]

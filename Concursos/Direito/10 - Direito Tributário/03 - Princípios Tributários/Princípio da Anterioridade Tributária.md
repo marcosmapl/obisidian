@@ -78,7 +78,7 @@ updated: 2026-01-05T05:25:00
 ---
 ## Tópicos Relacionados
 
-- [[Limitação ao Poder de Tributar  — Conceito]]
+- [[Limitações ao Poder de Tributar]]
 - [[Princípio da Legalidade Tributária]]
 - [[Competência Tributária — Conceito]]
 - [[Contribuições Sociais]]

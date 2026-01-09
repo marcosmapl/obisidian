@@ -27,7 +27,7 @@ São consideradas **Contas Devedoras**:
 ## Tópicos Relacionados
 
 - [[Ativo — Conceito]]
-- [[Despesa — Conceito]]
+- [[Despesa (Contabilidade) — Conceito]]
 - [[Contas Patrimoniais]]
 - [[Contas Credoras]]
 

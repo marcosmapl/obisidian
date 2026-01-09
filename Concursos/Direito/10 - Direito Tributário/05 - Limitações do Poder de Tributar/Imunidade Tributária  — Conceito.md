@@ -99,5 +99,5 @@ Exemplo: ITR (Art. 153, II, p. 4º)
 - [[Princípio da Anterioridade Tributária]]
 - [[Princípio da Isonomia Tributária]]
 - [[Princípio da Irretroatividade Tributária]]
-- [[Princípio da Legalidade Administrativa]]
+- [[Princípio da Legalidade Tributária]]
 - [[Princípio do Não Confisco]]

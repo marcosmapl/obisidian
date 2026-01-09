@@ -30,7 +30,7 @@ updated:
 ---
 ## Navegação
 
-- [[Chaves no Banco de Dados]]
+- [[Chaves (Banco de Dados)]]
 - [[MOC — Bancos de Dados]]
 - [[MOC — Gestão e Análise de Dados]]
 - [[Tecnologia da Informação]]

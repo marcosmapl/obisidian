@@ -60,7 +60,7 @@ updated: 2026-01-05T05:35:00
 ---
 ## Tópicos Relacionados
 
-- [[Limitação ao Poder de Tributar  — Conceito]]
+- [[Limitações ao Poder de Tributar]]
 - [[Princípio da Capacidade Contributiva]]
 - [[Competência Tributária — Conceito]]
 

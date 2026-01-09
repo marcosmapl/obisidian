@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Contabilidade Geral/Contabilidade Geral.md",
+                "file": "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Contabilidade Geral"
+              "title": "MOC — Conceitos Fundamentais"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Esc",
+                "query": "Tipos de Redu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,11 +74,12 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 586.5110321044922
+    "width": 420.5110321044922
   },
   "right": {
     "id": "85539bb65b2a9791",
@@ -273,12 +274,34 @@
   },
   "active": "6250139811b0bf12",
   "lastOpenFiles": [
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/01 - Conceitos Fundamentais/Chaves (Banco de Dados).md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence/Pirâmide DIKW.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/01 - Conceitos Fundamentais/Tipos de Redundância.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/06 - Restrições de Integridade/Integridade Referencial.md",
+    "Banco de Dados — Conceito.md",
+    "Concursos/Contabilidade Geral/02 - Contas Contábeis/MOC — Contas Contábeis.md",
+    "Concursos/Contabilidade Geral/02 - Contas Contábeis/Conta Contábil — Conceito.md",
+    "Concursos/Contabilidade Geral/02 - Contas Contábeis/Contas Devedoras.md",
+    "Concursos/Contabilidade Geral/02 - Contas Contábeis/Contas Credoras.md",
+    "Concursos/Contabilidade Geral/02 - Contas Contábeis/Contas Sintéticas.md",
+    "Concursos/Contabilidade Geral/02 - Contas Contábeis/Contas Analíticas.md",
+    "Concursos/Contabilidade Geral/02 - Contas Contábeis/Contas Bilaterais.md",
+    "Concursos/Contabilidade Geral/02 - Contas Contábeis/Contas Unilaterais.md",
+    "Concursos/Contabilidade Geral/02 - Contas Contábeis/Contas Retificadoras.md",
+    "Concursos/Contabilidade Geral/02 - Contas Contábeis/Contas de Compensação.md",
+    "Concursos/Direito/04 - Direito Constitucional/01 - Teoria Geral da Constituição/MOC — Teoria Geral da Constituição.md",
+    "Concursos/Direito/04 - Direito Constitucional/01 - Teoria Geral da Constituição/Sentido Sociológico.md",
+    "Concursos/Direito/04 - Direito Constitucional/01 - Teoria Geral da Constituição/Sentido Normativo-Concretista.md",
+    "Concursos/Direito/04 - Direito Constitucional/01 - Teoria Geral da Constituição/Sentido Jurídico.md",
+    "Concursos/Direito/04 - Direito Constitucional/01 - Teoria Geral da Constituição/Sentido Cultural.md",
+    "Concursos/Direito/04 - Direito Constitucional/01 - Teoria Geral da Constituição/Teoria Geral da Constituição.md",
+    "Concursos/Direito/04 - Direito Constitucional/01 - Teoria Geral da Constituição/Sentido Político.md",
+    "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/MOC — Impostos por Competência Constitucional.md",
+    "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/MOC — Impostos dos Municípios.md",
+    "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/MOC — Impostos dos Estados e DF.md",
     "Media/Pasted image 20260109115851.png",
-    "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais.md",
-    "Concursos/Contabilidade Geral/Contabilidade Geral.md",
-    "Concursos/Contabilidade Geral/14 - Princípios Contábeis/MOC — Princípios Contábeis.md",
     "Concursos/Contabilidade Geral/02 - Contas Contábeis",
-    "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/Escrituração — Conceito.md",
     "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence",
     "Sem título.canvas",
     "Media/Pasted image 20251229231614.png",

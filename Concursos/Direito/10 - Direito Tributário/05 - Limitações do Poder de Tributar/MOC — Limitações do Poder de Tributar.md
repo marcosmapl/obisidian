@@ -14,7 +14,7 @@ tags:
 
 ### Conceito
 
-- [[Limitação ao Poder de Tributar  — Conceito]]
+- [[Limitações ao Poder de Tributar]]
 
 ### Princípios Constitucionais Tributários
 

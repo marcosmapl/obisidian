@@ -70,7 +70,7 @@ updated: 2026-01-05T05:20:00
 ---
 ## Tópicos Relacionados
 
-- [[Limitação ao Poder de Tributar  — Conceito]]
+- [[Limitações ao Poder de Tributar]]
 - [[Competência Tributária — Conceito]]
 - [[Princípio da Anterioridade Tributária]]
 - [[Código Tributário Nacional]]

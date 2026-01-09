@@ -13,5 +13,5 @@ tags:
 ## Índice
 
 - [[MOC — Impostos Federais]]
-- [[Impostos dos Estados e DF — Art. 155 da CF-1988|Impostos dos Estados e DF]]
-- [[Impostos dos Municípios — Art. 156 da CF-1988|Impostos dos Municípios]]
+- [[MOC — Impostos dos Estados e DF]]
+- [[MOC — Impostos dos Municípios|MOC — Impostos dos Municípios]]

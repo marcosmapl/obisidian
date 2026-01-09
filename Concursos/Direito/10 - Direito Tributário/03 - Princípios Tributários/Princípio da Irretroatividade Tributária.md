@@ -57,7 +57,7 @@ updated: 2026-01-05T05:40:00
 ---
 ## Tópicos Relacionados
 
-- [[Limitação ao Poder de Tributar  — Conceito]]
+- [[Limitações ao Poder de Tributar]]
 - [[Princípio da Anterioridade Tributária]]
 - [[Princípio da Legalidade Tributária]]
 - [[Competência Tributária — Conceito]]

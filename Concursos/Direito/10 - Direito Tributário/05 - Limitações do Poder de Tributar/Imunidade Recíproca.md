@@ -54,6 +54,6 @@ updated: 2026-01-04T15:50:00
 ## Tópicos Relacionados
 
 - [[Imunidade Tributária  — Conceito]]
-- [[Limitação ao Poder de Tributar  — Conceito]]
+- [[Limitações ao Poder de Tributar]]
 - [[Competência Tributária]]
 

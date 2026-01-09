@@ -1,12 +1,8 @@
 ---
 disciplina: Direito Constitucional
 tópico: Teoria Geral da Constituição
-tags:
-  - "#direito/constitucional"
-  - direito/constitucional/teoria-constituição
-  - direito/constitucional/sentido-normativo-concretista
 created: 2025-12-15T04:34:00
-node_size: "10"
+updated: 2026-01-09T16:05:00
 ---
 
 ### 1. Autor e Obra
@@ -112,11 +108,3 @@ A força normativa será **maior** quando:
 
 🧠 **Significado:**  
 Disposição coletiva de **cumprir, defender e concretizar** a Constituição.
-
----
-## 🧭Navegação
-
-- ⬅️ [[MOC — Teoria Geral da Constituição]]
-- ⬅️ [[MOC — Direito Constitucional]]
-- ⬅️ [[MOC — Ramos do Direito Público]]
-- ⚖️ [[Direito]]

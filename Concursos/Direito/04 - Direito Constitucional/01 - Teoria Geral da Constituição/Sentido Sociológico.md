@@ -1,12 +1,8 @@
 ---
 disciplina: Direito Constitucional
 tópico: Teoria Geral da Constituição
-tags:
-  - "#direito/constitucional"
-  - "#direito/constitucional/teoria-constituição"
-  - "#direito/constitucional/sentido-sociológico"
 created: 1202-12-14T21:45:00
-node_size: "10"
+updated: 2026-01-09T16:10:00
 ---
 ### 1. Autor e Contexto Histórico
 - **Ferdinand Lassalle**

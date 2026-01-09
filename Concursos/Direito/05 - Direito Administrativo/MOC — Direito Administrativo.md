@@ -33,14 +33,6 @@ completed: 0
 
 
 ---
-## MOC — Regime Jurídico-Administrativo
-
-- [[Bens de Uso — Conceito]]
-- [[Supremacia do Interesse Público]]
-- [[Indisponibilidade do Interesse Público]]
-- [[Prerrogativas e Restrições da Administração]]
-
----
 ## MOC — Administração Pública
 
 - [[Administração Pública — Conceito]]

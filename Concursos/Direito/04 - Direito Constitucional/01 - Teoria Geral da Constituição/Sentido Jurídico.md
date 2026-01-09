@@ -1,12 +1,8 @@
 ---
 disciplina: Direito Constitucional
 tópico: Teoria Geral da Constituição
-tags:
-  - "#direito/constitucional"
-  - "#direito/constitucional/teoria-constituição"
-  - "#direito/constitucional/sentido-jurídico"
 created: 2025-12-14T22:12:00
-node_size: "10"
+updated: 2026-01-09T16:05:00
 ---
 
 ## 1. Autor e Teoria
@@ -105,11 +101,3 @@ A Constituição:
 
 🧠 **Decoreba final:**  
 > *Em Kelsen, toda norma vale porque outra autoriza — até chegar à norma hipotética fundamental.*
-
----
-## 🧭Navegação
-
-- ⬅️ [[MOC — Teoria Geral da Constituição]]
-- ⬅️ [[MOC — Direito Constitucional]]
-- ⬅️ [[MOC — Ramos do Direito Público]]
-- ⚖️ [[Direito]]

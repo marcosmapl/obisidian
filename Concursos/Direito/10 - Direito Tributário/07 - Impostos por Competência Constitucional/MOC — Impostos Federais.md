@@ -5,18 +5,16 @@ created: 2025-12-23T00:00:00
 updated: 2026-01-05T14:55:00
 ---
 
-## Impostos Federais
+## Base Legal
 
-Art. 153 da Constituição Federal de 1988 enumera os **impostos de competência da União Federal**, que são as **principais fontes de arrecadação federal**.
+> [!note] Art. 153 da Constituição Federal de 1988 enumera os **impostos de competência da União Federal**, que são as **principais fontes de arrecadação federal**.
 
 #direito/tributario/imposto_federal
 
 ---
-
 ## Índice
 
 ### 01 - [[Imposto de Importação (II) 1]]
-
 
 
 ### Imposto de Exportação (IE)

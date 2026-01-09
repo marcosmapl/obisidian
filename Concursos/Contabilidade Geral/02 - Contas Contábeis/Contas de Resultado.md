@@ -24,6 +24,6 @@ updated: 2026-01-08T21:55:00
 ---
 ## Contas Patrimoniais
 
-- [[Receita — Conceito]]
-- [[Despesa — Conceito]]
+- [[Receita (Contabilidade) — Conceito]]
+- [[Despesa (Contabilidade) — Conceito]]
 

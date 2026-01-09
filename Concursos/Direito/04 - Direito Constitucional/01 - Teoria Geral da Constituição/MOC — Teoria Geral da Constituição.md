@@ -12,8 +12,8 @@ updated: 2026-01-08T16:40:00
 ---
 ## Sentidos da Constituição
 
-- [[Sentido Cultural|Sentido Cultural]]
-- [[Sentido Jurídico|Sentido Jurídico]]
-- [[Sentido Normativo-Concretista|Sentido Normativo-Concretista]]
-- [[Sentido Político|Sentido Político]]
-- [[Sentido Sociológico|Sentido Sociológico]]
+- [[Sentido Cultural]]
+- [[Sentido Jurídico]]
+- [[Sentido Normativo-Concretista]]
+- [[Sentido Político]]
+- [[Sentido Sociológico]]

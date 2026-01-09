@@ -31,4 +31,4 @@ updated: 2026-01-08T21:25:00
 ---
 ## Tópicos Relacionados
 
-- [[Receita — Conceito]]
+- [[Receita (Contabilidade) — Conceito]]
