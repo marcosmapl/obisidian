@@ -8,7 +8,7 @@ tags:
   - contabilidade/conceitos
 ---
 
-## 🔸 Conceitos Fundamentais
+## Conceitos Fundamentais
 
 - [[Patrimônio — Conceito]]
 - [[Bens — Conceito]]

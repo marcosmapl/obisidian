@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/Escrituração — Conceito.md",
+                "file": "Concursos/Contabilidade Geral/Contabilidade Geral.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Escrituração — Conceito"
+              "title": "Contabilidade Geral"
             }
           }
         ]
@@ -74,12 +74,11 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 432.5
+    "width": 586.5110321044922
   },
   "right": {
     "id": "85539bb65b2a9791",
@@ -216,6 +215,16 @@
             "id": "5ce8c578a0368b4f",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "ad04990408d1811f",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -223,7 +232,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       },
       {
         "id": "f70b642b0827c287",
@@ -264,6 +273,12 @@
   },
   "active": "6250139811b0bf12",
   "lastOpenFiles": [
+    "Media/Pasted image 20260109115851.png",
+    "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais.md",
+    "Concursos/Contabilidade Geral/Contabilidade Geral.md",
+    "Concursos/Contabilidade Geral/14 - Princípios Contábeis/MOC — Princípios Contábeis.md",
+    "Concursos/Contabilidade Geral/02 - Contas Contábeis",
+    "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/Escrituração — Conceito.md",
     "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence",
     "Sem título.canvas",
     "Media/Pasted image 20251229231614.png",
