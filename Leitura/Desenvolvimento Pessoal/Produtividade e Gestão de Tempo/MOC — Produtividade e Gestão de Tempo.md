@@ -11,30 +11,15 @@ created: 2025-12-23T00:00:00
 > Livros sobre gestão de tempo, foco, priorização, eliminação de distrações e otimização da produtividade pessoal e profissional.
 
 ---
-## 🔸 Livros
+## Livros
 
-### 📖 Essencialismo — Greg McKeown (2014)
-**[[Leitura/Essencialismo - Greg McKeown (2014)/Essencialismo - Greg McKeown|→ Ir para o livro]]**
+### 1. [[Essencialismo - Greg McKeown]]
 
-**Progresso:** 10%  
-**Tema:** A disciplinada busca por menos, porém melhor
-
-**Principais Conceitos:**
-- Foco no essencial
-- Arte de dizer não
-- Priorização estratégica
-- Menos, porém melhor
 
 ---
-## 🔸 Temas Comuns
+## Temas Comuns
 
 - ⏰ Gestão de tempo
 - 🎯 Foco e priorização
 - ✂️ Eliminação do supérfluo
 - 📊 Produtividade estratégica
-
----
-## 🔸 Navegação
-
-**← Categoria:** [[Leitura/Desenvolvimento Pessoal/MOC — Desenvolvimento Pessoal|Desenvolvimento Pessoal]]  
-**← Índice Geral:** [[Leitura/Leitura|Leitura]]

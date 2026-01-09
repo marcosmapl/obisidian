@@ -20,20 +20,8 @@ tags:
 - [[Técnicas Contábeis]]
 - [[Classificação das Aziendas]]
 - [[Usuários das Informações Contábeis]]
+- [[Estrutura Conceitual]]
+- [[Regime de Competência]]
+- [[Apresentação das Demonstrações Contábeis]]
 
-#contabilidade/conceitos-fundamentais
-
----
-## 🔸 Estrutura Conceitual
-
-> [!info] Base da Contabilidade
-> A contabilidade é a ciência que estuda e controla o **patrimônio** das entidades, registrando os **fatos contábeis** e fornecendo informações úteis para a **tomada de decisões**.
-
-**Equação Fundamental:**
-$$\text{Ativo} = \text{Passivo} + \text{Patrimônio Líquido}$$
-
-
----
-## 🧭Navegação
-
-- 📊 [[Contabilidade Geral]]
+#contabilidade/conceitos_fundamentais

@@ -11,23 +11,15 @@ tags:
 ## 🔸 Documentação de Auditoria
 
 - [[Documentação de Auditoria]]
+- [[Classificações da Documentação de Auditoria]]
 - [[Papéis de Trabalho]]
-- [[Finalidade da Documentação]]
-- [[Requisitos das NBCs]]
-- [[Forma e Conteúdo dos Papéis de Trabalho]]
+- [[Finalidades da Documentação]]
+- [[Propriedade da Documentação]]
+- [[Requisitos da Documentação]]
+- [[Arquivo de Auditoria]]
+- [[Arquivo Final]]
 - [[Arquivamento e Confidencialidade]]
 - [[Propriedade e Custódia]]
+- [[Circunstâncias Excepcionais]]
 
 #auditoria/documentacao
-
----
-## 🔸 Normas Relacionadas
-
-> [!info] NBC TA 230
-> Documentação de Auditoria
-
----
-
-## 🔸 Navegação
-
-**← MOC Principal:** [[Concursos/Auditoria/Auditoria|Auditoria]]

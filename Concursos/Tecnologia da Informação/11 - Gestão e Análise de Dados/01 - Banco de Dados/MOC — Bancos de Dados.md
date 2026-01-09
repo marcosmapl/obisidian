@@ -7,7 +7,7 @@ completed: 0
 ---
 
 ## Índice
-### 01 - [[MOC — Conceitos Fundamentais]]
+### 01 - [[Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais]]
 
 ### 02 - [[MOC — Modelo de Dados]]
 

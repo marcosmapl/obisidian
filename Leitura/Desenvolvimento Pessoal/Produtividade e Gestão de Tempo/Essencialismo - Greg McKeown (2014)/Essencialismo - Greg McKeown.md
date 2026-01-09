@@ -6,11 +6,7 @@ editora: Sextante
 ano: "2014"
 página atual: "26"
 total páginas: "258"
-progresso %: 10,07
-tags:
-  - autor/greg-mckeown
-  - ano/2014
-  - livro/essencialismo
+progresso %: 10%
 ---
 ## Primeira Parte: Essência
 
