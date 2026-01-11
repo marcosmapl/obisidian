@@ -34,6 +34,21 @@ updated: 2025-12-29T11:06:00
 - [[Ativo Não Circulante — Conceito]]
 
 ---
+## Principais Contas
+
+- Caixa
+- Banco
+- Clientes
+- Duplicatas a Receber
+- Adiantamento a Fornecedor
+- Impostos a Recuperar
+- Receitas a Receber
+- Despesas Antecipadas
+- Estoques
+- Máquinas
+- Patentes
+
+---
 ## Tópicos relacionados
 
 - [[Bens — Conceito]]

@@ -2,17 +2,13 @@
 disciplina: Auditoria
 tópico: Laudo e Parecer Pericial Contábil
 created: 2025-12-23T00:00:00
-progresso: 0
-node_size: "10"
-tags:
-  - auditoria/pericia
+updated: 2026-01-10T08:35:00
 ---
 
-## 🔸 Laudo e Parecer Pericial Contábil
+## Laudo e Parecer Pericial Contábil
 
-- [[Laudo e Parecer Pericial Contábil]]
-- [[Perícia Contábil — Conceitos]]
-- [[Laudo Pericial Contábil]]
+- [[Perícia Contábil — Conceito]]
+- [[Laudo Pericial Contábil — Conceito]]
 - [[Parecer Pericial Contábil]]
 - [[Estrutura e Requisitos Formais]]
 - [[Perito Contador]]
@@ -22,16 +18,7 @@ tags:
 #auditoria/pericia
 
 ---
-## 🔸 Normas Relacionadas
+## Normas Relacionadas
 
 > [!info] NBC PP 01
 > Perito Contábil
-
-> [!info] NBC TP 01
-> Perícia Contábil
-
----
-
-## 🔸 Navegação
-
-**← MOC Principal:** [[Concursos/Auditoria/Auditoria|Auditoria]]

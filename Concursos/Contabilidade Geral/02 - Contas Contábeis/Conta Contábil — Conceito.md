@@ -27,20 +27,23 @@ updated: 2026-01-08T21:56:00
 - [[Contas Retificadoras]]
 - [[Contas de Compensação]]
 
-### Quanto a Forma de Lançamento
+### Quanto a Movimentação
 
 - [[Contas Unilaterais]]
 - [[Contas Bilaterais]]
 
-### Quanto a função no sistema contábil
+### Quanto a Função no Sistema Contábil
 
 - [[Contas Analíticas]]
 - [[Contas Sintéticas]]
 
-### Quanto ao Funcionamento
+### Quanto a Natureza do Saldo
 
 - [[Contas Credoras]]
 - [[Contas Devedoras]]
+
+### Quanto a Variação da Natureza do Saldo
+
 - [[Contas Estáveis]]
 - [[Contas Instáveis]]
 

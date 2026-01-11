@@ -7,7 +7,7 @@ tags:
   - auditoria
 ---
 
-## 🔸Conceitos Fundamentais
+## Conceitos Fundamentais
 
 - [[Auditoria — Conceito]]
 - [[MOC — Objetivos da Auditoria]]
@@ -24,7 +24,7 @@ tags:
 #auditoria
 
 ---
-## 🔸Normas
+## Normas
 
 > [!info] NBC TA 200
 Trata das responsabilidades gerais do auditor independente na condução da auditoria de demonstrações contábeis em conformidade com as normas brasileiras e internacionais de auditoria ([[Auditoria — Conceito]]).

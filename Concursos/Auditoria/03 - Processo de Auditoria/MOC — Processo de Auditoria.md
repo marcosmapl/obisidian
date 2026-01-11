@@ -1,18 +1,15 @@
 ---
 disciplina: Auditoria
-tópico: Fases da Auditoria
+tópico: Processo de Auditoria
 created: 2025-12-23T00:00:00
-progresso: 0
-node_size: "10"
-tags:
-  - auditoria/planejamento
+updated: 2026-01-10T09:00:00
 ---
 
 ## Etapas da Auditoria
 
 Podemos dividir o trabalho da auditoria em **quatro fases**:
-- [[Planejamento da Auditoria]]
-- [[Execução da Auditoria]]
+- [[Planejamento da Auditoria]] (Atividades Preliminares, Estratégia Global, Plano de Auditoria, Programa de Auditoria)
+- [[Execução da Auditoria]] (Testes de Controle e Procedimentos Substantivos)
 - [[Emissão do Relatório da Auditoria]]
 - [[Monitoramento da Auditoria]]
 
@@ -30,4 +27,6 @@ Podemos dividir o trabalho da auditoria em **quatro fases**:
 ## Tópicos Links Relacionados
 
 - [[Auditoria — Conceito]]
-- [[Risco de Auditoria — Conceito]]
+- [[Riscos em Auditoria — Conceito]]
+- [[Documentação de Auditoria]]
+

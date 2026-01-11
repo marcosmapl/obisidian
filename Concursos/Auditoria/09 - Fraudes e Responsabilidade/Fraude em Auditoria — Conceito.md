@@ -49,7 +49,7 @@ Mnemônico:
 ## 🔸 Links Relacionados
 
 - [[Distorção — Conceito]]
-- [[Risco de Auditoria — Conceito]]
+- [[Riscos em Auditoria — Conceito]]
 - [[Erro em Auditoria — Conceito]]
 - [[Materialidade em Auditoria]]
 

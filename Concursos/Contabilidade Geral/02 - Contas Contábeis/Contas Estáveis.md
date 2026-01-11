@@ -8,7 +8,7 @@ updated: 2026-01-09T05:36:00
 ## Conceito
 
 > [!note] Contas Estáveis
-> São contas que possuem uma única natureza de funcionamento.
+> São contas que possuem uma **única natureza de saldo**.
 
 #contabilidade/contas_estaveis
 

@@ -7,21 +7,23 @@ tags:
   - auditoria/risco
 ---
 
-## 🔸Conceito de Risco de Auditoria
+## Conceito de Risco de Auditoria
 
-- [[Risco de Auditoria — Conceito]]
+- [[Riscos em Auditoria — Conceito]]
 
 #auditoria/risco
 
 ---
-## 🔸Classificação do Risco de Auditoria
+## Classificação do Risco de Auditoria
 
 - [[Risco de Distorção Relevante]] ⟶ ==NÃO== relacionados com os **procedimentos**.
 - [[Risco de Detecção]] ⟶ **falha nos procedimentos** (auditor).
 - [[Risco de Auditoria Interna]] ⟶ **não atingir o objetivo** dos trabalhos.
 
+![[Pasted image 20260110080912.png]]
+
 ---
 
-## 🔸 Navegação
+## Navegação
 
 **← MOC Principal:** [[Concursos/Auditoria/Auditoria|Auditoria]]

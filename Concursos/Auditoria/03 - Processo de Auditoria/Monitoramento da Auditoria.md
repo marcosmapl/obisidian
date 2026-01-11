@@ -1,8 +1,8 @@
 ---
 disciplina: Auditoria
-tópico: Fases da Auditoria
+tópico: Processo de Auditoria
 created: 2025-12-26T17:46:00
-updated: 2025-12-26T17:50:00
+updated: 2026-01-10T09:00:00
 ---
 
 ## 🔸 Definição
@@ -26,7 +26,7 @@ Esta fase ocorre após a emissão do relatório e tem como propósito principal 
 ---
 ## 🔸 Links Relacionados
 
-- [[MOC — Fases da Auditoria]]
+- [[MOC — Processo de Auditoria]]
 - [[Planejamento da Auditoria]]
 - [[Execução da Auditoria]]
 - [[Emissão do Relatório da Auditoria]]

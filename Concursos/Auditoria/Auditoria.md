@@ -21,7 +21,7 @@ Definições, objetivos, classificações e fundamentos básicos da auditoria.
 ### 02 — [[Concursos/Auditoria/02 - Auditor/MOC — O Auditor|MOC — O Auditor]]
 Perfil profissional, responsabilidades, ética e competências do auditor.
 
-### 03 — [[MOC — Fases da Auditoria|MOC — Fases da Auditoria]]
+### 03 — [[MOC — Processo de Auditoria|MOC — Processo de Auditoria]]
 Estratégia global, plano de auditoria e conhecimento do negócio.
 
 ### 04 — [[Concursos/Auditoria/04 - Riscos de Auditoria/MOC — Riscos de Auditoria|MOC — Riscos de Auditoria]]

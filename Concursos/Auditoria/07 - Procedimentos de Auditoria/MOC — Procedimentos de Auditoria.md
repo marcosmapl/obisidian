@@ -2,31 +2,28 @@
 disciplina: Auditoria
 tópico: Procedimentos de Auditoria
 created: 2025-12-23T00:00:00
-progresso: 0
-node_size: "10"
-tags:
-  - auditoria/procedimentos
+updated: 2026-01-10T08:45:00
 ---
 
-## 🔸 Procedimentos de Auditoria
+## Índice
 
-- [[Procedimentos de Auditoria]]
 - [[Evidências de Auditoria — Conceito]]
+- [[Procedimentos de Auditoria]]
+- [[Procedimento de Inspeção]]
+- [[Procedimento de Observação]]
+- [[Procedimento de Confirmação Externa]]
+- [[Procedimento de Recálculo]]
+- [[Procedimentos Analíticos]]
+- [[Procedimento de Indagação]]
+- [[Procedimentos de Reexecução]]
 - [[Testes de Controle]]
 - [[Testes Substantivos]]
-- [[Procedimentos Analíticos]]
-- [[Confirmações Externas]]
-- [[Inspeção]]
-- [[Observação]]
-- [[Indagação]]
-- [[Recálculo]]
-- [[Reexecução]]
 - [[Amostragem em Auditoria]]
 
 #auditoria/procedimentos
 
 ---
-## 🔸 Normas Relacionadas
+## Normas Relacionadas
 
 > [!info] NBC TA 500
 > Evidência de Auditoria
@@ -37,8 +34,3 @@ tags:
 > [!info] NBC TA 520
 > Procedimentos Analíticos
 
----
-
-## 🔸 Navegação
-
-**← MOC Principal:** [[Concursos/Auditoria/Auditoria|Auditoria]]

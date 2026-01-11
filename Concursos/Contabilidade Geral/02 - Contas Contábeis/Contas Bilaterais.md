@@ -8,7 +8,7 @@ updated: 2026-01-09T05:45:00
 ## Conceito
 
 > [!note] Contas Bilaterais
-> São contas que aceitam lançamentos de **Crédito** e **Débito**, tendo assim **aumento** e **diminuições** de seu **saldo**.
+> São contas que recebem lançamentos de **Crédito** e **Débito**, tendo assim **aumento** e **diminuições** de seu **saldo**.
 
 #contabilidade/contas_bilaterais
 

@@ -4,20 +4,22 @@ tópico: Risco de Auditoria
 created: 2025-12-22T14:21:00
 ---
 
-> [!note] Risco de Auditoria
+> [!note] Risco em Auditoria
 > É o risco de o auditor **expressar uma opinião inadequada** quando as demonstrações contábeis apresentarem **distorções relevantes**.
 
  > [!tip] Ideia-chave
  > Opinião errada sobre informação relevante.
 
 ---
-## 🔸Resumo para Prova
+## Resumo para Prova
 
-**Risco de Auditoria**
+**Riscos em Auditoria**
 - **Risco de Distorção Relevante**
 	- **Risco Inerente** (existe por natureza)  
 	- **Risco de Controle** (falha do controle interno)  
 - **Risco de Detecção** (falha dos procedimentos do auditor)
+
+![[Pasted image 20260110080808.png]]
 
 > [!important] Fórmula do Risco
 > $RA = RDR \times RD$

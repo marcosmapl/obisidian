@@ -1,11 +1,11 @@
 ---
 disciplina: Auditoria
-tópico: Fases da Auditoria
+tópico: Processo de Auditoria
 created: 2025-12-26T16:50:00
-updated: 2025-12-26T16:50:00
+updated: 2026-01-10T09:00:00
 ---
 
-## 🔸Definição
+## Definição
 
 > [!note] Execução da Auditoria
 > É o estágio do trabalho de auditoria que **sucede o planejamento** e **antecede a emissão do relatório**. É o momento em que a equipe coloca em **prática** o que foi desenhado no programa de auditoria.
@@ -13,14 +13,14 @@ updated: 2025-12-26T16:50:00
 #auditoria/fases/execucao
 
 ---
-## 🔸Foco
+## Foco
 
 Nesta etapa, o auditor utiliza as **fontes de informação** e a**plica os procedimentos** previstos no planejamento para fundamentar suas conclusões. 
 
 O objetivo central é a **coleta**, o **exame** e a **análise** de evidências que sejam adequadas em **qualidade** e **quantidade**.
 
 ---
-## 🔸Atividades Principais
+## Atividades Principais
 
 - **Aplicação de Testes**: Realização de testes para obter **evidências robusta**s.
 
@@ -33,13 +33,13 @@ O objetivo central é a **coleta**, o **exame** e a **análise** de evidências 
 - Documentação: Registrar formalmente todo o trabalho realizado através de papéis de trabalho.
 
 ---
-## 🔸Relação com o Planejamento
+## Relação com o Planejamento
 
 À medida que as evidências são coletadas, o auditor pode encontrar informações que diferem significativamente do que era esperado, o que pode exigir a **atualização ou alteração da estratégia global e do plano de auditoria** ainda durante a fase de execução.
 
 
 ---
-## 🔸Objetivos Finais da Fase
+## Objetivos Finais da Fase
 
 A fase de execução busca prover o suporte necessário para:
 
@@ -50,9 +50,9 @@ A fase de execução busca prover o suporte necessário para:
 3. Preparar a base para a fase de **relatório**
 
 ---
-## 🔸 Links Relacionados
+## Links Relacionados
 
-- [[MOC — Fases da Auditoria]]
 - [[Planejamento da Auditoria]]
 - [[Emissão do Relatório da Auditoria]]
+- [[Testes de Controle]]
 - [[Monitoramento da Auditoria]]

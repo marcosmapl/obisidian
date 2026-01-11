@@ -4,7 +4,7 @@ tópico: Conceitos Fundamentais
 created: 2025-12-22T15:22:00
 ---
 
-## 🔸Objetivos Gerais do Auditor Independente
+## Objetivos Gerais do Auditor Independente
 
 Ao conduzir a auditoria de demonstrações contábeis, os objetivos gerais do auditor são:
 - Obter **segurança razoável** de que as **demonstrações contábeis** como um todo estão **livres de distorção relevante**.

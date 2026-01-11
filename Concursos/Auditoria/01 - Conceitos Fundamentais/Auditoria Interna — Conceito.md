@@ -33,7 +33,7 @@ created: 2025-12-22T21:48:00
 
 - [[Auditoria Privada — Conceito]]
 - [[Auditoria Externa — Conceito]]
-- [[Risco de Auditoria — Conceito]]
+- [[Riscos em Auditoria — Conceito]]
 - [[Risco de Auditoria Interna]]
 
 #auditoria/interna #auditoria/nbc_ti_01

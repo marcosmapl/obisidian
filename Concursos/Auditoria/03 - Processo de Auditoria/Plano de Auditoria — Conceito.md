@@ -1,8 +1,8 @@
 ---
 disciplina: Auditoria
-tópico: Fases da Auditoria
+tópico: Processo de Auditoria
 created: 2025-12-26T16:20:00
-updated: 2026-01-06T11:41:00
+updated: 2026-01-10T09:10:00
 ---
 
 ## Conceito

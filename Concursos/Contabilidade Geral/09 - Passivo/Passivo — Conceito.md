@@ -35,6 +35,20 @@ updated: 2026-01-07T11:05:00
 - [[Passivo Financeiro — Conceito]]
 
 ---
+## Principais Contas
+
+- Contas a pagar
+- Duplicatas a Pagar
+- Fornecedor
+- Adiantamento de Cliente
+- Receita Antecipada
+- Despesas a Pagar
+- Empréstimo
+- Financiamento
+- Provisões
+- Duplicatas Descontadas
+
+---
 ## Tópicos relacionados
 
 - [[Ativo — Conceito]]

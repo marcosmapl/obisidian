@@ -8,8 +8,11 @@ updated: 2025-12-27T16:30:00
 > [!note] Testes Substantivos  
 > Os **testes substantivos** são procedimentos de auditoria interna destinados a **obter evidências** para proporcionar **segurança razoável** quanto à **suficiência, exatidão e validade** das **informações e registros** produzidos pelos sistemas de informação da entidade.
 
+> [!warning]  
+> Testes substantivos **não substituem** os testes de observância, mas os **complementam**.
+
 ---
-## 🔸 Finalidade
+## Finalidade
 
 - Verificar se os **dados e registros**:    
     - são **completos (suficientes)**;
@@ -19,49 +22,13 @@ updated: 2025-12-27T16:30:00
 - Complementar ou suprir limitações dos **controles internos**.
 
 ---
-## 🔸 Foco dos Testes
+## Mnemônico de Prova
 
-- Incidem diretamente sobre:    
-    - **transações**;
-    - **saldos contábeis**; e
-    - **informações gerenciais**.
-- Avaliam o **conteúdo** da informação, e não apenas o processo.
-
----
-## 🔸 Relação com os Testes de Observância
-
-- Podem ser:
-    - **ampliados**, quando os controles são **fracos ou inexistentes**;
-    - **reduzidos**, quando os controles se mostram **confiáveis**.
-- Dependem da **avaliação de riscos** realizada pelo auditor interno.
-
----
-
-> [!warning]  
-> Testes substantivos **não substituem** os testes de observância, mas os **complementam**.
-
----
-## 🔸 Técnicas Utilizadas
-
-- **Inspeção de documentos e registros**.
-- **Reexecução de cálculos**.
-- **Conciliações**.
-- **Análises comparativas e cruzamentos de dados**.
-- **Confirmações**.
-
----
-## 🔸 Mnemônico de Prova: **“S.E.V.”**
+> [!quote] Os testes substantivos são feitos pelo **SEV**erino.
 
 - **S** → **Suficiência**
 - **E** → **Exatidão**
 - **V** → **Validade**
-
----
-
-## 🔸 Esquema Mental de Prova
-
-- **Observância** → controles → _funcionam?_ 
-- **Substantivos** → dados → _estão corretos, completos e válidos?_
 
 ---
 

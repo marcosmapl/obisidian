@@ -8,7 +8,7 @@ updated: 2026-01-09T05:41:00
 ## Conceito
 
 > [!note] Contas Instáveis
-> São contas que possuem **dupla natureza** de funcionamento, ora sendo **Devedora**, ora sendo **Credora**!
+> São contas que possuem **dupla natureza de saldo**, ora sendo **Devedora**, ora sendo **Credora**!
 
 #contabilidade/contas_instaveis
 
@@ -16,6 +16,7 @@ updated: 2026-01-09T05:41:00
 ## Exemplos
 
 - Ajuste de Avaliação Patrimonial (Patrimônio Líquido)
+- Lucros ou Prejuízos Acumulados
 
 ---
 ## Tópicos Relacionados

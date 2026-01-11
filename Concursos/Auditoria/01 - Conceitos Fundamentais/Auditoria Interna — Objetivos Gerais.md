@@ -69,7 +69,7 @@ updated: 2025-12-27T09:00:00
 - [[Auditoria Interna — Conceito]]
 - [[Auditoria Privada — Conceito]]
 - [[Auditoria Externa — Conceito]]
-- [[Risco de Auditoria — Conceito]]
+- [[Riscos em Auditoria — Conceito]]
 - [[Risco de Auditoria Interna]]
 
 
