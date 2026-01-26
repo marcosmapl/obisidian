@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8b6f032e75d3b28a",
+        "id": "5ea52c9a6f1a80bc",
         "type": "tabs",
         "children": [
           {
-            "id": "dd73f3a05a6d3ff5",
+            "id": "8198fdf4a6d90564",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Direito/10 - Direito Tributário/04 - Competência Tributária/MOC — Competência Tributária.md",
+                "file": "Cardinalidade.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MOC — Competência Tributária"
+              "title": "Cardinalidade"
             }
           }
         ]
@@ -276,13 +276,24 @@
             "id": "49fe40b0a7b948db",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "d42a4b9025be1384",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
               "title": "Graph Analysis"
             }
           }
-        ]
+        ],
+        "currentTab": 17
       },
       {
         "id": "f70b642b0827c287",
@@ -321,8 +332,12 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "d80addb41ff0b48f",
+  "active": "8198fdf4a6d90564",
   "lastOpenFiles": [
+    "Media/Pasted image 20260126053825.png",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/02 -Projeto e Modelagem de Dados/MOC — Modelo Entidade-Relacionamento.md",
+    "Cardinalidade.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/02 -Projeto e Modelagem de Dados/MOC — Projeto e Modelagem de Dados.md",
     "Concursos/Direito/10 - Direito Tributário/04 - Competência Tributária/Competência Tributária das Contribuições Especiais.md",
     "Media/Pasted image 20260125195019.png",
     "Concursos/Direito/10 - Direito Tributário/04 - Competência Tributária/MOC — Competência Tributária.md",
@@ -349,9 +364,6 @@
     "Concursos/Direito/10 - Direito Tributário/10 - Legislação Tributária/Legislação Tributária — Conceito.md",
     "Concursos/Direito/10 - Direito Tributário/10 - Legislação Tributária/Ultratividade da Lei Tributária.md",
     "Concursos/Auditoria/03 - Processo de Auditoria/Uso de Especialista da Administração.md",
-    "Concursos/Direito/05 - Direito Administrativo/03 - Regime Jurídico-Administrativo/Regime Jurídico Administrativo.md",
-    "Concursos/Direito/05 - Direito Administrativo/03 - Regime Jurídico-Administrativo/Regime Jurídico da Administração Pública.md",
-    "Concursos/Direito/05 - Direito Administrativo/03 - Regime Jurídico-Administrativo/Regime Jurídico.md",
     "Media/Pasted image 20260121093710.png",
     "Media/Pasted image 20260121093547.png",
     "Media/Pasted image 20260119215323.png",

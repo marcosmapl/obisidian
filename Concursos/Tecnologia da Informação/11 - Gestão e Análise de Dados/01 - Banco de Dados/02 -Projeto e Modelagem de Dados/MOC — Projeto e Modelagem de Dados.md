@@ -10,4 +10,4 @@ updated: 2026-01-14T14:50:00
 - [[Conceitos de Projeto de Banco de Dados]]
 - [[Fases do Projeto de Banco de Dados]]
 - [[MOC — Modelo Relacional]]
-- [[MOC — Modelo Entidade Relacionamento]]
+- [[MOC — Modelo Entidade-Relacionamento]]
