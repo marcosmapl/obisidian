@@ -51,7 +51,10 @@ Compreensão, inferência, coesão, coerência e argumentação.
 ### 12 — [[Concursos/Língua Portuguesa/12 - Tipologia Textual/MOC — Tipologia Textual|MOC — Tipologia Textual]]
 Tipos textuais: narrativo, descritivo, dissertativo, injuntivo.
 
-### 13 — [[Concursos/Língua Portuguesa/13 - Figuras de Linguagem/MOC — Figuras de Linguagem|MOC — Figuras de Linguagem]]
+### 13 — [[MOC — Funções da Linguagem]]
+Funções da linguagem: emotiva, fática, denotativa, conotativa.
+
+### 14 — [[MOC — Figuras de Linguagem|MOC — Figuras de Linguagem]]
 Figuras de palavras, pensamento, sintaxe e som.
 
 ---

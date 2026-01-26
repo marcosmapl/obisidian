@@ -20,3 +20,5 @@ tags:
 - [[Princípio da Legalidade Tributária]]
 - [[Princípio do Não Confisco]]
 - [[Princípio do Pecúnia Non Olet]]
+- [[Princípio da Territorialidade]]
+

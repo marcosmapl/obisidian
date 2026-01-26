@@ -38,4 +38,4 @@ updated: 2026-01-08T05:25:00
 - [[Poder Disciplinar — Conceito]]
 - [[Poder Discricionário]]
 - [[Poder Vinculado]]
-- [[Atos Normativos]]
+- [[Ato Normativo — Conceito]]

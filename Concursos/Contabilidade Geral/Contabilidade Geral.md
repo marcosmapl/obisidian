@@ -24,7 +24,7 @@ progresso: 0
 
 ### 2. [[MOC — Contas Contábeis]]
 
-### 3. [[MOC — Técnica Contábil e Escrituração]]
+### 3. [[MOC — Escrituração Contábil]]
 
 ### 4. [[MOC — Balanço Patrimonial]]
 

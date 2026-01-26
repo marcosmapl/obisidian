@@ -5,7 +5,10 @@ created: 2026-01-10T08:35:00
 updated: 2026-01-10T08:35:00
 ---
 
-## Conceitos
+## Conceito
+
+> [!note] Perícia Contábil
+> A perícia contábil constitui o **conjunto de procedimentos técnicos e científicos** destinados a levar à instância decisória **elementos de prova** necessários a **subsidiar à justa solução do litígio**, mediante **laudo pericial contábil e/ou parecer pericial contábil**, em conformidade com as normas jurídicas e profissionais, e a legislação específica no que for pertinente
 
 ### Exame
 Análise de livros, registros de transações e documentos.

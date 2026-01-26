@@ -16,8 +16,8 @@ completed: 0
 ### 01 — [[MOC — Conceito e Fontes|MOC — Conceito e Fontes]]
 
 ### 02 — [[MOC — Princípios Administrativos|MOC — Princípios Administrativos]]
-### 03 — [[MOC — Regime Jurídico-Administrativo|MOC — Regime Jurídico-Administrativo]]
-### 04 — [[MOC — Administração Pública e Organização Administrativa|MOC — Administração Pública e Organização Administrativa]]
+### 03 — [[MOC — Regime Jurídico|MOC — Regime Jurídico-Administrativo]]
+### 04 — [[MOC — Organização Administrativa|MOC — Administração Pública e Organização Administrativa]]
 ### 05 — [[MOC — Poderes Administrativos|MOC — Poderes Administrativos]]
 ### 06 — [[MOC — Atos Administrativos|MOC — Atos Administrativos]]
 ### 07 — [[MOC — Licitações Públicas|MOC — Licitações Públicas]]

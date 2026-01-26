@@ -46,4 +46,4 @@ updated: 2026-01-08T05:50:00
 - [[Poder Discricionário]]
 - [[Poder Vinculado]]
 - [[Poder Normativo — Conceito]]
-- [[Atos Normativos]]
+- [[Ato Normativo — Conceito]]

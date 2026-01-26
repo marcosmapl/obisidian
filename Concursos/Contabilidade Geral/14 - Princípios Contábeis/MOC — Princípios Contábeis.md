@@ -8,3 +8,4 @@ updated: 2026-01-05T21:45:00
 ## Índice
 
 - [[Princípio da Entidade]]
+- [[Princípio da Competência]]

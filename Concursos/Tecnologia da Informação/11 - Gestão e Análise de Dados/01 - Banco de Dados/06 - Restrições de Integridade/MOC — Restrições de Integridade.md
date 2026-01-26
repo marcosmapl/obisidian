@@ -8,10 +8,9 @@ updated: 2026-01-06T16:15:00
 ## Índice
 
 - [[Restrições de Integridade — Conceito]]
-- [[PRIMARY KEY]]
-- [[FOREIGN KEY]]
-- [[UNIQUE]]
-- [[NOT NULL]]
-- [[CHECK]]
+- [[PRIMARY KEY (SQL)]]
+- [[FOREIGN KEY (SQL)]]
+- [[UNIQUE (SQL)]]
+- [[CHECK (SQL)]]
 - [[Integridade Referencial]]
 - [[Ações Referenciais — ON DELETE / ON UPDATE]]

@@ -1,11 +1,16 @@
 ---
 disciplina: Auditoria
-tópico: Perfil e Responsabilidades do Auditor
+tópico: Perfil do Auditor
 created: 2025-12-19T08:56:00
-node_size: "10"
+updated: 2026-01-14T10:00:00
 ---
+
+## Conceito
+
 > [!note] Ceticismo Profissional
 > Postura que envolve **mente questionadora**, **atenção a indícios de erro ou fraude** e **avaliação crítica das evidências**.
+
+#auditoria/perfil_auditor/ceticismo_profissional
 
 **Essência (mnemônico: _QAF_):**
 - **Q**uestionar
@@ -20,4 +25,19 @@ node_size: "10"
 > [!tip] Dica
 > **Não confiar automaticamente**, mesmo com histórico positivo.
 
-#auditoria/perfil-auditor/ceticismo-profissional
+---
+## Diminuição de Riscos
+
+- Ignorar circunstâncias não usuais
+- Generalizações excessivas
+- Uso inadequado de premissas
+
+---
+## Ameaças ao Ceticismo
+
+- Tendências conscientes e inconscientes
+
+---
+## Tópicos Relacionados
+
+- [[Julgamento Profissional]]

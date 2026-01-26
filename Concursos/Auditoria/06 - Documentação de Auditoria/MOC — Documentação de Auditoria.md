@@ -8,7 +8,7 @@ tags:
   - auditoria/documentacao
 ---
 
-## 🔸 Documentação de Auditoria
+## Índice
 
 - [[Documentação de Auditoria]]
 - [[Classificações da Documentação de Auditoria]]

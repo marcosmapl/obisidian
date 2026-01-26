@@ -39,5 +39,5 @@ updated: 2026-01-07T22:25:00
 
 - [[Texto Narrativo]]
 - [[Texto Dissertativo-Argumentativo]]
-- [[Texto Dissertativo-Expositivo]]
+- [[Texto Dissertativo]]
 - [[Texto Injuntivo]]

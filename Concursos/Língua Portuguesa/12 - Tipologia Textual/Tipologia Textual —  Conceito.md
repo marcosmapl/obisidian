@@ -30,7 +30,7 @@ Existem 5 tipos principais:
 - [[Texto Narrativo]] ⟶ **contar histórias**
 - [[Texto Descritivo]] ⟶ **descrever, caracterizar, qualificar**
 - [[Texto Dissertativo-Argumentativo]] ⟶ **defender uma teste**
-- [[Texto Dissertativo-Expositivo]] ⟶ **informar o leitor**
+- [[Texto Dissertativo]] ⟶ **informar o leitor**
 - [[Texto Injuntivo]] ⟶ **instruir ou dar ordens**
 
 > [!important] O fator principal que determina a Tipologia Textual é a **Intenção do Autor**. 

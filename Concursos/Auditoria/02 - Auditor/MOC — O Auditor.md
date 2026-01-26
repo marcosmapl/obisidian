@@ -10,10 +10,10 @@ tags:
 
 ## 🔸 O Auditor
 
-- [[Auditor Independente —  Objetivos Gerais]]
+- [[Objetivos Gerais do Auditor Independente]]
 - [[Ceticismo Profissional]]
 - [[Julgamento Profissional]]
-- [[Princípios Éticos]]
+- [[Princípios de Ética Profissional]]
 - [[Características Inerentes do Auditor]]
 - [[Competência Profissional Exigida]]
 - [[Independência e Objetividade]]

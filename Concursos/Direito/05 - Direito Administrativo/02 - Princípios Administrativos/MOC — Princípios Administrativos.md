@@ -12,6 +12,11 @@ updated: 2026-01-03T18:20:00
 #direito/administrativo/principios_administrativos
 
 ---
+## Funções dos Princípios Administrativos
+
+- [[Funções do Princípios Administrativo]]
+
+---
 ## Princípios Constitucionais Expressos (LIMPE)
 
 > [!tip] Art. 37, caput, da Constituição Federal

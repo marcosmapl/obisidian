@@ -19,27 +19,16 @@ updated: 2025-12-30T15:10:00
 ---
 ## Principais Comandos da DML (ANSI SQL)
 
-- [[SELECT (SQL ANSI)]]
-- [[INSERT]]
+- SELECT
+- INSERT
+- UPDATE
+- DELETE
 
 ---
-### 🔹 INSERT
-- **Insere novos registros** em uma tabela;
-- Pode inserir:
-  - valores diretos;
-  - resultados de consultas (`INSERT INTO ... SELECT`).
+## Cláusulas
 
----
-### 🔹 UPDATE
-- **Altera dados existentes** em uma tabela;
-- Normalmente combinado com `WHERE` para evitar alterações globais.
-
----
-### 🔹 DELETE
-- **Remove registros** de uma tabela;
-- Pode ser:
-  - seletivo (`WHERE`);
-  - total (sem `WHERE`).
+- FROM
+- WHERE
 
 ---
 ## Características Importantes
@@ -53,13 +42,6 @@ updated: 2025-12-30T15:10:00
   - permissões de acesso (GRANT).
 
 ---
-## DML × Outros Subconjuntos do SQL
-
-- **DDL** → definição de estrutura (CREATE, ALTER, DROP);
-- **DCL** → controle de acesso (GRANT, REVOKE);
-- **TCL** → controle de transações (COMMIT, ROLLBACK, SAVEPOINT).
-
----
 ## Pontos de Prova
 
 - `SELECT` é DML no padrão ANSI;
@@ -70,8 +52,13 @@ updated: 2025-12-30T15:10:00
 ---
 ## Tópicos Relacionados
 
+- [[SELECT (SQL)]]
+- [[INSERT (SQL)]]
+- [[UPDATE (SQL)]]
+- [[DELETE (SQL)]]
+- [[FROM (SQL)]]
+- [[WHERE (SQL)]]
 - [[DDL — Data Definition Language]]
 - [[DCL — Data Control Language]]
 - [[TCL — Transaction Control Language]]
-- [[SQL ANSI]]
-- [[Banco de Dados Relacional]]
+

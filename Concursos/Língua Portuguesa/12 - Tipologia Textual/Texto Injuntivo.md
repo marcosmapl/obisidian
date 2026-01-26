@@ -24,6 +24,8 @@ created: 2025-12-21T08:42:00
 
 - Receita
 - Manual de instruções
+- Leis
+- Contratos
 - Edital
 - Regulamento
 - Bula
@@ -33,5 +35,5 @@ created: 2025-12-21T08:42:00
 
 - [[Texto Descritivo]]
 - [[Texto Dissertativo-Argumentativo]]
-- [[Texto Dissertativo-Expositivo]]
+- [[Texto Dissertativo]]
 - [[Texto Narrativo]]

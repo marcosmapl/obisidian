@@ -9,6 +9,6 @@ updated: 2026-01-11T11:25:00
 
 ![[Pasted image 20260111120802.png]]
 
-- [[Teoria Personalista]]
-- [[Teoria Materialista]]
-- [[Teoria Patrimonialista]]
+- [[Teoria Personalista]] -> Contabilidade como ciência da **Gestão Patrimonial**
+- [[Teoria Materialista]] -> 
+- [[Teoria Patrimonialista]] -> Contabilidade como ciência do **Patrimônio**

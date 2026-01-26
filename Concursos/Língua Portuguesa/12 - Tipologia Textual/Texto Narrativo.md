@@ -48,6 +48,6 @@ updated: 2026-01-07T21:20:00
 
 - [[Texto Descritivo]]
 - [[Texto Dissertativo-Argumentativo]]
-- [[Texto Dissertativo-Expositivo]]
+- [[Texto Dissertativo]]
 - [[Texto Injuntivo]]
 - [[Tipos de Discurso]]

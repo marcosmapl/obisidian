@@ -29,4 +29,5 @@ Podemos dividir o trabalho da auditoria em **quatro fases**:
 - [[Auditoria — Conceito]]
 - [[Riscos em Auditoria — Conceito]]
 - [[Documentação de Auditoria]]
+- [[Uso de Especialista da Administração]]
 

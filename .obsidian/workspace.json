@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e98748f8c9a419d6",
+        "id": "8b6f032e75d3b28a",
         "type": "tabs",
         "children": [
           {
-            "id": "7d40d10501bb01ff",
+            "id": "dd73f3a05a6d3ff5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Contabilidade Geral/02 - Contas Contábeis/Teoria Materialista.md",
+                "file": "Concursos/Direito/10 - Direito Tributário/04 - Competência Tributária/MOC — Competência Tributária.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Teoria Materialista"
+              "title": "MOC — Competência Tributária"
             }
           }
         ]
@@ -53,10 +53,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "Competên",
+                "matchingCase": true,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 420.5110321044922
+    "width": 377.5026054382324
   },
   "right": {
     "id": "85539bb65b2a9791",
@@ -95,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Concursos/Direito/10 - Direito Tributário/04 - Competência Tributária/MOC — Competência Tributária.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Links inversos para MOC — Competência Tributária"
             }
           },
           {
@@ -235,14 +236,53 @@
             "id": "ab75c1b8439992ed",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "42ac0eb063d02288",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "15ede1b6b1033dc9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "857758f79097fb92",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "49fe40b0a7b948db",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
               "title": "Graph Analysis"
             }
           }
-        ],
-        "currentTab": 12
+        ]
       },
       {
         "id": "f70b642b0827c287",
@@ -281,43 +321,44 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "7d40d10501bb01ff",
+  "active": "d80addb41ff0b48f",
   "lastOpenFiles": [
-    "Concursos/Contabilidade Geral/02 - Contas Contábeis/Teoria Personalista.md",
-    "Concursos/Contabilidade Geral/02 - Contas Contábeis/Teoria Patrimonialista.md",
-    "Concursos/Contabilidade Geral/02 - Contas Contábeis/Teoria Materialista.md",
-    "Concursos/Contabilidade Geral/02 - Contas Contábeis/MOC — Teoria das Contas.md",
-    "Media/Pasted image 20260111120802.png",
-    "Concursos/Contabilidade Geral/02 - Contas Contábeis/MOC — Contas Contábeis.md",
-    "Media/Pasted image 20260111115940.png",
-    "Concursos/Contabilidade Geral/05 - Ativo/Ativo — Conceito.md",
-    "Concursos/Contabilidade Geral/09 - Passivo/Passivo — Conceito.md",
-    "Media/Pasted image 20260111114950.png",
-    "Concursos/Contabilidade Geral/02 - Contas Contábeis/Conta Contábil — Conceito.md",
-    "Concursos/Contabilidade Geral/02 - Contas Contábeis/Contas Analíticas.md",
-    "Concursos/Contabilidade Geral/02 - Contas Contábeis/Contas Sintéticas.md",
-    "Concursos/Contabilidade Geral/Contabilidade Geral.md",
-    "Concursos/Contabilidade Geral/02 - Contas Contábeis/Contas Unilaterais.md",
-    "Concursos/Contabilidade Geral/02 - Contas Contábeis/Contas Bilaterais.md",
-    "Concursos/Contabilidade Geral/03 - Técnica Contábil e Escrituração/MOC — Técnica Contábil e Escrituração.md",
-    "Concursos/Contabilidade Geral/02 - Contas Contábeis/Contas Instáveis.md",
-    "Concursos/Contabilidade Geral/02 - Contas Contábeis/Contas Estáveis.md",
-    "Concursos/Contabilidade Geral/02 - Contas Contábeis/Principais Contas Utilizadas.md",
-    "Concursos/Auditoria/07 - Procedimentos de Auditoria/MOC — Procedimentos de Auditoria.md",
-    "Concursos/Contabilidade Geral/03 - Técnica Contábil e Escrituração/Partidas Dobradas.md",
-    "Concursos/Contabilidade Geral/04 - Balanço Patrimonial (BP)/MOC — Balanço Patrimonial.md",
-    "Concursos/Contabilidade Geral/04 - Balanço Patrimonial (BP)/Balanço Patrimonial — Conceito.md",
-    "Concursos/Língua Portuguesa/12 - Tipologia Textual/MOC — Tipologia Textual.md",
-    "Concursos/Língua Portuguesa/12 - Tipologia Textual/Texto Descritivo.md",
-    "Concursos/Língua Portuguesa/Língua Portuguesa.md",
-    "Concursos/Auditoria/03 - Processo de Auditoria/Emissão do Relatório da Auditoria.md",
-    "Media/Pasted image 20260110092327.png",
-    "Media/Pasted image 20260110092257.png",
-    "Media/Pasted image 20260110084323.png",
-    "Media/Pasted image 20260110082408.png",
-    "Media/Pasted image 20260110082404.png",
-    "Media/Pasted image 20260110082349.png",
-    "Media/Pasted image 20260110080912.png",
+    "Concursos/Direito/10 - Direito Tributário/04 - Competência Tributária/Competência Tributária das Contribuições Especiais.md",
+    "Media/Pasted image 20260125195019.png",
+    "Concursos/Direito/10 - Direito Tributário/04 - Competência Tributária/MOC — Competência Tributária.md",
+    "Concursos/Direito/10 - Direito Tributário/04 - Competência Tributária/Competência Tributária dos Impostos.md",
+    "Media/Pasted image 20260125194925.png",
+    "Concursos/Direito/10 - Direito Tributário/04 - Competência Tributária/Competência Tributária — Conceito.md",
+    "Concursos/Direito/10 - Direito Tributário/04 - Competência Tributária/Bitributação e Bis in Idem.md",
+    "Concursos/Direito/10 - Direito Tributário/04 - Competência Tributária/Classificação da Competência Tributária.md",
+    "Concursos/Auditoria/12 - Laudo e Parecer Pericial Contábil/Perícia Contábil — Conceito.md",
+    "Media/Pasted image 20260124174832.png",
+    "Tipos de Análises de BI.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence/MOC — Business Intelligence.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence/Data Discovery - Conceito.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence/Business Intelligence - Conceito.md",
+    "Concursos/Contabilidade Geral/03 - Escrituração Contábil/Livro Diário.md",
+    "Concursos/Contabilidade Geral/03 - Escrituração Contábil/Livro Razão.md",
+    "Concursos/Contabilidade Geral/03 - Escrituração Contábil/Livros Contábeis.md",
+    "Concursos/Direito/05 - Direito Administrativo/05 - Poderes Administrativos/Poder Hierárquico — Conceito.md",
+    "Concursos/Direito/10 - Direito Tributário/10 - Legislação Tributária/Vigência da Legislação Tributária.md",
+    "Concursos/Direito/10 - Direito Tributário/10 - Legislação Tributária/MOC — Legislação Tributária.md",
+    "Concursos/Direito/10 - Direito Tributário/03 - Princípios Tributários/MOC — Princípios Tributários.md",
+    "Concursos/Direito/10 - Direito Tributário/03 - Princípios Tributários/Princípio da Territorialidade.md",
+    "Media/Pasted image 20260123101808.png",
+    "Concursos/Direito/10 - Direito Tributário/10 - Legislação Tributária/Legislação Tributária — Conceito.md",
+    "Concursos/Direito/10 - Direito Tributário/10 - Legislação Tributária/Ultratividade da Lei Tributária.md",
+    "Concursos/Auditoria/03 - Processo de Auditoria/Uso de Especialista da Administração.md",
+    "Concursos/Direito/05 - Direito Administrativo/03 - Regime Jurídico-Administrativo/Regime Jurídico Administrativo.md",
+    "Concursos/Direito/05 - Direito Administrativo/03 - Regime Jurídico-Administrativo/Regime Jurídico da Administração Pública.md",
+    "Concursos/Direito/05 - Direito Administrativo/03 - Regime Jurídico-Administrativo/Regime Jurídico.md",
+    "Media/Pasted image 20260121093710.png",
+    "Media/Pasted image 20260121093547.png",
+    "Media/Pasted image 20260119215323.png",
+    "Media/Pasted image 20260119054102.png",
+    "Media/Pasted image 20260118120721.png",
+    "Media/Pasted image 20260118110115.png",
+    "Concursos/Língua Portuguesa/13 - Funções da Linguagem",
     "Concursos/Contabilidade Geral/02 - Contas Contábeis",
     "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence",
     "Sem título.canvas"

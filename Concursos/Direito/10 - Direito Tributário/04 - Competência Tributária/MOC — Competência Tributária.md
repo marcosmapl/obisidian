@@ -8,8 +8,8 @@ updated: 2026-01-05T14:32:00
 ## Índice
 
 - [[Competência Tributária — Conceito]]
+- [[Classificação da Competência Tributária]]
 - [[Características da Competência Tributária]]
-- [[Competência da União]]
-- [[Competência dos Estados]]
-- [[Competência do Distrito Federal]]
-- [[Competência dos Municípios]]
+- [[Competência Tributária dos Impostos]]
+- [[Competência Tributária das Contribuições Especiais]]
+- [[Bitributação e Bis in Idem]]

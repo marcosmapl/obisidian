@@ -10,9 +10,9 @@ updated: 2026-01-08T04:28:00
 - [[Deveres Administrativos — Conceito]]
 - [[Poderes Administrativos — Conceito]]
 - [[Poder Hierárquico — Conceito]]
-- [[Poder de Polícia]]
+- [[Poder de Polícia — Conceito]]
 - [[Poder Disciplinar — Conceito]]
-- [[Poder Discricionário]]
-- [[Poder Vinculado]]
+- [[Poder Discricionário — Conceito]]
+- [[Poder Vinculado — Conceito]]
 - [[Poder Normativo — Conceito]]
 

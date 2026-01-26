@@ -14,17 +14,16 @@ created: 2025-12-20T15:00:00
 ---
 ## Principais Comandos da DDL (ANSI SQL)
 
-- [[CREATE]]
-- [[ALTER]]
-- [[DROP]]
-- [[TRUNCATE]] _(suportado amplamente, embora não formalmente central no ANSI)_
-- [[RENAME]] _(varia conforme o SGBD, mas previsto conceitualmente)_
-- [[NOT NULL]]
-- [[UNIQUE]]
-- [[PRIMARY KEY]]
-- [[FOREIGN KEY]]
-- [[CHECK]]
-- [[DEFAULT]]
+- [[CREATE (SQL)]]
+- [[ALTER (SQL)]]
+- [[DROP (SQL)]]
+- [[TRUNCATE (SQL)]] _(suportado amplamente, embora não formalmente central no ANSI)_
+- [[RENAME (SQL)]] _(varia conforme o SGBD, mas previsto conceitualmente)_
+- [[UNIQUE (SQL)]]
+- [[PRIMARY KEY (SQL)]]
+- [[FOREIGN KEY (SQL)]]
+- [[CHECK (SQL)]]
+- [[DEFAULT (SQL)]]
 
 ---
 ## Comparação conceitual (DDL × DML)
@@ -46,7 +45,6 @@ created: 2025-12-20T15:00:00
 ---
 ## Tópicos relacionados
 
-- [[SQL ANSI]]
 - [[DML — Data Manipulation Language]]
 - [[DTL — Data Transaction Language]]
 - [[DCL — Data Control Language]]

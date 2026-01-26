@@ -31,11 +31,3 @@ updated: 2025-12-30T11:18:00
 
 - [[CHAR (SQL ANSI)]]
 - [[VARCHAR (SQL ANSI)]]
-
----
-## Navegação
-
-- [[Tecnologia da Informação]]
-- [[MOC — Gestão e Análise de Dados]]
-- [[SQL ANSI]]
-- [[Tipos Textuais SQL]]

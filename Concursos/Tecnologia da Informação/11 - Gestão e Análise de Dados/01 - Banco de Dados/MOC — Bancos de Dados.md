@@ -3,17 +3,12 @@ disciplina: Tecnologia da Informação
 tópico: Banco de Dados
 created: 2025-02-11T16:15:00
 updated: 2025-12-30T15:45:00
-completed: 0
 ---
 
 ## Índice
-### 01 - [[Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais]]
+### 01 - [[MOC — Conceitos Fundamentais]]
 
-### 02 - [[MOC — Modelo de Dados]]
-
-### 03 - [[MOC — Modelo Relacional]]
-
-### 04 - [[Projeto de Banco de Dados]]
+### 02 - [[MOC — Projeto e Modelagem de Dados]]
 
 ### 04 - [[MOC — Normalização]]
 

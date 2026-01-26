@@ -16,11 +16,9 @@ updated: 2026-01-10T09:10:00
 #auditoria/fases/planejamento
 
 ---
-## Objetivos
+## Objetivo Principal
 
-Consiste no desenvolvimento e documentação de um plano para um trabalho específico, estabelecendo o **escopo**, o **cronograma** (prazos), a **alocação de recursos** e a **metodologia** necessária.
-
-Segundo a NBC TA 300 (R1), seu objetivo principal é permitir que o trabalho seja realizado de maneira eficaz, dedicando atenção às áreas importantes e resolvendo problemas potenciais **tempestivamente**.
+Segundo a **NBC TA 300 (R1)**, seu objetivo principal é permitir que o trabalho seja realizado de maneira **eficaz**, dedicando atenção às áreas importantes e resolvendo problemas potenciais **tempestivamente**.
 
 > [!important] Objetivo do Auditor
 > Planejar a auditoria de forma a realizá-la de forma eficaz.
@@ -55,10 +53,10 @@ O planejamento deve considerar os fatores relevantes na execução dos trabalhos
 ## Atividades anteriores ao Planejamento
 
 - **Procedimentos Analíticos**
-- Entendimento global da **estrutura jurídica** e o **ambiente regulatório**
-- Determinação da **materialidade**
-- Envolvimento de **especialistas**
-- Aplicação de **outros procedimentos de avaliação de risco**
+- Entendimento global da **Estrutura jurídica** e o **Ambiente regulatório**
+- Determinação da **Materialidade**
+- Envolvimento de **Especialistas**
+- Aplicação de **Outros Procedimentos de Avaliação de Risco**
 
 > [!tip] Essas atividades devem vir antes da **Identificação** e **Avaliação** dos **Riscos de Distorções Relevantes**.
 
@@ -69,9 +67,9 @@ O planejamento deve considerar os fatores relevantes na execução dos trabalhos
 ---
 ## Atividades Preliminares
 
-- Procedimentos de controle de **qualidade** (**aceitação**/**continuidade**)
-- Avaliação da conformidade com **requisitos éticos**, inclusive **independência**
-- Estabelecer entendimento dos **termos do trabalho**
+- Procedimentos de **Controle de Qualidade** (**aceitação**/**continuidade**)
+- Avaliação da conformidade com **Requisitos Éticos**, inclusive **independência**
+- Estabelecer entendimento dos **Termos do Trabalho**
 
 ---
 ## Papel e época do Planejamento
@@ -86,7 +84,7 @@ A natureza e extensão das **atividades de planejamento** variam conforme:
 
 - O auditor deve planejar a **Natureza**, a **Época** e a **Extensão** (**NEE**) do **direcionamento e supervisão da equipe de trabalho e a revisão do seu trabalho**.
 
-### Fatores que alteram
+### Fatores de influçencia
 
 A **NEE** do direcionamento, supervisão e revisão podem variar dependendo dos fatores:
 - **Porte e complexidade** da entidade

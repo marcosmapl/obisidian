@@ -9,10 +9,8 @@ Tipos avançados relacionados a data e hora.
 
 - **TIMESTAMP**  
     Combina data e hora.
-    
 - **INTERVAL**  
     Representa intervalo de tempo.
-    
 - **DATETIME**  
     Data e hora em um único campo (dependente do SGBD).
 
@@ -24,10 +22,3 @@ Tipos avançados relacionados a data e hora.
 - [[Tipos Binários SQL]]
 - [[Tipo Booleano SQL]]
 - [[Tipos Data e Hora SQL]]
-
----
-## Navegação
-
-- [[Tecnologia da Informação]]
-- [[MOC — Gestão e Análise de Dados]]
-- [[SQL ANSI]]

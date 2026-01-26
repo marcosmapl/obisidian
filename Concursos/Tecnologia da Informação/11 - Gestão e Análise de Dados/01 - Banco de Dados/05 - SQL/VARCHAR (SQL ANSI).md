@@ -30,11 +30,3 @@ created: 2025-12-20T09:24:00
 
 - [[CHAR (SQL ANSI)]]
 - [[CLOB (SQL ANSI)]]
-
----
-## Navegação
-
-- [[Tecnologia da Informação]]
-- [[MOC — Gestão e Análise de Dados]]
-- [[SQL ANSI]]
-- [[Tipos Textuais SQL]]

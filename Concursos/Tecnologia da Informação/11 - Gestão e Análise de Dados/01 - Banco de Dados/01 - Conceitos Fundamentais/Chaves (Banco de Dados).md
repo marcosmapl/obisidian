@@ -15,10 +15,10 @@ updated: 2025-12-30T15:50:00
 ---
 ## Tipos de Chaves
 
-- [[Chave Primária]] ⟶ identificação **única dos registros**
-- [[Chave Estrangeira]] ⟶ estabelece uma **referencia**
-- [[Chave Candidata]] ⟶ pode identificar **unicamente um registro**
-- [[Chave Composta]] ⟶ chave formada por **mais de um atributo**
-- [[Chave Natural]] ⟶ chave formada por **dados do mundo real**
-- [[Chave Surrogada (Artificial)]] ⟶ chave **criada artificialmente**
+- [[Chave Primária — Conceito]] ⟶ identificação **única dos registros**
+- [[Chave Estrangeira — Conceito]] ⟶ estabelece uma **referencia**
+- [[Chave Candidata — Conceito]] ⟶ pode identificar **unicamente um registro**
+- [[Chave Composta — Conceito]] ⟶ chave formada por **mais de um atributo**
+- [[Chave Natural — Conceito]] ⟶ chave formada por **dados do mundo real**
+- [[Chave Surrogada (Artificial) — Conceito]] ⟶ chave **criada artificialmente**
 

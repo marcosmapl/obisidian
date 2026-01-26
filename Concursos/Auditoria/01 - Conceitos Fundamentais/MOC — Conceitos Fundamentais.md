@@ -13,7 +13,7 @@ tags:
 - [[MOC — Objetivos da Auditoria]]
 - [[MOC — Classificação da Auditoria]]
 - [[Obrigatoriedade da Auditoria Independente]]
-- [[Auditor Independente —  Objetivos Gerais]]
+- [[Objetivos Gerais do Auditor Independente]]
 - [[Limitações Inerentes da Auditoria]]
 - [[Características Inerentes do Auditor]]
 - [[Competência Profissional Exigida]]

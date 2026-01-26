@@ -18,3 +18,9 @@ updated: 2026-01-06T20:20:00
 - Manter um **registro de assuntos recorrentes** para **auditorias futuras**
 - Permitir a condução de **revisões e inspeções de controle de qualidade** 
 - Permitir a condução de **inspeções externas**
+
+---
+## Resumo
+
+![[Pasted image 20260114170300.png]]
+	

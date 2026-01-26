@@ -5,13 +5,12 @@ created: 2025-12-23T00:00:00
 updated: 2026-01-07T22:21:00
 ---
 
-## Tipologia Textual
+## Índice
 
 - [[Tipologia Textual —  Conceito]]
 - [[Texto Narrativo]]
 - [[Texto Descritivo]]
-- [[Texto Dissertativo-Expositivo]]
-- [[Texto Dissertativo-Argumentativo]]
+- [[Texto Dissertativo]]
 - [[Texto Injuntivo]]
 - [[Gêneros Textuais]]
 

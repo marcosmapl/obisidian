@@ -8,14 +8,11 @@ updated: 2026-01-08T21:56:00
 ## Conceito
 
 > [!note] Conta
-> É o nome dado para os componentes patrimoniais.
+> É o nome dado para os **componentes patrimoniais** (bens, direitos e obrigações) e de **resultado** (despesas e receitas).
 
 #contabilidade/conta_contábil
 
----
-## Lançamentos
-
-- Todos os **acontecimentos** que ocorrem na empresa são **registrados** por meio de **contas**.
+> [!important] Todos os **acontecimentos** que ocorrem na empresa são **registrados** em **contas** por meio de **lançamentos**.
 
 ---
 ## Classificações

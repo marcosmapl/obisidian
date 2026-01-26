@@ -7,7 +7,7 @@ created: 2026-01-11T11:34:00
 ## Conceito
 
 > [!note] Teoria Personalista
-> Defendida por teóricos como Francesco Marchi e Giuseppe Cerboni, as contas são **fictamente como pessoas**.
+> Defendida por teóricos como Francesco Marchi e Giuseppe Cerboni, as contas são **fictamente como pessoas**, sendo que a contabilidade é tida como ciência da **gestão patrimonial**.
 
 #contabilidade/teoria_personalista
 

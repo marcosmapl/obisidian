@@ -17,10 +17,11 @@ tags:
 - [[Entidade — Conceito]]
 - [[Divisões Didáticas]]
 - [[Funções da Contabilidade]]
-- [[Técnicas Contábeis]]
 - [[Classificação das Aziendas]]
 - [[Usuários das Informações Contábeis]]
-- [[Estrutura Conceitual]]
+- [[Técnicas Contábeis]]
+- [[Atos e Fatos Contábeis]]
+- [[Superveniência e Insubsistência — Conceito]]
 - [[Regime de Competência]]
 - [[Apresentação das Demonstrações Contábeis]]
 

@@ -11,42 +11,42 @@
       "query": "path:\"Concursos/Contabilidade Geral\"  ",
       "color": {
         "a": 1,
-        "rgb": 5361510
+        "rgb": 16056320
       }
     },
     {
-      "query": "path:\"Concursos/Direito/03 - Ramos do Direito Público/Direito Administrativo\"  ",
+      "query": "path:\"Concursos/Direito/05 - Direito Administrativo\"  ",
       "color": {
         "a": 1,
-        "rgb": 16755021
+        "rgb": 16735411
       }
     },
     {
       "query": "path:\"Concursos/Tecnologia da Informação\"  ",
       "color": {
         "a": 1,
-        "rgb": 5090295
+        "rgb": 9327359
       }
     },
     {
-      "query": "path:\"Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário\"  ",
+      "query": "path:\"Concursos/Direito/10 - Direito Tributário\"  ",
       "color": {
         "a": 1,
-        "rgb": 16767293
+        "rgb": 5535147
       }
     },
     {
       "query": "path:\"Concursos/Língua Portuguesa\"  ",
       "color": {
         "a": 1,
-        "rgb": 7651580
+        "rgb": 65450
       }
     },
     {
-      "query": "path:\"Concursos/Direito/03 - Ramos do Direito Público/Direito Constitucional\"  ",
+      "query": "path:\"Concursos/Direito/04 - Direito Constitucional\"  ",
       "color": {
         "a": 1,
-        "rgb": 16739179
+        "rgb": 3437628
       }
     },
     {
@@ -60,35 +60,35 @@
       "query": "path:Concursos/Auditoria  ",
       "color": {
         "a": 1,
-        "rgb": 16739179
+        "rgb": 15662848
       }
     },
     {
       "query": "path:Concursos/Estatística  ",
       "color": {
         "a": 1,
-        "rgb": 11638780
+        "rgb": 7502336
       }
     },
     {
       "query": "path:\"Concursos/Raciocínio Lógico\"  ",
       "color": {
         "a": 1,
-        "rgb": 13393384
+        "rgb": 16743168
       }
     },
     {
       "query": "path:\"Concursos/Legislação Tributária Municipal\"  ",
       "color": {
         "a": 1,
-        "rgb": 16755021
+        "rgb": 16777215
       }
     },
     {
       "query": "path:\"Concursos/Matemática Financeira\"  ",
       "color": {
         "a": 1,
-        "rgb": 6547134
+        "rgb": 0
       }
     }
   ],
@@ -98,10 +98,10 @@
   "nodeSizeMultiplier": 0.814583333333333,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.21163454675232,
-  "repelStrength": 11.9985724482513,
-  "linkStrength": 0.759814418272662,
-  "linkDistance": 52,
-  "scale": 0.08317427835927534,
+  "centerStrength": 0.58473303291001,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 375,
+  "scale": 0.06276296468143579,
   "close": false
 }

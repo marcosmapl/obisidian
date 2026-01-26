@@ -15,7 +15,7 @@ updated: 2026-01-08T05:25:00
 ---
 ## Características
 
-- Se manifesta no exercício da **função administrativa**.
+- Se manifesta no exercício da **Função Administrativa**.
 - Não se expressa nas **funções típicas** dos Poderes **Legislativo** e **Judiciário**.
 - Os **superiores** são investidos do **poder de comando**, enquanto que os **subordinados** são sujeitos ao **dever de obediência**.
 - Ocorre **dentro da mesma pessoa jurídica** (Subordinação).
@@ -27,19 +27,19 @@ updated: 2026-01-08T05:25:00
 ---
 ## Atos Normativos Internos
 
-- disciplinar internamente a atuação dos subordinados
-- atos ordinatórios
+- **Disciplinar internamente a atuação** dos subordinados
+- Atos ordinatórios
 
 ---
 ## Dar Ordens
 
-- o subordinado deve obedecer ao superior
-- salvo ordens manifestamente ilegais ou situações específicas (competência exclusiva, consultoria jurídica e técnica)
+- Subordinado **deve obedecer** ao Superior
+- Salvo ordens manifestamente **ilegais ou situações específicas** (competência exclusiva, consultoria jurídica e técnica)
 
 ---
 ## Fiscalizar
 
-- Acompanhamento das ações de subordinados.
+- Acompanhamento das **ações** de subordinados.
 - Competência de **rever atos**.
 - Poder de **controle**.
 
@@ -55,11 +55,16 @@ updated: 2026-01-08T05:25:00
 - Ato **discricionário, temporário e revogável** a qualquer momento.
 - **Subdelegação** (delegação da delegação) só é permitida com a concordância expressa do delegante.
 
+> [!danger] NÃO se delega **CE-NO-RA**
+> Competência Exclusiva, Normativos, Recursos Administrativos
+
 ---
 ## Avocação
 
 - **Chamar para si funções** que originalmente foram atribuídas a um subordinado.
 - Somente em **caráter excepcional**.
+
+> [!danger] NÃO se avoca **Competência Exclusiva**
 
 ---
 ## Exceções ao Poder Hierárquico
@@ -77,4 +82,4 @@ updated: 2026-01-08T05:25:00
 - [[Poder Discricionário]]
 - [[Poder Vinculado]]
 - [[Poder Normativo — Conceito]]
-- [[Atos Normativos]]
+- [[Ato Normativo — Conceito]]

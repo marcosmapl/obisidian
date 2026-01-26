@@ -8,7 +8,7 @@ updated: 2026-01-11T11:55:00
 ## Conceito
 
 > [!note] Teoria Patrimonialista
-> Pela teoria patrimonialista, que é a utilizada na contabilidade atual e tem como principal nome Vincezo Masi.
+> Pela teoria patrimonialista, que é a utilizada na contabilidade atual e tem como principal nome Vincezo Masi, a contabilidade é tida como **ciência do patrimônio**.
 
 > [!important] Atenção! Na contabilidade, **hoje**, **utilizamos essencialmente a teoria patrimonialista**.
 

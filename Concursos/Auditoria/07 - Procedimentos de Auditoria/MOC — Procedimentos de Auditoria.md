@@ -15,7 +15,7 @@ updated: 2026-01-10T08:45:00
 - [[Procedimento de Recálculo]]
 - [[Procedimentos Analíticos]]
 - [[Procedimento de Indagação]]
-- [[Procedimentos de Reexecução]]
+- [[Procedimento de Reexecução]]
 - [[Testes de Controle]]
 - [[Testes Substantivos]]
 - [[Amostragem em Auditoria]]

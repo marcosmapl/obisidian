@@ -8,10 +8,10 @@ tags:
   - auditoria/etica
 ---
 
-## 🔸 Ética Profissional
+## Ética Profissional
 
 - [[Ética Profissional e Conflito de Interesses]]
-- [[Princípios Éticos]]
+- [[Princípios de Ética Profissional]]
 - [[Código de Ética Profissional do Contador]]
 - [[Conflito de Interesses]]
 - [[Salvaguardas Éticas]]
@@ -22,16 +22,10 @@ tags:
 #auditoria/etica
 
 ---
-## 🔸 Normas Relacionadas
+## Normas Relacionadas
 
 > [!info] NBC PA 01
 > Código de Ética Profissional do Contador
 
 > [!info] NBC PA 290
 > Independência – Trabalhos de Auditoria e Revisão
-
----
-
-## 🔸 Navegação
-
-**← MOC Principal:** [[Concursos/Auditoria/Auditoria|Auditoria]]

@@ -10,8 +10,6 @@ updated: 2026-01-05T04:50:00
 > [!note] Competência Tributária
 > É o **poder jurídico conferido pela Constituição Federal** à **União, aos Estados, ao Distrito Federal e aos Municípios** para **instituir, majorar, reduzir e extinguir tributos**, por meio de **lei**, dentro dos **limites e condições constitucionais**.
 
-> [!tip] A competência tributária decorre **exclusivamente da Constituição** e não pode ser criada por lei infraconstitucional.
-
 #direito/tributario/competencia_tributaria
 
 ---
@@ -22,6 +20,8 @@ updated: 2026-01-05T04:50:00
 - **Irrenunciável**: o ente não pode abrir mão da competência;
 - **Facultativa**: o exercício da competência é opcional;
 - **Imprescritível**: não se perde pelo não uso.
+
+> [!important] A delegação da função de arrecadar e fiscalizar os tributos instituídos, bem como as demais atribuições administrativas citadas no art. 7º do CTN denomina-se **capacidade tributária ativa**.
 
 > [!important] Segundo a **Lei de Responsabilidade Fiscal** a competência tributária é **obrigatória**.
 
@@ -35,6 +35,8 @@ updated: 2026-01-05T04:50:00
 
 📌 Cada ente exerce a competência **dentro de sua esfera constitucional**.
 
+> [!important] A CF/88 não instituiu tributos, somente definiu a competência para tal.
+
 ---
 ## Competência x Capacidade Tributária Ativa
 
@@ -43,6 +45,8 @@ updated: 2026-01-05T04:50:00
 
 - **Capacidade Tributária Ativa**  
   → poder de **arrecadar e fiscalizar tributos**, podendo ser **delegada**.
+
+![[Pasted image 20260119054102.png]]
 
 ---
 ## Limites à Competência Tributária
@@ -59,6 +63,11 @@ updated: 2026-01-05T04:50:00
 - Lei infraconstitucional **não cria competência**;
 - Competência ≠ obrigação de tributar;
 - Imunidade atua como **limitação da competência**.
+
+---
+## Resumindo
+
+![[Pasted image 20260124174832.png]]
 
 ---
 ## Tópicos Relacionados

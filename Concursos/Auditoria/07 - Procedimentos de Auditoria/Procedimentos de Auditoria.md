@@ -1,7 +1,19 @@
+---
+disciplina: Auditoria
+tópico: Procedimentos de Auditoria
+created: 2026-01-20T21:40:00
+updated: 2026-01-20T21:40:00
+---
 
+## Conceito
 
 > [!note] Procedimentos de Auditoria Interna  
-> A execução dos **procedimentos de auditoria interna** é etapa essencial do trabalho, pois permite ao auditor **obter evidências** suficientes para **fundamentar conclusões e recomendações** dirigidas à **administração da entidade**.
+> São o conjunto de procedimentos técnicos com base nos quais o auditor obtém evidências ou provas que sejam suficientes e adequadas para fundamentar sua opinião sobre a adequação das demonstrações contábeis auditadas à estrutura de relatório financeiro aplicável, permitindo que eventuais distorções relevantes sejam identificadas.
+
+---
+## Objetivo
+
+- O objetivo do auditor é definir e **executar procedimentos de auditoria** que permitam ao auditor conseguir **evidência de auditoria apropriada e suficiente** que lhe possibilitem obter **conclusões razoáveis para fundamentar a sua opinião** (Item 4 da NBC TA 500-R1). 
 
 ---
 ## Procedimentos de Auditoria Externa
@@ -12,9 +24,9 @@
 - [[Procedimento de Observação]]
 - [[Procedimento de Confirmação Externa]]
 - [[Procedimento de Recálculo]]
+- [[Procedimento de Reexecução]]
 - [[Procedimentos Analíticos]]
 - [[Procedimento de Indagação]]
-- [[Procedimentos de Reexecução]]
 
 ![[Pasted image 20260110084323.png]]
 
@@ -31,5 +43,7 @@ Os procedimentos compreendem dois grandes grupos:
 ![[Pasted image 20251227163014.png]]
 
 ---
+## Tópicos Relacionados
 
-#auditoria/interna #auditoria/procedimentos #auditoria/evidencia #auditoria/nbc_ti_01
+- [[Uso de Especialista da Administração]]
+- 

@@ -7,22 +7,11 @@ updated: 2026-01-06T16:15:00
 
 ## Índice
 
-- [[JOIN]]
-    
-- [[INNER JOIN]]
-    
-- [[LEFT JOIN]]
-    
-- [[RIGHT JOIN]]
-    
-- [[FULL JOIN]]
-    
+- [[FROM (SQL)]]
+- [[JOIN (SQL)]]
+- [[GROUP BY (SQL)]]
+- [[HAVING (SQL)]]
+- [[UNION (SQL)]]
 - [[Subconsultas]]
-    
-- [[GROUP BY]]
-    
-- [[HAVING]]
-    
 - [[Funções de Agregação]]
-    
 - [[Views]]

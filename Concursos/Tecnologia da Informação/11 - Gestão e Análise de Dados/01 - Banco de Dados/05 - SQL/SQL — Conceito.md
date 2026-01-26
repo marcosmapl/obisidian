@@ -21,13 +21,28 @@ updated: 2026-01-06T16:50:00
 - Garantir integridade e consistência das informações.
 
 ---
-## Principais Subconjuntos
+## Tipos de Dados SQL (Padrão ANSI)
 
-- **DDL** — Data Definition Language  
-- **DML** — Data Manipulation Language  
-- **DQL** — Data Query Language  
-- **DCL** — Data Control Language  
-- **TCL** — Transaction Control Language
+A linguagem SQL implementa vários tipos de dado:
+- [[Tipos Textuais SQL]]
+- [[Tipos Numéricos SQL]]
+- [[Tipos Binários SQL]]
+- [[Tipo Booleano SQL]]
+- [[Tipos Data e Hora SQL]]
+- [[Outros Tipos SQL]]
+
+#tecnologia_informacao/sql/tipos_dados
+
+---
+## Sublinguagens SQL
+
+SQL é uma linguagem que permite realizar determinadas operações em um banco de dados relacional por meio de um conjunto de comandos. Em geral, esses comandos são agrupados basicamente em quatro **sublinguagens:**
+- [[DDL — Data Definition Language]] (Data Definition Language)
+- [[DML — Data Manipulation Language]] (Data Manipulation Language)
+- DTL
+- DCL
+
+![[Pasted image 20251220145929.png]]
 
 ---
 ## Ponto de Prova
@@ -37,7 +52,6 @@ updated: 2026-01-06T16:50:00
 ---
 ## Tópicos Relacionados
 
-- [[SQL ANSI]]
 - [[DDL — Data Definition Language]]
 - [[DML — Data Manipulation Language]]
 - [[DQL — Data Query Language]]

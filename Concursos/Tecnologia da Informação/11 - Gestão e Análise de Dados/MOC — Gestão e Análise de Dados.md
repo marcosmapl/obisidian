@@ -9,4 +9,4 @@ updated: 2026-01-06T16:55:00
 
 - [[MOC — Bancos de Dados]]
 - [[MOC — Business Intelligence]]
-- 
+

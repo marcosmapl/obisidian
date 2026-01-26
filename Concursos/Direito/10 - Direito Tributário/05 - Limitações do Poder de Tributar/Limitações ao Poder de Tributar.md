@@ -23,24 +23,8 @@ updated: 2026-01-05T05:10:00
 ---
 ## Espécies de Limitações
 
-### Princípios Constitucionais Tributários
-
-### Imunidades Tributárias
-
----
-### Outras Limitações Constitucionais
-
-- Vedação de tributo com efeito de confisco;
-- Limitações geográficas e territoriais;
-- Regras de repartição de receitas tributárias;
-- Normas gerais de Direito Tributário (CTN).
-
----
-## Natureza Jurídica
-
-- São **normas constitucionais de eficácia plena**;
-- Possuem caráter **protetivo ao contribuinte**;
-- Vinculam **todos os entes federativos**.
+- Princípios Constitucionais Tributários
+- Imunidades Tributárias
 
 ---
 ## Pontos de Prova

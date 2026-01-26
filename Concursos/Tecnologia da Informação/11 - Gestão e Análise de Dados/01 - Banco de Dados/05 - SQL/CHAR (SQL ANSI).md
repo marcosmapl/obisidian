@@ -9,7 +9,7 @@ created: 2025-12-20T09:23:00
 > [!note] Char (SQL ANSI)
 > O **CHAR** é um tipo de dado do padrão **SQL ANSI** utilizado para armazenar **cadeias de caracteres de comprimento fixo**.
 
-#tecnologia_informacao/sql_ansi/char
+#tecnologia_informacao/sql/char
 
 ---
 ## Características
@@ -30,11 +30,3 @@ created: 2025-12-20T09:23:00
 
 - [[VARCHAR (SQL ANSI)]]
 - [[CLOB (SQL ANSI)]]
-
----
-## Navegação
-
-- [[Tecnologia da Informação]]
-- [[MOC — Gestão e Análise de Dados]]
-- [[SQL ANSI]]
-- [[Tipos Textuais SQL]]
