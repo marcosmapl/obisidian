@@ -98,11 +98,3 @@ updated: 2026-01-09T16:26:00
 #tecnologia_informacao/banco_dados/informção
 #tecnologia_informacao/banco_dados/conhecimento
 #tecnologia_informacao/banco_dados/sabedoria
-
----
-## Tópicos Relacionados
-
-- [[Dados — Conceito]]
-- [[Informação — Conceito]]
-- [[Conhecimento — Conceito]]
-- [[Sabedoria — Conceito]]

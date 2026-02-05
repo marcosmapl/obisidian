@@ -12,6 +12,7 @@ Em regra, existem quatro tipos de análises:
 - **Análise Diagnóstica** (por que aconteceu?)
 - **Preditiva** (o que pode acontecer?)
 - **Prescritiva** (o que fazer a respeito?).
+- **Exploratória** (explorar os dados para identificar padrões)
 
 ### Análise Descritiva
 

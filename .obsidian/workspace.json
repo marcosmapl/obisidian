@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Direito/10 - Direito Tributário/10 - Legislação Tributária/Aplicação da Legislação Tributária.md",
+                "file": "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence/Arquitetura de BI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aplicação da Legislação Tributária"
+              "title": "Arquitetura de BI"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Competên",
+                "query": "Tipos de Aná",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -306,6 +306,16 @@
             "id": "9060862b5308a3ca",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "f2240d03e7588137",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -313,7 +323,7 @@
             }
           }
         ],
-        "currentTab": 19
+        "currentTab": 20
       },
       {
         "id": "f70b642b0827c287",
@@ -354,10 +364,17 @@
   },
   "active": "d80addb41ff0b48f",
   "lastOpenFiles": [
-    "Concursos/Direito/10 - Direito Tributário/10 - Legislação Tributária/MOC — Legislação Tributária.md",
-    "Concursos/Direito/10 - Direito Tributário/10 - Legislação Tributária/Aplicação da Legislação Tributária.md",
-    "Concursos/Direito/10 - Direito Tributário/10 - Legislação Tributária/Integração da Legislação Tributária.md",
     "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence/MOC — Business Intelligence.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence/Arquitetura de BI.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence/Capacidades de BI.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence/Pirâmide DIKW.md",
+    "Media/Pasted image 20260205100840.png",
+    "Media/Pasted image 20260205100524.png",
+    "Media/Pasted image 20260205100045.png",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence/Tipos de Análises de BI.md",
+    "Concursos/Direito/10 - Direito Tributário/10 - Legislação Tributária/Aplicação da Legislação Tributária.md",
+    "Concursos/Direito/10 - Direito Tributário/10 - Legislação Tributária/MOC — Legislação Tributária.md",
+    "Concursos/Direito/10 - Direito Tributário/10 - Legislação Tributária/Integração da Legislação Tributária.md",
     "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/02 -Projeto e Modelagem de Dados/Regras de Codd.md",
     "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/02 -Projeto e Modelagem de Dados/MOC — Projeto e Modelagem de Dados.md",
     "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/02 -Projeto e Modelagem de Dados/MOC — Modelo Relacional.md",
@@ -375,21 +392,14 @@
     "Concursos/Direito/10 - Direito Tributário/04 - Competência Tributária/Classificação da Competência Tributária.md",
     "Concursos/Auditoria/12 - Laudo e Parecer Pericial Contábil/Perícia Contábil — Conceito.md",
     "Media/Pasted image 20260124174832.png",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence/Tipos de Análises de BI.md",
     "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence/Data Discovery - Conceito.md",
     "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence/Business Intelligence - Conceito.md",
     "Concursos/Contabilidade Geral/03 - Escrituração Contábil/Livro Diário.md",
     "Concursos/Contabilidade Geral/03 - Escrituração Contábil/Livro Razão.md",
     "Concursos/Contabilidade Geral/03 - Escrituração Contábil/Livros Contábeis.md",
-    "Concursos/Direito/05 - Direito Administrativo/05 - Poderes Administrativos/Poder Hierárquico — Conceito.md",
-    "Concursos/Direito/10 - Direito Tributário/10 - Legislação Tributária/Vigência da Legislação Tributária.md",
-    "Concursos/Direito/10 - Direito Tributário/03 - Princípios Tributários/MOC — Princípios Tributários.md",
     "Media/Pasted image 20260123101808.png",
     "Media/Pasted image 20260121093710.png",
     "Media/Pasted image 20260121093547.png",
-    "Media/Pasted image 20260119215323.png",
-    "Media/Pasted image 20260119054102.png",
-    "Media/Pasted image 20260118120721.png",
     "Concursos/Língua Portuguesa/13 - Funções da Linguagem",
     "Concursos/Contabilidade Geral/02 - Contas Contábeis",
     "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence",

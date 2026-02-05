@@ -8,8 +8,10 @@ updated: 2026-01-06T17:00:00
 ## Índice
 
 - [[Business Intelligence - Conceito]]
+- [[Arquitetura de BI]]
+- [[Tipos de Análises de BI]]
+- [[Capacidades de BI]]
 - [[Data Discovery - Conceito]]
 - [[Data Mining - Conceito]]
-- [[Tipos de Análises de BI]]
 - [[Power BI]]
 - [[Pirâmide DIKW]]
