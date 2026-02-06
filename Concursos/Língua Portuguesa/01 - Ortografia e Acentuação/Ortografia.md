@@ -2,13 +2,13 @@
 disciplina: Língua Portuguesa
 tópico: Ortografia e Acentuação
 created: 2025-12-12T08:55:00
-tags:
-  - "#português/ortografia-acentuação"
-node_size: "10"
+updated: 2026-02-05T20:45:00
 ---
-## 🔸Letra
+## Letra
 
-- **Conceito:** Representação gráfica dos sons da fala.
+> [!note] Letra
+> Representação gráfica dos sons da fala.
+
 - **Observação:** Nem sempre há correspondência direta entre **letra** e **som**. 
 	💡**Exemplos:**
     - _táxi_ → **x** representa dois sons (/ks/)
@@ -16,9 +16,10 @@ node_size: "10"
     - _hemácia_ → **h** não representa som
 
 ---
-## 🔸Fonema
+## Fonema
 
-> ✏️ Fonema é a **menor unidade sonora** capaz de distinguir significado.
+> [!note] Fonema
+> **Menor unidade sonora** capaz de distinguir significado.
 
 Tem **função** de diferenciar palavras.    
 
@@ -27,26 +28,24 @@ Tem **função** de diferenciar palavras.
 - **p**ato × **b**ato → /p/ × /b/
 
 ---
-## 🔸Dígrafo
+## Dígrafo
 
-> ✏️[[Dígrafo]] é o conjunto de **duas letras** que representam **um único fonema**.
+> [!note] Dígrafo 
+> Conjunto de **duas letras** que representam **um único fonema**.
 
 📌 **Essência para prova:**  
 > Duas letras ≠ dois sons. **Há apenas um fonema.**
 
-#português/fonética #português/dígrafo
+---
+## Encontro Vocálico
+
+> [!note] Encontro Vocálico 
+> Sequência de **vogais** na palavra, **sem interrupção por consoantes**.
 
 ---
-## 🔸Encontro Vocálico
+## Hífen
 
-> ✏️[[Encontro Vocálico]] é uma sequência de **vogais** na palavra, **sem interrupção por consoantes**.
-
-#português/encontro/vocálico 
-
----
-## 🔸Hífen
-
-O [[Hífen]] pode ser usado para:
+Pode ser usado para:
 - Formar **palavras compostas** (_homem-bomba_)
 - Separar **sílabas** (_hí-fen_)
 - Separar **pronomes oblíquos átonos** (_comprei-a_)
@@ -54,5 +53,9 @@ O [[Hífen]] pode ser usado para:
 📌 **Para concurso**, o foco é quase sempre:
 > **hífen na união de prefixos**
 
-#português/hífen
+---
+## Tópicos Relacionados
 
+- [[Dígrafo]]
+- [[Encontro Vocálico]]
+- [[Hífen]]

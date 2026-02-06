@@ -3,7 +3,7 @@ disciplina: Língua Portuguesa
 tópico: Ortografia e Acentuação
 created: 2025-12-12T11:52:00
 ---
-## 🔸Acentuação segundo Sílaba Tônica
+## Acentuação segundo Sílaba Tônica
 
 **Sílaba tônica:** sílaba pronunciada com maior intensidade.
 
@@ -13,7 +13,7 @@ created: 2025-12-12T11:52:00
     - **[[Paroxítona]]:** palavra cuja **sílaba tônica (mais forte) é a penúltima**
     - **Proparoxítona:** palavra cuja **sílaba tônica (mais forte) é a antepenúltima**. Todas são acentuadas.
 
-## 🔸Quadro-resumo
+## Quadro-resumo
 
 | Classificação        | Quando acentua                        |
 | -------------------- | ------------------------------------- |
@@ -25,7 +25,7 @@ created: 2025-12-12T11:52:00
 ![[Pasted image 20251212115232.png]]
 
 ---
-## 🔸Acentuação do Hiato
+## Acentuação do Hiato
 
 Para fins de acentuação, importa distinguir:
 - **Vogal:** som forte (tônico)
@@ -38,7 +38,7 @@ Para fins de acentuação, importa distinguir:
 ✍️ A acentuação do **[[Hiato]]** tem a função de **impedir a leitura como ditongo**.
 
 ---
-## 🔸Acentos Diferenciais
+## Acentos Diferenciais
 | Termo 1             | Termo 2             |
 | ------------------- | ------------------- |
 | Pôde (Pretérito)    | Pode (Presente)     |
@@ -50,5 +50,3 @@ Para fins de acentuação, importa distinguir:
 | Mantêm (Plural)     | Intervém (Singular) |
 
 ![[Pasted image 20251217145145.png]]
-
-#português/acento-diferencial
