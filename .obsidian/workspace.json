@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence/Arquitetura de BI.md",
+                "file": "Conjunção.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arquitetura de BI"
+              "title": "Conjunção"
             }
           }
         ]
@@ -316,6 +316,16 @@
             "id": "f2240d03e7588137",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "9879380076d7146c",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -323,7 +333,7 @@
             }
           }
         ],
-        "currentTab": 20
+        "currentTab": 21
       },
       {
         "id": "f70b642b0827c287",
@@ -362,9 +372,19 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "d80addb41ff0b48f",
+  "active": "9d0cb26444c6d361",
   "lastOpenFiles": [
+    "Concursos/Língua Portuguesa/03 - Morfologia/MOC — Morfologia.md",
+    "Conjunção.md",
+    "Concursos/Língua Portuguesa/09 - Colocação Pronominal/MOC — Colocação Pronominal.md",
     "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence/MOC — Business Intelligence.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence/Processo ETL.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence/Data Lake.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence/Data Mesh.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence/Data Mart.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence/Data Warehouse.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence/Modelagem Multidimensional.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence/Business Intelligence - Conceito.md",
     "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence/Arquitetura de BI.md",
     "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence/Capacidades de BI.md",
     "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence/Pirâmide DIKW.md",
@@ -385,18 +405,8 @@
     "Concursos/Direito/10 - Direito Tributário/04 - Competência Tributária/Competência Tributária das Contribuições Especiais.md",
     "Media/Pasted image 20260125195019.png",
     "Concursos/Direito/10 - Direito Tributário/04 - Competência Tributária/MOC — Competência Tributária.md",
-    "Concursos/Direito/10 - Direito Tributário/04 - Competência Tributária/Competência Tributária dos Impostos.md",
     "Media/Pasted image 20260125194925.png",
-    "Concursos/Direito/10 - Direito Tributário/04 - Competência Tributária/Competência Tributária — Conceito.md",
-    "Concursos/Direito/10 - Direito Tributário/04 - Competência Tributária/Bitributação e Bis in Idem.md",
-    "Concursos/Direito/10 - Direito Tributário/04 - Competência Tributária/Classificação da Competência Tributária.md",
-    "Concursos/Auditoria/12 - Laudo e Parecer Pericial Contábil/Perícia Contábil — Conceito.md",
     "Media/Pasted image 20260124174832.png",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence/Data Discovery - Conceito.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence/Business Intelligence - Conceito.md",
-    "Concursos/Contabilidade Geral/03 - Escrituração Contábil/Livro Diário.md",
-    "Concursos/Contabilidade Geral/03 - Escrituração Contábil/Livro Razão.md",
-    "Concursos/Contabilidade Geral/03 - Escrituração Contábil/Livros Contábeis.md",
     "Media/Pasted image 20260123101808.png",
     "Media/Pasted image 20260121093710.png",
     "Media/Pasted image 20260121093547.png",
