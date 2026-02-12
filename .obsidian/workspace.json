@@ -4,21 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "4f61f10c8b2c81d8",
+        "id": "471388e147679ec2",
         "type": "tabs",
         "children": [
           {
-            "id": "9d0cb26444c6d361",
+            "id": "e15b384b58c72e3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Conjunção.md",
+=======
+                "file": "Pronomes.md",
+>>>>>>> b137d7d4afe7ea993229432e79d0e41b07915c8f
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "Conjunção"
+=======
+              "title": "Pronomes"
+>>>>>>> b137d7d4afe7ea993229432e79d0e41b07915c8f
             }
           }
         ]
@@ -53,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tipos de Aná",
+                "query": "Porque",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -323,7 +331,31 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "9879380076d7146c",
+=======
+            "id": "d1380100192f278b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "70ed16030d077d9c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "d0990d65f02df410",
+>>>>>>> b137d7d4afe7ea993229432e79d0e41b07915c8f
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -333,7 +365,11 @@
             }
           }
         ],
+<<<<<<< HEAD
         "currentTab": 21
+=======
+        "currentTab": 23
+>>>>>>> b137d7d4afe7ea993229432e79d0e41b07915c8f
       },
       {
         "id": "f70b642b0827c287",
@@ -372,6 +408,7 @@
       "bases:Criar nova base": false
     }
   },
+<<<<<<< HEAD
   "active": "9d0cb26444c6d361",
   "lastOpenFiles": [
     "Concursos/Língua Portuguesa/03 - Morfologia/MOC — Morfologia.md",
@@ -386,30 +423,50 @@
     "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence/Modelagem Multidimensional.md",
     "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence/Business Intelligence - Conceito.md",
     "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence/Arquitetura de BI.md",
+=======
+  "active": "e15b384b58c72e3b",
+  "lastOpenFiles": [
+    "Concursos/Língua Portuguesa/03 - Morfologia/MOC — Morfologia.md",
+    "Pronomes.md",
+    "Concursos/Língua Portuguesa/03 - Morfologia/Preposição.md",
+    "Concursos/Língua Portuguesa/03 - Morfologia/Advérbio.md",
+    "Concursos/Língua Portuguesa/03 - Morfologia/Numeral.md",
+    "Concursos/Língua Portuguesa/03 - Morfologia/Artigo.md",
+    "Concursos/Direito/10 - Direito Tributário/11 - Obrigação Tributária/Obrigação Tributária — Conceito.md",
+    "Concursos/Direito/10 - Direito Tributário/11 - Obrigação Tributária/MOC — Obrigação Tributária.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence/Processo de BI.md",
+    "Media/Pasted image 20260206060956.png",
+    "Media/ChatGPT Image Feb 6, 2026, 05_17_35 AM.png",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence/MOC — Business Intelligence.md",
+>>>>>>> b137d7d4afe7ea993229432e79d0e41b07915c8f
     "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence/Capacidades de BI.md",
+    "Concursos/Língua Portuguesa/03 - Morfologia/Substantivo.md",
+    "Concursos/Língua Portuguesa/03 - Morfologia/Adjetivo.md",
+    "Concursos/Língua Portuguesa/01 - Ortografia e Acentuação/Expressões Problemáticas.md",
+    "Concursos/Língua Portuguesa/01 - Ortografia e Acentuação/MOC — Ortografia e Acentuação.md",
+    "Concursos/Língua Portuguesa/01 - Ortografia e Acentuação/Uso dos Porquês.md",
+    "Concursos/Língua Portuguesa/Língua Portuguesa.md",
+    "Concursos/Língua Portuguesa/01 - Ortografia e Acentuação/Monossílabos Tônicos.md",
+    "Concursos/Língua Portuguesa/01 - Ortografia e Acentuação/Acentuação Gráfica.md",
+    "Concursos/Língua Portuguesa/01 - Ortografia e Acentuação/Hiato.md",
+    "Proparoxítona.md",
+    "Concursos/Língua Portuguesa/01 - Ortografia e Acentuação/Paroxítona.md",
+    "Concursos/Língua Portuguesa/01 - Ortografia e Acentuação/Oxítona.md",
+    "Concursos/Língua Portuguesa/01 - Ortografia e Acentuação/Ortografia.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence/Arquitetura de BI.md",
     "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence/Pirâmide DIKW.md",
     "Media/Pasted image 20260205100840.png",
     "Media/Pasted image 20260205100524.png",
     "Media/Pasted image 20260205100045.png",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence/Tipos de Análises de BI.md",
-    "Concursos/Direito/10 - Direito Tributário/10 - Legislação Tributária/Aplicação da Legislação Tributária.md",
-    "Concursos/Direito/10 - Direito Tributário/10 - Legislação Tributária/MOC — Legislação Tributária.md",
-    "Concursos/Direito/10 - Direito Tributário/10 - Legislação Tributária/Integração da Legislação Tributária.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/02 -Projeto e Modelagem de Dados/Regras de Codd.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/02 -Projeto e Modelagem de Dados/MOC — Projeto e Modelagem de Dados.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/02 -Projeto e Modelagem de Dados/MOC — Modelo Relacional.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/02 -Projeto e Modelagem de Dados/MOC — Modelo Entidade-Relacionamento.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/02 -Projeto e Modelagem de Dados/Cardinalidade.md",
-    "Concursos/Direito/10 - Direito Tributário/10 - Legislação Tributária/Interpretação da Legislação Tributária.md",
     "Media/Pasted image 20260126053825.png",
-    "Concursos/Direito/10 - Direito Tributário/04 - Competência Tributária/Competência Tributária das Contribuições Especiais.md",
     "Media/Pasted image 20260125195019.png",
+<<<<<<< HEAD
     "Concursos/Direito/10 - Direito Tributário/04 - Competência Tributária/MOC — Competência Tributária.md",
+=======
+>>>>>>> b137d7d4afe7ea993229432e79d0e41b07915c8f
     "Media/Pasted image 20260125194925.png",
     "Media/Pasted image 20260124174832.png",
     "Media/Pasted image 20260123101808.png",
-    "Media/Pasted image 20260121093710.png",
-    "Media/Pasted image 20260121093547.png",
     "Concursos/Língua Portuguesa/13 - Funções da Linguagem",
     "Concursos/Contabilidade Geral/02 - Contas Contábeis",
     "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence",

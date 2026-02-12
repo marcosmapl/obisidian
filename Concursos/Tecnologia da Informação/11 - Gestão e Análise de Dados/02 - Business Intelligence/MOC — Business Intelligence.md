@@ -11,6 +11,7 @@ updated: 2026-01-06T17:00:00
 - [[Arquitetura de BI]]
 - [[Tipos de Análises de BI]]
 - [[Capacidades de BI]]
+- [[Processo de BI]]
 - [[Data Discovery - Conceito]]
 - [[Data Warehouse]]
 - [[Data Mart]]

@@ -1,6 +1,11 @@
-
 ---
-## 🔸Classificações independentes
+disciplina: Língua Portuguesa
+tópico: Ortografia e Acentuação
+created: 2026-02-05T20:50:00
+updated: 2026-02-05T20:55:00
+---
+
+## Classificações independentes
 
 > ✍️ **Hiato** → classificação **fonética/silábica**
 
@@ -11,7 +16,7 @@ Uma palavra pode ser:
 - Paroxítona **e** apresentar hiato (_sa-ú-de_)
 
 ---
-## 🔸Regra Geral do Hiato
+## Regra Geral do Hiato
 
 Acentuam-se o **i** ou **u** **tônicos**, quando:
 - Estão em **hiato** com vogal ou ditongo anterior
@@ -24,9 +29,9 @@ Acentuam-se o **i** ou **u** **tônicos**, quando:
 ✍️ **Essa regra NÃO depende da classificação tônica**  → vale tanto para **oxítonas** quanto para **paroxítonas**
 
 ---
-## 🔸Quando NÃO se acentua o hiato
+## Quando NÃO se acentua o hiato
 
-### 🔹I/U tônicos seguidos de NH
+### I/U tônicos seguidos de NH
 
 💡**Exemplos:**
 - ra-**i**-**nh**a
@@ -35,7 +40,7 @@ Acentuam-se o **i** ou **u** **tônicos**, quando:
 
 📌**Justificativa**: não há risco de leitura como ditongo.
 
-### 🔹I/U tônicos seguidos de Ditongo Descrescente
+### I/U tônicos seguidos de Ditongo Descrescente
 
 Em **palavra paroxítona** quando vierem após **ditongo decrescente**.
 
@@ -48,7 +53,7 @@ Em **palavra paroxítona** quando vierem após **ditongo decrescente**.
 🚨**Atenção**: 
 > Quando após **ditongo crescente**, o acento é mantindo: Gua**í**ra, Gua**í**ba.
 
-### 🔹Vogais repetidas
+### Vogais repetidas
 
 💡**Exemplos:**
 - S**a**-**a**-ra
@@ -59,11 +64,10 @@ Em **palavra paroxítona** quando vierem após **ditongo decrescente**.
 
 📌 Regra introduzida pelo **Acordo Ortográfico** — cai muito em prova.
 
-## 🔸Oxítonas com hiato após ditongo
+---
+## Oxítonas com hiato após ditongo
 - Se o **i** ou **u** tônico estiver na **última sílaba**, haverá acento:
 	**Exemplos:**
 	- _Piauí, teiú, tuiuiú, tuiuiús_
 
 📌 Aqui, a **regra do hiato prevalece** sobre a regra geral das oxítonas.
-
-#português/acentuação/hiato
