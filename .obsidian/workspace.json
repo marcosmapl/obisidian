@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "040ef6665a10d537",
+    "id": "abced4f993ad5d92",
     "type": "split",
     "children": [
       {
-        "id": "5d7d1ee4ad8d2f8d",
+        "id": "471388e147679ec2",
         "type": "tabs",
         "children": [
           {
-            "id": "6809922d35f9027b",
+            "id": "e15b384b58c72e3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence/Modelagem Multidimensional.md",
+                "file": "Pronomes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Modelagem Multidimensional"
+              "title": "Pronomes"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3e6367a9e3b35275",
+    "id": "45b42b08c7b0614f",
     "type": "split",
     "children": [
       {
-        "id": "36593a56b63152bc",
+        "id": "516cbf818260916f",
         "type": "tabs",
         "children": [
           {
-            "id": "c71ffe7cc66fd8a8",
+            "id": "d80addb41ff0b48f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,15 +48,15 @@
             }
           },
           {
-            "id": "c9d2e3bd409a9582",
+            "id": "ce82dfb6d7eddaab",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "Porque",
+                "matchingCase": true,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "5058956b39a6ac00",
+            "id": "851c0109639b0177",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,22 +78,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 346.5026054382324
   },
   "right": {
-    "id": "97adec5408dc98bb",
+    "id": "85539bb65b2a9791",
     "type": "split",
     "children": [
       {
-        "id": "20eb673c8b197b41",
+        "id": "5f5f09527ddcdf39",
         "type": "tabs",
+        "dimension": 57.60416666666666,
         "children": [
           {
-            "id": "1d130159b831439e",
+            "id": "f254928120b03d7b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Concursos/Direito/10 - Direito Tributário/04 - Competência Tributária/MOC — Competência Tributária.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,24 +105,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Links inversos para MOC — Competência Tributária"
             }
           },
           {
-            "id": "4b214b59c9283de4",
+            "id": "0371eee99b069dbd",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Concursos/Contabilidade Geral/02 - Componentes Patrimoniais.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída"
+              "title": "Links de saída para 02 - Componentes Patrimoniais"
             }
           },
           {
-            "id": "bedd759255cb81a0",
+            "id": "56cb9d41c46fa583",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,7 +138,230 @@
             }
           },
           {
-            "id": "718f5de55e42306f",
+            "id": "2a1e6a8f30ae601a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          },
+          {
+            "id": "13422fa873e46705",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/Direito Tributário — MOC.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Direito Tributário — MOC"
+            }
+          },
+          {
+            "id": "b170e42cd9d7dc2b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "934d6756b85cc3ae",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "213cd78e08b9929b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "88b3d984d86778fb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "7364a5bd2ad70a4b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "5ce8c578a0368b4f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "ad04990408d1811f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "ab75c1b8439992ed",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "42ac0eb063d02288",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "15ede1b6b1033dc9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "857758f79097fb92",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "49fe40b0a7b948db",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "d42a4b9025be1384",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "3c0479ef5db152d2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "9060862b5308a3ca",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "f2240d03e7588137",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "d1380100192f278b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "70ed16030d077d9c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "d0990d65f02df410",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {},
+              "icon": "GA-ICON",
+              "title": "Graph Analysis"
+            }
+          }
+        ],
+        "currentTab": 23
+      },
+      {
+        "id": "f70b642b0827c287",
+        "type": "tabs",
+        "dimension": 42.39583333333334,
+        "children": [
+          {
+            "id": "45e21fb5d3efdbb2",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -147,47 +373,12 @@
               "icon": "lucide-archive",
               "title": "Todas as propriedades"
             }
-          },
-          {
-            "id": "e228446baefab559",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Sumário"
-            }
-          },
-          {
-            "id": "2685a5fcf625f6a0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "a183d53bd923ea5a",
-            "type": "leaf",
-            "state": {
-              "type": "graph-analysis",
-              "state": {},
-              "icon": "GA-ICON",
-              "title": "Graph Analysis"
-            }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 450.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -196,13 +387,52 @@
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
+      "templates:Inserir modelo": false,
       "bases:Criar nova base": false
     }
   },
-  "active": "6809922d35f9027b",
+  "active": "e15b384b58c72e3b",
   "lastOpenFiles": [
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence/MOC — Business Intelligence.md"
+    "Concursos/Língua Portuguesa/03 - Morfologia/MOC — Morfologia.md",
+    "Pronomes.md",
+    "Concursos/Língua Portuguesa/03 - Morfologia/Preposição.md",
+    "Concursos/Língua Portuguesa/03 - Morfologia/Advérbio.md",
+    "Concursos/Língua Portuguesa/03 - Morfologia/Numeral.md",
+    "Concursos/Língua Portuguesa/03 - Morfologia/Artigo.md",
+    "Concursos/Direito/10 - Direito Tributário/11 - Obrigação Tributária/Obrigação Tributária — Conceito.md",
+    "Concursos/Direito/10 - Direito Tributário/11 - Obrigação Tributária/MOC — Obrigação Tributária.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence/Processo de BI.md",
+    "Media/Pasted image 20260206060956.png",
+    "Media/ChatGPT Image Feb 6, 2026, 05_17_35 AM.png",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence/MOC — Business Intelligence.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence/Capacidades de BI.md",
+    "Concursos/Língua Portuguesa/03 - Morfologia/Substantivo.md",
+    "Concursos/Língua Portuguesa/03 - Morfologia/Adjetivo.md",
+    "Concursos/Língua Portuguesa/01 - Ortografia e Acentuação/Expressões Problemáticas.md",
+    "Concursos/Língua Portuguesa/01 - Ortografia e Acentuação/MOC — Ortografia e Acentuação.md",
+    "Concursos/Língua Portuguesa/01 - Ortografia e Acentuação/Uso dos Porquês.md",
+    "Concursos/Língua Portuguesa/Língua Portuguesa.md",
+    "Concursos/Língua Portuguesa/01 - Ortografia e Acentuação/Monossílabos Tônicos.md",
+    "Concursos/Língua Portuguesa/01 - Ortografia e Acentuação/Acentuação Gráfica.md",
+    "Concursos/Língua Portuguesa/01 - Ortografia e Acentuação/Hiato.md",
+    "Proparoxítona.md",
+    "Concursos/Língua Portuguesa/01 - Ortografia e Acentuação/Paroxítona.md",
+    "Concursos/Língua Portuguesa/01 - Ortografia e Acentuação/Oxítona.md",
+    "Concursos/Língua Portuguesa/01 - Ortografia e Acentuação/Ortografia.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence/Arquitetura de BI.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence/Pirâmide DIKW.md",
+    "Media/Pasted image 20260205100840.png",
+    "Media/Pasted image 20260205100524.png",
+    "Media/Pasted image 20260205100045.png",
+    "Media/Pasted image 20260126053825.png",
+    "Media/Pasted image 20260125195019.png",
+    "Media/Pasted image 20260125194925.png",
+    "Media/Pasted image 20260124174832.png",
+    "Media/Pasted image 20260123101808.png",
+    "Concursos/Língua Portuguesa/13 - Funções da Linguagem",
+    "Concursos/Contabilidade Geral/02 - Contas Contábeis",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence",
+    "Sem título.canvas"
   ]
 }
