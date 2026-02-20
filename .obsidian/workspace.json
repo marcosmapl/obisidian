@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pronomes.md",
+                "file": "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/Imposto sobre Produtos Industrializados (IPI).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pronomes"
+              "title": "Imposto sobre Produtos Industrializados (IPI)"
             }
           }
         ]
@@ -346,6 +346,16 @@
             "id": "d0990d65f02df410",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "1077568ccd8131d7",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -353,7 +363,7 @@
             }
           }
         ],
-        "currentTab": 23
+        "currentTab": 24
       },
       {
         "id": "f70b642b0827c287",
@@ -392,10 +402,17 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "e15b384b58c72e3b",
+  "active": "d80addb41ff0b48f",
   "lastOpenFiles": [
+    "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/MOC — Impostos Federais.md",
+    "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/Imposto sobre Produtos Industrializados (IPI).md",
+    "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/Imposto de Renda (IR).md",
+    "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/Imposto de Exportação (IE).md",
+    "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/Imposto de Importação (II).md",
+    "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/MOC — Impostos por Competência Constitucional.md",
+    "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/Imposto de Importação (II) 1.md",
+    "Concursos/Língua Portuguesa/03 - Morfologia/Pronomes.md",
     "Concursos/Língua Portuguesa/03 - Morfologia/MOC — Morfologia.md",
-    "Pronomes.md",
     "Concursos/Língua Portuguesa/03 - Morfologia/Preposição.md",
     "Concursos/Língua Portuguesa/03 - Morfologia/Advérbio.md",
     "Concursos/Língua Portuguesa/03 - Morfologia/Numeral.md",
@@ -415,13 +432,6 @@
     "Concursos/Língua Portuguesa/Língua Portuguesa.md",
     "Concursos/Língua Portuguesa/01 - Ortografia e Acentuação/Monossílabos Tônicos.md",
     "Concursos/Língua Portuguesa/01 - Ortografia e Acentuação/Acentuação Gráfica.md",
-    "Concursos/Língua Portuguesa/01 - Ortografia e Acentuação/Hiato.md",
-    "Proparoxítona.md",
-    "Concursos/Língua Portuguesa/01 - Ortografia e Acentuação/Paroxítona.md",
-    "Concursos/Língua Portuguesa/01 - Ortografia e Acentuação/Oxítona.md",
-    "Concursos/Língua Portuguesa/01 - Ortografia e Acentuação/Ortografia.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence/Arquitetura de BI.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence/Pirâmide DIKW.md",
     "Media/Pasted image 20260205100840.png",
     "Media/Pasted image 20260205100524.png",
     "Media/Pasted image 20260205100045.png",
