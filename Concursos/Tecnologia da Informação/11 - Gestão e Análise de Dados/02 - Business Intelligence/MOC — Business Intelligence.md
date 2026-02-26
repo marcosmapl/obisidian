@@ -16,6 +16,8 @@ updated: 2026-01-06T17:00:00
 - [[Data Warehouse]]
 - [[Data Mart]]
 - [[Modelagem Multidimensional]]
+- [[OLTP (Online Transaction Processing)]]
+- [[OLAP (Online Analytical Processing)]]
 - [[Data Mining - Conceito]]
 - [[Processo ETL]]
 - [[Power BI]]
