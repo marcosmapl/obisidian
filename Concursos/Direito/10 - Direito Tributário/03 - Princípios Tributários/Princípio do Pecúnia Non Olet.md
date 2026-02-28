@@ -54,6 +54,6 @@ updated: 2026-01-05T05:45:00
 ## Tópicos Relacionados
 
 - [[Imposto de Renda]]
-- [[Fato Gerador — Conceito]]
+- [[Fato Gerador da Obrigação Tributária]]
 - [[Princípio da Capacidade Contributiva]]
 - [[Ilícito Penal]]

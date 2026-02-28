@@ -67,4 +67,4 @@ updated: 2026-01-05T06:05:00
 - [[Sujeito Passivo]]
 - [[Contribuinte]]
 - [[Responsável Tributário]]
-- [[Fato Gerador — Conceito]]
+- [[Fato Gerador da Obrigação Tributária]]

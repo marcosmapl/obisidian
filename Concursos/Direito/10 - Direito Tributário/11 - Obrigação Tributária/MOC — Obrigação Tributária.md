@@ -8,8 +8,10 @@ updated: 2026-02-09T06:00:00
 ## Índice
 
 - [[Obrigação Tributária — Conceito]]
-- [[Fato Gerador — Conceito]]
+- [[Fato Gerador da Obrigação Tributária]]
 - [[Sujeito Ativo]]
 - [[Sujeito Passivo]]
 - [[Responsabilidade Tributária]]
+- [[Elisão, Evasão e Elusão Fiscal]]
+
 

@@ -11,7 +11,7 @@ updated: 2025-12-29T21:50:00
 
 - [[Tributo — Conceito]]
 - [[Natureza Jurídica do Tributo]]
-- [[Fato Gerador — Conceito]]
+- [[Fato Gerador da Obrigação Tributária]]
 - [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/01 - Conceitos Básicos do Direito Tributário/Preço Público — Conceito|Preço Público — Conceito]]
 - [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/01 - Conceitos Básicos do Direito Tributário/Multa — Conceito|Multa — Conceito]]
 - [[Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/01 - Conceitos Básicos do Direito Tributário/Sanção por Ato Ilícito|Sanção por Ato Ilícito]]
