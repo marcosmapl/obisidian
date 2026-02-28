@@ -14,22 +14,14 @@ updated: 2026-01-05T14:55:00
 ---
 ## Índice
 
-### 01 - [[Imposto de Importação (II) 1]]
+### 01 - [[Imposto de Importação (II)]]
 
+### 02 - [[Imposto de Exportação (IE)]]
 
-### Imposto de Exportação (IE)
-- Incide sobre produtos nacionais que saíem do Brasil
-- Alíquota: até 25%
+### 03 - [[Imposto de Renda (IR)]]
 
-### Imposto de Renda (IR)
-- Incide sobre renda, proventos de qualquer natureza
-- Aplicado a pessoas físicas e jurídicas
-- Progressivo e proporcional
+### 04 - [[Imposto sobre Produtos Industrializados (IPI)]]
 
-### Imposto sobre Produtos Industrializados (IPI)
-- Incide sobre produtos industrializados
-- Seletivo: alíquotas maiores para produtos supérfluos
-- Contribuinte: o produtor ou importador
 
 ### Imposto sobre Operações Financeiras (IOF)
 - Incide sobre operações de crédito, câmbio e seguros

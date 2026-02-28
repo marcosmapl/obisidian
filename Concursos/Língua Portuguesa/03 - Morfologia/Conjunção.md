@@ -15,6 +15,7 @@ updated: 2026-02-12T16:15:00
 
 Elas são conectivos e podem ser classificadas em **coordenativas** e **subordinativas**.
 
+<<<<<<< HEAD
 ---
 ## Conjunções Coordenativas
 

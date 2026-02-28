@@ -60,10 +60,10 @@ updated: 2026-01-06T09:55:00
 ## Princípios Tributários Aplicáveis
 
 - ✔️ **Legalidade mitigada**
-- ❌ **Não se submete à anterioridade anual**
-- ❌ **Não se submete à anterioridade nonagesimal**
 - ✔️ **Irretroatividade**
 - ✔️ **Isonomia**
+- ❌ **Não se submete à anterioridade anual**
+- ❌ **Não se submete à anterioridade nonagesimal**
 
 > [!important] Exceção expressa à anterioridade (art. 150, §1º, CF).
 
@@ -87,6 +87,6 @@ updated: 2026-01-06T09:55:00
 ---
 ## Tópicos Relacionados
 
-- [[Impostos Extrafiscais]]
 - [[Princípio da Legalidade Tributária]]
 - [[Princípio da Anterioridade Tributária]]
+- [[Imposto de Exportação (IE)]]
