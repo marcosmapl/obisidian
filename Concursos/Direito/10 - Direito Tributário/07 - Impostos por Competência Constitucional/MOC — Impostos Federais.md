@@ -22,11 +22,7 @@ updated: 2026-01-05T14:55:00
 
 ### 04 - [[Imposto sobre Produtos Industrializados (IPI)]]
 
-
-### Imposto sobre Operações Financeiras (IOF)
-- Incide sobre operações de crédito, câmbio e seguros
-- Alíquota variável
-- Importante para controlar moeda e crédito
+### 05 - [[Imposto sobre Operações Financeiras (IOF)]]
 
 ### Imposto sobre Propriedade Territorial Rural (ITR)
 - Incide sobre propriedade rural localizada no Brasil

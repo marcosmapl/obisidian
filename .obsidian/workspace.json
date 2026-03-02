@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c947c55d27618736",
+        "id": "4e500254b5c3ac77",
         "type": "tabs",
         "children": [
           {
-            "id": "029cc9401239b144",
+            "id": "0fb74c2053843c34",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Verbo.md",
+                "file": "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/Imposto sobre Operações Financeiras (IOF).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Verbo"
+              "title": "Imposto sobre Operações Financeiras (IOF)"
             }
           }
         ]
@@ -376,6 +376,16 @@
             "id": "25045996fbf59c44",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "e3ea7aae89fc3f89",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -383,7 +393,7 @@
             }
           }
         ],
-        "currentTab": 26
+        "currentTab": 27
       },
       {
         "id": "f70b642b0827c287",
@@ -422,23 +432,24 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "029cc9401239b144",
+  "active": "d80addb41ff0b48f",
   "lastOpenFiles": [
+    "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/MOC — Impostos Federais.md",
+    "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/Imposto sobre Operações Financeiras (IOF).md",
+    "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/MOC — Impostos por Competência Constitucional.md",
+    "Concursos/Língua Portuguesa/03 - Morfologia/Verbo.md",
     "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence/OLTP (Online Transaction Processing).md",
     "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence/OLAP (Online Analytical Processing).md",
     "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence/MOC — Business Intelligence.md",
     "Media/Pasted image 20260226152910.png",
     "Media/Pasted image 20260226152907.png",
     "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/Imposto sobre Produtos Industrializados (IPI).md",
-    "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/MOC — Impostos Federais.md",
     "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/Imposto de Renda (IR).md",
     "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/Imposto de Exportação (IE).md",
     "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/Imposto de Importação (II).md",
-    "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/MOC — Impostos por Competência Constitucional.md",
     "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/Imposto de Importação (II) 1.md",
     "Concursos/Língua Portuguesa/03 - Morfologia/Pronomes.md",
     "Concursos/Língua Portuguesa/03 - Morfologia/MOC — Morfologia.md",
-    "Verbo.md",
     "Concursos/Língua Portuguesa/03 - Morfologia/Preposição.md",
     "Concursos/Língua Portuguesa/03 - Morfologia/Advérbio.md",
     "Concursos/Língua Portuguesa/03 - Morfologia/Numeral.md",
@@ -451,40 +462,14 @@
     "Concursos/Direito/05 - Direito Administrativo/05 - Poderes Administrativos/Poder Disciplinar — Conceito.md",
     "Concursos/Direito/05 - Direito Administrativo/04 - Administração Pública e Organização Administrativa/Organização Administrativa.md",
     "Concursos/Direito/05 - Direito Administrativo/04 - Administração Pública e Organização Administrativa/Centralização e Descentralização.md",
-    "Concursos/Direito/05 - Direito Administrativo/02 - Princípios Administrativos/Princípio da Finalidade.md",
-    "Concursos/Direito/05 - Direito Administrativo/02 - Princípios Administrativos/Princípio da Impessoalidade.md",
-    "Concursos/Direito/03 - Princípios Gerais do Direito/MOC — Princípios Gerais do Direito.md",
-    "Concursos/Língua Portuguesa/03 - Morfologia/Conjunção.md",
-    "Concursos/Direito/10 - Direito Tributário/02 - Sistema Tributário Nacional/Princípios Observados pelo STN.md",
-    "Concursos/Direito/10 - Direito Tributário/03 - Princípios Tributários/MOC — Princípios Tributários.md",
-    "Concursos/Direito/01 - Introdução ao Direito/MOC — Introdução ao Direito.md",
-    "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/MOC — Impostos Federais.md",
-    "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/MOC — Impostos por Competência Constitucional.md",
-    "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/Imposto de Importação (II).md",
-    "Concursos/Direito/10 - Direito Tributário/04 - Competência Tributária/Competência Tributária — Conceito.md",
-    "Concursos/Direito/10 - Direito Tributário/03 - Princípios Tributários/Princípio da Anterioridade Tributária.md",
-    "Concursos/Direito/10 - Direito Tributário/04 - Competência Tributária/Classificação da Competência Tributária.md",
-    "Concursos/Direito/10 - Direito Tributário/01 - Conceitos Fundamentais/Fato Gerador da Obrigação Tributária.md",
-    "Concursos/Direito/10 - Direito Tributário/11 - Obrigação Tributária/Elisão, Evasão e Elusão Fiscal.md",
     "Media/Fato Gerador da Obrigação Tributária.png",
-    "Concursos/Língua Portuguesa/03 - Morfologia/Pronomes.md",
-    "Concursos/Contabilidade Geral/Contabilidade Geral.md",
     "Media/Pasted image 20260206060956.png",
     "Media/ChatGPT Image Feb 6, 2026, 05_17_35 AM.png",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence/Capacidades de BI.md",
-    "Concursos/Língua Portuguesa/03 - Morfologia/Substantivo.md",
-    "Concursos/Língua Portuguesa/03 - Morfologia/Adjetivo.md",
-    "Concursos/Língua Portuguesa/01 - Ortografia e Acentuação/Expressões Problemáticas.md",
-    "Concursos/Língua Portuguesa/01 - Ortografia e Acentuação/MOC — Ortografia e Acentuação.md",
-    "Concursos/Língua Portuguesa/01 - Ortografia e Acentuação/Uso dos Porquês.md",
-    "Concursos/Língua Portuguesa/Língua Portuguesa.md",
     "Media/Pasted image 20260205100840.png",
     "Media/Pasted image 20260205100524.png",
     "Media/Pasted image 20260205100045.png",
     "Media/Pasted image 20260126053825.png",
     "Media/Pasted image 20260125195019.png",
-    "Media/Pasted image 20260125194925.png",
-    "Media/Pasted image 20260124174832.png",
     "Concursos/Língua Portuguesa/13 - Funções da Linguagem",
     "Concursos/Contabilidade Geral/02 - Contas Contábeis",
     "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence",
