@@ -39,9 +39,20 @@ Exemplos:
 Suporte à tomada de decisão por meio de análise histórica e consolidada.
 
 ---
-## Objetivo Central
+## Tipos de Armazenamento
 
-Eficiência operacional e confiabilidade nas transações.
+- **ROLAP** (Relational OLAP)
+- **MOLAP** (Multidimensional OLAP)
+- **HOLAP** (Hybrid OLAP)
+
+---
+## Operações
+
+- **Drill Down**: Aumentar o detalhamento e a Granularidade
+- **Roll Up**: Diminuir o detalhamento e a Granularidade
+- **Drill Across**: pula entre níveis não consecutivos dentro de uma dimensão (Ano -> Mês)
+- **Drill Through**: pula de uma dimensão para outra (Tempo -> Localidade)
+- **Slice-and-Dice**: recuperar apenas uma fatia do cubo
 
 ---
 ## Comparação

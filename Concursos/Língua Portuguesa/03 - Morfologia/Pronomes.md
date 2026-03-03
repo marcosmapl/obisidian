@@ -10,17 +10,7 @@ updated: 2026-02-09T20:55:00
 > [!note] Pronome
 > Palavra variável que acompanha ou substitui o substantivo. Pode apresentar sentidos variados, como posse, indefinição, posição, quantidade, depreciação.
 
-
----
-## Pessoas do discurso
-
-Os pronomes se referem às pessoas do discurso.
-- 1ª Pessoa Singular (Eu)
-- 2ª Pessoa Singular (Tu)
-- 3ª Pessoa Singular (Ele/Ela)
-- 1ª Pessoa Plural (Nós)
-- 2ª Pessoa Plural (Vós)
-- 3ª Pessoal Plural (Eles/Elas)
+![[Pasted image 20260228103934.png]]
 
 ---
 ## Pronomes Pessoais
@@ -110,3 +100,4 @@ Os pronomes de tratamento mais comuns incluem:
 - **Vossa Alteza (V. A.)**: dirigido a príncipes e princesas.
 - **Vossa Santidade (V. S.)**: usado para o Papa.
 
+---
