@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/Imposto sobre Operações Financeiras (IOF).md",
+                "file": "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Imposto sobre Operações Financeiras (IOF)"
+              "title": "MOC — Conceitos Fundamentais"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "IEG",
+                "query": "Integralização",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -74,7 +74,8 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -386,6 +387,16 @@
             "id": "e3ea7aae89fc3f89",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "18523e3fec83639f",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -393,7 +404,7 @@
             }
           }
         ],
-        "currentTab": 27
+        "currentTab": 28
       },
       {
         "id": "f70b642b0827c287",
@@ -432,10 +443,13 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "d80addb41ff0b48f",
+  "active": "0fb74c2053843c34",
   "lastOpenFiles": [
-    "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/MOC — Impostos Federais.md",
+    "Subscrição e Integralização.md",
+    "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais.md",
+    "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/Atos e Fatos Contábeis.md",
     "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/Imposto sobre Operações Financeiras (IOF).md",
+    "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/MOC — Impostos Federais.md",
     "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/MOC — Impostos por Competência Constitucional.md",
     "Concursos/Língua Portuguesa/03 - Morfologia/Verbo.md",
     "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence/OLTP (Online Transaction Processing).md",
@@ -459,9 +473,6 @@
     "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence/MOC — Business Intelligence.md",
     "Concursos/Direito/10 - Direito Tributário/02 - Sistema Tributário Nacional/MOC — Sistema Tributário Nacional.md",
     "Concursos/Direito/05 - Direito Administrativo/05 - Poderes Administrativos/Poder Hierárquico — Conceito.md",
-    "Concursos/Direito/05 - Direito Administrativo/05 - Poderes Administrativos/Poder Disciplinar — Conceito.md",
-    "Concursos/Direito/05 - Direito Administrativo/04 - Administração Pública e Organização Administrativa/Organização Administrativa.md",
-    "Concursos/Direito/05 - Direito Administrativo/04 - Administração Pública e Organização Administrativa/Centralização e Descentralização.md",
     "Media/Fato Gerador da Obrigação Tributária.png",
     "Media/Pasted image 20260206060956.png",
     "Media/ChatGPT Image Feb 6, 2026, 05_17_35 AM.png",
