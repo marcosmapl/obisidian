@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Estatística/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais.md",
+                "file": "Imposto Territorial Rural (ITR).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MOC — Conceitos Fundamentais"
+              "title": "Imposto Territorial Rural (ITR)"
             }
           }
         ]
@@ -406,6 +406,16 @@
             "id": "1b69d5d4a3d4e13e",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "223d2b8ecb6d4cdf",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -413,7 +423,7 @@
             }
           }
         ],
-        "currentTab": 29
+        "currentTab": 30
       },
       {
         "id": "f70b642b0827c287",
@@ -452,17 +462,18 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "d80addb41ff0b48f",
+  "active": "a82ae12c94f452ff",
   "lastOpenFiles": [
-    "Concursos/Estatística/01 - Conceitos Fundamentais/População e Amostra.md",
+    "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/MOC — Impostos Federais.md",
+    "Imposto Territorial Rural (ITR).md",
+    "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/Imposto sobre Operações Financeiras (IOF).md",
     "Concursos/Estatística/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais.md",
+    "Concursos/Estatística/01 - Conceitos Fundamentais/População e Amostra.md",
     "Concursos/Estatística/01 - Conceitos Fundamentais/Estatística — Definição.md",
     "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais.md",
     "Media/Pasted image 20260228103934.png",
     "Subscrição e Integralização.md",
     "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/Atos e Fatos Contábeis.md",
-    "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/Imposto sobre Operações Financeiras (IOF).md",
-    "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/MOC — Impostos Federais.md",
     "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/MOC — Impostos por Competência Constitucional.md",
     "Concursos/Língua Portuguesa/03 - Morfologia/Verbo.md",
     "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence/OLTP (Online Transaction Processing).md",
@@ -482,7 +493,6 @@
     "Concursos/Língua Portuguesa/03 - Morfologia/Numeral.md",
     "Concursos/Língua Portuguesa/03 - Morfologia/Artigo.md",
     "Concursos/Direito/10 - Direito Tributário/11 - Obrigação Tributária/Obrigação Tributária — Conceito.md",
-    "Concursos/Direito/10 - Direito Tributário/11 - Obrigação Tributária/MOC — Obrigação Tributária.md",
     "Media/Fato Gerador da Obrigação Tributária.png",
     "Media/Pasted image 20260206060956.png",
     "Media/ChatGPT Image Feb 6, 2026, 05_17_35 AM.png",

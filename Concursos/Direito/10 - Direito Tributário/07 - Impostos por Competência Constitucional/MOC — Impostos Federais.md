@@ -24,13 +24,6 @@ updated: 2026-01-05T14:55:00
 
 ### 05 - [[Imposto sobre Operações Financeiras (IOF)]]
 
-### Imposto sobre Propriedade Territorial Rural (ITR)
-- Incide sobre propriedade rural localizada no Brasil
-- Progressivo: alíquota varia conforme tamanho e uso
-- Administrado pelo INCRA
+### 06 - [[Imposto Territorial Rural (ITR)]]
 
-### 🔹 Imposto sobre a Propriedade de Veículos Automotores (IPVA)
-- **Competência compartilhada** entre União, Estados e DF
-- Incide sobre propriedade de veículo automotor
-- Principal imposto estadual, mas com previsão federal
 
