@@ -1,7 +1,7 @@
 
 ## Índice
 
-### 1. [[MOC — DRE]]
+### 1. [[Demonstração do Resultado do Exercício (DRE)]]
 
 ### 2. [[MOC — DLPA]]
 

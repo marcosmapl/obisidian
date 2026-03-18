@@ -26,4 +26,8 @@ updated: 2026-01-05T14:55:00
 
 ### 06 - [[Imposto Territorial Rural (ITR)]]
 
+### 07 - [[Imposto sobre Grandes Fortunas (IGF)]]
+
+### 08 - [[Imposto Seletivo (IS)]]
+
 

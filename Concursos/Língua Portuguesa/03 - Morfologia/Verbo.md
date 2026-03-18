@@ -2,7 +2,7 @@
 disciplina: Língua Portuguesa
 tópico: Morfologia
 created: 2026-02-26T20:30:00
-updated: 2026-02-26T20:35:00
+updated: 2026-03-17T21:16:00
 ---
 
 ## Conceito
@@ -42,4 +42,12 @@ updated: 2026-02-26T20:35:00
 
 ### Particípio
 
-- É a forma do verbo que termina geralmente em **"-ado"**, 
+- É a forma do verbo que termina geralmente em **"-ado"**, e indica uma ação concluída.
+- **Exemplos**: terminado, aberto, caído, caminhado.
+
+---
+## Locução Verbal
+
+- Estrutura com **mais de um verbo**.
+- Verbo **auxiliar** (**concorda com o sujeito**) + Verbo **principal** (**forma nominal**).
+- 

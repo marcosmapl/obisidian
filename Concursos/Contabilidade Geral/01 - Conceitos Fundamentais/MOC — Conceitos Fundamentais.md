@@ -21,3 +21,5 @@ updated: 2026-03-04T16:15:00
 - [[Subscrição e Integralização]]
 - [[Superveniência e Insubsistência — Conceito]]
 - [[Regime de Competência]]
+- [[Regime de Caixa]]
+
