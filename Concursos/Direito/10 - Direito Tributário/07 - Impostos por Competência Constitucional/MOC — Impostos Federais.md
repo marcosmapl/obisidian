@@ -9,8 +9,6 @@ updated: 2026-01-05T14:55:00
 
 > [!note] Art. 153 da Constituição Federal de 1988 enumera os **impostos de competência da União Federal**, que são as **principais fontes de arrecadação federal**.
 
-#direito/tributario/imposto_federal
-
 ---
 ## Índice
 
