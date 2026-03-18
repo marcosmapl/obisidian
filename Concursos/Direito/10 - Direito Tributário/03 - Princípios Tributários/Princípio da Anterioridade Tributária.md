@@ -45,20 +45,33 @@ updated: 2026-01-05T05:25:00
 ---
 ## Exceções Importantes (Prova)
 
-### ❌ Não se sujeitam à Anterioridade Anual
+### ❌ Não se sujeitam à ambos (5)
+- **II**
+- **IE**
+- **IOF**
+- **IEG**
+- **EC-GC**
 
-- **II, IE e IOF**
+### ❌ Não se sujeitam à Anterioridade Anual (4)
+
 - **IPI**
-- **IEG**
-- **Empréstimos compulsórios** (guerra ou calamidade pública)
-- **Contribuições para a seguridade social** (regra própria)
+-  **Contribuições para a seguridade social** (regra própria)
+- **ICMS-Combustível**
+- **CIDE-Combustível**
 
-### ❌ Não se sujeitam à Anterioridade Nonagesimal
+### ❌ Não se sujeitam à Anterioridade Nonagesimal (3)
 
-- **II, IE** e **IOF**
 - **IR**
-- **IEG**
-- **Empréstimos compulsórios** (guerra ou calamidade pública)
+- **IPVA (BC)**
+- **IPTU (BC)**
+
+### ❌ Não são contemplados
+
+- Antecipação do vencimento
+- Atualização do tributo
+- Prorrogação da alíquota
+- Revogação de Isenção
+- Redução ou extinção
 
 ---
 ## Observações Relevantes

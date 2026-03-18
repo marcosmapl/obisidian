@@ -39,9 +39,10 @@ updated: 2026-01-05T05:20:00
 
 - **Legalidade Tributária:** regra geral de submissão à lei.
 - **Reserva Legal:** certas matérias **exigem lei formal**, sem possibilidade de delegação.
-
 ---
-## Exceções Constitucionais (Legalidade Mitigada)
+## Exceções Constitucionais
+
+### Legalidade Mitigada
 
 > [!important] A Constituição admite exceções à legalidade estrita:
 
@@ -51,6 +52,15 @@ updated: 2026-01-05T05:20:00
 - **ICMS-combustíveis** (alíquotas, conforme EC)
 
 📌 Mesmo nas exceções, deve haver **autorização constitucional expressa**.
+
+### Lei Complementar
+
+A regra é **Lei Ordinária**, mas é exigido **Lei Complementar** para:
+
+- Novos Impostos
+- Empréstimos Compulsórios
+- Novas Contribuições
+- Grandes Fortunas
 
 ---
 ## Limitações Importantes

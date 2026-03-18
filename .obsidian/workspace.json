@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "abced4f993ad5d92",
+    "id": "955f985cca442cbc",
     "type": "split",
     "children": [
       {
-        "id": "9c74f639aef50638",
+        "id": "fab9676ebfb1ace8",
         "type": "tabs",
         "children": [
           {
-            "id": "079395767a2e45f5",
+            "id": "a740fbc564ff670a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Direito/10 - Direito Tributário/11 - Obrigação Tributária/Sujeito Passivo.md",
+                "file": "Concursos/Direito/10 - Direito Tributário/03 - Princípios Tributários/Princípio da Anterioridade Tributária.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sujeito Passivo"
+              "title": "Princípio da Anterioridade Tributária"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "45b42b08c7b0614f",
+    "id": "fff3a9407353a691",
     "type": "split",
     "children": [
       {
-        "id": "516cbf818260916f",
+        "id": "62254c4adcdededd",
         "type": "tabs",
         "children": [
           {
-            "id": "d80addb41ff0b48f",
+            "id": "8fc94c9acde498fd",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,15 +48,15 @@
             }
           },
           {
-            "id": "ce82dfb6d7eddaab",
+            "id": "796748e51eb7415e",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "Integralização",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "851c0109639b0177",
+            "id": "a19281dc615c0136",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,24 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 470.5026054382324
+    "width": 300
   },
   "right": {
-    "id": "85539bb65b2a9791",
+    "id": "ae0fcbd67c81a0a4",
     "type": "split",
     "children": [
       {
-        "id": "5f5f09527ddcdf39",
+        "id": "e2ec5320445b99d1",
         "type": "tabs",
-        "dimension": 57.60416666666666,
         "children": [
           {
-            "id": "f254928120b03d7b",
+            "id": "959897f0923beec5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concursos/Direito/10 - Direito Tributário/04 - Competência Tributária/MOC — Competência Tributária.md",
+                "file": "Concursos/Direito/10 - Direito Tributário/03 - Princípios Tributários/Princípio da Anterioridade Tributária.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para MOC — Competência Tributária"
+              "title": "Links inversos para Princípio da Anterioridade Tributária"
             }
           },
           {
-            "id": "0371eee99b069dbd",
+            "id": "a952fd40178f9760",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concursos/Contabilidade Geral/02 - Componentes Patrimoniais.md",
+                "file": "Concursos/Direito/10 - Direito Tributário/03 - Princípios Tributários/Princípio da Anterioridade Tributária.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para 02 - Componentes Patrimoniais"
+              "title": "Links de saída para Princípio da Anterioridade Tributária"
             }
           },
           {
-            "id": "56cb9d41c46fa583",
+            "id": "f9b0d986654d3511",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -134,325 +133,11 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Etiquetas"
             }
           },
           {
-            "id": "2a1e6a8f30ae601a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
-            }
-          },
-          {
-            "id": "13422fa873e46705",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/Direito Tributário — MOC.md",
-                "followCursor": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Sumário de Direito Tributário — MOC"
-            }
-          },
-          {
-            "id": "b170e42cd9d7dc2b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "934d6756b85cc3ae",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "213cd78e08b9929b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "88b3d984d86778fb",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "7364a5bd2ad70a4b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "5ce8c578a0368b4f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "ad04990408d1811f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "ab75c1b8439992ed",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "42ac0eb063d02288",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "15ede1b6b1033dc9",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "857758f79097fb92",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "49fe40b0a7b948db",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "d42a4b9025be1384",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "3c0479ef5db152d2",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "9060862b5308a3ca",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "f2240d03e7588137",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "d1380100192f278b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "70ed16030d077d9c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "d0990d65f02df410",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "8f9204d2179de5eb",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "3cd289ee18647332",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "25045996fbf59c44",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "e3ea7aae89fc3f89",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "18523e3fec83639f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "1b69d5d4a3d4e13e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "223d2b8ecb6d4cdf",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "6febb82d8056f1a2",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "62bae83c642f3cbf",
-            "type": "leaf",
-            "state": {
-              "type": "graph-analysis",
-              "state": {},
-              "icon": "GA-ICON",
-              "title": "Graph Analysis"
-            }
-          }
-        ],
-        "currentTab": 32
-        "currentTab": 32
-      },
-      {
-        "id": "f70b642b0827c287",
-        "type": "tabs",
-        "dimension": 42.39583333333334,
-        "children": [
-          {
-            "id": "45e21fb5d3efdbb2",
+            "id": "72fc894dc580eba7",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -464,12 +149,38 @@
               "icon": "lucide-archive",
               "title": "Todas as propriedades"
             }
+          },
+          {
+            "id": "63465896c3c86812",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Concursos/Direito/10 - Direito Tributário/03 - Princípios Tributários/Princípio da Anterioridade Tributária.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Princípio da Anterioridade Tributária"
+            }
+          },
+          {
+            "id": "b4b6fa970be3f5c8",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {},
+              "icon": "GA-ICON",
+              "title": "Graph Analysis"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 450.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -478,51 +189,16 @@
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
-      "command-palette:Abrir paleta de comandos": false,
       "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false
     }
   },
-  "active": "079395767a2e45f5",
+  "active": "a740fbc564ff670a",
   "lastOpenFiles": [
-    "Concursos/Direito/10 - Direito Tributário/11 - Obrigação Tributária/MOC — Obrigação Tributária.md",
-    "Concursos/Direito/10 - Direito Tributário/11 - Obrigação Tributária/Sujeito Ativo.md",
-    "Concursos/Direito/10 - Direito Tributário/11 - Obrigação Tributária/Sujeito Passivo.md",
-    "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/MOC — Impostos Federais.md",
-    "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/Imposto Seletivo (IS).md",
-    "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/Imposto sobre Grandes Fortunas (IGF).md",
-    "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/Imposto Territorial Rural (ITR).md",
-    "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/MOC — Impostos por Competência Constitucional.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/11 - Bancos de Dados Não Relacionais/MOC — Bancos de Dados Não Relacionais (NoSQL).md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/11 - Bancos de Dados Não Relacionais/Teorema CAP.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/11 - Bancos de Dados Não Relacionais/Bancos de Dados Orientados a Grafos.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/11 - Bancos de Dados Não Relacionais/Bancos de Dados Colunares.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/11 - Bancos de Dados Não Relacionais/Bancos de Dados Chave-Valor.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/11 - Bancos de Dados Não Relacionais/Bancos de Dados Orientados a Documentos.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/11 - Bancos de Dados Não Relacionais/NoSQL — Conceito.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/MOC — Bancos de Dados.md",
-    "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/Imposto sobre Operações Financeiras (IOF).md",
-    "Concursos/Estatística/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais.md",
-    "Concursos/Estatística/01 - Conceitos Fundamentais/População e Amostra.md",
-    "Concursos/Estatística/01 - Conceitos Fundamentais/Estatística — Definição.md",
-    "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais.md",
-    "Media/Pasted image 20260228103934.png",
-    "Subscrição e Integralização.md",
-    "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/Atos e Fatos Contábeis.md",
-    "Concursos/Língua Portuguesa/03 - Morfologia/Verbo.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence/OLTP (Online Transaction Processing).md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence/OLAP (Online Analytical Processing).md",
-    "Media/Pasted image 20260226152910.png",
-    "Media/Pasted image 20260226152907.png",
-    "Media/Fato Gerador da Obrigação Tributária.png",
-    "Media/Pasted image 20260206060956.png",
-    "Media/ChatGPT Image Feb 6, 2026, 05_17_35 AM.png",
-    "Media/Pasted image 20260205100840.png",
-    "Media/Pasted image 20260205100524.png",
-    "Media/Pasted image 20260205100045.png",
-    "Concursos/Língua Portuguesa/13 - Funções da Linguagem",
-    "Concursos/Contabilidade Geral/02 - Contas Contábeis",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence",
-    "Sem título.canvas"
+    "Concursos/Direito/10 - Direito Tributário/03 - Princípios Tributários/Princípio da Legalidade Tributária.md",
+    "Concursos/Direito/10 - Direito Tributário/03 - Princípios Tributários/Princípio do Não Confisco.md",
+    "Concursos/Direito/10 - Direito Tributário/03 - Princípios Tributários/Princípio da Anterioridade Tributária.md",
+    "Concursos/Direito/10 - Direito Tributário/03 - Princípios Tributários/MOC — Princípios Tributários.md"
   ]
 }
