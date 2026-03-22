@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fab9676ebfb1ace8",
+        "id": "6dbdee3251546331",
         "type": "tabs",
         "children": [
           {
-            "id": "a740fbc564ff670a",
+            "id": "7a28296db3f8d461",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concursos/Direito/10 - Direito Tributário/03 - Princípios Tributários/Princípio da Anterioridade Tributária.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Princípio da Anterioridade Tributária"
+              "title": "Nova aba"
             }
           }
         ]
@@ -169,6 +165,16 @@
             "id": "b4b6fa970be3f5c8",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "0cb3ad0d17c0f4b8",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -176,7 +182,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -194,11 +200,16 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "a740fbc564ff670a",
+  "active": "7a28296db3f8d461",
   "lastOpenFiles": [
+    "Estrutura do Balanço Patrimonial.md",
+    "Concursos/Contabilidade Geral/04 - Balanço Patrimonial (BP)/MOC — Balanço Patrimonial.md",
+    "Concursos/Auditoria/07 - Procedimentos de Auditoria/Amostragem em Auditoria.md",
+    "Concursos/Auditoria/07 - Procedimentos de Auditoria/MOC — Procedimentos de Auditoria.md",
+    "Concursos/Auditoria/07 - Procedimentos de Auditoria/Procedimentos de Auditoria.md",
+    "Concursos/Direito/10 - Direito Tributário/03 - Princípios Tributários/Princípio da Anterioridade Tributária.md",
     "Concursos/Direito/10 - Direito Tributário/03 - Princípios Tributários/Princípio da Legalidade Tributária.md",
     "Concursos/Direito/10 - Direito Tributário/03 - Princípios Tributários/Princípio do Não Confisco.md",
-    "Concursos/Direito/10 - Direito Tributário/03 - Princípios Tributários/Princípio da Anterioridade Tributária.md",
     "Concursos/Direito/10 - Direito Tributário/03 - Princípios Tributários/MOC — Princípios Tributários.md"
   ]
 }
