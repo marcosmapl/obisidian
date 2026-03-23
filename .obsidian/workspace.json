@@ -11,10 +11,14 @@
             "id": "7a28296db3f8d461",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Imposto sobre a Propriedade Predial e Territorial Urbana (IPTU).md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Imposto sobre a Propriedade Predial e Territorial Urbana (IPTU)"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 349.5026054382324
   },
   "right": {
     "id": "ae0fcbd67c81a0a4",
@@ -202,6 +206,12 @@
   },
   "active": "7a28296db3f8d461",
   "lastOpenFiles": [
+    "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/MOC — Impostos dos Municípios.md",
+    "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/MOC — Impostos dos Estados e DF.md",
+    "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/Imposto sobre Circulação de Mercadorias e Serviços (ICMS).md",
+    "Imposto sobre a Propriedade Predial e Territorial Urbana (IPTU).md",
+    "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/Imposto de Exportação (IE).md",
+    "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/Imposto sobre Transmissão Causa Mortis e Doações (ITCMD).md",
     "Estrutura do Balanço Patrimonial.md",
     "Concursos/Contabilidade Geral/04 - Balanço Patrimonial (BP)/MOC — Balanço Patrimonial.md",
     "Concursos/Auditoria/07 - Procedimentos de Auditoria/Amostragem em Auditoria.md",

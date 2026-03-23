@@ -15,7 +15,6 @@ updated: 2026-02-20T15:00:00
 ---
 ## Características
 
-- Fundamento Constitucional: Art. 153, II, da Constituição Federal e Art. 23 a 28 do CTN
 - Competência: **União** (Art. 19, CTN).
 - Fato Gerador: **Saída do produto nacional ou nacionalizado do território nacional** (Art. 23, CTN).
 - Base de Cálculo (Art. 24, CTN):
