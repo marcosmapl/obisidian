@@ -2,22 +2,15 @@
 disciplina: Estatística
 tópico: Conceitos Fundamentais
 created: 2025-12-23T00:00:00
-progresso: 0
-node_size: "10"
-tags:
-  - estatistica/conceitos
+updated: 2026-03-23T20:36:00
 ---
 
-## 🔸 Conceitos Fundamentais
+## Índice
 
 - [[Estatística — Definição]]
 - [[População e Amostra]]
-- [[Parâmetros e Estatísticas]]
-- [[Tipos de Variáveis]]
-- [[Variável Qualitativa]]
-- [[Variável Quantitativa]]
-- [[Variável Discreta]]
-- [[Variável Contínua]]
+- [[Variáveis Estatísticas]]
+- [[Séries Estatísticas]]
 - [[Dados Estatísticos]]
 
 ---
