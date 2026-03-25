@@ -4,7 +4,28 @@ tópico: Business Intelligence
 created: 2026-02-12T09:25:00
 updated: 2026-02-12T09:30:00
 ---
+## Processo de Modelagem Multidiomensional
 
+**Procuradoria Geral do Distrito Federal - PGDF**
+
+![[Pasted image 20260325103013.jpg]]
+
+---
+## Tabelas Dimensão
+
+- Tabela com os atributos **qualitativos** (dimensões) que ajudam a analisar os fatos.
+- Podem ser desnormalizadas e com hierarquia (decomposições em outras tabelas).
+- Possuem uma chave primária que identificam unicamente seus registros
+- São tabelas que geralmente **crescem horizontalmente**: mais atributos ou colunas.
+- Respondem à pergunta: "_Quando_?", "_O que_?", "_Onde_?" e _"Quem?";_
+- Exemplos:
+	- Nome
+	- CPF
+	- Data Nascimento
+	- Dia da Semana
+	- Código
+
+---
 ## Tabelas Fato
 
 - Tabela que armazena informações **quantitativas** para análise de dados.
@@ -12,7 +33,7 @@ updated: 2026-02-12T09:30:00
 	- Ocorrências, Eventos ou Fatos de um processo de negócio da organização.
 	- Medidas/métricas quantitativas (valores ou indicadores).
 	- Podem ser medidas de desempenho, métricas operacionais, medidas agregadas, etc.|
-- São efetivamente criadas apenas após a criação de tabelas dimensionais. 
+- Criadas após as Tabelas Dimensionais. 
 - São tabelas que geralmente **crescem verticalmente**: mais registros ou linhas;
 - Respondem à pergunta: _“O que está sendo medido nesse processo de negócio?”_
 - Exemplo:
@@ -37,18 +58,3 @@ updated: 2026-02-12T09:30:00
 - **Aditivas**: podem ser agregadas (Ex: Lucro Líquido)
 - **Semi-Aditivas**: podem ser agradas para algumas dimensões, não todas (Ex: Saldo em Conta).
 - **Não Aditivas**: nunca podem ser agregadas (Ex: Taxas e Percentuais).
-
----
-## Tabelas Dimensão
-
-- Tabela com os atributos **qualitativos** (dimensões) que ajudam a analisar os fatos.
-- Podem ser desnormalizadas e com hierarquia (decomposições em outras tabelas).
-- Possuem uma chave primária que identificam unicamente seus registros
-- São tabelas que geralmente **crescem horizontalmente**: mais atributos ou colunas.
-- Respondem à pergunta: "_Quando_?", "_O que_?", "_Onde_?" e _"Quem?";_
-- Exemplos:
-	- Nome
-	- CPF
-	- Data Nascimento
-	- Dia da Semana
-	- Código

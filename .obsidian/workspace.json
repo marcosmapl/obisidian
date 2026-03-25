@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "63ebd20c54a3a79c",
+        "id": "7b2df95cd035b6db",
         "type": "tabs",
         "children": [
           {
-            "id": "d224446f11562dbd",
+            "id": "1166499f32bda768",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/Imposto sobre Circulação de Mercadorias e Serviços (ICMS).md",
+                "file": "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence/Modelagem Multidimensional.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Imposto sobre Circulação de Mercadorias e Serviços (ICMS)"
+              "title": "Modelagem Multidimensional"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Impostos Esta",
+                "query": "Busin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -189,6 +189,16 @@
             "id": "078e1ba3fdaa406f",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "8959f90a1d1faebc",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -196,7 +206,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -214,13 +224,16 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "d224446f11562dbd",
+  "active": "1166499f32bda768",
   "lastOpenFiles": [
+    "Media/Pasted image 20260325103013.jpg",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence/MOC — Business Intelligence.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/02 - Business Intelligence/Business Intelligence - Conceito.md",
+    "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/Imposto sobre Circulação de Mercadorias e Serviços (ICMS).md",
     "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/Imposto de Renda (IR).md",
     "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/Imposto sobre Transmissão Causa Mortis e Doações (ITCMD).md",
     "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/MOC — Impostos dos Estados e DF.md",
     "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/Imposto sobre a Propriedade de Veículos Automotores (IPVA).md",
-    "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/Imposto sobre Circulação de Mercadorias e Serviços (ICMS).md",
     "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/MOC — Impostos por Competência Constitucional.md",
     "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/Imposto sobre a Propriedade Predial e Territorial Urbana (IPTU).md",
     "Concursos/Direito/10 - Direito Tributário/04 - Competência Tributária/Classificação da Competência Tributária.md",
@@ -240,8 +253,6 @@
     "Concursos/Auditoria/07 - Procedimentos de Auditoria/MOC — Procedimentos de Auditoria.md",
     "Concursos/Auditoria/07 - Procedimentos de Auditoria/Procedimentos de Auditoria.md",
     "Concursos/Direito/10 - Direito Tributário/03 - Princípios Tributários/Princípio da Anterioridade Tributária.md",
-    "Concursos/Direito/10 - Direito Tributário/03 - Princípios Tributários/Princípio da Legalidade Tributária.md",
-    "Concursos/Direito/10 - Direito Tributário/03 - Princípios Tributários/Princípio do Não Confisco.md",
-    "Concursos/Direito/10 - Direito Tributário/03 - Princípios Tributários/MOC — Princípios Tributários.md"
+    "Concursos/Direito/10 - Direito Tributário/03 - Princípios Tributários/Princípio da Legalidade Tributária.md"
   ]
 }
