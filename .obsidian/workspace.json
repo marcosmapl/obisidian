@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Contabilidade Geral/04 - Balanço Patrimonial (BP)/Estrutura do Balanço Patrimonial.md",
+                "file": "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/Imposto sobre Circulação de Mercadorias e Serviços (ICMS).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Estrutura do Balanço Patrimonial"
+              "title": "Imposto sobre Circulação de Mercadorias e Serviços (ICMS)"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Impostos Esta",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5026054382324
+    "width": 434.5026054382324
   },
   "right": {
     "id": "ae0fcbd67c81a0a4",
@@ -214,8 +214,18 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "8fc94c9acde498fd",
+  "active": "d224446f11562dbd",
   "lastOpenFiles": [
+    "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/Imposto de Renda (IR).md",
+    "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/Imposto sobre Transmissão Causa Mortis e Doações (ITCMD).md",
+    "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/MOC — Impostos dos Estados e DF.md",
+    "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/Imposto sobre a Propriedade de Veículos Automotores (IPVA).md",
+    "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/Imposto sobre Circulação de Mercadorias e Serviços (ICMS).md",
+    "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/MOC — Impostos por Competência Constitucional.md",
+    "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/Imposto sobre a Propriedade Predial e Territorial Urbana (IPTU).md",
+    "Concursos/Direito/10 - Direito Tributário/04 - Competência Tributária/Classificação da Competência Tributária.md",
+    "Concursos/Direito/10 - Direito Tributário/11 - Obrigação Tributária/Elisão, Evasão e Elusão Fiscal.md",
+    "Concursos/Contabilidade Geral/04 - Balanço Patrimonial (BP)/Estrutura do Balanço Patrimonial.md",
     "Concursos/Estatística/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais.md",
     "Concursos/Estatística/01 - Conceitos Fundamentais/Séries Estatísticas.md",
     "Media/Pasted image 20260323213022.png",
@@ -223,13 +233,8 @@
     "Media/Pasted image 20260323204541.png",
     "Variável Qualitativa.md",
     "Variável Quantitativa.md",
-    "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/Imposto sobre a Propriedade Predial e Territorial Urbana (IPTU).md",
     "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/MOC — Impostos dos Municípios.md",
-    "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/MOC — Impostos dos Estados e DF.md",
-    "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/Imposto sobre Circulação de Mercadorias e Serviços (ICMS).md",
     "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/Imposto de Exportação (IE).md",
-    "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/Imposto sobre Transmissão Causa Mortis e Doações (ITCMD).md",
-    "Concursos/Contabilidade Geral/04 - Balanço Patrimonial (BP)/Estrutura do Balanço Patrimonial.md",
     "Concursos/Contabilidade Geral/04 - Balanço Patrimonial (BP)/MOC — Balanço Patrimonial.md",
     "Concursos/Auditoria/07 - Procedimentos de Auditoria/Amostragem em Auditoria.md",
     "Concursos/Auditoria/07 - Procedimentos de Auditoria/MOC — Procedimentos de Auditoria.md",
