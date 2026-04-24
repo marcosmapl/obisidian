@@ -2,7 +2,7 @@
 disciplina: Direito Tributário
 tópico: Impostos por Competência Constitucional
 created: 2026-03-17T11:35:00
-updated: 2026-03-17T11:40:00
+updated: 2026-04-03T19:47:00
 ---
 ## Conceito
 
@@ -36,4 +36,4 @@ updated: 2026-03-17T11:40:00
 ---
 ## Tópicos Relacionados
 
-- [[Imposto sobre Transmissão de Bens Imóveis (ITBI)]]
+- [[Imposto sobre Transmissão Inter vivos de Bens Imóveis (ITBI)]]

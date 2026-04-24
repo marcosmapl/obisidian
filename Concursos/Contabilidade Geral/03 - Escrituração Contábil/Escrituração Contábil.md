@@ -71,5 +71,5 @@ A escrituração deve conter, no mínimo:
 
 - [[Auditoria (Técnica Contábil)]]
 - [[Análise das Demonstrações Contábeis (Técnica Contábil)]]
-- [[Elaboração das Demonstrações Contábeis (Técnica Contábil)]]
+- [[Elaboração das Demonstrações Contábeis]]
 

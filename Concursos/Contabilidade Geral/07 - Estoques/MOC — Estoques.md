@@ -9,6 +9,7 @@ updated: 2026-01-07T11:55:00
 
 - [[Estoques — Conceito]]
 - [[Controle de Estoques]]
+- [[Custos Aquisição Estoque]]
 - [[Critérios de Avaliação de Estoques]]
 - [[PEPS]]
 - [[UEPS]]
@@ -20,7 +21,7 @@ updated: 2026-01-07T11:55:00
 #contabilidade/estoques
 
 ---
-## 🔸 Métodos de Avaliação
+## Métodos de Avaliação
 
 > [!info] CPC 16 (R1)
 > Os estoques devem ser mensurados pelo **valor de custo** ou pelo **valor realizável líquido**, dos dois o menor.

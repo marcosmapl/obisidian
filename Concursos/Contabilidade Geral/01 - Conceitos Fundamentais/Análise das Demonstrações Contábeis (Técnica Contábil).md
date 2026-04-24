@@ -27,4 +27,4 @@ updated: 2026-01-13T20:40:00
 
 - [[Escrituração Contábil]]
 - [[Auditoria (Técnica Contábil)]]
-- [[Elaboração das Demonstrações Contábeis (Técnica Contábil)]]
+- [[Elaboração das Demonstrações Contábeis]]

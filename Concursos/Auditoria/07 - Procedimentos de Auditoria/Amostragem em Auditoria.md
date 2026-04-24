@@ -21,7 +21,31 @@ updated: 2026-01-10T08:25:00
 - **Amostragem**
 
 
-
 ![[Pasted image 20260110082349.png]]
 
 ![[Pasted image 20260110082408.png]]
+
+---
+## Risco de Amostragem
+
+Risco que a conclusão do Auditor, com base
+
+---
+## Fatores a Considerar
+
+Na definição de uma amostra o Auditor deverá considerar os fatores:
+
+- A **finalidade** do procedimento de auditoria
+- As características da **população** da qual será retirada a amostrada
+
+---
+## Quando não usar amostragem
+
+- População pequena
+- Características de fácil mensuração
+- Necessidade de alta precisão
+
+---
+## Estratificação
+
+**_Estratificação_** é o processo de dividir uma população em subpopulações, cada uma sendo um grupo de unidades de amostragem com características **_semelhantes_** (geralmente valor monetário).

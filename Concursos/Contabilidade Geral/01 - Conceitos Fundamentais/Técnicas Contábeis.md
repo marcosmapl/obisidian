@@ -16,7 +16,7 @@ updated: 2026-01-13T20:35:00
 
 Existem quatro principais técnicas contábeis:
 - [[Escrituração Contábil]]
-- [[Elaboração das Demonstrações Contábeis (Técnica Contábil)]]
+- [[Elaboração das Demonstrações Contábeis]]
 - [[Auditoria (Técnica Contábil)]]
 - [[Análise das Demonstrações Contábeis (Técnica Contábil)]]
 

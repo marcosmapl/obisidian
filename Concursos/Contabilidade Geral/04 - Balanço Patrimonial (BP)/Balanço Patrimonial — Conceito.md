@@ -19,9 +19,6 @@ updated: 2026-03-30T22:45:00
 ---
 ## Estrutura do BP
 
-> [!info] CPC 26 (R1)
-> O Balanço Patrimonial é a demonstração que apresenta a **posição patrimonial e financeira** da entidade em determinada data.
-
 **Estrutura Básica:**
 ```
 ATIVO                    | PASSIVO + PL

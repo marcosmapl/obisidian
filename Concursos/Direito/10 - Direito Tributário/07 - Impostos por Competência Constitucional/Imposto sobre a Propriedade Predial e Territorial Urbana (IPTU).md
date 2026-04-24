@@ -2,7 +2,7 @@
 disciplina: Direito Tributário
 tópico: Impostos por Competência Constitucional
 created: 2026-03-22T20:25:00
-updated: 2026-03-22T20:25:00
+updated: 2026-04-03T19:47:00
 ---
 
 ## Conceito
@@ -27,8 +27,8 @@ updated: 2026-03-22T20:25:00
 
 - Exige **Lei**
 - **Máxima de 15%**
-- Pode ser **progressiva pelo tempo** sem devido uso, ajusta anualmente, e não pode ultrapassar o dobro do valor anterior.
-- Pode ser progressiva em função do **valor do imóvel**.
+- Pode ser **progressiva pelo tempo** sem devido uso, ajusta anualmente, e não pode ultrapassar o dobro do valor anterior (**extrafiscal**).
+- Pode ser progressiva em função do **valor do imóvel** (EC 29/2000).
 
 ---
 ## Princípios
@@ -60,5 +60,5 @@ updated: 2026-03-22T20:25:00
 ## Tópicos Relacionados
 
 - [[Imposto sobre Serviços de Qualquer Natureza (ISSQN)]] 
-- [[Imposto sobre Transmissão de Bens Imóveis (ITBI)]]
+- [[Imposto sobre Transmissão Inter vivos de Bens Imóveis (ITBI)]]
 - [[Imposto Territorial Rural (ITR)]]

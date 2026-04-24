@@ -2,7 +2,7 @@
 disciplina: Auditoria
 tópico: Conceitos Introdutórios
 created: 2025-12-19T08:32:00
-node_size: "10"
+updated: 2025-12-19T08:32:00
 tags:
   - auditoria
 ---

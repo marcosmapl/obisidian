@@ -42,4 +42,4 @@ updated: 2025-12-29T10:00:00
 
 - [[Análise das Demonstrações Contábeis (Técnica Contábil)]]
 - [[Escrituração Contábil]]
-- [[Elaboração das Demonstrações Contábeis (Técnica Contábil)]]
+- [[Elaboração das Demonstrações Contábeis]]
