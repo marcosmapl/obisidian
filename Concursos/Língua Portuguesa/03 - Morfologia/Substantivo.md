@@ -2,7 +2,7 @@
 disciplina: Língua Portuguesa
 tópico: Morfologia
 created: 2026-02-05T22:10:00
-updated: 2026-02-05T22:10:00
+updated: 2026-04-26T17:30:00
 ---
 
 ## Conceito

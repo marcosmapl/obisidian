@@ -9,18 +9,18 @@ updated: 2026-02-05T22:10:00
 
 ### Classes Gramaticais
 #### Classes Variáveis
-- [[Substantivo]]
 - [[Artigo]]
 - [[Adjetivo]]
 - [[Numeral]]
 - [[Pronomes]]
+- [[Substantivo]]
 - [[Verbo]]
 
 #### Classes Invariáveis
 - [[Advérbio]]
-- [[Preposição]]
 - [[Conjunção]]
 - [[Interjeição]]
+- [[Preposição]]
 
 ### Processos de Formação de Palavras
 - [[Derivação]]
