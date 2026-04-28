@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5abcf05db9b956c2",
+        "id": "43688feb98da69c4",
         "type": "tabs",
         "children": [
           {
-            "id": "29e3797960012552",
+            "id": "14d9c6fcf95435cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Contabilidade Geral/06 - Ativo Circulante/Disponibilidades.md",
+                "file": "Lançamento Tributário.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Disponibilidades"
+              "title": "Lançamento Tributário"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Disponibili",
+                "query": "Crédito",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -269,6 +270,16 @@
             "id": "c1f3cc952c614689",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "d8400f9a84755b25",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -276,7 +287,7 @@
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "horizontal",
@@ -294,10 +305,29 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "29e3797960012552",
+  "active": "14d9c6fcf95435cb",
   "lastOpenFiles": [
-    "Concursos/Contabilidade Geral/06 - Ativo Circulante/MOC — Ativo Circulante.md",
+    "Media/Pasted image 20260428154828.png",
+    "Media/Pasted image 20260428153513.png",
+    "Media/Pasted image 20260428151925.png",
+    "Media/Pasted image 20260428151912.png",
+    "Media/Pasted image 20260428151908.png",
+    "Concursos/Direito/10 - Direito Tributário/01 - Conceitos Fundamentais/Capacidade Tributária Ativa  — Conceito.md",
+    "Lançamento Tributário.md",
+    "Concursos/Auditoria/04 - Riscos de Auditoria/MOC — Riscos de Auditoria.md",
+    "Concursos/Auditoria/04 - Riscos de Auditoria/Riscos em Auditoria — Conceito.md",
+    "Concursos/Auditoria/04 - Riscos de Auditoria/Risco de Distorção Relevante.md",
+    "Concursos/Auditoria/02 - Auditor/Objetivos Gerais do Auditor Independente.md",
+    "Concursos/Auditoria/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais.md",
+    "Concursos/Auditoria/01 - Conceitos Fundamentais/MOC — Classificação da Auditoria.md",
+    "Concursos/Auditoria/01 - Conceitos Fundamentais/Auditoria Privada — Conceito.md",
+    "Concursos/Auditoria/01 - Conceitos Fundamentais/Auditoria Externa — Conceito.md",
+    "Concursos/Auditoria/01 - Conceitos Fundamentais/Objetivos da Auditoria.md",
+    "Concursos/Auditoria/01 - Conceitos Fundamentais/Auditoria Externa — Objetivos Gerais.md",
+    "Concursos/Auditoria/01 - Conceitos Fundamentais/Auditoria Interna — Objetivos Gerais.md",
+    "Concursos/Auditoria/01 - Conceitos Fundamentais/Auditoria — Conceito.md",
     "Concursos/Contabilidade Geral/06 - Ativo Circulante/Disponibilidades.md",
+    "Concursos/Contabilidade Geral/06 - Ativo Circulante/MOC — Ativo Circulante.md",
     "Concursos/Contabilidade Geral/05 - Ativo/Ativo — Conceito.md",
     "Concursos/Contabilidade Geral/05 - Ativo/MOC — Ativo.md",
     "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais.md",
@@ -309,21 +339,6 @@
     "Concursos/Contabilidade Geral/07 - Estoques/MOC — Estoques.md",
     "Concursos/Contabilidade Geral/07 - Estoques/Estoques — Conceito.md",
     "Media/Pasted image 20260421224057.jpg",
-    "Concursos/Contabilidade Geral/07 - Estoques/Controle de Estoques.md",
-    "Concursos/Contabilidade Geral/06 - Ativo Circulante/Ativo Circulante — Conceito.md",
-    "Concursos/Contabilidade Geral/08 - Ativo Não Circulante/MOC — Ativo Não Circulante.md",
-    "Concursos/Auditoria/07 - Procedimentos de Auditoria/Amostragem em Auditoria.md",
-    "Concursos/Auditoria/07 - Procedimentos de Auditoria/MOC — Procedimentos de Auditoria.md",
-    "Concursos/Auditoria/04 - Riscos de Auditoria/MOC — Riscos de Auditoria.md",
-    "Concursos/Auditoria/Auditoria.md",
-    "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/Imposto sobre Serviços de Qualquer Natureza (ISSQN).md",
-    "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/Imposto sobre Transmissão Inter vivos de Bens Imóveis (ITBI).md",
-    "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/MOC — Impostos dos Municípios.md",
-    "Concursos/Língua Portuguesa/04 - Sintaxe/MOC — Sintaxe.md",
-    "Concursos/Língua Portuguesa/04 - Sintaxe/Termos da Oração.md",
-    "Concursos/Língua Portuguesa/04 - Sintaxe/Agente da Passiva.md",
-    "Concursos/Língua Portuguesa/04 - Sintaxe/Complemento Verbal.md",
-    "Concursos/Língua Portuguesa/04 - Sintaxe/Complemento Nominal.md",
     "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/03 - Big Data",
     "Media/Pasted image 20260325103013.jpg",
     "Media/Pasted image 20260323213022.png",

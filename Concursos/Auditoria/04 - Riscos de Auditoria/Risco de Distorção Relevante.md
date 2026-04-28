@@ -2,12 +2,11 @@
 disciplina: Auditoria
 tópico: Risco de Auditoria
 created: 2025-11-19T14:17:00
+updated: 2026-04-28T10:47:00
 ---
 
 > [!note] Risco de Distorção Relevante
 > Refere-se aos riscos relacionados à **existência de distorção relevante** nas demonstrações contábeis, **antes da auditoria**.
-
-#auditoria/risco/distorção_relevante
 
 Divide-se em:
 - [[Risco Inerente]] ⟶ **inato**, antes de controles

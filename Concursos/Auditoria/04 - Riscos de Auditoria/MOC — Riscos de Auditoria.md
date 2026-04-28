@@ -2,16 +2,12 @@
 disciplina: Auditoria
 tópico: Risco de Auditoria
 created: 2025-12-18T11:16:00
-node_size: "10"
-tags:
-  - auditoria/risco
+updated: 2026-04-28T10:45:00
 ---
 
-## Conceito de Risco de Auditoria
+## Conceito
 
 - [[Riscos em Auditoria — Conceito]]
-
-#auditoria/risco
 
 ---
 ## Classificação do Risco de Auditoria
@@ -22,8 +18,3 @@ tags:
 
 ![[Pasted image 20260110080912.png]]
 
----
-
-## Navegação
-
-**← MOC Principal:** [[Concursos/Auditoria/Auditoria|Auditoria]]

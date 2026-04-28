@@ -1,16 +1,14 @@
 ---
 disciplina: Auditoria
-tópico: Conceitos Introdutórios
+tópico: Conceitos Fundamentais
 created: 2025-12-19T08:32:00
-updated: 2025-12-19T08:32:00
-tags:
-  - auditoria
+updated: 2026-04-28T08:45:00
 ---
 
 ## Conceitos Fundamentais
 
 - [[Auditoria — Conceito]]
-- [[MOC — Objetivos da Auditoria]]
+- [[Objetivos da Auditoria]]
 - [[MOC — Classificação da Auditoria]]
 - [[Obrigatoriedade da Auditoria Independente]]
 - [[Objetivos Gerais do Auditor Independente]]
@@ -20,8 +18,6 @@ tags:
 - [[Distorção — Conceito]]
 - [[Segurança Razoável]]
 - [[Usuários da Informação Contábil]]
-
-#auditoria
 
 ---
 ## Normas
