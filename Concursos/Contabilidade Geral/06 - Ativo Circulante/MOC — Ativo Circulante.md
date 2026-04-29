@@ -9,12 +9,10 @@ updated: 2026-04-21T08:20:00
 
 - [[Ativo Circulante — Conceito]]
 - [[Disponibilidades]]
-- [[Contas a Receber de Clientes]]
+- [[Contas a Receber]]
 - [[Estoques]]
 - [[Tributos Recuperáveis]]
 - [[Despesas Antecipadas]]
 - [[Instrumentos Financeiros — Ativo]]
 - [[Ajuste a Valor Presente]]
 - [[PECLD — Perdas Esperadas com Créditos de Liquidação Duvidosa]]
-
-#contabilidade/ativo-circulante

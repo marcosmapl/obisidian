@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lançamento Tributário.md",
+                "file": "Concursos/Contabilidade Geral/06 - Ativo Circulante/PECLD — Perdas Esperadas com Créditos de Liquidação Duvidosa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lançamento Tributário"
+              "title": "PECLD — Perdas Esperadas com Créditos de Liquidação Duvidosa"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Crédito",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -280,6 +279,16 @@
             "id": "d8400f9a84755b25",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "371e32cc3867ad0a",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -287,7 +296,7 @@
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 17
       }
     ],
     "direction": "horizontal",
@@ -307,13 +316,16 @@
   },
   "active": "14d9c6fcf95435cb",
   "lastOpenFiles": [
+    "Concursos/Contabilidade Geral/06 - Ativo Circulante/Contas a Receber.md",
+    "Concursos/Contabilidade Geral/06 - Ativo Circulante/MOC — Ativo Circulante.md",
+    "Concursos/Contabilidade Geral/06 - Ativo Circulante/PECLD — Perdas Esperadas com Créditos de Liquidação Duvidosa.md",
+    "Concursos/Direito/10 - Direito Tributário/12 - Crédito Tributário/Lançamento Tributário.md",
     "Media/Pasted image 20260428154828.png",
     "Media/Pasted image 20260428153513.png",
     "Media/Pasted image 20260428151925.png",
     "Media/Pasted image 20260428151912.png",
     "Media/Pasted image 20260428151908.png",
     "Concursos/Direito/10 - Direito Tributário/01 - Conceitos Fundamentais/Capacidade Tributária Ativa  — Conceito.md",
-    "Lançamento Tributário.md",
     "Concursos/Auditoria/04 - Riscos de Auditoria/MOC — Riscos de Auditoria.md",
     "Concursos/Auditoria/04 - Riscos de Auditoria/Riscos em Auditoria — Conceito.md",
     "Concursos/Auditoria/04 - Riscos de Auditoria/Risco de Distorção Relevante.md",
@@ -327,7 +339,6 @@
     "Concursos/Auditoria/01 - Conceitos Fundamentais/Auditoria Interna — Objetivos Gerais.md",
     "Concursos/Auditoria/01 - Conceitos Fundamentais/Auditoria — Conceito.md",
     "Concursos/Contabilidade Geral/06 - Ativo Circulante/Disponibilidades.md",
-    "Concursos/Contabilidade Geral/06 - Ativo Circulante/MOC — Ativo Circulante.md",
     "Concursos/Contabilidade Geral/05 - Ativo/Ativo — Conceito.md",
     "Concursos/Contabilidade Geral/05 - Ativo/MOC — Ativo.md",
     "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais.md",
@@ -337,7 +348,6 @@
     "Concursos/Contabilidade Geral/07 - Estoques/Custos Aquisição Estoque.md",
     "Media/Pasted image 20260421225012.jpg",
     "Concursos/Contabilidade Geral/07 - Estoques/MOC — Estoques.md",
-    "Concursos/Contabilidade Geral/07 - Estoques/Estoques — Conceito.md",
     "Media/Pasted image 20260421224057.jpg",
     "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/03 - Big Data",
     "Media/Pasted image 20260325103013.jpg",
