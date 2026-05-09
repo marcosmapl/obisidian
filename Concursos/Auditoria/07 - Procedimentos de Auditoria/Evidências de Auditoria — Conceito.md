@@ -2,27 +2,33 @@
 disciplina: Auditoria
 tópico: Conceitos Fundamentais
 created: 2025-12-27T15:18:00
-updated: 2026-01-17T09:00:00
+updated: 2026-05-09T13:30:00
 ---
 ## Conceito
 
 > [!note] Evidências de Auditoria
 > São as informações utilizadas pelo auditor utiliza para chegar às **conclusões** em que se fundamentam a sua opinião. Possui natureza **cumulativa**.
 
-#auditoria/evidência
-
 > [!info] **Norma Base**: NBC TA 500 (R1) - Evidência de Auditoria
 
 ---
-## Características
+## Atributos da Evidência
+
+![[Pasted image 20260509132707.png]]
+
+### Validade
+
+Legítima, precisa e confiável
+
+![[Pasted image 20260509132928.png]]
+
 ### Adequação
 
 - Medida da **qualidade** da evidência de auditoria.
 - Abrange a **relevância** e a **confiabilidade**.
 
 > [!note] Relevância
-> Trata da ligação lógica ou influência
- sobre a finalidade do procedimento de auditoria e, quando apropriado, a afirmação em consideração.
+> Trata da ligação lógica ou influência sobre a finalidade do procedimento de auditoria e, quando apropriado, a afirmação em consideração.
 
 > [!note] Confiabilidade
 > É influenciada pela sua **fonte** e sua **natureza**, e as **circunstâncias** nas quais são obtidas, incluindo os controles sobre usa elaboração e manutenção.
