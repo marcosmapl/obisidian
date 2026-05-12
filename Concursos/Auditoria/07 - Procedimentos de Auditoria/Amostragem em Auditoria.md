@@ -2,7 +2,7 @@
 disciplina: Auditoria
 tópico: Amostragem em Auditoria
 created: 2026-01-10T08:23:00
-updated: 2026-01-10T08:25:00
+updated: 2026-05-12T06:25:00
 ---
 ## Conceito
 
@@ -12,6 +12,8 @@ updated: 2026-01-10T08:25:00
 > [!note] Amostragem é utilizada em **populações homogêneas**, bem como quanto não for possível efetuar um **procedimento censitário**.
 
 > [!important] O auditor deve determinar o tamanho de amostra suficiente para reduzir o risco de amostragem a um nível mínimo aceitável
+
+![[Pasted image 20260512062707.png]]
 
 ---
 ## Meios de Seleção de Itens para os Testes
@@ -49,3 +51,12 @@ Na definição de uma amostra o Auditor deverá considerar os fatores:
 ## Estratificação
 
 **_Estratificação_** é o processo de dividir uma população em subpopulações, cada uma sendo um grupo de unidades de amostragem com características **_semelhantes_** (geralmente valor monetário).
+
+![[Pasted image 20260512062748.png]]
+
+---
+## Fatores que Influenciam o Tamanho da Amostra
+
+![[Pasted image 20260512063442.png]]
+
+

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Auditoria/07 - Procedimentos de Auditoria/Procedimentos de Auditoria.md",
+                "file": "Concursos/Auditoria/07 - Procedimentos de Auditoria/Amostragem em Auditoria.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Procedimentos de Auditoria"
+              "title": "Amostragem em Auditoria"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Observação",
+                "query": "Amostrage",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -317,6 +317,10 @@
   },
   "active": "14d9c6fcf95435cb",
   "lastOpenFiles": [
+    "Media/Pasted image 20260512063442.png",
+    "Media/Pasted image 20260512062748.png",
+    "Media/Pasted image 20260512062707.png",
+    "Concursos/Auditoria/07 - Procedimentos de Auditoria/Procedimentos de Auditoria.md",
     "Media/Pasted image 20260430165302.png",
     "Media/Pasted image 20260430164649.png",
     "Media/Pasted image 20260430164644.png",
@@ -331,11 +335,8 @@
     "Concursos/Auditoria/07 - Procedimentos de Auditoria/Procedimento de Inspeção.md",
     "Media/Pasted image 20260509132928.png",
     "Concursos/Auditoria/07 - Procedimentos de Auditoria/MOC — Procedimentos de Auditoria.md",
-    "Media/Pasted image 20260509132707.png",
     "Concursos/Auditoria/03 - Processo de Auditoria/Execução da Auditoria.md",
     "Lançamento Tributário.md",
-    "Media/Pasted image 20260428154828.png",
-    "Media/Pasted image 20260428153513.png",
     "Concursos/Direito/10 - Direito Tributário/01 - Conceitos Fundamentais/Capacidade Tributária Ativa  — Conceito.md",
     "Concursos/Auditoria/04 - Riscos de Auditoria/MOC — Riscos de Auditoria.md",
     "Concursos/Auditoria/04 - Riscos de Auditoria/Riscos em Auditoria — Conceito.md",
@@ -352,7 +353,6 @@
     "Concursos/Contabilidade Geral/06 - Ativo Circulante/Disponibilidades.md",
     "Concursos/Contabilidade Geral/06 - Ativo Circulante/MOC — Ativo Circulante.md",
     "Concursos/Contabilidade Geral/05 - Ativo/Ativo — Conceito.md",
-    "Concursos/Contabilidade Geral/05 - Ativo/MOC — Ativo.md",
     "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/03 - Big Data"
   ]
 }
