@@ -8,9 +8,11 @@ updated: 2026-01-05T21:30:00
 ## Índice
 
 - [[Crédito Tributário — Conceito]]
-- [[Constituição do Crédito Tributário]]
+- [[Lançamento Tributário]]
 - [[Suspensão do Crédito Tributário]]
+- [[Moratória — Conceito]]
 - [[Extinção do Crédito Tributário]]
 - [[Exclusão do Crédito Tributário]]
 - [[Garantias e Privilégios do Crédito Tributário]]
 
+![[Pasted image 20260512105225.png]]

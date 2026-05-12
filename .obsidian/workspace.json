@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Auditoria/07 - Procedimentos de Auditoria/Amostragem em Auditoria.md",
+                "file": "Concursos/Direito/10 - Direito Tributário/12 - Crédito Tributário/Moratória — Conceito.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Amostragem em Auditoria"
+              "title": "Moratória — Conceito"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Amostrage",
+                "query": "Lançamento",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -290,6 +289,16 @@
             "id": "451984251d3c98a4",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "4abb594e89c53418",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -297,7 +306,7 @@
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 18
       }
     ],
     "direction": "horizontal",
@@ -317,27 +326,31 @@
   },
   "active": "14d9c6fcf95435cb",
   "lastOpenFiles": [
+    "Concursos/Direito/10 - Direito Tributário/12 - Crédito Tributário/MOC — Crédito Tributário.md",
+    "Concursos/Direito/10 - Direito Tributário/12 - Crédito Tributário/Moratória — Conceito.md",
+    "Concursos/Direito/10 - Direito Tributário/12 - Crédito Tributário/Suspensão do Crédito Tributário.md",
+    "Media/Pasted image 20260512154758.png",
+    "Media/Pasted image 20260512154756.png",
+    "Concursos/Direito/10 - Direito Tributário/12 - Crédito Tributário/Crédito Tributário — Conceito.md",
+    "Concursos/Direito/10 - Direito Tributário/12 - Crédito Tributário/Lançamento Tributário.md",
+    "Media/Pasted image 20260512113001.png",
+    "Media/Pasted image 20260512112747.png",
+    "Media/Pasted image 20260512105225.png",
+    "Concursos/Direito/10 - Direito Tributário/01 - Conceitos Fundamentais/Capacidade Tributária Ativa  — Conceito.md",
+    "Concursos/Auditoria/07 - Procedimentos de Auditoria/Amostragem em Auditoria.md",
     "Media/Pasted image 20260512063442.png",
     "Media/Pasted image 20260512062748.png",
     "Media/Pasted image 20260512062707.png",
     "Concursos/Auditoria/07 - Procedimentos de Auditoria/Procedimentos de Auditoria.md",
     "Media/Pasted image 20260430165302.png",
     "Media/Pasted image 20260430164649.png",
-    "Media/Pasted image 20260430164644.png",
-    "Media/Pasted image 20260430163522.png",
-    "Media/Pasted image 20260430160834.png",
-    "Media/Pasted image 20260430160810.png",
-    "Media/Pasted image 20260430145710.png",
-    "Concursos/Direito/10 - Direito Tributário/12 - Crédito Tributário/Lançamento Tributário.md",
     "Concursos/Direito/05 - Direito Administrativo/07 - Licitações Públicas/Modalidades de Licitação.md",
     "Concursos/Direito/05 - Direito Administrativo/07 - Licitações Públicas/Do Âmbito de Aplicação, Definições e Agentes Públicos.md",
     "Concursos/Auditoria/07 - Procedimentos de Auditoria/Evidências de Auditoria — Conceito.md",
     "Concursos/Auditoria/07 - Procedimentos de Auditoria/Procedimento de Inspeção.md",
-    "Media/Pasted image 20260509132928.png",
     "Concursos/Auditoria/07 - Procedimentos de Auditoria/MOC — Procedimentos de Auditoria.md",
     "Concursos/Auditoria/03 - Processo de Auditoria/Execução da Auditoria.md",
     "Lançamento Tributário.md",
-    "Concursos/Direito/10 - Direito Tributário/01 - Conceitos Fundamentais/Capacidade Tributária Ativa  — Conceito.md",
     "Concursos/Auditoria/04 - Riscos de Auditoria/MOC — Riscos de Auditoria.md",
     "Concursos/Auditoria/04 - Riscos de Auditoria/Riscos em Auditoria — Conceito.md",
     "Concursos/Auditoria/04 - Riscos de Auditoria/Risco de Distorção Relevante.md",
@@ -349,10 +362,6 @@
     "Concursos/Auditoria/01 - Conceitos Fundamentais/Objetivos da Auditoria.md",
     "Concursos/Auditoria/01 - Conceitos Fundamentais/Auditoria Externa — Objetivos Gerais.md",
     "Concursos/Auditoria/01 - Conceitos Fundamentais/Auditoria Interna — Objetivos Gerais.md",
-    "Concursos/Auditoria/01 - Conceitos Fundamentais/Auditoria — Conceito.md",
-    "Concursos/Contabilidade Geral/06 - Ativo Circulante/Disponibilidades.md",
-    "Concursos/Contabilidade Geral/06 - Ativo Circulante/MOC — Ativo Circulante.md",
-    "Concursos/Contabilidade Geral/05 - Ativo/Ativo — Conceito.md",
     "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/03 - Big Data"
   ]
 }
