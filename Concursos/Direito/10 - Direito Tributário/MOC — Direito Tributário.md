@@ -14,7 +14,7 @@ updated: 2026-01-08T16:51:00
 ## Índice
 
 ### 01. [[MOC — Conceitos Fundamentais]]
-### 02. [[MOC — Sistema Tributário Nacional]]
+### 02. [[Concursos/Direito/10 - Direito Tributário/02 - Sistema Tributário Nacional/MOC — Sistema Tributário Nacional]]
 
 ### 03. [[MOC — Princípios Tributários]]
 

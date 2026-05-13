@@ -12,8 +12,6 @@ completed: 0
 > [!note] Direito constitucional 
 > É o ramo do [[Direito Público]] dedicado a estudar as normas constitucionais, interpretando as normas de organização dos poderes e dos direitos fundamentais. 
 
-#direito/constitucional #direito/público  
-
 ---
 ## Índice Geral
 
