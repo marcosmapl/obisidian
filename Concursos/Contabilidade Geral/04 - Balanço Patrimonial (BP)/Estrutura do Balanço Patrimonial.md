@@ -7,6 +7,9 @@ updated: 2026-03-22T16:40:00
 
 > [!important] Devem seguir o **Regime de Competência**, exceto **DFC**.
 
+![[Pasted image 20260512220446.png]]
+
+---
 ## Lei 6.404/76 (Sociedade por Ações)
 
 - Balanço Patrimonial (**BP**)

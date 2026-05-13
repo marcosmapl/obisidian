@@ -10,14 +10,15 @@ updated: 2026-01-07T11:15:00
 > [!note] Ativo Não Circulante
 > Ativos que **não se enquadram como circulantes**, ou seja, cuja realização ou consumo ocorre **após 12 meses** da data do balanço.
 
-#contabilidade/ativo_não_circulante
+> [!note] Art. 178, Lei nº 6.404/76, no ativo não circulante as contas serão classificadas do seguinte modo: Realizável a Longo Prazo, Investimentos, Imobilizado e Intangível
 
 ---
-## Subdivisões
+## Classificações
 
 - [[Ativo Realizável a Longo Prazo — Conceito]]
 - [[Investimentos (Ativo) — Conceito]]
 - [[Ativo Imobilizado — Conceito]]
+- [[Ativo Intangível — Conceito]]
 
 ---
 ## Tópicos Relacionados
