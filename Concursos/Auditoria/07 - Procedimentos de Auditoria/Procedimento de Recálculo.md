@@ -1,21 +1,21 @@
 ---
 disciplina: Auditoria
 tópico: Procedimentos de Auditoria
-created: 2026-05-09T13:50:00
-updated: 2026-05-09T13:55:00
+created: 2120-05-13T21:20:00
+updated: 2026-05-13T21:20:00
 ---
 
 ## Conceito
 
-> [!note] Inspeção
-> Exame de registros ou documentos, internos e externos. Exame **físico de um ativo**.
+> [!note] Recálculo
+> Verificação da **EXATIDÃO MATEMÁTICA** de registros ou documentos.
 
 ---
 ## Tópicos Relacionados
 
+- [[Procedimento de Inspeção]]
 - [[Procedimento de Observação]]
 - [[Procedimento de Confirmação Externa]]
-- [[Procedimento de Recálculo]]
 - [[Procedimento de Reexecução]]
 - [[Procedimentos Analíticos]]
 - [[Procedimento de Indagação]]

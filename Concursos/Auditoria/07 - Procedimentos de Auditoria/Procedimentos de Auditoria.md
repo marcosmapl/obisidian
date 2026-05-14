@@ -8,7 +8,7 @@ updated: 2026-01-20T21:40:00
 ## Conceito
 
 > [!note] Procedimentos de Auditoria Interna  
-> São o conjunto de procedimentos técnicos com base nos quais o auditor obtém evidências ou provas que sejam suficientes e adequadas para fundamentar sua opinião sobre a adequação das demonstrações contábeis auditadas à estrutura de relatório financeiro aplicável, permitindo que eventuais distorções relevantes sejam identificadas.
+> São o conjunto de procedimentos técnicos com base nos quais o auditor obtém **evidências** ou provas que sejam suficientes e adequadas para fundamentar sua opinião, permitindo que distorções relevantes sejam identificadas.
 
 ---
 ## Objetivo
@@ -16,9 +16,7 @@ updated: 2026-01-20T21:40:00
 - O objetivo do auditor é definir e **executar procedimentos de auditoria** que permitam ao auditor conseguir **evidência de auditoria apropriada e suficiente** que lhe possibilitem obter **conclusões razoáveis para fundamentar a sua opinião** (Item 4 da NBC TA 500-R1). 
 
 ---
-## Procedimentos de Auditoria Externa
-
-![[Pasted image 20260110092257.png]]
+## Procedimentos de Auditoria Independente
 
 - [[Procedimento de Inspeção]]
 - [[Procedimento de Observação]]
@@ -31,16 +29,16 @@ updated: 2026-01-20T21:40:00
 ![[Pasted image 20260110084323.png]]
 
 ---
-## Procedimentos de Auditoria Interna
+## Testes em Auditoria Independente
 
-![[Pasted image 20260110092327.png]]
-
-Os procedimentos compreendem dois grandes grupos:
+Os testes compreendem dois grandes grupos:
 
 - [[Testes de Observância]] → controles internos → _funcionam?_ 
 - [[Testes Substantivos]] → dados e registros → _estão corretos, completos e válidos_?
 
 ![[Pasted image 20251227163014.png]]
+
+- [[Teste de Controle]]
 
 ---
 ## Tópicos Relacionados

@@ -9,18 +9,7 @@ updated: 2026-01-10T08:45:00
 
 - [[Evidências de Auditoria — Conceito]]
 - [[Procedimentos de Auditoria]]
-- [[Procedimento de Inspeção]]
-- [[Procedimento de Observação]]
-- [[Procedimento de Confirmação Externa]]
-- [[Procedimento de Recálculo]]
-- [[Procedimentos Analíticos]]
-- [[Procedimento de Indagação]]
-- [[Procedimento de Reexecução]]
-- [[Testes de Controle]]
-- [[Testes Substantivos]]
 - [[Amostragem em Auditoria]]
-
-#auditoria/procedimentos
 
 ---
 ## Normas Relacionadas

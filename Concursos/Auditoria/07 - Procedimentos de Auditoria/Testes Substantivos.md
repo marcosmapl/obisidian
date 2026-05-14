@@ -31,5 +31,6 @@ updated: 2025-12-27T16:30:00
 - **V** → **Validade**
 
 ---
+## Tópicos Relacionados
 
-#auditoria/interna #auditoria/testes/substantivos #auditoria/evidencia #auditoria/nbc_ti_01
+- [[Testes de Observância]]
