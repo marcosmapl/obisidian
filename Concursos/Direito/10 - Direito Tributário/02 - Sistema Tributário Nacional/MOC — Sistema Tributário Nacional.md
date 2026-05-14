@@ -7,5 +7,5 @@ updated: 2026-01-05T10:41:00
 
 ## Índice
 
-- [[Sistema Tributário Nacional — Conceito]]
+- [[Sistema Tributário Nacional]]
 - [[Princípios Observados pelo STN]]
