@@ -9,7 +9,7 @@ updated: 2026-05-12T15:50:00
 ## Conceito
 
 > [!note] Moratória
-> Prazo adicional para o tributo já vencido. Exige autorização por lei.
+> **PRAZO ADICIONAL PARA O PAGAMENTO** do tributo ou penalidade, já vencido. Exige **LEI**.
 
 ---
 ## Classificações
@@ -18,8 +18,10 @@ updated: 2026-05-12T15:50:00
 
 Art. 152, CTN: A moratória somente pode ser concedida: 
 - I - Em caráter **geral**:
-	- Pela pessoa jurídica de direito público **(ente) competente** para instituir o Tributo;
-	- Pela **União**, para **tributos dos E/DF/M**, quando **simultaneamente concedida aos tributos de competência federal**;
+	- Pela pessoa jurídica de direito público **(ente) competente** para instituir o Tributo **(MORATÓRIA AUTÔNOMA**);
+	- Pela **União**, para **tributos dos E/DF/M**, quando **simultaneamente concedida aos tributos de competência federal** (**MORATÓRIA HETERÔNOMA**);
+
+> [!tip] A lei generaliza os sujeitos passivos a serem beneficiados.
 
 ### Moratória Individual
 
@@ -27,6 +29,8 @@ Art. 152, CTN: A moratória somente pode ser concedida:
 - II - Em caráter **individual**:
 	- Por **despacho da autoridade administrativa**, desde que **autorizada por lei** nas condições do inciso anterior;
 
+> [!tip] A lei restringe o benefício a determinados sujeitos passivos que preencham os requisitos.
+ 
 ---
 ## Requisitos
 
@@ -40,9 +44,11 @@ Art. 153, CTN: A lei que conceda ... especificará, sem prejuízo de outros requ
 ---
 ## Aplicação
 
-> [!note] Em regra, é aplicada somente aos **créditos definitivamente constituídos**, salvo disposição de lei em contrário.
+> [!note] Art. 154, CTN - Em regra, é aplicada somente aos **créditos definitivamente constituídos**, salvo disposição de lei em contrário.
 
-> [!note] A moratória **NÃO aproveita** aos casos de **dolo**, **fraude** ou **simulação** do sujeito passivo ou do terceiro em benefício daquele.
+> [!note] Art. 154, CTN - Parágrafo único - A moratória **NÃO aproveita** aos casos de **dolo**, **fraude** ou **simulação** do sujeito passivo ou do terceiro em benefício daquele.
+
+![[Pasted image 20260514212936.png]]
 
 ---
 ## Revogação
@@ -54,7 +60,19 @@ Neste caso, cobrando-se o crédito acrescido de **juros de mora**;
 - **Com imposição da penalidade cabível**, nos casos de **dolo** ou **simulação**;
 - **Sem imposição de penalidade**, nos demais casos;
 
----
-## Parcelamento
+> [!tip] **MARIPA** (Moratória, Anistia, Remissão, Isenção, Parcelamento)
 
-Art. 155-A, CTN:
+---
+## Moratória Parcelada
+
+![[Pasted image 20260514213324.png]]
+
+---
+## Moratória Individual
+
+Art. 155. A concessão da moratória em caráter individual **não gera direito adquirido** e será **revogado de ofício**, sempre que se apure que o **beneficiado não satisfazia ou deixou de satisfazer as condições** ou **não cumprira ou deixou de cumprir os requisitos para a concessão** do favor, cobrando-se o crédito acrescido de juros de mora
+
+---
+## Tópicos Relacionados
+
+- [[Parcelamento (Crédito Tributário)]]

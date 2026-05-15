@@ -11,6 +11,7 @@ updated: 2026-01-05T21:30:00
 - [[Lançamento Tributário]]
 - [[Suspensão do Crédito Tributário]]
 - [[Moratória — Conceito]]
+- [[Parcelamento (Crédito Tributário)]]
 - [[Extinção do Crédito Tributário]]
 - [[Exclusão do Crédito Tributário]]
 - [[Garantias e Privilégios do Crédito Tributário]]

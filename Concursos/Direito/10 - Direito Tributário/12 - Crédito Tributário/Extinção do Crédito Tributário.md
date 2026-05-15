@@ -11,7 +11,7 @@ updated: 2026-05-14T16:15:00
 > Tem por consequência o desaparecimento da **Obrigação Tributária Principal**.
 
 ---
-## Fatos que Geram Extinção
+## Hipósteses de Extinção
 
 Art. 156, CTN - Extinguem o Crédito Tributário:
 - I - o **pagamento**
