@@ -23,6 +23,6 @@ updated: 2026-01-07T11:35:00
 
 - [[Ativo — Conceito]]
 - [[Ativo Não Circulante — Conceito]]
-- [[Ativo Imobilizado — Conceito]]
-- [[Ativo Realizável a Longo Prazo — Conceito]]
+- [[Ativo Imobilizado]]
+- [[Ativo Realizável a Longo Prazo]]
 - [[Estoques — Conceito]]

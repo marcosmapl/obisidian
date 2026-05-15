@@ -8,12 +8,10 @@ updated: 2026-01-07T11:54:00
 ## Índice
 
 - [[Ativo Não Circulante — Conceito]]
-- [[Ativo Imobilizado — Conceito]]
+- [[Ativo Imobilizado]]
 - [[Investimentos Permanentes]]
 - [[Depreciação]]
 - [[Amortização]]
 - [[Exaustão]]
 - [[Método de Equivalência Patrimonial]]
 - [[Valor Justo]]
-
-#contabilidade/ativo-nao-circulante

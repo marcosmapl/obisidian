@@ -7,7 +7,7 @@ updated: 2026-04-21T08:20:00
 
 ## Índice
 
-- [[Ativo Circulante — Conceito]]
+- [[Ativo Circulante]]
 - [[Disponibilidades]]
 - [[Contas a Receber]]
 - [[Estoques]]

@@ -18,7 +18,7 @@ updated: 2026-04-06T15:35:00
 
 ### Quanto ao prazo
 
-- [[Ativo Circulante — Conceito]]
+- [[Ativo Circulante]]
 - [[Ativo Não Circulante — Conceito]]
 
 > [!important] Esta é a divisão adotada na lei nº 6.404 (SA).
@@ -29,7 +29,7 @@ updated: 2026-04-06T15:35:00
 
 ### Quanto à Conversibilidade em Dinheiro
 
-- [[Ativo Circulante — Conceito]]
+- [[Ativo Circulante]]
 - [[Ativo Não Circulante — Conceito]]
 
 ---

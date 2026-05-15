@@ -15,15 +15,15 @@ updated: 2026-01-07T11:15:00
 ---
 ## Classificações
 
-- [[Ativo Realizável a Longo Prazo — Conceito]]
-- [[Investimentos (Ativo) — Conceito]]
-- [[Ativo Imobilizado — Conceito]]
+- [[Ativo Realizável a Longo Prazo]]
+- [[Investimentos (Ativo)]]
+- [[Ativo Imobilizado]]
 - [[Ativo Intangível — Conceito]]
 
 ---
 ## Tópicos Relacionados
 
 - [[Ativo — Conceito]]
-- [[Ativo Circulante — Conceito]]
+- [[Ativo Circulante]]
 - [[Bens — Conceito]]
 - [[Direitos — Conceito]]

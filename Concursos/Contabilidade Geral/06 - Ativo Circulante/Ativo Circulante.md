@@ -40,6 +40,6 @@ updated: 2026-04-06T15:40:00
 
 - [[Ativo — Conceito]]
 - [[Ativo Não Circulante — Conceito]]
-- [[Ativo Imobilizado — Conceito]]
+- [[Ativo Imobilizado]]
 - [[Bens — Conceito]]
 - [[Direitos — Conceito]]

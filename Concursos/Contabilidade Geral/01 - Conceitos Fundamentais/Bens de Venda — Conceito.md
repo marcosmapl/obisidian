@@ -25,7 +25,7 @@ updated: 2025-12-29T14:30:00
 - [[Bens Numerários — Conceito]]
 - [[Bens de Uso — Conceito]]
 - [[Ativo — Conceito]]
-- [[Ativo Circulante — Conceito]]
+- [[Ativo Circulante]]
 - [[Estoques — Conceito]]
 
 ---

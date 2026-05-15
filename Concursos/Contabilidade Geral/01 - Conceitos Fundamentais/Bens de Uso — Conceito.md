@@ -26,5 +26,5 @@ updated: 2026-01-14T13:45:00
 - [[Bens Numerários — Conceito]]
 - [[Bens de Venda — Conceito]]
 - [[Ativo — Conceito]]
-- [[Ativo Imobilizado — Conceito]]
+- [[Ativo Imobilizado]]
 - [[Estoques — Conceito]]

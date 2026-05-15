@@ -36,11 +36,4 @@ updated: 2025-12-29T19:51:00
 
 ### 12. [[MOC — Direito Empresarial]]
 
-### 13. [[MOC — Jurisprudência e Precedentes]]
-
----
-## Recursos Adicionais
-
-- [[Caderno de Erros — Direito]]
-- [[Jurisprudência Selecionada]]
-
+![[Pasted image 20260515094711.png]]

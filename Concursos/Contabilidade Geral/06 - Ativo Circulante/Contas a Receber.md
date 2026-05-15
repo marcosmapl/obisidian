@@ -26,5 +26,5 @@ updated: 2026-04-29T15:50:00
 ---
 ## Tópicos Relacionados
 
-- [[Ativo Circulante — Conceito]]
+- [[Ativo Circulante]]
 - [[PECLD — Perdas Esperadas com Créditos de Liquidação Duvidosa]]

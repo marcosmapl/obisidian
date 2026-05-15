@@ -6,7 +6,15 @@ updated: 2026-05-12T06:25:00
 ---
 ## Conceito
 
-- Amostragem é a **aplicação de procedimentos de auditoria** em **menos de 100% da população**, de maneira que todas as unidades tenham a **mesma chance de serem selecionadas**, possibilitando ao auditor **concluir sobre a população**.
+> [!note] Amostra
+> É um subconjunto da População
+
+> [!note] Unidade de Amostragem
+> NBC TA Item 5: Cada um dos **itens individuais** que constituem uma população
+
+> [!note] Amostragem
+> É a **aplicação de procedimentos de auditoria** em **menos de 100% da população**, de maneira que todas as unidades tenham a **mesma chance de serem selecionadas**, possibilitando ao auditor **concluir sobre a população**.
+
 - Objetivo do Auditor: **Proporcionar uma base razoável** para que possa **concluir quanto à população** da qual a amostra é selecionada.
 
 > [!note] Amostragem é utilizada em **populações homogêneas**, bem como quanto não for possível efetuar um **procedimento censitário**.
@@ -30,7 +38,10 @@ updated: 2026-05-12T06:25:00
 ---
 ## Risco de Amostragem
 
-Risco que a conclusão do Auditor, com base
+Risco de que a conclusão do Auditor, com base em amostra, pudesse ser diferente se toda a população fosse sujeita ao mesmo procedimento de auditoria.
+
+**Conclusões errôneas**:
+- Testes de controles são considerados
 
 ---
 ## Fatores a Considerar

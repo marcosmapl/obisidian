@@ -27,7 +27,7 @@ updated: 2025-12-29T14:55:00
 
 - [[Ativo — Conceito]]
 - [[Ativo Não Circulante — Conceito]]
-- [[Ativo Realizável a Longo Prazo — Conceito]]
-- [[Investimentos (Ativo) — Conceito]]
+- [[Ativo Realizável a Longo Prazo]]
+- [[Investimentos (Ativo)]]
 - [[Bens Tangíveis — Conceito]]
 - [[Estoques — Conceito]]

@@ -32,8 +32,8 @@ updated: 2025-12-29T11:42:00
 - [[Bens — Conceito]]
 - [[Bens Intangíveis — Conceito]]
 - [[Ativo — Conceito]]
-- [[Ativo Imobilizado — Conceito]]
-- [[Ativo Circulante — Conceito]]
+- [[Ativo Imobilizado]]
+- [[Ativo Circulante]]
 - [[Estoques — Conceito]]
 
 ---

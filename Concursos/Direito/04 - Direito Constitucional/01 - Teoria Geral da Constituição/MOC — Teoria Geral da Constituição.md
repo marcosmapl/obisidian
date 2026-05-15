@@ -7,7 +7,8 @@ updated: 2026-01-08T16:40:00
 
 ## Conceitos Fundamentais
 
-- [[Teoria Geral da Constituição|Teoria Geral da Constituição]]
+- [[Constitucionalismo]]
+- [[Teoria Geral da Constituição]]
 
 ---
 ## Sentidos da Constituição

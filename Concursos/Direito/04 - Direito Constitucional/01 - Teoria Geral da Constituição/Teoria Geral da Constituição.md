@@ -29,10 +29,10 @@ Uma Constituição é o **conjunto de normas jurídicas** que:
 - **Não-escrita** — Baseada em costumes e tradições (ex: Reino Unido)
 
 ### Quanto à Origem
-- **Outorgada** — Concedida pelo monarca ou poder estabelecido (ex: Constituição de 1824)
-- **Promulgada** — Resultado de um processo democrático (ex: Constituição de 1988)
+- **Outorgada** — Concedida pelo **monarca** ou poder estabelecido (ex: Constituição de 1824)
+- **Promulgada** — Resultado de um **processo democrático** (ex: Constituição de 1988)
 
 ### Quanto à Flexibilidade
-- **Rígida** — Exige processo especial para modificação
-- **Flexível** — Pode ser alterada pelo processo legislativo ordinário
-- **Semi-rígida** — Parte rígida, parte flexível
+- **Rígida** — Exige **processo legislativo especial** para modificação
+- **Flexível** — Pode ser alterada pelo **processo legislativo comum**
+- **Semi-rígida** — Parte rígida / parte flexível
