@@ -5,15 +5,23 @@ created: 2026-05-12T15:50:00
 updated: 2026-05-12T15:50:00
 ---
 
-
 ## Conceito
 
 > [!note] Moratória
-> **PRAZO ADICIONAL PARA O PAGAMENTO** do tributo ou penalidade, já vencido. Exige **LEI**.
+> **PRAZO ADICIONAL PARA O PAGAMENTO** do tributo ou penalidade, já vencido, concedido como medida reparatória de **DESASTRES NATURIAS** ou mesmo **FATORES ECONÔMICOS e SOCIAIS**. Exige **LEI**.
 
 ---
 ## Classificações
 
+### Moratória Individual
+
+Art. 152, CTN: A moratória somente pode ser concedida: 
+- II - Em caráter **individual**:
+	- Por **despacho da autoridade administrativa**, desde que **autorizada por lei** nas condições do inciso anterior;
+
+> [!tip] A lei restringe o benefício a determinados sujeitos passivos que preencham os requisitos.
+
+Art. 155. A concessão da moratória em caráter individual **não gera direito adquirido** e será **revogado de ofício**, sempre que se apure que o **beneficiado não satisfazia ou deixou de satisfazer as condições** ou **não cumprira ou deixou de cumprir os requisitos para a concessão** do favor, cobrando-se o crédito acrescido de juros de mora
 ### Moratória Geral
 
 Art. 152, CTN: A moratória somente pode ser concedida: 
@@ -23,14 +31,6 @@ Art. 152, CTN: A moratória somente pode ser concedida:
 
 > [!tip] A lei generaliza os sujeitos passivos a serem beneficiados.
 
-### Moratória Individual
-
-Art. 152, CTN: A moratória somente pode ser concedida: 
-- II - Em caráter **individual**:
-	- Por **despacho da autoridade administrativa**, desde que **autorizada por lei** nas condições do inciso anterior;
-
-> [!tip] A lei restringe o benefício a determinados sujeitos passivos que preencham os requisitos.
- 
 ---
 ## Requisitos
 
@@ -68,11 +68,13 @@ Neste caso, cobrando-se o crédito acrescido de **juros de mora**;
 ![[Pasted image 20260514213324.png]]
 
 ---
-## Moratória Individual
+## Moratória Regionalizada
 
-Art. 155. A concessão da moratória em caráter individual **não gera direito adquirido** e será **revogado de ofício**, sempre que se apure que o **beneficiado não satisfazia ou deixou de satisfazer as condições** ou **não cumprira ou deixou de cumprir os requisitos para a concessão** do favor, cobrando-se o crédito acrescido de juros de mora
+Art. 152: (...) Parágrafo único. A lei concessiva de moratória pode circunscrever expressamente a sua aplicabilidade à determinada **REGIÃO DO TERRITÓRIO** da pessoa jurídica de direito público que a expedir, ou a determinada classe ou categoria de sujeitos passivos.
 
 ---
 ## Tópicos Relacionados
 
 - [[Parcelamento (Crédito Tributário)]]
+- [[Liminar em Mandado de Segurança (Crédito Tributário)]]
+- [[Liminar em Tutela Antecipada (Crédito Tributário)]]

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Direito/10 - Direito Tributário/12 - Crédito Tributário/Lançamento Tributário.md",
+                "file": "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/Bens de Uso — Conceito.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lançamento Tributário"
+              "title": "Bens de Uso — Conceito"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Lançamento",
+                "query": "Bens",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,12 +74,11 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 247.5086555480957
+    "width": 406.5110321044922
   },
   "right": {
     "id": "ae0fcbd67c81a0a4",
@@ -360,6 +359,16 @@
             "id": "f44c01642da31c3d",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "6576fa04e3144c8e",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -367,7 +376,7 @@
             }
           }
         ],
-        "currentTab": 24
+        "currentTab": 25
       }
     ],
     "direction": "horizontal",
@@ -387,42 +396,42 @@
   },
   "active": "3e39d14fa641d16f",
   "lastOpenFiles": [
+    "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/Bens — Conceito.md",
+    "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/Bens de Venda — Conceito.md",
+    "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/Bens Numerários — Conceito.md",
+    "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/Bens de Renda — Conceito.md",
+    "Concursos/Contabilidade Geral/05 - Ativo/Ativo — Conceito.md",
+    "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais.md",
+    "Concursos/Contabilidade Geral/Contabilidade Geral.md",
+    "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/Funções da Contabilidade.md",
+    "Concursos/Direito/10 - Direito Tributário/12 - Crédito Tributário/Depósito do Montante Integral (Crédito Tributário).md",
+    "Media/Pasted image 20260518162922.png",
+    "Concursos/Direito/10 - Direito Tributário/12 - Crédito Tributário/Suspensão do Crédito Tributário.md",
+    "Concursos/Direito/10 - Direito Tributário/12 - Crédito Tributário/Impugnação (Crédito Tributário).md",
+    "Concursos/Direito/10 - Direito Tributário/12 - Crédito Tributário/MOC — Crédito Tributário.md",
+    "Concursos/Direito/10 - Direito Tributário/12 - Crédito Tributário/Liminar em Tutela Antecipada (Crédito Tributário).md",
+    "Concursos/Direito/10 - Direito Tributário/12 - Crédito Tributário/Liminar em Mandado de Segurança (Crédito Tributário).md",
+    "Concursos/Direito/10 - Direito Tributário/12 - Crédito Tributário/Moratória — Conceito.md",
+    "Concursos/Direito/10 - Direito Tributário/12 - Crédito Tributário/Parcelamento (Crédito Tributário).md",
+    "Concursos/Direito/10 - Direito Tributário/12 - Crédito Tributário/Exclusão do Crédito Tributário.md",
+    "Concursos/Direito/10 - Direito Tributário/12 - Crédito Tributário/Extinção do Crédito Tributário.md",
+    "Concursos/Direito/10 - Direito Tributário/12 - Crédito Tributário/Lançamento Tributário.md",
+    "Media/Pasted image 20260518091532.png",
+    "Concursos/Direito/10 - Direito Tributário/12 - Crédito Tributário/Crédito Tributário — Conceito.md",
     "Concursos/Direito/10 - Direito Tributário/01 - Conceitos Fundamentais/Capacidade Tributária Ativa  — Conceito.md",
+    "Crédito Tributário.md",
     "Concursos/Auditoria/06 - Documentação de Auditoria/Documentação de Auditoria.md",
     "Media/Pasted image 20260517190357.png",
     "Concursos/Auditoria/06 - Documentação de Auditoria/MOC — Documentação de Auditoria.md",
     "Concursos/Auditoria/06 - Documentação de Auditoria/Propriedade da Documentação.md",
     "Concursos/Auditoria/06 - Documentação de Auditoria/Finalidades da Documentação.md",
-    "Concursos/Auditoria/06 - Documentação de Auditoria/Circunstâncias Excepcionais.md",
-    "Concursos/Auditoria/06 - Documentação de Auditoria/Arquivo de Auditoria.md",
-    "Concursos/Auditoria/06 - Documentação de Auditoria/Requisitos da Documentação.md",
     "Media/Pasted image 20260517185656.jpg",
-    "Concursos/Auditoria/06 - Documentação de Auditoria/Classificações da Documentação de Auditoria.md",
-    "Concursos/Auditoria/07 - Procedimentos de Auditoria/Amostragem em Auditoria.md",
     "Media/Pasted image 20260517184856.png",
-    "Pirâmide de Kelsen.md",
-    "Concursos/Direito/04 - Direito Constitucional/01 - Teoria Geral da Constituição/MOC — Teoria Geral da Constituição.md",
-    "Concursos/Direito/04 - Direito Constitucional/01 - Teoria Geral da Constituição/Sentido Jurídico.md",
     "Media/Pasted image 20260517162155.png",
-    "Concursos/Direito/04 - Direito Constitucional/01 - Teoria Geral da Constituição/Normas de Eficácia Limitada.md",
-    "Concursos/Direito/04 - Direito Constitucional/01 - Teoria Geral da Constituição/Normas de Eficácia Plena.md",
-    "Concursos/Direito/04 - Direito Constitucional/16 - Tributação e Orçamento/Normas de Eficácia Contida.md",
-    "Concursos/Direito/04 - Direito Constitucional/MOC — Direito Constitucional.md",
-    "Concursos/Direito/04 - Direito Constitucional/01 - Teoria Geral da Constituição/Normas Autoexecutáveis.md",
-    "Concursos/Contabilidade Geral/08 - Ativo Não Circulante/Empresa Controlada.md",
-    "Concursos/Direito/04 - Direito Constitucional/01 - Teoria Geral da Constituição/Normas Não Autoexecutáveis.md",
-    "Concursos/Direito/04 - Direito Constitucional/01 - Teoria Geral da Constituição/Teoria Geral da Constituição.md",
-    "Concursos/Direito/04 - Direito Constitucional/01 - Teoria Geral da Constituição/Sentido Cultural.md",
-    "Concursos/Direito/04 - Direito Constitucional/01 - Teoria Geral da Constituição/Sentido Normativo-Concretista.md",
-    "Concursos/Direito/04 - Direito Constitucional/01 - Teoria Geral da Constituição/Sentido Político.md",
-    "Concursos/Direito/04 - Direito Constitucional/01 - Teoria Geral da Constituição/Sentido Sociológico.md",
-    "Concursos/Contabilidade Geral/02 - Contas Contábeis/Contas Transitórias.md",
     "Media/photo_2026-05-16_21-45-35.jpg",
     "Media/photo_2026-05-16_21-32-41.jpg",
     "Media/photo_2026-05-16_21-30-53.jpg",
     "Media/photo_2026-05-16_21-26-22.jpg",
-    "Media/259831-109bc0cf-f116-4288-8cfc-8f16e4622045.png",
-    "Media/Pasted image 20260515094711.png",
     "Concursos/Direito/04 - Direito Constitucional/16 - Tributação e Orçamento",
     "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/03 - Big Data"
   ]

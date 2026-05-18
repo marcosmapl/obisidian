@@ -11,20 +11,20 @@ updated: 2026-05-14T16:15:00
 > Tem por consequência o desaparecimento da **Obrigação Tributária Principal**.
 
 ---
-## Hipósteses de Extinção
+## Hipóteses de Extinção
 
 Art. 156, CTN - Extinguem o Crédito Tributário:
-- I - o **pagamento**
-- II - a **compensação**
-- III - a **transação**
-- IV - **remissão**
-- V - a **prescrição** e a **decadência**
-- VI - a **conversão de depósito em renda**
-- VII - o **pagamento antecipado** e a **homologação do lançamento** nos termos do disposto no artigo 150 e seus §§ 1º e 4º
-- VIII - a **consignação em pagamento**, nos termos do disposto no § 2º do artigo 164
-- IX - a **decisão administrativa irreformável**, assim entendida a definitiva na órbita administrativa, que não mais possa ser objeto de ação anulatória
-- X - a **decisão judicial passada em julgado**
-- XI – a **dação em pagamento em bens imóveis**, na forma e condições estabelecidas em lei.  
+- I - o **PAGAMENTO**
+- II - a **COMPENSAÇÃO**
+- III - a **TRANSAÇÃO**
+- IV - **REMISSÃO**
+- V - a **PRESCIÇÃO** e a **DECADÊNCIA**
+- VI - a **CONVERSÃO DO DEPÓSITO EM RENDA**
+- VII - o **PAGAMENTO ANTECIPADO** e a **HOMOLOGAÇÃO DO LANÇAMENTO** nos termos do disposto no artigo 150 e seus §§ 1º e 4º
+- VIII - a **CONSIIGNAÇÃO em PAGAMENTO**, nos termos do disposto no § 2º do artigo 164
+- IX - a **DECISÃO ADMINISTRATIVA IRREFORMÁVEL**, assim entendida a definitiva na órbita administrativa, que não mais possa ser objeto de ação anulatória
+- X - a **DECISÃO JUDICIAL em JULGADO**
+- XI – a **DAÇÃO em PAGAMENTO EM BÉNS**, na forma e condições estabelecidas em lei.  
 
 Parágrafo único. A lei disporá quanto aos **efeitos da extinção total ou parcial do crédito** sobre a ulterior verificação da irregularidade da sua constituição, observado o disposto nos artigos 144 e 149.
 
@@ -50,3 +50,5 @@ Parágrafo único. A lei disporá quanto aos **efeitos da extinção total ou pa
 ## Modalidades de Extinção
 
 - [[Pagamento do Crédito Tributário]]
+- [[Suspensão do Crédito Tributário]]
+- [[Exclusão do Crédito Tributário]]

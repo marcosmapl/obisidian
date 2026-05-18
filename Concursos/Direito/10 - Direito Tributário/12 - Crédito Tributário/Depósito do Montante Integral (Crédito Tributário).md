@@ -14,11 +14,6 @@ updated: 2026-05-15T06:58:00
 > [!tip] Súmula STJ 112 - O depósito somente suspende a exigibilidade do crédito tributário se for **integral** e em **dinheiro**.
 
 ---
-## Decisão Favorável à Fazendo
-
-Art. 156, CTN - Sendo a **decisão favorável à Fazenda Pública**, ou seja, se o lançamento for legítimo, o **depósito é convertido em renda**, e o **crédito tributário é extinto**.
-
----
 ## Decisão Favorável ao Fisco
 
 Art. 156, CTN - Sendo a **decisão favorável à Fazenda Pública**, ou seja, se o lançamento for legítimo, o **depósito é convertido em renda**, e o **crédito tributário é extinto**.
@@ -27,3 +22,8 @@ Art. 156, CTN - Sendo a **decisão favorável à Fazenda Pública**, ou seja, se
 ## Decisão Favorável ao Contribuinte
 
 Art. 156, CTN - Por outro lado, se a decisão de mérito for **favorável ao sujeito passivo**, ou seja, se o lançamento ou o valor lançado for ilegítimo, caberá ao sujeito passivo proceder ao **levantamento** (resgate) do depósito realizado.
+
+---
+## Objetivos do depósito do montante integral
+
+![[Pasted image 20260518162922.png]]

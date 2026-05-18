@@ -67,6 +67,6 @@ updated: 2026-01-05T06:00:00
 
 - [[Competência Tributária — Conceito]]
 - [[Capacidade Tributária Passiva  — Conceito]]
-- [[Obrigação Tributária]]
-- [[Crédito Tributário]]
+- [[Obrigação Tributária — Conceito]]
+- [[Crédito Tributário — Conceito]]
 - [[Lançamento Tributário]]

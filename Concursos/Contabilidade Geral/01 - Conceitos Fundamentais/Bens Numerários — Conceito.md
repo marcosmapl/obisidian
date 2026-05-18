@@ -2,36 +2,25 @@
 disciplina: Contabilidade Geral
 tópico: Conceitos Fundamentais
 created: 2025-12-29T14:31:00
-updated: 2025-12-29T14:32:00
+updated: 2026-05-18T16:55:00
 ---
 
-## 🔸Definição
+## Definição
 
 > [!note] Bens Numerários
 > São ativos de que representam **dinheiro** ou que podem ser **rapidamento convertidos em dinheiro (alta liquidez)**.
 
-#contabilidade/bens_numerários
-
-### 🔹Exemplos
+### Exemplos
 
 - Caixa
 - Saldos bancários
 - Aplicações de liquidez imediata
 
 ---
-## 🔗 Links relacionados
+## Tópicos Relacionados
 
-- [[Bens — Conceito]]
 - [[Bens de Venda — Conceito]]
+- [[Bens de Renda — Conceito]]
 - [[Bens de Uso — Conceito]]
 - [[Ativo — Conceito]]
-- [[Ativo Imobilizado]]
 - [[Ativo Circulante]]
-- [[Estoques — Conceito]]
-
----
-## 🧭 Navegação
-
-- ⬅️ [[Bens — Conceito]]
-- ⬅️ [[Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais]]
-- 📊 [[Contabilidade Geral]]

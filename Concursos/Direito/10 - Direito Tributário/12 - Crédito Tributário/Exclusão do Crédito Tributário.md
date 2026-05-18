@@ -12,5 +12,13 @@ updated: 2026-05-14T21:15:00
 ---
 ## Hipóteses de Exclusão
 
-- Isenção
-- Anistia
+- **Isenção**
+- **Anistia**
+
+
+---
+## Tópicos Relacionados
+
+- [[Suspensão do Crédito Tributário]]
+- [[Extinção do Crédito Tributário]]
+

@@ -2,16 +2,14 @@
 disciplina: Contabilidade Geral
 tópico: Conceitos Fundamentais
 created: 2025-12-29T14:30:00
-updated: 2025-12-29T14:30:00
+updated: 2026-05-18T16:55:00
 ---
 
 ## Definição
 
 > [!note] Bens de Venda
 > São ativos destinados à **comercialização**.
-
-#contabilidade/bens_venda
-### 🔹Exemplos
+### Exemplos
 
 - Mercadorias
 - Estoque
@@ -19,18 +17,11 @@ updated: 2025-12-29T14:30:00
 - Produtos acabados
 
 ---
-## 🔗 Links relacionados
+## Tópicos Relacionados
 
-- [[Bens — Conceito]]
+- [[Bens de Renda — Conceito]]
 - [[Bens Numerários — Conceito]]
 - [[Bens de Uso — Conceito]]
 - [[Ativo — Conceito]]
 - [[Ativo Circulante]]
 - [[Estoques — Conceito]]
-
----
-## 🧭 Navegação
-
-- ⬅️ [[Bens — Conceito]]
-- ⬅️ [[Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais]]
-- 📊 [[Contabilidade Geral]]

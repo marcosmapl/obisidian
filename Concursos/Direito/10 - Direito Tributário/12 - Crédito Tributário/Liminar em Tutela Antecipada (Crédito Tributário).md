@@ -18,3 +18,10 @@ O CTN previu duas modalidades de suspensão judicial da exigibilidade do crédit
 Crédito tributário fica suspenso até a decisão final, que pode ser: 
 - Em **favor do contribuinte**: **extingue**-se o crédito tributário. 
 - Em **favor da Fazenda Pública**: volta a ser **exigível**.
+
+---
+## Tópicos Relacionados
+
+- [[Moratória — Conceito]]
+- [[Parcelamento (Crédito Tributário)]]
+- [[Liminar em Mandado de Segurança (Crédito Tributário)]]

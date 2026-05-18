@@ -8,15 +8,18 @@ updated: 2026-01-14T13:45:00
 ## Definição
 
 > [!note] Bens de Uso
-> São recursos de **longa duração**, **tangíveis**, que uma empresa possui e usa em suas operações principais para gerar valor econômico, e não para revenda.
+> São recursos **ESSENCIAIS À MANUTENÇÃO DAS ATIVIDADES DA ENTIDADE**.
 
-#contabilidade/bens_uso
+> [!tip] São divididos em **tangíveis** ou **intangíveis**
 ### Exemplos
 
 - Máquinas
 - Veículos
 - Edifícios
 - Móveis
+- Marcas
+- Patentes
+- Softwares
 - Normalmente registrados no **Ativo Imobilizado**
 
 ---

@@ -15,15 +15,15 @@ updated: 2026-05-12T15:40:00
 ---
 ## Hipóteses de Suspensão
 
-Atr. 151,CTN: **Suspendem** a Exigibilidade do **Crédito Tributário**:
-- I - **Moratória**;
-- II - O **depósito do seu montante integral**;
-- III - As **reclamações e os recursos**, nos termos das leis reguladoras do processo tributário administrativa;
-- IV - A concessão de **medida liminar em mandado de segurança**;
-- V - A concessão de **medida liminar ou de tutela antecipada**, em outras espécies de ação judicial;
-- VI - O **parcelamento**;
+Atr. 151, CTN: **Suspendem** a Exigibilidade do **Crédito Tributário**:
+- I - **MORATÓRIA**;
+- II - O **DEPOSITO DO MONTANTE INTEGRAL**;
+- III - As **RECLAMAÇÕES E OS RECURSOS**, nos termos das leis reguladoras do processo tributário administrativa;
+- IV - A concessão de MEDIDA **LIMINAR** em **MANDADO DE SEGURANÇA**;
+- V - A concessão de MEDIDA **LIMINAR** OU DE **TUTELA ANTECIPADA**, em outras espécies de ação judicial;
+- VI - O **PARCELAMENTO**;
 
-> [!tip] **MO DE RA COM TA PA**
+> [!tip] **MOR DE R LIM PAR**
 
 ![[Pasted image 20260512154758.png]]
 
@@ -31,9 +31,11 @@ Atr. 151,CTN: **Suspendem** a Exigibilidade do **Crédito Tributário**:
 ## Tópicos Relacionados
 
 - [[Moratória — Conceito]]
-- [[Parcelamento (Crédito Tributário)]]
+- [[Depósito do Montante Integral (Crédito Tributário)]]
+- [[Impugnação (Crédito Tributário)]]
 - [[Liminar em Mandado de Segurança (Crédito Tributário)]]
 - [[Liminar em Tutela Antecipada (Crédito Tributário)]]
-- [[Impugnação (Crédito Tributário)]]
-- [[Depósito do Montante Integral (Crédito Tributário)]]
+- [[Parcelamento (Crédito Tributário)]]
+- [[Extinção do Crédito Tributário]]
+- [[Exclusão do Crédito Tributário]]
 

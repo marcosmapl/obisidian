@@ -19,6 +19,9 @@ Art. 155-A. O parcelamento será concedido na forma e condição estabelecidas e
 
 § 2º Aplicam-se, **SUBSIDIARIAMENTE**, ao parcelamento as disposições desta Lei, **RELATIVAS À MORATÓRIA**. (Incluído pela Lcp nº 104, de 10.1.2001) 
 
+---
+## Parcelamento em Recuperação Judicial
+
 § 3º **LEI ESPECÍFICA** disporá sobre as condições de parcelamento dos créditos tributários do **DEVEDOR EM RECUPERAÇÃO JUDICIAL**. (Incluído pela Lcp nº 118, de 2005) 
 
 § 4º A inexistência da lei específica a que se refere o § 3º deste artigo importa na aplicação das leis gerais de parcelamento do ente da Federação ao devedor em recuperação judicial, ==NÃO podendo, neste caso, ser o PRAZO DE PARCELAMENTO INFERIOR ao concedido pela LEI FEDERAL ESPECÍFICA. (Incluído pela Lcp nº 118, de 2005)==.
@@ -27,4 +30,6 @@ Art. 155-A. O parcelamento será concedido na forma e condição estabelecidas e
 ## Tópicos Relacionados
 
 - [[Moratória — Conceito]]
+- [[Liminar em Mandado de Segurança (Crédito Tributário)]]
+- [[Liminar em Tutela Antecipada (Crédito Tributário)]]
 
