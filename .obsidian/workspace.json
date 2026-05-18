@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a7be9f4581904cfe",
+        "id": "a2413b48a2cffa1f",
         "type": "tabs",
         "children": [
           {
-            "id": "0e2bbff3a6dc8c50",
+            "id": "2d2ddf0002e94051",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Auditoria/07 - Procedimentos de Auditoria/Amostragem em Auditoria.md",
+                "file": "Concursos/Auditoria/06 - Documentação de Auditoria/Documentação de Auditoria.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Amostragem em Auditoria"
+              "title": "Documentação de Auditoria"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Amostra",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5110321044922
+    "width": 307.5
   },
   "right": {
     "id": "ae0fcbd67c81a0a4",
@@ -340,6 +340,16 @@
             "id": "ccc53db32cae68eb",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "afc3d85aa6049ca5",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -347,7 +357,7 @@
             }
           }
         ],
-        "currentTab": 22
+        "currentTab": 23
       }
     ],
     "direction": "horizontal",
@@ -365,44 +375,45 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "0e2bbff3a6dc8c50",
+  "active": "2d2ddf0002e94051",
   "lastOpenFiles": [
-    "Concursos/Contabilidade Geral/08 - Ativo Não Circulante/Ativo Realizável a Longo Prazo.md",
-    "Media/259831-109bc0cf-f116-4288-8cfc-8f16e4622045.png",
-    "Concursos/Contabilidade Geral/08 - Ativo Não Circulante/Empresa Coligada.md",
-    "Empresa Controlada.md",
-    "Concursos/Contabilidade Geral/08 - Ativo Não Circulante/Ativo Não Circulante — Conceito.md",
-    "Concursos/Contabilidade Geral/06 - Ativo Circulante/Ativo Circulante.md",
-    "Concursos/Contabilidade Geral/08 - Ativo Não Circulante/Ativo Imobilizado.md",
-    "Concursos/Contabilidade Geral/08 - Ativo Não Circulante/Investimentos (Ativo).md",
-    "Concursos/Contabilidade Geral/08 - Ativo Não Circulante/MOC — Ativo Não Circulante.md",
+    "Media/Pasted image 20260517190357.png",
+    "Concursos/Auditoria/06 - Documentação de Auditoria/MOC — Documentação de Auditoria.md",
+    "Concursos/Auditoria/06 - Documentação de Auditoria/Documentação de Auditoria.md",
+    "Concursos/Auditoria/06 - Documentação de Auditoria/Propriedade da Documentação.md",
+    "Concursos/Auditoria/06 - Documentação de Auditoria/Finalidades da Documentação.md",
+    "Concursos/Auditoria/06 - Documentação de Auditoria/Circunstâncias Excepcionais.md",
+    "Concursos/Auditoria/06 - Documentação de Auditoria/Arquivo de Auditoria.md",
+    "Concursos/Auditoria/06 - Documentação de Auditoria/Requisitos da Documentação.md",
+    "Media/Pasted image 20260517185656.jpg",
+    "Concursos/Auditoria/06 - Documentação de Auditoria/Classificações da Documentação de Auditoria.md",
+    "Concursos/Auditoria/07 - Procedimentos de Auditoria/Amostragem em Auditoria.md",
+    "Media/Pasted image 20260517184856.png",
+    "Pirâmide de Kelsen.md",
     "Concursos/Direito/04 - Direito Constitucional/01 - Teoria Geral da Constituição/MOC — Teoria Geral da Constituição.md",
-    "Concursos/Direito/04 - Direito Constitucional/01 - Teoria Geral da Constituição/Teoria Geral da Constituição.md",
-    "Concursos/Direito/04 - Direito Constitucional/01 - Teoria Geral da Constituição/Constitucionalismo.md",
+    "Concursos/Direito/04 - Direito Constitucional/01 - Teoria Geral da Constituição/Sentido Jurídico.md",
+    "Media/Pasted image 20260517162155.png",
+    "Concursos/Direito/04 - Direito Constitucional/01 - Teoria Geral da Constituição/Normas de Eficácia Limitada.md",
+    "Concursos/Direito/04 - Direito Constitucional/01 - Teoria Geral da Constituição/Normas de Eficácia Plena.md",
+    "Concursos/Direito/04 - Direito Constitucional/16 - Tributação e Orçamento/Normas de Eficácia Contida.md",
     "Concursos/Direito/04 - Direito Constitucional/MOC — Direito Constitucional.md",
-    "Concursos/Direito/Direito.md",
+    "Concursos/Direito/04 - Direito Constitucional/01 - Teoria Geral da Constituição/Normas Autoexecutáveis.md",
+    "Concursos/Contabilidade Geral/08 - Ativo Não Circulante/Empresa Controlada.md",
+    "Concursos/Direito/04 - Direito Constitucional/01 - Teoria Geral da Constituição/Normas Não Autoexecutáveis.md",
+    "Concursos/Direito/04 - Direito Constitucional/01 - Teoria Geral da Constituição/Teoria Geral da Constituição.md",
+    "Concursos/Direito/04 - Direito Constitucional/01 - Teoria Geral da Constituição/Sentido Cultural.md",
+    "Concursos/Direito/04 - Direito Constitucional/01 - Teoria Geral da Constituição/Sentido Normativo-Concretista.md",
+    "Concursos/Direito/04 - Direito Constitucional/01 - Teoria Geral da Constituição/Sentido Político.md",
+    "Concursos/Direito/04 - Direito Constitucional/01 - Teoria Geral da Constituição/Sentido Sociológico.md",
+    "Concursos/Contabilidade Geral/02 - Contas Contábeis/Contas Transitórias.md",
+    "Media/photo_2026-05-16_21-45-35.jpg",
+    "Media/photo_2026-05-16_21-32-41.jpg",
+    "Media/photo_2026-05-16_21-30-53.jpg",
+    "Media/photo_2026-05-16_21-26-22.jpg",
+    "Media/259831-109bc0cf-f116-4288-8cfc-8f16e4622045.png",
     "Media/Pasted image 20260515094711.png",
-    "Concursos/Direito/10 - Direito Tributário/12 - Crédito Tributário/Depósito do Montante Integral (Crédito Tributário).md",
-    "Concursos/Direito/10 - Direito Tributário/12 - Crédito Tributário/Suspensão do Crédito Tributário.md",
-    "Concursos/Direito/10 - Direito Tributário/12 - Crédito Tributário/Impugnação (Crédito Tributário).md",
-    "Concursos/Direito/10 - Direito Tributário/12 - Crédito Tributário/Parcelamento (Crédito Tributário).md",
-    "Concursos/Direito/10 - Direito Tributário/12 - Crédito Tributário/Liminar em Mandado de Segurança (Crédito Tributário).md",
-    "Concursos/Direito/10 - Direito Tributário/12 - Crédito Tributário/Liminar em Tutela Antecipada (Crédito Tributário).md",
-    "Concursos/Direito/10 - Direito Tributário/12 - Crédito Tributário/Moratória — Conceito.md",
-    "Concursos/Direito/10 - Direito Tributário/12 - Crédito Tributário/MOC — Crédito Tributário.md",
     "Media/Pasted image 20260514213324.png",
-    "Media/Pasted image 20260514212936.png",
-    "Concursos/Direito/10 - Direito Tributário/12 - Crédito Tributário/Exclusão do Crédito Tributário.md",
-    "Concursos/Direito/10 - Direito Tributário/12 - Crédito Tributário/Extinção do Crédito Tributário.md",
-    "Concursos/Direito/10 - Direito Tributário/12 - Crédito Tributário/Pagamento do Crédito Tributário.md",
-    "Media/Pasted image 20260514165540.png",
-    "Media/Pasted image 20260514164733.png",
-    "Media/Pasted image 20260514163048.png",
-    "Media/Pasted image 20260514162354.png",
-    "Media/Pasted image 20260514161703.png",
-    "Concursos/Auditoria/07 - Procedimentos de Auditoria/Procedimentos Analíticos.md",
     "Concursos/Direito/04 - Direito Constitucional/16 - Tributação e Orçamento",
-    "Media/Pasted image 20260513214246.png",
     "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/03 - Big Data"
   ]
 }

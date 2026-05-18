@@ -16,29 +16,29 @@ Ele funciona como um **mapa da contabilidade**, garantindo **uniformidade**, **c
 
 > [!important] Deve ser adequado para cada tipo de empresa, de acordo com as necessidades e peculiaridades.
 
-#contabilidade/tecnica_contabil/plano_contas
-
 ---
 ## Componentes Essenciais
 
 ### Elenco das Contas
-
 - Listagem padronizada de todas as contas contábeis de uma empresa;
 - Envolve **títulação (nome)** e o **código** da conta; 
 ### Manual de Contas
-
-- Apresenta **informações minuciosas** (**função** e **funcionamento**) de cada conta;
-- A sua natureza (devedora ou credora);
+- Apresenta **informações minuciosas** (**função** e **funcionamento**) de cada conta
+- **Função da Conta**: identifica se a conta é **patrimonial** (ativo, passivo ou patrimônio líquido) ou de **resultado** (receita ou despesa)
+- **Funcionamento da Conta**: identifica sua natureza (devedora ou credora)
 - As contrapartidas mais comuns;
 ### Modelo de Demonstrações Contábeis (Lançamento)
+
+![[photo_2026-05-16_21-45-35.jpg]]
+
 
 ---
 ## Estrutura
 
-O Plano de Contas é estruturado de forma **hierárquica**, normalmente em **níveis**:
+O Plano de Contas é estruturado de forma **hierárquica**, normalmente em **quatro níveis**:
 1. **Grupo**    
 2. **Subgrupo**
-3. **Conta**
+3. **Conta** (ou conta sintética)
 4. **Subconta** (ou conta analítica)
 ### Exemplo simplificado
 

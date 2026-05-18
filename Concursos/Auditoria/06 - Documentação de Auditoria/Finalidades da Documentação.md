@@ -23,4 +23,4 @@ updated: 2026-01-06T20:20:00
 ## Resumo
 
 ![[Pasted image 20260114170300.png]]
-	
+

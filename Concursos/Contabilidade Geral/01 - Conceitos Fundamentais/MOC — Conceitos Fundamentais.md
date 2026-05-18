@@ -23,3 +23,4 @@ updated: 2026-03-04T16:15:00
 - [[Regime de Competência]]
 - [[Regime de Caixa]]
 
+![[photo_2026-05-16_21-26-22.jpg]]

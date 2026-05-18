@@ -13,8 +13,27 @@ updated: 2026-01-08T16:40:00
 ---
 ## Sentidos da Constituição
 
-- [[Sentido Cultural]]
-- [[Sentido Jurídico]]
-- [[Sentido Normativo-Concretista]]
-- [[Sentido Político]]
 - [[Sentido Sociológico]]
+- [[Sentido Político]]
+- [[Sentido Jurídico]]
+- [[Sentido Cultural]]
+- [[Sentido Normativo-Concretista]]
+
+---
+## Aplicabilidade das Normas Constitucionais
+
+- [[Normas Autoexecutáveis]]
+- [[Normas Não Autoexecutáveis]]
+- [[Normas de Eficácia Plena]]
+- [[Normas de Eficácia Contida]]
+- [[Normas de Eficácia Limitada]]
+
+![[Pasted image 20260517162155.png]]
+
+---
+## Hierarquia das Normas
+
+- [[Pirâmide de Kelsen]]
+
+
+

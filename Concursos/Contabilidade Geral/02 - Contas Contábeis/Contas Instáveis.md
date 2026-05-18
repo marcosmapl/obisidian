@@ -10,8 +10,6 @@ updated: 2026-01-09T05:41:00
 > [!note] Contas Instáveis
 > São contas que possuem **dupla natureza de saldo**, ora sendo **Devedora**, ora sendo **Credora**!
 
-#contabilidade/contas_instaveis
-
 ---
 ## Exemplos
 

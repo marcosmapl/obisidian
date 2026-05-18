@@ -2,48 +2,18 @@
 disciplina: Direito Constitucional
 tópico: Teoria Geral da Constituição
 created: 2025-12-14T22:12:00
-updated: 2026-01-09T16:05:00
+updated: 2026-05-17T15:05:00
 ---
 
-## 1. Autor e Teoria
+## Conceito
 
 - **Hans Kelsen**
 - Criador da **Teoria Pura do Direito**
-
-📌 **Palavra-chave:** *Norma*
-
----
-## 2. Ideia Central
-
-> **Constituição = norma jurídica pura**
-
-- A Constituição é:
-  - **Norma superior e fundamental** do Estado
-  - Desprovida de elementos:
+- **Constituição = norma jurídica pura**
+- Desprovida de elementos:
     - Sociológicos  
     - Políticos  
     - Filosóficos  
-
-📌 Análise **exclusivamente jurídica**.
-
----
-## 3. Funções da Constituição
-
-A Constituição:
-- **Organiza** o poder político  
-- **Estrutura** o Estado  
-- **Limita** a atuação estatal  
-- **Garante** direitos e liberdades individuais  
-
-🧠 **Decoreba:**  
-**OELG** → *Organiza, Estrutura, Limita, Garante*
-
----
-## 4. Fundamento de Validade (Ponto-chave de Prova)
-
-- A Constituição **não** retira sua validade:
-  - Dos **fatores reais de poder**
-  - Da realidade social  
 
 📌 Posição **oposta** à de **Ferdinand Lassalle**.
 
@@ -52,7 +22,7 @@ A Constituição:
 - **Kelsen** → norma jurídica / validade formal  
 
 ---
-## 5. Ordenamento Jurídico em Kelsen
+## Ordenamento Jurídico em Kelsen
 
 > O Direito é um **sistema hierárquico de normas**
 
@@ -63,41 +33,20 @@ A Constituição:
 
 📌 Essa lógica é chamada de **escalonamento normativo**.
 
-🧠 **Mnemônico:**  
-**Escada Kelseniana** → *cada degrau sustenta o de baixo*
-
 ---
-## 6. A Pergunta Central
+## Dois Sentidos de Constituição em Kelsen (Tema Altamente Cobrado)
 
-> **De onde a Constituição tira seu fundamento de validade?**
-
-➡ Resposta exige distinguir **dois sentidos de Constituição**.
-
----
-## 7. Dois Sentidos de Constituição em Kelsen (Tema Altamente Cobrado)
-
-#### 🔹 Sentido Lógico-Jurídico
+### Sentido Lógico-Jurídico
 - Constituição = **Norma Hipotética Fundamental**
-- Características:
-  - Não é escrita  
-  - Não é real  
-  - É **pressuposta**  
-  - Serve de fundamento lógico da validade  
 
-📌 Função:
-> Autorizar a obediência à Constituição positiva
-
-🧠 **Frase-chave:**  
-**“Obedeça-se à Constituição positiva!”**
+### Sentido Lógico-Jurídico
+- Constituição = **Norma Positiva Suprema**
 
 ---
-## 8. Esquema-Resumo do Fundamento de Validade
+## Tópicos Relacionados
 
-- Normas inferiores  
-⬇  
-- Constituição positiva (escrita)  
-⬇  
-- **Norma Hipotética Fundamental**
+- [[Sentido Sociológico]]
+- [[Sentido Político]]
+- [[Sentido Cultural]]
+- [[Sentido Normativo-Concretista]]
 
-🧠 **Decoreba final:**  
-> *Em Kelsen, toda norma vale porque outra autoriza — até chegar à norma hipotética fundamental.*

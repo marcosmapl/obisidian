@@ -30,6 +30,8 @@ updated: 2026-05-12T06:25:00
 - Seleção de **Itens Específicos**
 - **Amostragem**
 
+> [!tip] Amostra selecionada deve ter relação **DIRETA** com o **VOLUME DE TRANSAÇÕES** realizadas, como também com os efeitos da avaliação patrimonial e financeira e o resultado por ela obtido no período.
+
 
 ![[Pasted image 20260110082349.png]]
 
@@ -68,6 +70,5 @@ Na definição de uma amostra o Auditor deverá considerar os fatores:
 ---
 ## Fatores que Influenciam o Tamanho da Amostra
 
-![[Pasted image 20260512063442.png]]
-
+![[Pasted image 20260517184856.png]]
 

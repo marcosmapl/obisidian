@@ -1,10 +1,7 @@
 ---
 disciplina: Direito Constitucional
-tags:
-  - "#direito/constitucional"
 created: 2025-12-14T21:34:00
-node_size: "80"
-completed: 0
+updated: 2026-05-15T15:45:00
 ---
 
 ## Definição
@@ -35,7 +32,6 @@ completed: 0
 ---
 ## 📂 MOC — Normas Constitucionais
 
-- [[Aplicabilidade das Normas Constitucionais]]
 - [[Normas de Eficácia Plena]]
 - [[Normas de Eficácia Contida]]
 - [[Normas de Eficácia Limitada]]

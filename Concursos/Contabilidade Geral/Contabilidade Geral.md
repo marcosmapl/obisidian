@@ -13,7 +13,6 @@ progresso: 0
 > [!abstract] Contabilidade
 > **Contabilidade Geral** é a ciência que estuda, registra e controla o patrimônio das entidades, fornecendo informações úteis para a **tomada de decisões** por usuários internos e externos, através de demonstrações contábeis padronizadas.
 
-#contabilidade/conceito
 
 ![[Pasted image 20260109115851.png]]
 
@@ -47,5 +46,3 @@ progresso: 0
 ### 13. [[MOC — Demonstrações Contábeis]]
 
 ### 14. [[MOC — Princípios Contábeis]]
-
-### 15. [[Concursos/Contabilidade Geral/Caderno de Erros|Caderno de Erros]]

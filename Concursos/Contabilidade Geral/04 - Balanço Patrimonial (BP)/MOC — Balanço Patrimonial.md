@@ -15,6 +15,3 @@ updated: 2026-01-05T22:40:00
 - [[Critérios de Evidenciação no BP]]
 - [[Liquidez e Exigibilidade]]
 - [[Grupo de Contas do BP]]
-
-#contabilidade/balanco-patrimonial
-
