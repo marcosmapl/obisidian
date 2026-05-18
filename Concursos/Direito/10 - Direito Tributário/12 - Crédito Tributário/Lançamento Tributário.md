@@ -74,22 +74,53 @@ Art. 145. O lançamento **_regularmente notificado ao sujeito passivo só pode 
 
 ### De Ofício (Direto)
 
-- Sem participação do contribuinte.
-- Lançamento feito diretamente pela Autoridade Administrativa.
-- Não depende de informação do contribuinte.
-- Ex: **IPTU**, **IPVA**, **TAXAS**, casos do Art. 149 (Fraude, Erro, Dolo, Erro de Fato)
+- **SEM PARTICIPAÇÃO** do contribuinte.
+- Lançamento feito **DIRETAMENTE** pela Autoridade Administrativa.
+- Pode ser utilizado para **REVISAR UM LANÇAMENTO ANTERIOR**
+- Deve ser usado quando:
+	- **LEI** assim o determinar
+	- Declaração **NÃO PRESTADA NO PRAZO**
+	- Recusa em prestar **ESCLARECIMENTOS** ou esclarecer de modo **INSATISFATÓRIO**
+	- Quando houver **FALSIDADE**, **ERRO** ou **OMISSÃO** 
+	- Quando houver **OMISSÃO** ou **INEXATIDÃO** no lançamento por **HOMOLOGAÇÃO**
+	- Casos de **DOLO**, **FRAUDE** ou **SIMULAÇÃO**
+	- Quando ocorreu **ERRO DE FATO** (novo fato não conhecido ou não provado por ocasião do lançamento anterior)
+	- Quando houver **FRAUDE**, **FALTA FUNCIONAL** ou **OMISSÃO** da autoridade que efetuou o **LANÇAMENTO**
+- Exemplos: 
+	- **IPTU**
+	- **IPVA**
+	- **TAXAS**
+	- casos do Art. 149 (Fraude, Erro, Dolo, Erro de Fato)
+
+> [!tip] **STJ, REsp 1.320.825/RJ** - O **IPVA** é lançado de ofício no início de cada exercício (art. 142 do CTN) e constituído definitivamente com a cientificação do contribuinte para o recolhimento da exação (envio de carnê ou a publicação de calendário de pagamento).
 
 ### Por Declaração (Misto)
 
-- Depende da **declaração do Contribuinte**
+- Participação do sujeito passivo quanto as **INFORMAÇÕES DE FATO** (**DECLARAÇÃO DO CONTRIBUINTE**)
 - Fisco lança posteriormente
-- Em caso de omissão ou ausência de confiabilidade, o fisco pode Arbirtrar Valores
-- Ex: ITBI
+- Em caso de omissão ou ausência de confiabilidade, o fisco pode Arbitrar Valores
+- Exemplo: 
+	- **ITBI**
+
+> [!tip] **Retificação da declaração** por iniciativa do próprio declarante, quando vise a reduzir **REDUZIR** ou **EXCLUIR** tributo, só é admissível mediante comprovação do **ERRO** e **ANTES DO LANÇAMENTO**
+
+> [!tip] Os **ERROS** contidos na declaração e apuráveis pelo seu exame, serão retificados de **OFÍCIO** pela administração
+
+> [!tip] Quando houver **OMISSÃO** ou não mereçam **FÉ** as declarações ou esclarecimentos prestados, ou os **DOCUMENTOS EXPEDIDOS**, a administração arbitrará aquele valor ou preço (valor, preço de bens, direitos, serviços ou atos jurídicos)
+
 
 ### Por Homologação (Autolançamento)
 
-- Contribuinte deve **Declarar**, **Apurar** e **Pagar**.
-- A Obrigação Tributária permanece até a homologação do lançamento.
+- Legislação atribui ao sujeito passivo o dever de **ANTECIPAR o PAGAMENTO** sem **PRÉVIO EXAME** da autoridade administrativa
+- A **Obrigação Tributária** permanece até a **homologação do lançamento**.
 - Lançamento pode ser **Expresso (5 anos para revisar)** ou **Tácito (decorrência decadencial)**.
-- Ex: **ISS**, **ICMS**, **Tributos Federais**
+- Exemplos: 
+	- **ISS**
+	- **IR**
+	- **IPI**
+	- **ICMS**
+	- **Tributos Federais**
+	- **PIS**
+	- **CONFIS**
+	- **CSLL**
 
