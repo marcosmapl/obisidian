@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/Bens de Uso — Conceito.md",
+                "file": "Concursos/Contabilidade Geral/12 - Patrimônio Líquido/Patrimônio Líquido.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bens de Uso — Conceito"
+              "title": "Patrimônio Líquido"
             }
           }
         ]
@@ -369,6 +369,16 @@
             "id": "6576fa04e3144c8e",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "01fabbbc136034ce",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -376,7 +386,7 @@
             }
           }
         ],
-        "currentTab": 25
+        "currentTab": 26
       }
     ],
     "direction": "horizontal",
@@ -396,42 +406,42 @@
   },
   "active": "3e39d14fa641d16f",
   "lastOpenFiles": [
-    "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/Bens — Conceito.md",
-    "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/Bens de Venda — Conceito.md",
-    "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/Bens Numerários — Conceito.md",
-    "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/Bens de Renda — Conceito.md",
-    "Concursos/Contabilidade Geral/05 - Ativo/Ativo — Conceito.md",
-    "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais.md",
-    "Concursos/Contabilidade Geral/Contabilidade Geral.md",
-    "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/Funções da Contabilidade.md",
-    "Concursos/Direito/10 - Direito Tributário/12 - Crédito Tributário/Depósito do Montante Integral (Crédito Tributário).md",
+    "Concursos/Contabilidade Geral/12 - Patrimônio Líquido/MOC — Patrimônio Líquido.md",
+    "Concursos/Contabilidade Geral/12 - Patrimônio Líquido/Patrimônio Líquido.md",
+    "Concursos/Contabilidade Geral/09 - Passivo/Passivo.md",
+    "Concursos/Contabilidade Geral/09 - Passivo/MOC — Passivo.md",
+    "Concursos/Contabilidade Geral/05 - Ativo/Ativo.md",
+    "Concursos/Contabilidade Geral/06 - Ativo Circulante/MOC — Ativo Circulante.md",
+    "Concursos/Contabilidade Geral/07 - Estoques/MOC — Estoques.md",
+    "Concursos/Contabilidade Geral/11 - Passivo Não Circulante/MOC — Passivo Não Circulante.md",
+    "Concursos/Contabilidade Geral/10 - Passivo Circulante/Passivo Circulante.md",
+    "Concursos/Contabilidade Geral/08 - Ativo Não Circulante/MOC — Ativo Não Circulante.md",
+    "Concursos/Contabilidade Geral/09 - Passivo/Passivo Exigível.md",
+    "Concursos/Contabilidade Geral/09 - Passivo/Passivo Operacional.md",
+    "Concursos/Contabilidade Geral/09 - Passivo/Passivo Financeiro.md",
+    "Concursos/Contabilidade Geral/09 - Passivo/Passivo Não Exigível.md",
+    "Concursos/Contabilidade Geral/11 - Passivo Não Circulante/Passivo Não Circulante.md",
+    "Concursos/Contabilidade Geral/08 - Ativo Não Circulante/Ativo Não Circulante.md",
+    "Concursos/Contabilidade Geral/08 - Ativo Não Circulante/Ativo Imobilizado.md",
+    "Concursos/Contabilidade Geral/08 - Ativo Não Circulante/Investimentos (Ativo).md",
+    "Concursos/Contabilidade Geral/08 - Ativo Não Circulante/Ativo Realizável a Longo Prazo.md",
+    "Concursos/Contabilidade Geral/06 - Ativo Circulante/Ativo Circulante.md",
+    "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/Divisões Didáticas.md",
+    "Concursos/Contabilidade Geral/05 - Ativo/MOC — Ativo.md",
+    "Concursos/Contabilidade Geral/06 - Ativo Circulante/Contas a Receber.md",
+    "Concursos/Contabilidade Geral/04 - Balanço Patrimonial (BP)/Balanço Patrimonial.md",
+    "Media/Pasted image 20260519091000.png",
+    "Media/Pasted image 20260519090954.png",
+    "Concursos/Contabilidade Geral/13 - Demonstrações Contábeis/Normas Gerais das Demonstrações Contábeis.md",
+    "Concursos/Contabilidade Geral/13 - Demonstrações Contábeis/3 - DMPL/Demonstração das Mutações do Patrimônio Líquido (DMPL).md",
     "Media/Pasted image 20260518162922.png",
-    "Concursos/Direito/10 - Direito Tributário/12 - Crédito Tributário/Suspensão do Crédito Tributário.md",
-    "Concursos/Direito/10 - Direito Tributário/12 - Crédito Tributário/Impugnação (Crédito Tributário).md",
-    "Concursos/Direito/10 - Direito Tributário/12 - Crédito Tributário/MOC — Crédito Tributário.md",
-    "Concursos/Direito/10 - Direito Tributário/12 - Crédito Tributário/Liminar em Tutela Antecipada (Crédito Tributário).md",
-    "Concursos/Direito/10 - Direito Tributário/12 - Crédito Tributário/Liminar em Mandado de Segurança (Crédito Tributário).md",
-    "Concursos/Direito/10 - Direito Tributário/12 - Crédito Tributário/Moratória — Conceito.md",
-    "Concursos/Direito/10 - Direito Tributário/12 - Crédito Tributário/Parcelamento (Crédito Tributário).md",
-    "Concursos/Direito/10 - Direito Tributário/12 - Crédito Tributário/Exclusão do Crédito Tributário.md",
-    "Concursos/Direito/10 - Direito Tributário/12 - Crédito Tributário/Extinção do Crédito Tributário.md",
-    "Concursos/Direito/10 - Direito Tributário/12 - Crédito Tributário/Lançamento Tributário.md",
     "Media/Pasted image 20260518091532.png",
-    "Concursos/Direito/10 - Direito Tributário/12 - Crédito Tributário/Crédito Tributário — Conceito.md",
-    "Concursos/Direito/10 - Direito Tributário/01 - Conceitos Fundamentais/Capacidade Tributária Ativa  — Conceito.md",
-    "Crédito Tributário.md",
-    "Concursos/Auditoria/06 - Documentação de Auditoria/Documentação de Auditoria.md",
     "Media/Pasted image 20260517190357.png",
-    "Concursos/Auditoria/06 - Documentação de Auditoria/MOC — Documentação de Auditoria.md",
-    "Concursos/Auditoria/06 - Documentação de Auditoria/Propriedade da Documentação.md",
-    "Concursos/Auditoria/06 - Documentação de Auditoria/Finalidades da Documentação.md",
     "Media/Pasted image 20260517185656.jpg",
     "Media/Pasted image 20260517184856.png",
     "Media/Pasted image 20260517162155.png",
     "Media/photo_2026-05-16_21-45-35.jpg",
     "Media/photo_2026-05-16_21-32-41.jpg",
-    "Media/photo_2026-05-16_21-30-53.jpg",
-    "Media/photo_2026-05-16_21-26-22.jpg",
     "Concursos/Direito/04 - Direito Constitucional/16 - Tributação e Orçamento",
     "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/03 - Big Data"
   ]

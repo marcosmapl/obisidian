@@ -5,7 +5,7 @@ created: 2025-12-29T11:31:00
 updated: 2026-01-07T11:45:00
 ---
 
-## 🔸 Definição
+## Definição
 
 > [!note] Passivo Não Circulante
 > São as **obrigações exigíveis após o término do exercício social seguinte** (longo prazo).
@@ -23,6 +23,6 @@ updated: 2026-01-07T11:45:00
 ---
 ## Tópicos Relacionados
 
-- [[Passivo — Conceito]]
-- [[Passivo Circulante — Conceito]]
+- [[Passivo]]
+- [[Passivo Circulante]]
 - [[Obrigações — Conceito]]

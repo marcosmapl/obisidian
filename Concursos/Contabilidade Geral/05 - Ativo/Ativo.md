@@ -1,13 +1,13 @@
 ---
 disciplina: Contabilidade Geral
-tópico: Conceitos Fundamentais
+tópico: Ativo
 created: 2025-12-19T14:58:00
 updated: 2026-04-06T15:35:00
 ---
 ## Definição
 
  > [!note] Ativo
- > Conjunto de **bens**, **direitos** e **outros recursos** controlados pela entidade, capazes de gerar **benefícios econômicos futuros**.
+ > Conjunto de **bens**, **direitos** e **outros recursos econômicos** controlados pela entidade (não necessariamente o direito de propriedade), capazes de gerar **benefícios econômicos futuros**.
 
 > [!tip] Ativo também é chamado de **Patrimônio Bruto**
 
@@ -19,18 +19,13 @@ updated: 2026-04-06T15:35:00
 ### Quanto ao prazo
 
 - [[Ativo Circulante]]
-- [[Ativo Não Circulante — Conceito]]
+- [[Ativo Não Circulante]]
 
 > [!important] Esta é a divisão adotada na lei nº 6.404 (SA).
 ### Quanto à Natureza
 
 - [[Bens — Conceito]]
 - [[Direitos — Conceito]]
-
-### Quanto à Conversibilidade em Dinheiro
-
-- [[Ativo Circulante]]
-- [[Ativo Não Circulante — Conceito]]
 
 ---
 ## Principais Contas
@@ -52,7 +47,7 @@ updated: 2026-04-06T15:35:00
 
 - [[Bens — Conceito]]
 - [[Direitos — Conceito]]
-- [[Passivo — Conceito]]
+- [[Passivo]]
 - [[Patrimônio — Conceito]]
-- [[Patrimônio Líquido — Conceito]]
+- [[Patrimônio Líquido]]
 

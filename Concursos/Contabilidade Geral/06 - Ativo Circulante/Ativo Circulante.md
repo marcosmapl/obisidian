@@ -2,44 +2,54 @@
 disciplina: Contabilidade Geral
 tópico: Ativo Circulante
 created: 2025-12-29T11:31:00
-updated: 2026-04-06T15:40:00
+updated: 2026-05-19T09:30:00
 ---
 
 ## Definição
 
 > [!note] Item 66, CPC 26 (R1): Ativo Circulante são aqueles que:
-> - A entidade **espera realizar, vender ou consumir** no curso normal do ciclo operacional;
-> - Espera que seja realizado **até 12 meses** após a data do balanço;
+> - Espera que seja **REALIZAR**, **VENDER** ou **CONSUMIR** em **até 12 meses** após a data do Balanço Patrimonial;
 > - Ativos **mantidos para negociação**;
 > - **Caixa** ou **equivalente** caixa
 
-> [!note] Art. 179, Lei 6.404/76, as contas do ativo circulante serão classificadas do seguinte modo: disponibilidades, direitos realizáveis no curso do exercício social subsequente e aplicações de recursos em despesas do exercícios seguinte.
-
 ---
-## Disponibilidades
+## Classificações do AC
 
-- Caixa
-- Banco conta Movimento
+Art. 179, Lei 6.404/76, as contas do **ativo circulante** serão classificadas do seguinte modo: 
+- Disponibilidades
+- Direitos realizáveis no curso do exercício social subsequente
+- Aplicações de recursos em despesas do exercícios seguinte.
 
----
-## Direitos Realizáveis no curso do Exercício Social Subsequente
+> [!note] Na empresa em que o **ciclo operacional** tiver duração **maior** que o exercício social, a classificação no circulante terá por base o prazo desse ciclo (art. 179, parágrafo único)
 
-- Direitos **Reais**: **Bens** (estoques, produtos em elaboração)
-- Direitos **Pessoais**: **Direitos** (duplicatas a receber, adiantamento a fornecedores ou a empregados)
+### Disponibilidades
 
----
-## Aplicações de Recursos em Despesas do Exercício Seguinte
+- **Caixa**
+- Equivalentes de Caixa
+- **Bancos**
+- Aplicações Financeiras de **LIQUIDEZ IMEDIATA**
+- **Numerários em Trânsito**
 
-- Aplicações financeiras de curto prazo
-- Despesas antecipadas com Seguro
-- Despesas antecipadas com Aluguel
-- Despesas antecipadas com Salário
+### Direitos Realizáveis
+
+- **Direitos Realizáveis Pessoais**: Créditos da Empresa com Terceiros
+	- Duplicatas a Receber
+	- Tributos a Recuperar
+- **Direitos Realizáveis Reais**: Bens da Empresa
+	- Estoques
+
+### Aplicações de Recursos em Despesas do Exerício Seguinte
+
+Compreendem as **despesas do exercício seguinte pagas no exercício atual** (**DESPESAS ANTECIPADAS**).
+- Seguros
+- Encargos Financeiros Antecipados
+- Salários Antecipados
+- Aluguéis Antecipados
 
 ---
 ## Tópicos Relacionados
 
-- [[Ativo — Conceito]]
-- [[Ativo Não Circulante — Conceito]]
-- [[Ativo Imobilizado]]
+- [[Ativo]]
+- [[Ativo Não Circulante]]
 - [[Bens — Conceito]]
 - [[Direitos — Conceito]]

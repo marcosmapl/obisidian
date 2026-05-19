@@ -52,4 +52,4 @@ C - Mercadorias
 - [[Atos e Fatos Contábeis]]
 - [[Receita (Contabilidade) — Conceito]]
 - [[Despesa (Contabilidade) — Conceito]]
-- [[Patrimônio Líquido — Conceito]]
+- [[Patrimônio Líquido]]

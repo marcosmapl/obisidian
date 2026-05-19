@@ -7,7 +7,7 @@ updated: 2026-01-07T11:50:00
 
 ## Índice
 
-- [[Passivo Circulante — Conceito]]
+- [[Passivo Circulante]]
 - [[Fornecedores]]
 - [[Empréstimos e Financiamentos]]
 - [[Debêntures]]

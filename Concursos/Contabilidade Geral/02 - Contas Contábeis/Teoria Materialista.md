@@ -19,12 +19,12 @@ updated: 2026-01-11T11:55:00
 
 ### Contas Integrais
 
-- [[Ativo — Conceito]]
-- [[Passivo — Conceito]]
+- [[Ativo]]
+- [[Passivo]]
 
 ### Contas Diferenciais
 
-- [[Patrimônio Líquido — Conceito]]
+- [[Patrimônio Líquido]]
 - [[Receita (Contabilidade) — Conceito]]
 - [[Despesa (Contabilidade) — Conceito]]
 

@@ -25,7 +25,7 @@ progresso: 0
 
 ### 3. [[MOC — Escrituração Contábil]]
 
-### 4. [[MOC — Balanço Patrimonial]]
+### 4. [[Balanço Patrimonial]]
 
 ### 5. [[MOC — Ativo]]
 

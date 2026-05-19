@@ -1,15 +1,13 @@
 ---
 disciplina: Contabilidade Geral
-tópico: Passivo
+tópico: Passivo Circulante
 created: 2025-12-29T11:28:00
-updated: 2026-01-07T11:40:00
+updated: 2026-05-19T11:10:00
 ---
 ## Definição
 
 > [!note] Passivo Circulante
-> São as **obrigações exigíveis até o término do exercício social seguinte** (curto prazo).
-
-#contabilidade/passivo_circulante
+> São as **obrigações exigíveis**  até o **término do exercício social seguinte** (curto prazo).
 
 ---
 ## Exemplos
@@ -23,6 +21,6 @@ updated: 2026-01-07T11:40:00
 ---
 ## Tópicos Relacionados
 
-- [[Passivo — Conceito]]
-- [[Passivo Não Circulante — Conceito]]
+- [[Passivo]]
+- [[Passivo Não Circulante]]
 - [[Obrigações — Conceito]]

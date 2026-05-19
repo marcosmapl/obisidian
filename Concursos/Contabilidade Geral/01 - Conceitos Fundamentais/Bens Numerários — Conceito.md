@@ -22,5 +22,5 @@ updated: 2026-05-18T16:55:00
 - [[Bens de Venda — Conceito]]
 - [[Bens de Renda — Conceito]]
 - [[Bens de Uso — Conceito]]
-- [[Ativo — Conceito]]
+- [[Ativo]]
 - [[Ativo Circulante]]
