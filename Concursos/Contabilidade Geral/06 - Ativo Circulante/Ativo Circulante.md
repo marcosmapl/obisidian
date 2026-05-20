@@ -33,8 +33,8 @@ Art. 179, Lei 6.404/76, as contas do **ativo circulante** serão classificadas d
 ### Direitos Realizáveis
 
 - **Direitos Realizáveis Pessoais**: Créditos da Empresa com Terceiros
-	- Duplicatas a Receber
-	- Tributos a Recuperar
+	- Duplicatas a Receber (Clientes)
+	- Tributos a Recuperar/Compensar
 - **Direitos Realizáveis Reais**: Bens da Empresa
 	- Estoques
 

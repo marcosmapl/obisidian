@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Contabilidade Geral/12 - Patrimônio Líquido/Patrimônio Líquido.md",
+                "file": "Concursos/Direito/10 - Direito Tributário/04 - Competência Tributária/Competência Tributária — Conceito.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Patrimônio Líquido"
+              "title": "Competência Tributária — Conceito"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Bens",
+                "query": "Competência Tribu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -379,6 +379,16 @@
             "id": "01fabbbc136034ce",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "93bf19232c05d165",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -386,7 +396,7 @@
             }
           }
         ],
-        "currentTab": 26
+        "currentTab": 27
       }
     ],
     "direction": "horizontal",
@@ -406,42 +416,42 @@
   },
   "active": "3e39d14fa641d16f",
   "lastOpenFiles": [
-    "Concursos/Contabilidade Geral/12 - Patrimônio Líquido/MOC — Patrimônio Líquido.md",
+    "Concursos/Direito/10 - Direito Tributário/04 - Competência Tributária/MOC — Competência Tributária.md",
+    "Concursos/Direito/10 - Direito Tributário/04 - Competência Tributária/Classificação da Competência Tributária.md",
+    "Concursos/Direito/10 - Direito Tributário/04 - Competência Tributária/Competência Tributária — Conceito.md",
+    "Media/Pasted image 20260520160109.png",
+    "Concursos/Direito/10 - Direito Tributário/04 - Competência Tributária/Bitributação e Bis in Idem.md",
+    "Concursos/Auditoria/06 - Documentação de Auditoria/Documentação de Auditoria.md",
+    "Concursos/Auditoria/06 - Documentação de Auditoria/MOC — Documentação de Auditoria.md",
+    "Concursos/Auditoria/06 - Documentação de Auditoria/Arquivo Final.md",
+    "Concursos/Auditoria/06 - Documentação de Auditoria/Arquivo de Auditoria.md",
+    "Concursos/Auditoria/07 - Procedimentos de Auditoria/Amostragem em Auditoria.md",
     "Concursos/Contabilidade Geral/12 - Patrimônio Líquido/Patrimônio Líquido.md",
-    "Concursos/Contabilidade Geral/09 - Passivo/Passivo.md",
-    "Concursos/Contabilidade Geral/09 - Passivo/MOC — Passivo.md",
     "Concursos/Contabilidade Geral/05 - Ativo/Ativo.md",
-    "Concursos/Contabilidade Geral/06 - Ativo Circulante/MOC — Ativo Circulante.md",
-    "Concursos/Contabilidade Geral/07 - Estoques/MOC — Estoques.md",
-    "Concursos/Contabilidade Geral/11 - Passivo Não Circulante/MOC — Passivo Não Circulante.md",
-    "Concursos/Contabilidade Geral/10 - Passivo Circulante/Passivo Circulante.md",
-    "Concursos/Contabilidade Geral/08 - Ativo Não Circulante/MOC — Ativo Não Circulante.md",
-    "Concursos/Contabilidade Geral/09 - Passivo/Passivo Exigível.md",
-    "Concursos/Contabilidade Geral/09 - Passivo/Passivo Operacional.md",
-    "Concursos/Contabilidade Geral/09 - Passivo/Passivo Financeiro.md",
-    "Concursos/Contabilidade Geral/09 - Passivo/Passivo Não Exigível.md",
     "Concursos/Contabilidade Geral/11 - Passivo Não Circulante/Passivo Não Circulante.md",
+    "Concursos/Contabilidade Geral/10 - Passivo Circulante/Passivo Circulante.md",
+    "Concursos/Contabilidade Geral/09 - Passivo/Passivo.md",
     "Concursos/Contabilidade Geral/08 - Ativo Não Circulante/Ativo Não Circulante.md",
-    "Concursos/Contabilidade Geral/08 - Ativo Não Circulante/Ativo Imobilizado.md",
-    "Concursos/Contabilidade Geral/08 - Ativo Não Circulante/Investimentos (Ativo).md",
-    "Concursos/Contabilidade Geral/08 - Ativo Não Circulante/Ativo Realizável a Longo Prazo.md",
     "Concursos/Contabilidade Geral/06 - Ativo Circulante/Ativo Circulante.md",
-    "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/Divisões Didáticas.md",
-    "Concursos/Contabilidade Geral/05 - Ativo/MOC — Ativo.md",
-    "Concursos/Contabilidade Geral/06 - Ativo Circulante/Contas a Receber.md",
-    "Concursos/Contabilidade Geral/04 - Balanço Patrimonial (BP)/Balanço Patrimonial.md",
+    "Concursos/Contabilidade Geral/02 - Contas Contábeis/Teoria das Contas.md",
+    "Media/Pasted image 20260520093518.png",
+    "Concursos/Contabilidade Geral/02 - Contas Contábeis/Teoria Patrimonialista.md",
+    "Concursos/Contabilidade Geral/02 - Contas Contábeis/Teoria Materialista.md",
+    "Concursos/Contabilidade Geral/02 - Contas Contábeis/Despesa (Contabilidade).md",
+    "Concursos/Contabilidade Geral/02 - Contas Contábeis/Receita (Contabilidade).md",
+    "Concursos/Contabilidade Geral/02 - Contas Contábeis/Teoria Personalista.md",
+    "Concursos/Contabilidade Geral/02 - Contas Contábeis/MOC — Contas Contábeis.md",
+    "Concursos/Contabilidade Geral/03 - Escrituração Contábil/Plano de Contas.md",
+    "Concursos/Contabilidade Geral/02 - Contas Contábeis/Conta Contábil.md",
+    "Concursos/Contabilidade Geral/03 - Escrituração Contábil/Método das Partidas Dobradas.md",
     "Media/Pasted image 20260519091000.png",
     "Media/Pasted image 20260519090954.png",
-    "Concursos/Contabilidade Geral/13 - Demonstrações Contábeis/Normas Gerais das Demonstrações Contábeis.md",
-    "Concursos/Contabilidade Geral/13 - Demonstrações Contábeis/3 - DMPL/Demonstração das Mutações do Patrimônio Líquido (DMPL).md",
     "Media/Pasted image 20260518162922.png",
     "Media/Pasted image 20260518091532.png",
     "Media/Pasted image 20260517190357.png",
     "Media/Pasted image 20260517185656.jpg",
     "Media/Pasted image 20260517184856.png",
     "Media/Pasted image 20260517162155.png",
-    "Media/photo_2026-05-16_21-45-35.jpg",
-    "Media/photo_2026-05-16_21-32-41.jpg",
     "Concursos/Direito/04 - Direito Constitucional/16 - Tributação e Orçamento",
     "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/03 - Big Data"
   ]

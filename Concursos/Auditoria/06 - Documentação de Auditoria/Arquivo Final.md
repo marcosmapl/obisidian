@@ -10,7 +10,6 @@ updated: 2026-01-06T20:45:00
 > [!note] Arquivo Final
 > O auditor deve montar a documentação em um arquivo de auditoria e completar o processo administrativo de montagem do arquivo final de auditoria tempestivamente após a data do relatório.
 
-#audioria/arquivo_final
 
 > [!important] Prazo de 60 dias
 

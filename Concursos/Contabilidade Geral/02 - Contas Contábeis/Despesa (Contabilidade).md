@@ -12,14 +12,11 @@ updated: 2026-01-08T21:25:00
 
 > [!warning] Nem toda redução do **Patrimônio Líquido** é considerado Despesa, por exemplo, a saída de um sócio resulta na perda de **Capital Social** e não é despesa.
 
-#contabilidade/despesa
-
 ---
 ## Características
 
 - Consumo de Bens e Serviços no período
 - São esforços para obter Receitas
-
 ### Exemplos
 
 - Despesas Administrativas
@@ -31,4 +28,7 @@ updated: 2026-01-08T21:25:00
 ---
 ## Tópicos Relacionados
 
-- [[Receita (Contabilidade) — Conceito]]
+- [[Receita (Contabilidade)]]
+- [[Contas Devedoras]]
+- [[Contas de Resultado]]
+

@@ -10,8 +10,6 @@ updated: 2026-01-11T11:55:00
 > [!note] Teoria Materialista
 > Proposta por Fábio Besta, esta é uma **visão mais econômica** do que vem a ser a conta. As contas são **entradas e saídas de valores**, elementos materiais.
 
-#contabilidade/teoria_materialista
-
 ---
 ## Tipos de Contas
 
@@ -21,12 +19,11 @@ updated: 2026-01-11T11:55:00
 
 - [[Ativo]]
 - [[Passivo]]
-
 ### Contas Diferenciais
 
 - [[Patrimônio Líquido]]
-- [[Receita (Contabilidade) — Conceito]]
-- [[Despesa (Contabilidade) — Conceito]]
+- [[Receita (Contabilidade)]]
+- [[Despesa (Contabilidade)]]
 
 ---
 ## Tópicos Relacionados

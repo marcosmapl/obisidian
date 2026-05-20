@@ -21,12 +21,12 @@ updated: 2026-05-19T11:10:00
 ## Classificações
 
 Art. 178. (...) III – **Patrimônio Líquido**, dividido em:
-- Capital social
-- Reservas de capital
-- Ajustes de avaliação patrimonial
-- Reservas de lucros
-- Ações em tesouraria
-- Prejuízos acumulados
+- Capital social (C)
+- Reservas de capital (C)
+- Ajustes de avaliação patrimonial (D/C)
+- Reservas de lucros (C)
+- Ações em tesouraria (D)
+- LUCROS / REJUÍZOS ACUMULADO (C/D)
 
 > [!note] O manual FIPECAFI destaca que podem existir outras contas não previstas na Lei nº 6.404/76.
 
@@ -57,6 +57,7 @@ Art. 178. (...) III – **Patrimônio Líquido**, dividido em:
 > Parágrafo único. A reserva constituída com o produto da venda de partes beneficiárias poderá ser destinada ao resgate desses títulos.
 
 ### Ajustes de Avaliação Patrimonial
+
 
 ---
 ## Tópicos Relacionados

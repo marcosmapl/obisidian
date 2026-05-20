@@ -42,10 +42,10 @@ Participações permanentes em **OUTRAS SOCIEDADES** e os **DIREITOS DE QUALQUER
 
 Exemplos
 - Participações em Outras Empresas
-- Ações de empresas Coligadas
-- Ações de empresas Controladas
+- Ações de empresas Coligadas ou Controladas
+- ÁGIO SOBRE OS INVESTIMENTOS
 - Terrenos para Utilização Futura (terrenos não utilizados)
-- Imóvel para Aluguel*.
+- Imóvel para Aluguel* (PROPRIEDADES PARA INVESTIMENTO)
 
 > [!tip] Os **imóveis para aluguel** serão classificados no **IMOBILIZADO** quando o aluguel estiver relacionado às **atividades fins da empresa**. Caso contrário, classificamos como **INVESTIMENTOS** (propriedade para investimento).
 
@@ -82,10 +82,10 @@ Exemplos:
 > - Adquirido -> Ativo Intangível
 
 Exemplos:
-- Direitos Autorais;
-- Marcas e Patentes;
+- DIREITOS AUTORAIS;
+- MARCAS, DIREITOS E PATENTES INDUSTRIAIS
 - Fundo de Comércio (Goodwill);
-- Sistemas Aplicativos (Software).
+- SOFTWARES.
 
 ---
 ## Tópicos Relacionados

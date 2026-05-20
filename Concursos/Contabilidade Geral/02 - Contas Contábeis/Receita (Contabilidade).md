@@ -12,20 +12,18 @@ updated: 2026-01-08T21:25:00
 
 > [!warning] Nem todo **aumento do Patrimônio Líquido** é considerado como **Receita**, por exemplo, a **Integralização de Capital** pela entrada de um novo sócio ou constituição de empresa, não é Receita.
 
-#contabilidade/receita
-
 ---
 ## Características
 
 - Representam aumentos nos ativos da empresa (Dinheiro ou Bens)
-
 ### Exemplos
 
 - Receita de Vendas
 - Receitas Financeiras
 - Receitas de Serviços
-
 ---
 ## Tópicos Relacionados
 
-- [[Despesa (Contabilidade) — Conceito]]
+- [[Despesa (Contabilidade)]]
+- [[Contas Credoras]]
+- [[Contas de Resultado]]

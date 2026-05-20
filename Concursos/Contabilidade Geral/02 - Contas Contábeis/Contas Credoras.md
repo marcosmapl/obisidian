@@ -28,6 +28,6 @@ São consideradas Contas **Credoras**:
 
 - [[Passivo]]
 - [[Patrimônio Líquido]]
-- [[Receita (Contabilidade) — Conceito]]
+- [[Receita (Contabilidade)]]
 - [[Contas Patrimoniais]]
 - [[Contas Devedoras]]

@@ -12,11 +12,15 @@ updated: 2026-05-19T11:10:00
 ---
 ## Exemplos
 
-- Fornecedores  
+- PESSOAL A PAGAR  
 - Empréstimos e financiamentos de curto prazo  
-- Obrigações fiscais  
-- Salários e encargos sociais a pagar  
-- Dividendos a pagar  
+- JUROS E ENCARGOS A PAGAR DE EMPRÉSTIMOS E FINANCIAMENTOS A CURTO PRAZO
+- DUPLICATAS DESCONTADAS
+- OBRIGAÇÕES FISCAIS A CURTO PRAZO
+- PROVISÕES A CURTO PRAZO
+- ADIANTAMENTOS DE CLIENTES
+- DEBÊNTURES E OUTROS TÍTULOS DE DIVIDA A CURTO PRAZO
+- ÁGIO NA EMISSÃO DE DEBÊNTURES
 
 ---
 ## Tópicos Relacionados

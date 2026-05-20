@@ -37,6 +37,16 @@ updated: 2026-05-12T06:25:00
 
 ![[Pasted image 20260110082408.png]]
 
+### Amostragem por Unidade Monetária
+
+Técnicas de Amostragem para Auditorias (TCU)
+
+**7.1. Metodologia da Amostragem por Unidade Monetária** 
+A Amostragem por Unidade Monetária (AUM) também é uma amostragem por atributo baseada na distribuição hipergeométrica. Essa técnica permite estimar o montante monetário de uma dada população. Trata-se de uma técnica geralmente utilizada em auditorias financeiras, que têm por objetivo verificar se os registros contábeis são fidedignos.
+
+> [!tip] Amostragem de Unidade Monetária
+> Distorção tolerável é um valor monetário defnido pelo auditor para obter um nível apropriado de segurança de que esse valor monetário não seja excedido pela distorção rela na população.
+
 ---
 ## Risco de Amostragem
 

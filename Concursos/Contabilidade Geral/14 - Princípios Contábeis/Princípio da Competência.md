@@ -16,5 +16,5 @@ updated: 2026-01-16T21:15:00
 
 - [[Regime de Competência]]
 - [[Escrituração Contábil]]
-- [[Despesa (Contabilidade) — Conceito]]
-- [[Receita (Contabilidade) — Conceito]]
+- [[Despesa (Contabilidade)]]
+- [[Receita (Contabilidade)]]

@@ -2,26 +2,27 @@
 disciplina: Contabilidade Geral
 tópico: Técnica Contábil
 created: 2026-01-13T20:45:00
-updated: 2026-01-13T20:45:00
+updated: 2026-05-20T09:20:00
 ---
 
 ## Definição
 
-> [!note] Plano de Contas
-> Conjunto de **todas as contas existentes** dentro de uma entidade para **uniformizar os registros contábeis**. (item 4 da Resolução do CFC 1330/2021)
+> [!note] Resolução CFC 1330/2021
+> Item 4. Plano de contas é conjunto de **todas as contas existentes** dentro de uma entidade para **uniformizar os registros contábeis**.
 
 Ele funciona como um **mapa da contabilidade**, garantindo **uniformidade**, **clareza** e **consistência** na escrituração.
 
 > [!important] NÃO é obrigatório para as empresas!
 
-> [!important] Deve ser adequado para cada tipo de empresa, de acordo com as necessidades e peculiaridades.
+> [!important] Deve ser **flexível e adequado** para cada tipo de empresa, de acordo com as **necessidades** e **peculiaridades**.
 
 ---
 ## Componentes Essenciais
 
 ### Elenco das Contas
-- Listagem padronizada de todas as contas contábeis de uma empresa;
-- Envolve **títulação (nome)** e o **código** da conta; 
+- Relação de contas (intitulação)
+- Também chamado de **Rol de Contas**
+- Envolve **títulação (nome)** e o **código** da conta;
 ### Manual de Contas
 - Apresenta **informações minuciosas** (**função** e **funcionamento**) de cada conta
 - **Função da Conta**: identifica se a conta é **patrimonial** (ativo, passivo ou patrimônio líquido) ou de **resultado** (receita ou despesa)
@@ -30,7 +31,6 @@ Ele funciona como um **mapa da contabilidade**, garantindo **uniformidade**, **c
 ### Modelo de Demonstrações Contábeis (Lançamento)
 
 ![[photo_2026-05-16_21-45-35.jpg]]
-
 
 ---
 ## Estrutura
@@ -70,4 +70,6 @@ Para ser considerado como um plano de excelência, o plano de contas deve:
 ## Tópicos Relacionados
 
 - [[Escrituração Contábil]]
+- [[Conta Contábil]]
+
 
