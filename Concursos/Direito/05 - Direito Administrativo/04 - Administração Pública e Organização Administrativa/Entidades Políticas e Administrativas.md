@@ -2,20 +2,37 @@
 disciplina: Direito Administrativo
 tópico: Organização Administrativa
 created: 2025-12-11T14:59:00
+updated: 2026-05-21T16:40:00
 ---
 
 
-A Lei 9.784/1999 define entidade como “a unidade de atuação dotada de personalidade jurídica” (art. 1º, § 2º, II). 
+A Lei 9.784/1999 define entidade como “a unidade de atuação dotada de **PERSONALIDADE JURÍDICA PRÓPRIA**” (art. 1º, § 2º, II). 
 
-#direito/administrativo/entidade
+Possuir **PERSONALIDADE JURÍDICA** significa que o ente pode, em nome próprio, adquirir **DIREITOS** e contrair **OBRIGAÇÕES**.
 
-Possuir personalidade jurídica significa que o ente pode, em nome próprio, adquirir **direitos** e contrair **obrigações**.
+![[Pasted image 20260521164052.png]]
 
-[^2]As entidades dividem-se em políticas e administrativas. Aquelas, também chamadas de entidades primárias. As entidades políticas possuem capacidade de:
-- auto-organização
-- autogoverno
-- autoadministração
-possuindo, portanto, autonomia plena.
+As entidades dividem-se em **POLÍTICAS** e **ADMINISTRATIVAS**
+
+### Entidades Políticas
+- Também chamados de **Entes políticos** ou **Entes federativos**
+- Integram a **estrutura do Estado** e que recebem suas competências diretamente da Constituição
+- São a **UNIÃO**, os **ESTADOS**, o **DISTRITO FEDERAL** e os **MUNICÍPIOS**.
+- Possuem **AUTONOMIA POLÍTICA PLENA**
+- Possuem capacidade de:
+	- **AUTO-ORGANIZAÇÃO**:  é a capacidade do ente para se organizar na **forma de sua legislação própria**; representa a **capacidade de LEGISLAR**.
+	- **AUTOGOVERNO**: é a capacidade que as entidades políticas possuem para **organizar os seus Poderes Executivo, Legislativo e Judiciário** (CF, arts. 27, 28 e 125);
+	- **AUTOADMINISTRAÇÃO**: capacidade para **prestar os seus serviços** (de saúde, educação, assistência etc.), conforme **distribuição de competências estabelecida** na CF (arts. 18 e 25 a 28).****
+
+### Entidades Administrativas
+
+- São **centros especializados**, que podem ser de direito **PÚBLICO** ou **PRIVADO**.
+- A criação ocorre pela edição de **LEI**
+- Exemplos:
+	- **AUTARQUIAS**
+	- **FUNDAÇÕES PÚBLICAS**
+	- **EMPRESAS PÚBLICAS**
+	- **SOCIEDADES DE ECONOMIA MISTA**
 
 > [!NOTE] Entidades Políticas
 > São entidades políticas a União, os estados, o Distrito Federal e os municípios.

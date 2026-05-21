@@ -2,15 +2,16 @@
 disciplina: Direito Administrativo
 tópico: Organização Administrativa
 created: 2025-12-11T14:59:00
+updated: 2026-05-21T14:50:00
 ---
 
-Para o Direito Administrativo, cabe o estudo da **organização administrativa**, matéria que estuda a organização das entidades estatais, das suas autarquias e das empresas estatais.
 
-#direito/administrativo/organizacao_administrativa
+[^1]A atuação da Administração e do Governo ocorre por meio de :
+- **Entidades** (pessoas jurídicas)
+- **Órgãos** (centros de decisão)
+- **Agentes** (pessoas físicas investidas em cargos e funções). 
 
-[^1]A atuação da Administração e do Governo ocorre por meio de entidades (pessoas jurídicas), de órgãos (centros de decisão) e de seus agentes (pessoas físicas investidas em cargos e funções). 
-
-![[atuação-estado.png]]
+![[Pasted image 20260521163744.png]]
 
 ---
 ## Tópicos Relacionados
