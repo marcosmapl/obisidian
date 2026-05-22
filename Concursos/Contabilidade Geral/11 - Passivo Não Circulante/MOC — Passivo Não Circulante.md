@@ -1,13 +1,13 @@
 ---
 disciplina: Contabilidade Geral
-tópico: Passivo
+tópico: Passivo Não Circulante
 created: 2025-12-23T00:00:00
 updated: 2026-01-07T11:50:00
 ---
 
 ## Passivo Não Circulante
 
-- [[Passivo Não Circulante — Conceito]]
+- [[Passivo Não Circulante]]
 - [[Fornecedores de Longo Prazo]]
 - [[Empréstimos e Financiamentos de Longo Prazo]]
 - [[Debêntures]]

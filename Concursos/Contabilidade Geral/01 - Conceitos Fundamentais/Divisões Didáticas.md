@@ -2,9 +2,9 @@
 disciplina: Contabilidade Geral
 tópico: Conceitos Introdutórios
 created: 2025-12-11T14:34:00
-node_size: "10"
+updated: 2026-05-19T09:30:00
 ---
-## 🔸 Contabilidade Teórica
+## Contabilidade Teórica
 
 > **Ramo da Contabilidade** voltado ao **estudo científico** da Contabilidade, analisando e sistematizando seus **princípios, teorias, conceitos, postulados e axiomas**.
 
@@ -18,10 +18,8 @@ node_size: "10"
 
 > A Contabilidade Teórica **define o “porquê”** da Contabilidade.
 
-#contabilidade/ramo/teórico
-
 ---
-## 🔸 Contabilidade Prática
+## Contabilidade Prática
 
 > **Ramo da Contabilidade** voltado à **aplicação dos conceitos teóricos**, por meio do **registro, classificação, mensuração e evidenciação** dos fatos contábeis, conforme a legislação e as normas vigentes.
 
@@ -34,10 +32,4 @@ node_size: "10"
 
 > A Contabilidade Prática **define o “como”** da Contabilidade.
 
-#contabilidade/ramo/prático
-
 ---
-## 🧭 Navegação
-
-- ⬅️ [[Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais]]
-- 📊 [[Contabilidade Geral]]

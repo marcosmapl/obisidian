@@ -25,7 +25,7 @@ updated: 2025-12-29T11:49:00
 
 - [[Bens — Conceito]]
 - [[Bens Tangíveis — Conceito]]
-- [[Ativo — Conceito]]
+- [[Ativo]]
 - [[Estoques — Conceito]]
 
 ---

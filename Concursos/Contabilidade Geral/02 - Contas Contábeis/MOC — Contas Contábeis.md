@@ -7,9 +7,9 @@ updated: 2026-01-09T14:52:00
 
 ## Índice
 
-- [[Conta Contábil — Conceito]]
+- [[Conta Contábil]]
 - [[Principais Contas Utilizadas]]
-- [[Receita (Contabilidade) — Conceito]]
-- [[Despesa (Contabilidade) — Conceito]]
+- [[Receita (Contabilidade)]]
+- [[Despesa (Contabilidade)]]
 - [[Teoria das Contas]]
 

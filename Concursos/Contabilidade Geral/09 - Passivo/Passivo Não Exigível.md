@@ -12,8 +12,6 @@ updated: 2026-01-07T11:50:00
 
 > [!important] É representado pelo **Patrimônio Líquido**, resultante da diferença entre **Ativo** e **Passivo Exigível**.
 
-#contabilidade/passivo_nao_exigivel
-
 ---
 ## Exemplos
 
@@ -27,8 +25,8 @@ updated: 2026-01-07T11:50:00
 ---
 ## Tópicos Relacionados
 
-- [[Passivo — Conceito]]
-- [[Patrimônio Líquido — Conceito]]
-- [[Passivo Exigível — Conceito]]
-- [[Passivo Circulante — Conceito]]
-- [[Passivo Não Circulante — Conceito]]
+- [[Passivo]]
+- [[Patrimônio Líquido]]
+- [[Passivo Exigível]]
+- [[Passivo Circulante]]
+- [[Passivo Não Circulante]]

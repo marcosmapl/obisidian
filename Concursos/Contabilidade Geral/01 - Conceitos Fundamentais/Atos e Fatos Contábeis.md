@@ -91,6 +91,6 @@ C - Caixa (ativo) .................... R$ 1.000,00
 ---
 ## Tópicos Relacionados
 
-- [[Receita (Contabilidade) — Conceito]]
-- [[Despesa (Contabilidade) — Conceito]]
+- [[Receita (Contabilidade)]]
+- [[Despesa (Contabilidade)]]
 - [[Superveniência e Insubsistência — Conceito]]

@@ -12,24 +12,26 @@ updated: 2026-01-11T11:55:00
 
 > [!important] Atenção! Na contabilidade, **hoje**, **utilizamos essencialmente a teoria patrimonialista**.
 
-#contabilidade/teoria_patrimonialista
-
 ---
 ## Tipos de Contas
 
 ### Contas Patrimoniais
 
-- [[Ativo — Conceito]]
-- [[Passivo — Conceito]]
-- [[Patrimônio Líquido — Conceito]]
+- [[Ativo]]
+- [[Passivo]]
+- [[Patrimônio Líquido]]
 
 ### Contas de Resultado
 
-- [[Receita (Contabilidade) — Conceito]]
-- [[Despesa (Contabilidade) — Conceito]]
+- [[Receita (Contabilidade)]]
+- [[Despesa (Contabilidade)]]
 
 ---
 ## Tópicos Relacionados
 
 - [[Teoria Materialista]]
 - [[Teoria Personalista]]
+- [[Conta Contábil]]
+- [[Contas Patrimoniais]]
+- [[Contas de Resultado]]
+

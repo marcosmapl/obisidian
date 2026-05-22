@@ -1,11 +1,8 @@
 ---
 disciplina: Contabilidade Geral
-tópico: Demonstração dos Fluxos de Caixa (DFC)
+tópico: Demonstrações Contábeis
 created: 2025-12-23T00:00:00
-progresso: 0
-node_size: "10"
-tags:
-  - contabilidade/dfc
+updated: 2026-05-19T08:45:00
 ---
 
 ## Índice
@@ -18,8 +15,6 @@ tags:
 - [[Método Indireto]]
 - [[Estrutura de Apresentação da DFC]]
 - [[Conciliação entre Lucro e Caixa]]
-
-#contabilidade/dfc
 
 ---
 ## Estrutura da DFC

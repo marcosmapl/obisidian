@@ -20,6 +20,6 @@ updated: 2026-01-08T21:42:00
 ---
 ## Contas Patrimoniais
 
-- [[Ativo — Conceito]]
-- [[Passivo — Conceito]]
-- [[Patrimônio Líquido — Conceito]]
+- [[Ativo]]
+- [[Passivo]]
+- [[Patrimônio Líquido]]

@@ -2,15 +2,13 @@
 disciplina: Contabilidade Geral
 tópico: Conceitos Fundamentais
 created: 2025-12-29T11:31:00
-updated: 2026-01-07T11:45:00
+updated: 2026-05-20T10:00:00
 ---
 
-## 🔸 Definição
+## Definição
 
 > [!note] Passivo Não Circulante
 > São as **obrigações exigíveis após o término do exercício social seguinte** (longo prazo).
-
-#contabilidade/passivo_não_circulante 
 
 ---
 ## Exemplos
@@ -23,6 +21,6 @@ updated: 2026-01-07T11:45:00
 ---
 ## Tópicos Relacionados
 
-- [[Passivo — Conceito]]
-- [[Passivo Circulante — Conceito]]
+- [[Passivo]]
+- [[Passivo Circulante]]
 - [[Obrigações — Conceito]]

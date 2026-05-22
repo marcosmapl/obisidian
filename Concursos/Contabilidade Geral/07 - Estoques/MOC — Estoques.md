@@ -18,8 +18,6 @@ updated: 2026-01-07T11:55:00
 - [[Valor Realizável Líquido]]
 - [[Perdas e Ajustes de Estoques]]
 
-#contabilidade/estoques
-
 ---
 ## Métodos de Avaliação
 

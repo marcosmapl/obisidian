@@ -12,8 +12,6 @@ updated: 2026-01-07T11:55:00
 
 > [!important] Decorre, principalmente, de **empréstimos, financiamentos e títulos de dívida**, podendo ser classificado no **Passivo Circulante** ou **Não Circulante**, conforme o prazo.
 
-#contabilidade/passivo_financeiro
-
 ---
 ## Exemplos
 
@@ -27,7 +25,7 @@ updated: 2026-01-07T11:55:00
 ---
 ## Tópicos Relacionados
 
-- [[Passivo Circulante — Conceito]]
-- [[Passivo Não Circulante — Conceito]]
-- [[Passivo Exigível — Conceito]]
-- [[Passivo Operacional — Conceito]]
+- [[Passivo Circulante]]
+- [[Passivo Não Circulante]]
+- [[Passivo Exigível]]
+- [[Passivo Operacional]]

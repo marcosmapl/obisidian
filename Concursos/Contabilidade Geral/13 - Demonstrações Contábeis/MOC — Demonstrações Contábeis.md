@@ -1,11 +1,13 @@
 
 ## Índice
 
-### 1. [[Demonstração do Resultado do Exercício (DRE)]]
+### 1. [[Normas Gerais das Demonstrações Contábeis]]
 
-### 2. [[MOC — DLPA]]
+### 2. [[Demonstração do Resultado do Exercício (DRE)]]
 
-### 3. [[MOC — DMPL]]
+### 3. [[Demonstração de Lucros ou Prejuízos Acumulados (DLPA)]]
 
-### 4. [[MOC — DFC]]
+### 4. [[Demonstração das Mutações do Patrimônio Líquido (DMPL)]]
+
+### 5. [[Demonstração dos Fluxos de Caixa (DFC)]]
 

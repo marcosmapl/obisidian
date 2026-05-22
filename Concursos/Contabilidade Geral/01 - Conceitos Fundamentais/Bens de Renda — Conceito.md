@@ -20,6 +20,6 @@ updated: 2026-05-18T17:00:00
 - [[Bens Numerários — Conceito]]
 - [[Bens de Venda — Conceito]]
 - [[Bens de Uso — Conceito]]
-- [[Ativo — Conceito]]
+- [[Ativo]]
 
 

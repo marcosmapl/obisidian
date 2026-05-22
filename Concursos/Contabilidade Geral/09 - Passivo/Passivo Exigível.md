@@ -12,8 +12,7 @@ updated: 2026-01-07T11:50:00
 
 > [!important] É composto pelo **Passivo Circulante** + **Passsivo Não Circulante**
 
-
-#contabilidade/passivo_exigivel
+> [!tip] Também conhecido como **Capital de Terceiros**
 
 ---
 ## Exemplos
@@ -28,8 +27,8 @@ updated: 2026-01-07T11:50:00
 ---
 ## Tópicos Relacionados
 
-- [[Passivo — Conceito]]
-- [[Passivo Circulante — Conceito]]
-- [[Passivo Não Circulante — Conceito]]
-- [[Passivo Não Exigível — Conceito]]
+- [[Passivo]]
+- [[Passivo Circulante]]
+- [[Passivo Não Circulante]]
+- [[Passivo Não Exigível]]
 

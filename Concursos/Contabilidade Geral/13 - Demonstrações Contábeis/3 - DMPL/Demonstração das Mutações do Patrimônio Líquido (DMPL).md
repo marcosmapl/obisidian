@@ -1,11 +1,8 @@
 ---
 disciplina: Contabilidade Geral
-tópico: Demonstração das Mutações do Patrimônio Líquido (DMPL)
+tópico: Demonstrações Contábeis
 created: 2025-12-23T00:00:00
-progresso: 0
-node_size: "10"
-tags:
-  - contabilidade/dmpl
+updated: 2026-05-19T08:45:00
 ---
 
 ## Índice

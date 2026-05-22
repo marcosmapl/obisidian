@@ -27,7 +27,7 @@ updated: 2026-05-18T16:55:00
 ---
 ## Tópicos Relacionados
 
-- [[Ativo — Conceito]]
+- [[Ativo]]
 - [[Direitos — Conceito]]
 - [[Obrigações — Conceito]]
 - [[Patrimônio — Conceito]]

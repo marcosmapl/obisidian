@@ -1,6 +1,6 @@
 ---
 disciplina: Contabilidade Geral
-tópico: Demonstração do Resultado do Exercício (DRE)
+tópico: Demonstrações Contábeis
 created: 2025-12-23T00:00:00
 updated: 2026-03-15T13:45:00
 ---

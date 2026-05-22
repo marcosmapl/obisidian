@@ -29,7 +29,7 @@ updated: 2025-12-29T15:50:00
 ---
 ## 🔸Links relacionados
 
-- [[Ativo — Conceito]]
+- [[Ativo]]
 - [[Bens — Conceito]]
 - [[Obrigações — Conceito]]
 - [[Patrimônio — Conceito]]

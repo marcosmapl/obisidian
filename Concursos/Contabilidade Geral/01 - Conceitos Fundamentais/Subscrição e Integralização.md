@@ -23,4 +23,4 @@ updated: 2026-03-04T16:10:00
 ---
 ## Tópicos Relacionados
 
-- [[Patrimônio Líquido — Conceito]]
+- [[Patrimônio Líquido]]

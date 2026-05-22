@@ -31,7 +31,7 @@ updated: 2025-12-29T15:31:00
 ## 🔗Links relacionados
 
 - [[Bens — Conceito]]
-- [[Passivo — Conceito]]
+- [[Passivo]]
 - [[Patrimônio — Conceito]]
 - [[Direitos — Conceito]]
 
