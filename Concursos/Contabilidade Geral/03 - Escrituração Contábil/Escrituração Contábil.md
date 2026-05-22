@@ -2,30 +2,34 @@
 disciplina: Contabilidade Geral
 tópico: Técnica Contábil
 created: 2025-12-19T16:01:00
-updated: 2026-01-13T20:30:00
+updated: 2026-05-21T20:45:00
 ---
 
 ## Conceito
 
-> [!note] Técnica contábil para o **registro sistemático e cronológico dos fatos contábeis**, dentro de um **período contábil**.
+> [!note] Resolução CFC nº 1.330/2011 
+> Técnica contábil para o **registro sistemático e cronológico dos fatos contábeis**, dentro de um **período contábil**.
 
 > [!tip] Fundamenta todas as demais técnicas.
 
-#contabilidade/tecnicas_contabil/escrituracao
-
+> [!important] Dispensados da Escrituração Contábil
+> São dispensados:
+> - Produtor rural
+> - Pequeno empresário (microempreendedor individual - MEI)
+ 
 ---
 ## Normas de Execução
 
 - Em **idioma e moeda** corrente nacionais;
 - Em **forma contábil**;
 - Em **ordem cronológica de dia, mês e ano**;
-- Com **ausência de  espaços em branco, entrelinhas, borrões, rasuras ou emendas**;
+- Sem **espaços em branco, entrelinhas, borrões, rasuras ou emendas**;
 - Com **base em documentos comprobatórios**, de origem **interna ou externa**;
 
 ![[Pasted image 20260118120721.png]]
 
 ---
-## Lançamento
+## Lançamento Contábil
 
 ### Definição
 
@@ -43,7 +47,7 @@ updated: 2026-01-13T20:30:00
 ### Elementos Essenciais do Lançamento
 
 A escrituração deve conter, no mínimo:
-- **Data do registro contábil**, ou seja, a data em que o fato contábil ocorreu
+- **Local e Data do registro contábil**, ou seja, a data em que o fato contábil ocorreu
 - **Conta Devedora**
 - **Conta Credora**
 - **Histórico** que represente a essência econômica da transação ou o **Código de Histórico** padronizado, neste caso baseado em tabela auxiliar inclusa em livro próprio
@@ -61,10 +65,20 @@ A escrituração deve conter, no mínimo:
 > Ou seja, Débito em Mercadorias e Crédito em Caixa no valor de R$ 100
 
 ---
-## Prova
+## Erros na Escrituração
 
-> [!warning] O objetivo principal da Escrituração pode ser entendido como **registrar todas as transações financeiras de uma organização.** 
-> #questão/4001407701
+Os principais erros de escrituração (**lançamento**) no **livro Diário** são:
+- Título;
+- Valor;
+- Inversão;
+- Duplo registro;
+- Omissão;
+- Histórico incorreto.
+
+O lançamento realizado de forma errônea pode ser corrigido (retificado) por meio de:
+- Estorno;
+- Transferência;
+- Complementação.
 
 ---
 ## Tópicos relacionados
@@ -72,4 +86,7 @@ A escrituração deve conter, no mínimo:
 - [[Auditoria (Técnica Contábil)]]
 - [[Análise das Demonstrações Contábeis (Técnica Contábil)]]
 - [[Elaboração das Demonstrações Contábeis]]
+- [[Fórmulas de Lançamento]]
+- [[Balancetes de Verificação]]
+
 

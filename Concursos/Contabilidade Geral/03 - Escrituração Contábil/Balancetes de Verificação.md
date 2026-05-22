@@ -2,7 +2,7 @@
 disciplina: Contabilidade Geral
 tópico: Escrituração Contábil
 created: 2026-03-12T20:45:00
-updated: 2026-02-12T20:45:00
+updated: 2026-05-21T21:45:00
 ---
 
 ## Conceito
@@ -24,11 +24,15 @@ updated: 2026-02-12T20:45:00
 - Saldo Final **Devedor**
 - Saldo Final **Credor**
 
+![[Pasted image 20260521214605.png]]
+
 ### Quatro Colunas (4)
 
 - Saldo **Anterior**
 - Movimento no **Período** (Devedor/Credor)
 - Saldo **Atual**
+
+![[Pasted image 20260521214630.png]]
 
 ### Seis Colunas (6)
 
@@ -36,12 +40,16 @@ updated: 2026-02-12T20:45:00
 - **Movimento** no Período (Devedor/Credor)
 - Saldo **Atual** (Devedor/Credor)
 
+![[Pasted image 20260521214700.png]]
+
 ### Oito Colunas (8)
 
 - Saldo **Anterior** (Devedor/Credor)
 - **Movimento** no Período (Devedor/Credor)
 - Saldo no **Período** (Devedor/Credor)
 - Saldo **Atual** (Devedor/Credor)
+
+![[Pasted image 20260521214721.png]]
 
 ---
 ## Tópicos Relacionados

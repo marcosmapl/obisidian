@@ -2,15 +2,13 @@
 disciplina: Contabilidade Geral
 tópico: Escrituração
 created: 2026-01-13T21:24:00
-updated: 2026-01-13T21:25:00
+updated: 2026-05-21T20:55:00
 ---
 
 ## Conceito
 
 > [!note] Livro Diário
 > É o livro contábil **Principal e Obrigatório**, destinado ao **registro cronológico de todos os fatos contábeis** que afetam o patrimônio da entidade.
-
-#contabilidade/livro_diario
 
 ---
 ## Características Principais

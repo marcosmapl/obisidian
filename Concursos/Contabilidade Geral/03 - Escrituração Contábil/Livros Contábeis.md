@@ -7,10 +7,15 @@ updated: 2026-01-13T20:55:00
 
 ## Conceito
 
-> [!note] Livros Contábeis
-> São os **instrumentos formais utilizados para o registro sistemático, cronológico e organizado dos fatos contábeis** de uma entidade, com o objetivo de evidenciar sua situação patrimonial, financeira e o resultado das operações.
-
-Constituem a **base material da escrituração contábil**.
+> [!note] Lei nº 6.404/76
+> Art. 100 - a companhia deve ter:
+> - I - o livro de Registro de Ações Nominativas.
+> - II - o livro de "Transferência de Ações Nominativas".
+> - III - o livro de "Registro de Partes Beneficiárias Nominativas" e o de "Transferência de Partes Beneficiárias Nominativas".
+> - IV - o livro de Atas das Assembleias Gerais.
+> - V - o livro de Presença dos Acionistas.
+> - VI - os livros de Atas das Reuniões do Conselho de Administração, se houver, e de Atas das Reuniões de Diretoria.
+> - VII - o livro de Atas e Pareceres do Conselho Fiscal.
 
 ---
 ## Classificação dos Livros Contábeis
@@ -24,7 +29,6 @@ São exigidos pela legislação comercial e societária.
 ### 2. Livros Facultativos
 
 Utilizados conforme a necessidade da entidade, para melhor controle gerencial.
-
 - Livro Caixa
 - Livros auxiliares de clientes, fornecedores, estoques, etc.
 

@@ -2,7 +2,7 @@
 disciplina: Contabilidade Geral
 tópico: Escrituração Contábil
 created: 2026-01-18T14:40:00
-updated: 2026-01-18T14:40:00
+updated: 2026-05-21T21:30:00
 ---
 
 ## 1º Fórmula
@@ -74,4 +74,4 @@ C - Fornecedores               100
 ## Tópicos Relacionados
 
 - [[Escrituração Contábil]]
-- [[Balanço Patrimonial — Conceito]]
+- [[Balanço Patrimonial]]

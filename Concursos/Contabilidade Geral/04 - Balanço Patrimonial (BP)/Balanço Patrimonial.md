@@ -2,9 +2,9 @@
 disciplina: Contabilidade Geral
 tópico: Balanço Patrimonial (BP)
 created: 2025-12-23T00:00:00
-updated: 2026-01-05T22:40:00
+updated: 2026-05-21T22:40:00
 ---
-****
+
 ## Conceito
 
 > [!note] Balanço Patrimonial
@@ -29,6 +29,9 @@ Art. 178 - (...) as contas serão classificadas segundo os **elementos do patrim
 
 Art. 178, § 1º No ativo, as contas serão dispostas em **ORDEM DESCRESCENTE DE GRAU DE LIQUIDEZ** dos elementos nelas registrados, nos seguintes grupos:
 - I – **ATIVO CIRCULANTE**
+	- Disponibilidades
+	- Direitos realizáveis no curso do exercício social
+	- Aplicações de recursos em despesas do exercício seguinte
 - II – **ATIVO NÃO CIRCULANTE**
 	- **REALIZÁVEL DE LONGO PRAZO**
 	- **INVESTIMENTOS**

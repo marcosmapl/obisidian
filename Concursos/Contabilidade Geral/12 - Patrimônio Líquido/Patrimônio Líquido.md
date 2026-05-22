@@ -58,6 +58,45 @@ Art. 178. (...) III – **Patrimônio Líquido**, dividido em:
 
 ### Ajustes de Avaliação Patrimonial
 
+ > [!note] Lei nº 6.404/76
+>  Art. 182, §3º - Serão classificados como **Ajustes de Avaliação Patrimonial**, contrapartidas de aumentos ou diminuições de valor dos ativos/passivos, enquanto não computadas no **resultado do exercício**, em decorrência da sua avaliação a **Valor Justo**
+
+Ajustes aplicados nas reorganizações societárias:
+- Incorporação
+- Fusão
+- Cisão
+
+### Ações em Tesouraria
+
+Trata-se de uma conta do PL utilizada quando a empresa adquire as suas próprias ações, com o objetivo de elevar o preço delas e realizar no futuro uma nova venda, de forma a obter lucro na transação. 
+
+Também tem o objetivo de concentrar as ações, quando estas estão muito pulverizadas nas mãos de um grande número de acionistas.
+
+> [!important] O limite do saldo da conta **Ações em Tesouraria** é o saldo de **Lucros Acumulados** e **Reservas**, exceto a **Reserva Legal**.
+
+### Reservas de Lucros
+
+> [!note] Lei nº 6.404/76
+> Art. 182, §4º - Serão classificadas como **Reservas de Lucros** as contas constituídas pela **apropriação de lucros da companhia**.
+
+As reservas de lucros previstas na Lei n. 6.404/76 são as seguintes:
+- Reserva Legal;
+- Reservas Estatutárias;
+- Reservas para Contingências;
+- Reserva de Incentivos Fiscais;
+- Reserva de Retenção de Lucros (de Lucros para Expansão);
+- Reserva de Lucros a Realizar;
+- Reserva Especial de Dividendo Obrigatório Não Distribuído;
+- Reserva Específica de Prêmio de Debêntures
+
+### Lucros ou Prejuízos Acumulados
+
+Segundo o Manual FIPECAFI, a partir da vigência da Lei n. 11.638/07 foi extinta a possibilidade de manutenção e apresentação de saldos a título de Lucros Acumulados no Balanço Patrimonial, mas apenas para o caso das sociedades por ações, o que não significa que a referida conta deverá ser eliminada dos
+planos de contas dessas entidades.
+
+A conta Lucros ou Prejuízos Acumulados continuará sendo utilizada nos planos de contas, e seu uso continuará a ser feito para receber o resultado do exercício, as reversões de determinadas reservas, os ajustes de exercícios anteriores, para distribuir os resultados nas suas várias formas e destinar valores para reservas de lucros. 
+
+Mas, no balanço patrimonial, só poderá aparecer quando tiver saldo negativo, e será denominada de Prejuízos Acumulados. 
 
 ---
 ## Tópicos Relacionados

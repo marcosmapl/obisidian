@@ -2,15 +2,13 @@
 disciplina: Contabilidade Geral
 tópico: Escrituração
 created: 2026-01-13T21:25:00
-updated: 2026-01-23T16:30:00
+updated: 2026-05-21T21:20:00
 ---
 
 ## Conceito
 
 > [!note] Livro Razão
 > É o **livro contábil** que registra, de forma **sistemática e individualizada**, a movimentação e o saldo de **cada conta contábil**, a partir dos lançamentos do Livro Diário.
-
-#contabilidade/livro_razao
 
 ---
 ## Características Principais
@@ -36,15 +34,13 @@ updated: 2026-01-23T16:30:00
 ---
 ## Obrigatoriedade
 
-- **Obrigatório na prática contábil** e para fins fiscais;
-- Essencial para controle patrimonial e gerencial.
+- **Facultativo** pela legislação societária
+- **Obrigatório** para entidades obrigadas a declarar o IR com base no Lucro Real.
 
 ---
-## Atenção para Provas
+## Finalidade
 
-- Não substitui o **Livro Diário**;
-- Organiza informações **por conta**;
-- Fundamenta o **Balanço Patrimonial** e a **DRE**.
+A finalidade do livro Razão é **demonstrar a movimentação analítica das contas** escrituradas no diário e constantes do balanço.
 
 ---
 ## Tópicos Relacionados

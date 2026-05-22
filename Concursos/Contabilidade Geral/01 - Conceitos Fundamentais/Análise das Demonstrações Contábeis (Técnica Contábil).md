@@ -2,7 +2,7 @@
 disciplina: Contabilidade Geral
 tópico: Técnica Contábil
 created: 2025-12-19T16:08:00
-updated: 2026-01-13T20:40:00
+updated: 2026-05-21T20:40:00
 ---
 
 ## Definição
@@ -19,8 +19,6 @@ updated: 2026-01-13T20:40:00
 - Governo
 
 > [!tip] A análise de balanços **não registra fatos**, apenas **interpreta informações já registradas**.
-
-#contabilidade/tecnica_contabil/analise_balancos
 
 ---
 ## Tópicos relacionados
