@@ -93,8 +93,4 @@ updated: 2026-01-09T16:26:00
 📌 **Síntese para prova:**  
 **Inteligência = Conhecimento + Propósito + Julgamento**
 
-#tecnologia_informacao/banco_dados/pirâmide-dikw
-#tecnologia_informacao/banco_dados/dado
-#tecnologia_informacao/banco_dados/informção
-#tecnologia_informacao/banco_dados/conhecimento
-#tecnologia_informacao/banco_dados/sabedoria
+![[259479-59a0b99b-0ce8-4ca6-b253-3590b760737b.jpeg]]

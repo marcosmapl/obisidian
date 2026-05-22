@@ -7,12 +7,5 @@ updated: 2026-01-06T16:15:00
 
 ## Índice
 
-- [[Administração de SGBD]]
-    
-- [[Backup e Recovery]]
-    
-- [[Controle de Acesso]]
-    
-- [[Gerenciamento de Usuários]]
-    
-- [[Auditoria de Banco de Dados]]
+- [[Administrador de Dados (DA)]]
+- [[Administrador de Banco de Dados (DBA)]]
