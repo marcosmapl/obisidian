@@ -389,6 +389,16 @@
             "id": "e76a91fcf2c2333b",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "0e04a73a05ee113a",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -396,7 +406,7 @@
             }
           }
         ],
-        "currentTab": 27
+        "currentTab": 28
       }
     ],
     "direction": "horizontal",
@@ -414,7 +424,7 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "3e39d14fa641d16f",
+  "active": "0e04a73a05ee113a",
   "lastOpenFiles": [
     "Concursos/Contabilidade Geral/04 - Balanço Patrimonial (BP)/Balanço Patrimonial.md",
     "Concursos/Contabilidade Geral/13 - Demonstrações Contábeis/Demonstração do Valor Adicionado (DVA).md",
