@@ -4,21 +4,37 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "9154228e0904b0ae",
         "type": "tabs",
         "children": [
           {
             "id": "48f77526839d2d54",
+=======
+        "id": "aa107a3d163ea6bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a4825504015c37f",
+>>>>>>> e74ccc28f56495eca399e58823dfe06c7300c951
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Concursos/Direito/10 - Direito Tributário/12 - Crédito Tributário/Pagamento do Crédito Tributário.md",
+=======
+                "file": "Concursos/Direito/06 - Direito Civil/Lei de Introdução às Normas do Direito Brasileiro (LINDB).md",
+>>>>>>> e74ccc28f56495eca399e58823dfe06c7300c951
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "Pagamento do Crédito Tributário"
+=======
+              "title": "Lei de Introdução às Normas do Direito Brasileiro (LINDB)"
+>>>>>>> e74ccc28f56495eca399e58823dfe06c7300c951
             }
           }
         ]
@@ -400,6 +416,16 @@
             "id": "0e04a73a05ee113a",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "826ad3d116cd794b",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -407,7 +433,7 @@
             }
           }
         ],
-        "currentTab": 28
+        "currentTab": 29
       }
     ],
     "direction": "horizontal",
@@ -425,6 +451,7 @@
       "bases:Criar nova base": false
     }
   },
+<<<<<<< HEAD
   "active": "48f77526839d2d54",
   "lastOpenFiles": [
     "Concursos/Direito/10 - Direito Tributário/12 - Crédito Tributário/Extinção do Crédito Tributário.md",
@@ -445,6 +472,20 @@
     "Concursos/Auditoria/07 - Procedimentos de Auditoria/Teste de Controle.md",
     "Media/Pasted image 20260523225401.png",
     "Concursos/Direito/10 - Direito Tributário/12 - Crédito Tributário/Exclusão do Crédito Tributário.md",
+=======
+  "active": "1a4825504015c37f",
+  "lastOpenFiles": [
+    "Media/Pasted image 20260525110830.png",
+    "Media/Pasted image 20260525102749.png",
+    "Media/Pasted image 20260525101750.png",
+    "Media/Pasted image 20260525100001.png",
+    "Media/Pasted image 20260525095937.png",
+    "Concursos/Direito/06 - Direito Civil/MOC — Direito Civil.md",
+    "Concursos/Direito/06 - Direito Civil/Lei de Introdução às Normas do Direito Brasileiro (LINDB).md",
+    "Concursos/Direito/06 - Direito Civil/Código Civil.md",
+    "Media/Pasted image 20260525090151.png",
+    "Media/Pasted image 20260525085439.png",
+>>>>>>> e74ccc28f56495eca399e58823dfe06c7300c951
     "Concursos/Contabilidade Geral/12 - Patrimônio Líquido/Patrimônio Líquido.md",
     "Media/Pasted image 20260522125854.png",
     "Concursos/Contabilidade Geral/04 - Balanço Patrimonial (BP)/Balanço Patrimonial.md",
@@ -455,14 +496,27 @@
     "Media/Pasted image 20260521214721.png",
     "Media/Pasted image 20260521214700.png",
     "Media/Pasted image 20260521214630.png",
-    "Media/Pasted image 20260521214605.png",
     "Concursos/Contabilidade Geral/03 - Escrituração Contábil/Escrituração Contábil.md",
     "Concursos/Contabilidade Geral/03 - Escrituração Contábil/Fórmulas de Lançamento.md",
     "Concursos/Contabilidade Geral/03 - Escrituração Contábil/MOC — Escrituração Contábil.md",
     "Concursos/Contabilidade Geral/03 - Escrituração Contábil/Livros Contábeis.md",
     "Concursos/Contabilidade Geral/03 - Escrituração Contábil/Livro Caixa.md",
+<<<<<<< HEAD
     "Media/Pasted image 20260521164052.png",
     "Media/Pasted image 20260521163744.png",
+=======
+    "Concursos/Contabilidade Geral/03 - Escrituração Contábil/Livro Razão.md",
+    "Concursos/Contabilidade Geral/03 - Escrituração Contábil/Livro Diário.md",
+    "Concursos/Contabilidade Geral/13 - Demonstrações Contábeis/1 - DRE/Demonstração do Resultado do Exercício (DRE).md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/01 - Conceitos Fundamentais/SGBD — Sistema Gerenciador de Banco de Dados.md",
+    "Concursos/Contabilidade Geral/13 - Demonstrações Contábeis/3 - DMPL/Demonstração das Mutações do Patrimônio Líquido (DMPL).md",
+    "Concursos/Contabilidade Geral/13 - Demonstrações Contábeis/2 - DLPA/Demonstração de Lucros ou Prejuízos Acumulados (DLPA).md",
+    "Concursos/Contabilidade Geral/02 - Contas Contábeis/Despesa (Contabilidade).md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais.md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/09 - Administração de Banco de Dados/Administrador de Dados (DA).md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/09 - Administração de Banco de Dados/Administrador de Banco de Dados (DBA).md",
+    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/09 - Administração de Banco de Dados/MOC — Administração de Banco de Dados.md",
+>>>>>>> e74ccc28f56495eca399e58823dfe06c7300c951
     "Concursos/Direito/04 - Direito Constitucional/16 - Tributação e Orçamento",
     "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/03 - Big Data"
   ]
