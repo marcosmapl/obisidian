@@ -10,10 +10,6 @@ O auditor deve possuir, de forma permanente, duas características inerentes:
 - **[[Julgamento Profissional]]** (Como Agir?)
 - **[[Ceticismo Profissional]]** (Como Avaliar?)
 
-#auditoria/perfil-auditor 
-#auditoria/perfil-auditor/ceticismo-profissional
-#auditoria/perfil-auditor/julgamento-profissional 
-
 ---
 ## Comparação Rápida
 
@@ -21,6 +17,7 @@ O auditor deve possuir, de forma permanente, duas características inerentes:
 - **Ceticismo Profissional** → *questionar o que foi apresentado*
 
 ![[Pasted image 20251218111110.png]]
+
 ---
 ## Tópicos Relacionados
 

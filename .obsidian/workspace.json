@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Direito/06 - Direito Civil/Lei de Introdução às Normas do Direito Brasileiro (LINDB).md",
+                "file": "Concursos/Auditoria/02 - Auditor/Princípios de Ética Profissional.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lei de Introdução às Normas do Direito Brasileiro (LINDB)"
+              "title": "Princípios de Ética Profissional"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Demonstrações",
+                "query": "Sigilo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -436,13 +437,16 @@
   },
   "active": "1a4825504015c37f",
   "lastOpenFiles": [
+    "Concursos/Direito/05 - Direito Administrativo/02 - Princípios Administrativos/Princípio da Publicidade.md",
+    "Concursos/Auditoria/02 - Auditor/Princípios de Ética Profissional.md",
+    "Concursos/Auditoria/01 - Conceitos Fundamentais/Características Inerentes do Auditor.md",
+    "Concursos/Direito/06 - Direito Civil/Lei de Introdução às Normas do Direito Brasileiro (LINDB).md",
     "Media/Pasted image 20260525110830.png",
     "Media/Pasted image 20260525102749.png",
     "Media/Pasted image 20260525101750.png",
     "Media/Pasted image 20260525100001.png",
     "Media/Pasted image 20260525095937.png",
     "Concursos/Direito/06 - Direito Civil/MOC — Direito Civil.md",
-    "Concursos/Direito/06 - Direito Civil/Lei de Introdução às Normas do Direito Brasileiro (LINDB).md",
     "Concursos/Direito/06 - Direito Civil/Código Civil.md",
     "Media/Pasted image 20260525090151.png",
     "Media/Pasted image 20260525085439.png",
@@ -455,7 +459,6 @@
     "Concursos/Contabilidade Geral/03 - Escrituração Contábil/Balancetes de Verificação.md",
     "Media/Pasted image 20260521214721.png",
     "Media/Pasted image 20260521214700.png",
-    "Media/Pasted image 20260521214630.png",
     "Concursos/Contabilidade Geral/03 - Escrituração Contábil/Escrituração Contábil.md",
     "Concursos/Contabilidade Geral/03 - Escrituração Contábil/Fórmulas de Lançamento.md",
     "Concursos/Contabilidade Geral/03 - Escrituração Contábil/MOC — Escrituração Contábil.md",
@@ -470,8 +473,6 @@
     "Concursos/Contabilidade Geral/02 - Contas Contábeis/Despesa (Contabilidade).md",
     "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais.md",
     "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/09 - Administração de Banco de Dados/Administrador de Dados (DA).md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/09 - Administração de Banco de Dados/Administrador de Banco de Dados (DBA).md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/09 - Administração de Banco de Dados/MOC — Administração de Banco de Dados.md",
     "Concursos/Direito/04 - Direito Constitucional/16 - Tributação e Orçamento",
     "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/03 - Big Data"
   ]

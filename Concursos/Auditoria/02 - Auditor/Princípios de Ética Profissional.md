@@ -26,18 +26,12 @@ Os princípios éticos fundamentais relevantes para o auditor são:
 ### Integridade
 
 - Ser **direto e honesto** em todas as relações profissionais e comerciais.
-
-#auditoria/principios_etica_profissional/integridade
-
 ### Objetividade
 
 - **Não comprometer o julgamento profissional** por:
   - Tendenciosidade  
   - Conflito de interesses  
   - Influência indevida
-
-#auditoria/principios_etica_profissional/objetividade
-
 ### Competência Profissional e Zelo
 
 - **Manter conhecimento e habilidade atualizados**
@@ -45,21 +39,32 @@ Os princípios éticos fundamentais relevantes para o auditor são:
   - Normas técnicas
   - Normas profissionais
   - Legislação aplicável
-
-#auditoria/principios_etica_profissional/competencia_profissional
-
 ### Confidencialidade
 
 - **Respeitar o sigilo** das informações obtidas em relações profissionais e comerciais.
-
-#auditoria/principios_etica_profissional/confidencialidade
-
+- A NBC P 1.6 - Sigilo estabelece que o auditor deve manter confidencialidade nas seguintes relações:
+	- Com a entidade auditada
+	- Com outros auditores
+	- Com organismos reguladores e fiscalizadores
+	- Com demais terceiros
 ### Comportamento Profissional
 
 - **Cumprir leis e regulamentos**
 - **Evitar condutas** que possam **desacreditar a profissão**
 
-#auditoria/principios_etica_profissional/comportamento_profissional
+---
+## Princípios da NBC PG 01
+
+NBC PG 01 prevê outros princípios, os quais estão ligados **aos colegas e à classe dos auditores**
+
+- R → **Respeito**
+- A → **Apreço**
+- S → **Solidariedade**
+- H → **Harmonia**
+- Classe → lembra que é da **classe profissional**
+
+> [!tip] "RASHa Classe"
+
 
 ---
 ## Observação para Prova
