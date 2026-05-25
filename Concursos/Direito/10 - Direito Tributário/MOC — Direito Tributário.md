@@ -8,8 +8,6 @@ updated: 2026-01-08T16:51:00
 > [!note] Direito Tributário 
 > É a disciplina jurídica dos tributos. Com isso se abrange todo o conteúdo de princípios e normas reguladores da **criação**, **fiscalização** e **arrecadação** das prestações de natureza tributária." (Luciano Amaro)
 
-#direito/tributario #direito/público 
-
 ---
 ## Índice
 
