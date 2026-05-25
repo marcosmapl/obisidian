@@ -9,13 +9,6 @@ updated: 2026-01-10T08:35:00
 
 - [[Perícia Contábil — Conceito]]
 - [[Laudo Pericial Contábil — Conceito]]
-- [[Parecer Pericial Contábil]]
-- [[Estrutura e Requisitos Formais]]
-- [[Perito Contador]]
-- [[Assistente Técnico]]
-- [[Procedimentos Periciais]]
-
-#auditoria/pericia
 
 ---
 ## Normas Relacionadas

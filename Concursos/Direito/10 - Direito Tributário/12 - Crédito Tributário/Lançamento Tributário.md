@@ -103,6 +103,8 @@ Art. 146. A modificação introduzida, **de ofício ou em consequência de decis
 > [!note] Erro de Fato
 > Ocorre quando algum **FATO** relevante **deixa de ser levado em consideração** no momento do lançamento ou mesmo quando as informações, tomadas como base para o lançamento, **não correspondem à realidade**.
 
+![[Pasted image 20260523225401.png]]
+
 ---
 ## Modalidades de Lançamento
 

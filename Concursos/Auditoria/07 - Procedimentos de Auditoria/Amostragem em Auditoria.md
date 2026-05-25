@@ -19,9 +19,30 @@ updated: 2026-05-12T06:25:00
 
 > [!note] Amostragem é utilizada em **populações homogêneas**, bem como quanto não for possível efetuar um **procedimento censitário**.
 
+![[Pasted image 20260512062707.png]]
+
+---
+## Quando não usar amostragem
+
+- **População pequena**
+- **Características de fácil mensuração**
+- Necessidade de **alta precisão**
+
+![[Pasted image 20260523231211.png]]
+
+---
+## Escolha do Método
+
+A escolha do método de seleção de amostragem é uma questão de **JULGAMENTO PROFISSIONAL** do auditor, feita com base na **AVALIAÇÃO DE RISCO**, na **MATERIALIDADE**, na **EFICIÊNCIA** e no **CUSTO DA AUDITORIA**.
+
 > [!important] O auditor deve determinar o tamanho de amostra suficiente para reduzir o risco de amostragem a um nível mínimo aceitável
 
-![[Pasted image 20260512062707.png]]
+### Fatores a Considerar
+
+Na definição de uma amostra o Auditor deverá considerar os fatores:
+
+- A **finalidade** do procedimento de auditoria
+- As **características da população** da qual será retirada a amostrada
 
 ---
 ## Meios de Seleção de Itens para os Testes
@@ -37,6 +58,16 @@ updated: 2026-05-12T06:25:00
 
 ![[Pasted image 20260110082408.png]]
 
+### Amostragem Estatística
+
+Pela amostragem **estatística**, os itens da amostra são selecionados de modo que cada **unidade de amostragem** tenha uma **probabilidade** conhecida e diferente de zero de ser selecionada.
+
+### Amostragem Não Estatística
+
+Pela **amostragem não estatística**, o **julgamento** é usado para selecionar os itens da amostra.
+
+> [!important] Os resultados da amostragem não estatística não podem ser extrapolados para toda a população.
+
 ### Amostragem por Unidade Monetária
 
 Técnicas de Amostragem para Auditorias (TCU)
@@ -50,25 +81,17 @@ A Amostragem por Unidade Monetária (AUM) também é uma amostragem por atributo
 ---
 ## Risco de Amostragem
 
-Risco de que a conclusão do Auditor, com base em amostra, pudesse ser diferente se toda a população fosse sujeita ao mesmo procedimento de auditoria.
+Risco de que a **conclusão do Auditor**, com base em **amostra**, pudesse ser **diferente** se **toda a população** fosse sujeita ao mesmo **procedimento de auditoria**.
 
-**Conclusões errôneas**:
-- Testes de controles são considerados
+### Testes de Observância
 
----
-## Fatores a Considerar
+- **Risco de subavaliação da confiabilidade**: é o risco de que, embora o resultado da aplicação de procedimentos de auditoria sobre a amostra não seja satisfatório, o restante da população possua menor nível de erro do que aquele detectado na amostra. 
+- **Risco de superavaliação da confiabilidade**: é o risco de que, embora o resultado da aplicação de procedimentos de auditoria sobre a amostra seja satisfatório, o restante da população possua maior nível de erro do que aquele detectado na amostra.
 
-Na definição de uma amostra o Auditor deverá considerar os fatores:
+### Testes Substantivos
 
-- A **finalidade** do procedimento de auditoria
-- As características da **população** da qual será retirada a amostrada
-
----
-## Quando não usar amostragem
-
-- População pequena
-- Características de fácil mensuração
-- Necessidade de alta precisão
+- **Risco de rejeição incorreta**: é o risco de que, embora o resultado da aplicação de procedimentos de auditoria sobre a amostra leve à conclusão de que o saldo de uma conta ou classe de transações registradas está, relevantemente, distorcido, mas, efetivamente, não está; 
+- **Risco de aceitação incorreta**: é o risco de que, embora o resultado da aplicação de procedimentos de auditoria sobre a amostra leve à conclusão de que o saldo de uma conta ou classe de transações registradas não está, relevantemente, distorcido, mas, efetivamente, está.
 
 ---
 ## Estratificação

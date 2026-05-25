@@ -10,6 +10,9 @@ updated: 2026-01-10T08:45:00
 - [[Evidências de Auditoria — Conceito]]
 - [[Procedimentos de Auditoria]]
 - [[Amostragem em Auditoria]]
+- [[Anomalia]]
+- [[Distorção Tolerável]]
+- [[Taxa Tolerável]]
 
 ---
 ## Normas Relacionadas

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "21e023a556b676e0",
+        "id": "9154228e0904b0ae",
         "type": "tabs",
         "children": [
           {
-            "id": "3e39d14fa641d16f",
+            "id": "48f77526839d2d54",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Contabilidade Geral/12 - Patrimônio Líquido/Patrimônio Líquido.md",
+                "file": "Concursos/Direito/10 - Direito Tributário/12 - Crédito Tributário/Pagamento do Crédito Tributário.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Patrimônio Líquido"
+              "title": "Pagamento do Crédito Tributário"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Demonstrações",
+                "query": "Extinção",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,11 +74,12 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 406.5110321044922
+    "width": 308.5026054382324
   },
   "right": {
     "id": "ae0fcbd67c81a0a4",
@@ -424,8 +425,27 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "0e04a73a05ee113a",
+  "active": "48f77526839d2d54",
   "lastOpenFiles": [
+    "Concursos/Direito/10 - Direito Tributário/12 - Crédito Tributário/Extinção do Crédito Tributário.md",
+    "Concursos/Direito/10 - Direito Tributário/MOC — Direito Tributário.md",
+    "Concursos/Direito/10 - Direito Tributário/12 - Crédito Tributário/Lançamento Tributário.md",
+    "Concursos/Direito/10 - Direito Tributário/01 - Conceitos Fundamentais/Capacidade Tributária Ativa  — Conceito.md",
+    "Concursos/Auditoria/12 - Laudo e Parecer Pericial Contábil/MOC — Laudo e Parecer Pericial.md",
+    "Concursos/Auditoria/12 - Laudo e Parecer Pericial Contábil/Perícia Contábil — Conceito.md",
+    "Media/Pasted image 20260523233901.png",
+    "Concursos/Auditoria/07 - Procedimentos de Auditoria/Amostragem em Auditoria.md",
+    "Media/Pasted image 20260523231211.png",
+    "Concursos/Auditoria/07 - Procedimentos de Auditoria/MOC — Procedimentos de Auditoria.md",
+    "Concursos/Auditoria/07 - Procedimentos de Auditoria/Taxa Tolerável.md",
+    "Concursos/Auditoria/07 - Procedimentos de Auditoria/Distorção Tolerável.md",
+    "Concursos/Auditoria/07 - Procedimentos de Auditoria/Evidências de Auditoria — Conceito.md",
+    "Concursos/Auditoria/07 - Procedimentos de Auditoria/Anomalia.md",
+    "Concursos/Auditoria/07 - Procedimentos de Auditoria/Procedimentos de Auditoria.md",
+    "Concursos/Auditoria/07 - Procedimentos de Auditoria/Teste de Controle.md",
+    "Media/Pasted image 20260523225401.png",
+    "Concursos/Direito/10 - Direito Tributário/12 - Crédito Tributário/Exclusão do Crédito Tributário.md",
+    "Concursos/Contabilidade Geral/12 - Patrimônio Líquido/Patrimônio Líquido.md",
     "Media/Pasted image 20260522125854.png",
     "Concursos/Contabilidade Geral/04 - Balanço Patrimonial (BP)/Balanço Patrimonial.md",
     "Concursos/Contabilidade Geral/13 - Demonstrações Contábeis/Demonstração do Valor Adicionado (DVA).md",
@@ -441,27 +461,8 @@
     "Concursos/Contabilidade Geral/03 - Escrituração Contábil/MOC — Escrituração Contábil.md",
     "Concursos/Contabilidade Geral/03 - Escrituração Contábil/Livros Contábeis.md",
     "Concursos/Contabilidade Geral/03 - Escrituração Contábil/Livro Caixa.md",
-    "Concursos/Contabilidade Geral/03 - Escrituração Contábil/Livro Razão.md",
-    "Concursos/Contabilidade Geral/03 - Escrituração Contábil/Livro Diário.md",
-    "Concursos/Contabilidade Geral/13 - Demonstrações Contábeis/1 - DRE/Demonstração do Resultado do Exercício (DRE).md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/01 - Conceitos Fundamentais/SGBD — Sistema Gerenciador de Banco de Dados.md",
     "Media/Pasted image 20260521164052.png",
     "Media/Pasted image 20260521163744.png",
-    "Media/Pasted image 20260521113958.png",
-    "Media/Pasted image 20260520160109.png",
-    "Media/Pasted image 20260520093518.png",
-    "Media/Pasted image 20260519091000.png",
-    "Concursos/Contabilidade Geral/13 - Demonstrações Contábeis/3 - DMPL/Demonstração das Mutações do Patrimônio Líquido (DMPL).md",
-    "Concursos/Contabilidade Geral/13 - Demonstrações Contábeis/2 - DLPA/Demonstração de Lucros ou Prejuízos Acumulados (DLPA).md",
-    "Concursos/Contabilidade Geral/02 - Contas Contábeis/Despesa (Contabilidade).md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/09 - Administração de Banco de Dados/Administrador de Dados (DA).md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/09 - Administração de Banco de Dados/Administrador de Banco de Dados (DBA).md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/09 - Administração de Banco de Dados/MOC — Administração de Banco de Dados.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/02 -Projeto e Modelagem de Dados/MOC — Projeto e Modelagem de Dados.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/08 - Transações e Controle de Concorrência/Bloqueios (Locks).md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/08 - Transações e Controle de Concorrência/MOC — Transações e Controle de Concorrência.md",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/01 - Banco de Dados/08 - Transações e Controle de Concorrência/Controle de Concorrência.md",
     "Concursos/Direito/04 - Direito Constitucional/16 - Tributação e Orçamento",
     "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/03 - Big Data"
   ]
