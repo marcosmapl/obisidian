@@ -9,6 +9,7 @@ updated: 2026-01-08T16:40:00
 
 - [[Constitucionalismo]]
 - [[Teoria Geral da Constituição]]
+- [[Formas de Governo]]
 
 ---
 ## Sentidos da Constituição
@@ -19,6 +20,8 @@ updated: 2026-01-08T16:40:00
 - [[Sentido Cultural]]
 - [[Sentido Normativo-Concretista]]
 
+![[Pasted image 20260526083847.png]]
+
 ---
 ## Aplicabilidade das Normas Constitucionais
 
@@ -28,12 +31,23 @@ updated: 2026-01-08T16:40:00
 - [[Normas de Eficácia Contida]]
 - [[Normas de Eficácia Limitada]]
 
-![[Pasted image 20260517162155.png]]
+![[Pasted image 20260526105952.jpg]]
 
 ---
 ## Hierarquia das Normas
 
 - [[Pirâmide de Kelsen]]
+
+---
+## Poder Constituinte
+
+**Poder Constituinte** é aquele que **cria ou atualiza a Constituição**, enquanto os **poderes constituídos** são aqueles **estabelecidos por ela**, ou seja, são aqueles que resultam de sua criação.
+
+- [[Poder Constituinte Originário]]
+- [[Poder Constituinte Derivado]]
+- [[Poder Constituinte Material]]
+- [[Poder Constituinte Formal]]
+- [[Poder Constituinte Difuso]]
 
 
 
