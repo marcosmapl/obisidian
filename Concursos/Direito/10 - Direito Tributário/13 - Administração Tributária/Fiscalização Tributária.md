@@ -67,7 +67,7 @@ A autoridade administrativa também possui o **poder de requisitar (e não apena
 
 ### Termo de Início de Fiscalização
 
-> [!note]
+> [!note] Termo de Início de Fiscalização
 > Art. 196. A autoridade administrativa que proceder ou presidir a quaisquer diligências de fiscalização lavrará os **termos necessários para que se documente o início do procedimento**, na forma da legislação aplicável, que ==fixará prazo máximo para a conclusão daquelas==.
 > 
 > Parágrafo único. Os termos a que se refere este artigo serão lavrados, sempre que possível, em um dos **livros fiscais exibidos**; quando lavrados em separado deles ==se entregará, à pessoa sujeita à fiscalização, cópia autenticada pela autoridade a que se refere este artigo==.
@@ -97,4 +97,12 @@ Não é vedado a divulgação de informações:
 
 ![[Pasted image 20260525165426.png]]
 
+### Permuta entre Entes Federativos
+
+> [!note] Permuta entre Entes Federativos
+> Art. 199. A Fazenda Pública da União e as dos Estados, do Distrito Federal e dos Municípios prestar-se-ão mutuamente assistência para a fiscalização dos tributos respectivos e permuta de informações, na forma estabelecida, em caráter geral ou específico, por lei ou convênio.
+> 
+> Parágrafo único. A Fazenda Pública da União, na forma estabelecida em tratados, acordos ou convênios, poderá permutar informações com Estados estrangeiros no interesse da arrecadação e da fiscalização de tributos. (Incluído pela Lcp nº 104, de 10.1.2001)
+
+> [!tip] A possibilidade de permuta de informações prevista no Art. 199 do CTN é **norma de eficácia limitada**.
 
