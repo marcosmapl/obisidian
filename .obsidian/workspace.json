@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Tecnologia da Informação/15 - Governança de Dados/Governança de Dados.md",
+                "file": "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/Lei Complementar nº 214 de 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Governança de Dados"
+              "title": "Lei Complementar nº 214 de 2025"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Governança de Dados",
+                "query": "ETL",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5026054382324
+    "width": 374.5110321044922
   },
   "right": {
     "id": "ae0fcbd67c81a0a4",
@@ -439,6 +439,16 @@
             "id": "32578c8bb4216183",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "52a0ee92dac51079",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -446,7 +456,7 @@
             }
           }
         ],
-        "currentTab": 32
+        "currentTab": 33
       }
     ],
     "direction": "horizontal",
@@ -466,44 +476,47 @@
   },
   "active": "434416b421437e97",
   "lastOpenFiles": [
-    "Governança de TI.md",
-    "Concursos/Tecnologia da Informação/15 - Governança de Dados/Governança de Dados.md",
-    "Concursos/Tecnologia da Informação/01 - Governança de TI/MOC — Governança de TI.md",
-    "Concursos/Tecnologia da Informação/15 - Governança de Dados/MOC — Governança de Dados.md",
+    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/MOC — Reforma Tributária.md",
+    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/Regra Matriz de Incidência Tributária (RMIT).md",
+    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/Lei Complementar nº 214 de 2025.md",
+    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/Lei Complementar nº 214/2025.md",
+    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/Lei Complementar nº 214",
+    "Concursos/Direito/10 - Direito Tributário/18 - Súmulas Vinculantes em Matéria Tributária/MOC — Súmulas Vinculantes em Matéria Tributária.md",
+    "Concursos/Tecnologia da Informação/15 - Ciência de Dados/DAMA-DMBOK.md",
+    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária",
+    "Concursos/Tecnologia da Informação/15 - Ciência de Dados/MOC — Ciência de Dados.md",
+    "Concursos/Tecnologia da Informação/15 - Ciência de Dados/Data Enhancement Process.md",
+    "Media/Pasted image 20260527141855.png",
+    "Concursos/Tecnologia da Informação/15 - Ciência de Dados/Governança de Dados.md",
+    "Media/Pasted image 20260527115126.png",
+    "Media/Pasted image 20260527113606.png",
+    "Media/Pasted image 20260527113251.png",
+    "Concursos/Tecnologia da Informação/15 - Ciência de Dados/Gestão de Dados.md",
+    "Media/Pasted image 20260527104840.png",
+    "Concursos/Tecnologia da Informação/15 - Ciência de Dados/02 - Business Intelligence/MOC — Business Intelligence.md",
+    "Concursos/Tecnologia da Informação/15 - Ciência de Dados/Processo ETL.md",
+    "Media/Pasted image 20260527104332.png",
+    "Concursos/Tecnologia da Informação/15 - Ciência de Dados/Data Mart.md",
+    "Concursos/Tecnologia da Informação/15 - Ciência de Dados/Ciclo de Vida de Dados.md",
+    "Media/Pasted image 20260527101646.png",
     "Concursos/Tecnologia da Informação/Tecnologia da Informação.md",
-    "Concursos/Tecnologia da Informação/14 - Infraestrutura de TIC/MOC — Infraestrutura de TIC.md",
+    "Concursos/Tecnologia da Informação/11 - Banco de Dados/MOC — Bancos de Dados.md",
+    "Concursos/Tecnologia da Informação/11 - Banco de Dados/MOC — Gestão e Análise de Dados.md",
+    "Concursos/Tecnologia da Informação/15 - Ciência de Dados/03 - Big Data/MOC — Big Data.md",
+    "Concursos/Tecnologia da Informação/15 - Ciência de Dados/Dados Estruturados.md",
+    "Concursos/Tecnologia da Informação/15 - Ciência de Dados/Dados Semiestruturados.md",
+    "Concursos/Tecnologia da Informação/15 - Ciência de Dados/Dados Não Estruturados.md",
+    "Concursos/Tecnologia da Informação/15 - Ciência de Dados/Big Data.md",
+    "Concursos/Tecnologia da Informação/11 - Banco de Dados/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais.md",
+    "Concursos/Tecnologia da Informação/01 - Governança de TI/Governança de TI.md",
+    "Concursos/Tecnologia da Informação/15 - Ciência de Dados",
+    "Concursos/Tecnologia da Informação/01 - Governança de TI/MOC — Governança de TI.md",
     "Concursos/Tecnologia da Informação/01 - Governança de TI/Ciclo PDCA.md",
-    "Concursos/Tecnologia da Informação/15 - Governança de Dados",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/MOC — Gestão e Análise de Dados.md",
-    "Concursos/Tecnologia da Informação/12 - Segurança da Informação/MOC — Segurança da Informação.md",
-    "Concursos/Direito/10 - Direito Tributário/06 - Tributos/Contribuições Especiais.md",
-    "Concursos/Direito/10 - Direito Tributário/06 - Tributos/MOC — Tributos - Conceito e Espécies.md",
-    "Concursos/Direito/10 - Direito Tributário/06 - Tributos/Imposto — Conceito.md",
-    "Concursos/Direito/04 - Direito Constitucional/01 - Teoria Geral da Constituição/Poder Constituinte Difuso.md",
-    "Concursos/Direito/04 - Direito Constitucional/01 - Teoria Geral da Constituição/MOC — Teoria Geral da Constituição.md",
-    "Concursos/Direito/04 - Direito Constitucional/01 - Teoria Geral da Constituição/Poder Constituinte Formal.md",
-    "Concursos/Direito/04 - Direito Constitucional/01 - Teoria Geral da Constituição/Poder Constituinte Material.md",
-    "Concursos/Direito/04 - Direito Constitucional/01 - Teoria Geral da Constituição/Poder Constituinte Derivado.md",
-    "Concursos/Direito/04 - Direito Constitucional/01 - Teoria Geral da Constituição/Poder Constituinte Originário.md",
-    "Concursos/Direito/04 - Direito Constitucional/01 - Teoria Geral da Constituição/Pirâmide de Kelsen.md",
+    "Concursos/Tecnologia da Informação/01 - Governança de TI",
     "Media/Pasted image 20260526112732.png",
     "Media/Pasted image 20260526110034.png",
     "Media/Pasted image 20260526105952.jpg",
-    "Concursos/Direito/04 - Direito Constitucional/01 - Teoria Geral da Constituição/Teoria Geral da Constituição.md",
-    "Concursos/Direito/04 - Direito Constitucional/01 - Teoria Geral da Constituição/Formas de Governo.md",
-    "Concursos/Direito/04 - Direito Constitucional/MOC — Direito Constitucional.md",
-    "Media/Pasted image 20260526083847.png",
-    "Concursos/Direito/04 - Direito Constitucional/01 - Teoria Geral da Constituição/Constitucionalismo.md",
-    "Concursos/Direito/10 - Direito Tributário/13 - Administração Tributária/Certidão Negativa de Débitos.md",
-    "Media/Pasted image 20260525221047.png",
-    "Concursos/Direito/10 - Direito Tributário/13 - Administração Tributária/MOC — Administração Tributária.md",
-    "Concursos/Direito/10 - Direito Tributário/13 - Administração Tributária/Dívida Ativa.md",
-    "Media/Pasted image 20260525220303.png",
-    "Media/Pasted image 20260525203600.png",
-    "Media/Pasted image 20260525165426.png",
-    "Media/Pasted image 20260525164756.png",
-    "Media/Pasted image 20260523233901.png",
     "Concursos/Direito/04 - Direito Constitucional/16 - Tributação e Orçamento",
-    "Concursos/Tecnologia da Informação/11 - Gestão e Análise de Dados/03 - Big Data"
+    "Concursos/Tecnologia da Informação/15 - Ciência de Dados/03 - Big Data"
   ]
 }

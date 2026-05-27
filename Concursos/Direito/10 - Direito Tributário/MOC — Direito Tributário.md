@@ -11,7 +11,7 @@ updated: 2026-01-08T16:51:00
 ---
 ## Índice
 
-### 01. [[MOC — Conceitos Fundamentais]]
+### 01. [[Concursos/Direito/10 - Direito Tributário/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais]]
 ### 02. [[Concursos/Direito/10 - Direito Tributário/02 - Sistema Tributário Nacional/MOC — Sistema Tributário Nacional]]
 
 ### 03. [[MOC — Princípios Tributários]]
@@ -43,7 +43,7 @@ updated: 2026-01-08T16:51:00
 
 ### 17. [[MOC — Planejamento Tributário]]
 
-### 18. [[MOC — Súmulas Vinculantes em Matéria Tributária]]
+### 18. [[MOC — Reforma Tributária]]
 
 ### 19. [[Concursos/Direito/10 - Direito Tributário/Caderno de Erros|Caderno de Erros]]
 

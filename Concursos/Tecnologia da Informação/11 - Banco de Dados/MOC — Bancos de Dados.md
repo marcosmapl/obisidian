@@ -6,7 +6,7 @@ updated: 2025-12-30T15:45:00
 ---
 
 ## Índice
-### 01 - [[MOC — Conceitos Fundamentais]]
+### 01 - [[Concursos/Tecnologia da Informação/11 - Banco de Dados/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais]]
 
 ### 02 - [[MOC — Projeto e Modelagem de Dados]]
 

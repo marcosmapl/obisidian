@@ -32,7 +32,7 @@ progresso: 12
 
 ### 10 — [[MOC — DevOps]]
 
-### 11 — [[MOC — Gestão e Análise de Dados]]
+### 11 — [[MOC — Bancos de Dados]]
 
 ### 12 — [[MOC — Segurança da Informação]]
 
@@ -40,5 +40,5 @@ progresso: 12
 
 ### 14 — [[MOC — Infraestrutura de TIC]]
 
-### 15 — [[MOC — Governança de Dados]]
+### 15 — [[MOC — Ciência de Dados]]
 

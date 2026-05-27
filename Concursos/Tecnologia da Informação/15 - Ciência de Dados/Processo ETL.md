@@ -17,6 +17,8 @@ updated: 2026-02-12T09:35:00
 - **Transformação (Transform):** Considerada a etapa mais crítica e complexa, é onde os dados são "limpos", padronizados e enriquecidos. Exemplos de atividades nesta fase incluem a **deduplicação** (remoção de duplicatas), correção de erros, cálculos, conformidade de chaves e a padronização de campos (como converter "São Paulo" e "SP" para um formato único).
 - **Carga (Load):** É a inserção final dos dados já tratados no repositório de destino, como um **Data Warehouse** ou **Data Mart**. A carga pode ser **inicial** (todo o histórico) ou **incremental** (apenas o que mudou desde a última atualização).
 
+![[Pasted image 20260527104332.png]]
+
 ---
 ## Ambientes Intermediários
 

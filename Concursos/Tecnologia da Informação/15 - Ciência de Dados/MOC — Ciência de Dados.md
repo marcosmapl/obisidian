@@ -1,11 +1,29 @@
 ---
 disciplina: Tecnologia da Informação
-tópico: Business Intelligence
-created: 2026-01-06T16:55:00
-updated: 2026-01-06T17:00:00
+tópico: Ciência de Dados
+created: 2025-12-23T00:00:00
+updated: 2026-01-06T17:05:00
 ---
 
 ## Índice
+
+### Big Data
+
+- [[Big Data]]
+- [[Dados Estruturados]]
+- [[Dados Semiestruturados]]
+- [[Dados Não Estruturados]]
+- [[Ciclo de Vida de Dados]]
+- [[Data Analytics]]
+
+### Governança e Gestão
+
+- [[Governança de Dados]]
+- [[Gestão de Dados]]
+- [[DAMA-DMBOK]]
+- [[Data Enhancement Process]]
+
+### Business Inteligence
 
 - [[Business Intelligence - Conceito]]
 - [[Arquitetura de BI]]
