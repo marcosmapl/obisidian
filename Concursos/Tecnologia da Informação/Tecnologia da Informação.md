@@ -9,12 +9,10 @@ progresso: 12
 > [!abstract] Sobre esta disciplina
 > **Tecnologia da Informação (TI)** compreende o estudo dos **conceitos, fundamentos, ferramentas e práticas relacionadas ao uso, gestão e segurança da informação e dos sistemas computacionais** no âmbito das organizações, especialmente da Administração Pública.
 
-#tecnologia_informacao
-
 ---
 ## Índice — Tecnologia da Informação
 
-### 01 — [[MOC — Governança e Gestão de TI]]
+### 01 — [[MOC — Governança de TI]]
 
 ### 02 — [[MOC — Gerenciamento de Serviços de TI]]
 
@@ -42,5 +40,5 @@ progresso: 12
 
 ### 14 — [[MOC — Infraestrutura de TIC]]
 
-
+### 15 — [[MOC — Governança de Dados]]
 

@@ -1,17 +1,13 @@
 ---
 disciplina: Tecnologia da Informação
-tópico: Governança e Gestão de TI
+tópico: Governança de TI
 created: 2025-12-23T00:00:00
 updated: 2025-12-23T00:00:00
-progresso: 0
-tags:
-  - ti
-  - moc
 ---
 
 ## Índice — Governança e Gestão de TI
 
-- [[Governança de TIC — Conceitos]]
+- [[Governança de TI]]
 - [[Gestão Estratégica de TI]]
 - [[Planejamento Estratégico Organizacional]]
 - [[Ciclo PDCA]]
