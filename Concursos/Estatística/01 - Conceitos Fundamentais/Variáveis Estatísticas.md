@@ -16,10 +16,9 @@ updated: 2026-03-23T20:45:00
 
 ### Variáveis Qualitativas
 
-- São variáveis que **não podem ser expressas numericamente**.
 - Representam **atributos ou características** dos indivíduos.
 - Também chamadas de **variáveis categóricas**.
-#### Qualitativa Nominal
+#### Nominais
 
 - **Não possuem ordem** entre as categorias.
 - Apenas classificam os elementos.
@@ -28,11 +27,7 @@ updated: 2026-03-23T20:45:00
 
 - Cor dos olhos: pretos, castanhos, azuis, verdes.
 
-💡 **Dica de prova:**
-
-> Se **não dá para ordenar**, é **nominal**.
-
-#### Qualitativa Ordinal
+#### Ordinal
 
 - **Possuem ordem** entre as categorias.
 - Há uma hierarquia, mas **sem valores numéricos definidos**.
@@ -41,13 +36,8 @@ updated: 2026-03-23T20:45:00
 
 - Grau de instrução: fundamental → médio → superior.
 
-💡 **Dica de prova:**
-
-> Se **dá para ordenar**, é **ordinal**.
-
 ### Variáveis Quantitativas
 
-- São variáveis que **podem ser expressas numericamente**.
 - Representam **quantidades mensuráveis ou contáveis**.
 - Obtidas por **contagem** ou **mensuração**.
 #### Quantitativa Discreta
@@ -75,17 +65,3 @@ updated: 2026-03-23T20:45:00
 
 - Altura de pessoas.
 - Peso, temperatura, tempo.
-
-💡 **Dica de prova:**
-
-> Se **dá para medir**, é **contínua**.
-
----
-## Resumo de Alta Performance
-
-- **Quantitativa = número**
-- **Discreta = contagem (inteiros)**
-- **Contínua = medida (reais)**
-- **Qualitativa = atributo**
-- **Nominal = sem ordem**
-- **Ordinal = com ordem**

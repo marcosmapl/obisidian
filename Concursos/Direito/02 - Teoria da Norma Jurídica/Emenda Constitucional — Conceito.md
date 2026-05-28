@@ -12,7 +12,6 @@ updated: 2026-01-16T15:10:00
 
 > [!tip] Previsão constitucional: art. 59, I, e art. 60 da CF/88.
 
-#direito/emenda_constitucional
 
 ---
 ## Natureza Jurídica

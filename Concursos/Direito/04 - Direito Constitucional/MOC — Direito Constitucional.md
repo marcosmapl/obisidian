@@ -32,44 +32,20 @@ updated: 2026-05-15T15:45:00
 ---
 ## 📂 MOC — Normas Constitucionais
 
+- [[Normas Autoexecutáveis]]
+- [[Normas Não Autoexecutáveis]]
 - [[Normas de Eficácia Plena]]
 - [[Normas de Eficácia Contida]]
 - [[Normas de Eficácia Limitada]]
-- [[Interpretação Constitucional]]
-- [[Métodos de Interpretação Constitucional]]
 
 ---
 ## 📂 MOC — Poder Constituinte
 
-- [[Poder Constituinte — Conceito]]
-- [[Finalidade do Poder Constituinte]]
-- [[Titularidade do Poder Constituinte]]
 - [[Poder Constituinte Originário]]
 - [[Poder Constituinte Derivado]]
+- [[Poder Constituinte Material]]
+- [[Poder Constituinte Formal]]
 - [[Poder Constituinte Difuso]]
-
----
-## 📂 MOC — Reforma Constitucional
-
-- [[Reforma da Constituição]]
-- [[Emendas Constitucionais]]
-- [[Limites ao Poder de Reforma]]
-- [[Cláusulas Pétreas]]
-
----
-## 📂 MOC — Federação e Municípios
-
-- [[Forma Federativa de Estado]]
-- [[Autonomia dos Municípios]]
-- [[Competências Municipais]]
-- [[Lei Orgânica Municipal]]
-
----
-## 📂 MOC — Supremacia da Constituição
-
-- [[Supremacia da Constituição — Conceito]]
-- [[Rigidez Constitucional]]
-- [[Hierarquia das Normas Jurídicas]]
 
 ---
 ## 📂 MOC — Controle de Constitucionalidade

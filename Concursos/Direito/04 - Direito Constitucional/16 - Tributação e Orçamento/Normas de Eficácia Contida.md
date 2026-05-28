@@ -9,15 +9,21 @@ updated: 2026-05-17T16:15:00
 
 - São aquelas normas que **ao entrar em vigor**, **estão aptas a produzir todos os seus efeitos**, mas que podem ser **restringidas** pelo poder público.
 
+> [!tip] Art. 5, XIII
+> É **livre o exercício de qualquer trabalho, ofício ou profissão**, atendidas as **qualificações profissionais que a lei estabelecer**; (exemplo OAB)
+
 ---
 ## Características
 
 - **Autoaplicáveis**: não dependem de lei posterior regulamentadora
 - **Restringíveis**: estão sujeitas a limitações ou restrições
-- Aplicabilidade: 
-	- **Direta**: não dependem de norma regulamentadora para produzir efeitos
-	- **Imediata**: aptas a produzir efeitos desde sua promulgação
-	- **Possivelmente não integral**: podem sofrer limitações ou restrições em sua aplicação.
+
+---
+## Aplicabilidade
+
+- **Direta**: não dependem de norma regulamentadora para produzir efeitos
+- **Imediata**: aptas a produzir efeitos desde sua promulgação
+- **Possivelmente não integral**: podem sofrer limitações ou restrições em sua aplicação.
 
 ---
 ## Tópicos Relacionados

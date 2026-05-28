@@ -32,6 +32,20 @@ updated: 2026-01-08T16:40:00
 - [[Normas de Eficácia Limitada]]
 
 ![[Pasted image 20260526105952.jpg]]
+### José Afonso da Silva
+
+- [[Normas de Eficácia Plena]]
+- [[Normas de Eficácia Contida]]
+- [[Normas de Eficácia Limitada]]
+
+![[Pasted image 20260528104200.png]]
+### Carlos Ayres Britto e Celso Ribeiro Bastos
+
+![[Pasted image 20260528110402.png]]
+### Maria Helena Diniz
+
+![[Pasted image 20260528110504.png]]
+
 
 ---
 ## Hierarquia das Normas

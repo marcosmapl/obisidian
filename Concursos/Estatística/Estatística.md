@@ -47,30 +47,6 @@ Coeficiente de correlação de Pearson e interpretação de associações.
 Regressão linear simples, mínimos quadrados e coeficiente de determinação.
 
 ---
-## 📚 Recursos Adicionais
-
-### 🔗 Links Úteis
-- [[Caderno de Erros — Estatística]]
-- [[Questões Comentadas — Estatística]]
-- [[Fórmulas Estatísticas]]
-- [[Tabelas Estatísticas (Z, t, χ², F)]]
-
-### 🏷️ Tags Principais
-#estatistica #estatistica/descritiva #estatistica/probabilidade #estatistica/inferencia #estatistica/regressao
-
----
-## 📊 Progresso de Estudos
-
-```dataview
-TABLE WITHOUT ID
-  file.name as "Tópico",
-  progresso as "Progresso %"
-FROM "Concursos/Estatística"
-WHERE contains(file.name, "MOC")
-SORT file.name
-```
-
----
 ## 🔑 Conceitos e Fórmulas Essenciais
 
 ### Medidas de Posição
@@ -109,25 +85,3 @@ $$P(A|B) = \frac{P(B|A) \cdot P(A)}{P(B)}$$
 **Correlação:** $r = \frac{Cov(X,Y)}{s_X \cdot s_Y}$
 
 **Regressão:** $\hat{Y} = b_0 + b_1 X$, onde $R^2 = r^2$
-
----
-## 📖 Divisões da Estatística
-
-```
-Estatística
-    ├── Estatística Descritiva
-    │   ├── Organização de dados
-    │   ├── Apresentação de dados
-    │   └── Medidas resumo
-    │
-    ├── Probabilidade
-    │   ├── Teoria dos conjuntos
-    │   ├── Eventos aleatórios
-    │   └── Cálculo de probabilidades
-    │
-    └── Inferência Estatística
-        ├── Estimação
-        ├── Testes de hipóteses
-        └── Análise de associação
-```
-

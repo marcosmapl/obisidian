@@ -1,5 +1,5 @@
 ---
-disciplina: Estatísica
+disciplina: Estatística
 tópico: Conceitos Fundamentais
 created: 2026-03-05T11:50:00
 updated: 2026-03-05T11:50:00

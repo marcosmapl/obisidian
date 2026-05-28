@@ -11,48 +11,46 @@ updated: 2026-02-23T21:10:00
 - Permite **analisar, interpretar e comparar informações** de forma estruturada.
 
 ---
+## Elementos
+
+- **Tempo**
+- **Espaço (local)**
+- **Espécie (fato)**
+
+---
 ## Tipos de Séries
 
 ### Série Temporal (ou Cronológica)
 
 - Dados organizados ao longo do **tempo**.
+- **Espaço (local) e espécie (fato) permanecem constantes**
 
 📍 **Exemplo:**
 
 - Vendas de uma empresa por mês.
 - População de uma cidade ao longo dos anos.
 
-💡 **Dica de prova:**
-
-> Envolveu **tempo** → série temporal.
-
 ---
 ### Série Geográfica (ou Territorial)
 
-- Dados organizados conforme o **local**.
+- Dados organizados conforme o **Espaço (local)**.
+- **Tempo e espécie (fato) permanecem constantes***
 
 📍 **Exemplo:**
 
 - População por estado.
 - Número de casos por região.
 
-💡 **Dica de prova:**
-
-> Envolveu **lugar/localização** → série geográfica.
-
 ---
 ### Série Específica (ou Categórica)
 
-- Dados organizados por **categorias ou atributos**.
+- É a série cujos dados são dispostos segundo a **modalidade de ocorrência**.
+- Isto é, **enquanto o fato varia**, a **época e o local permanecem constantes**.
 
 📍 **Exemplo:**
 
 - Número de alunos por curso.
 - Funcionários por nível de escolaridade.
-
-💡 **Dica de prova:**
-
-> Envolveu **categoria/qualidade** → série específica.
 
 ---
 ### Série Mista
@@ -62,10 +60,6 @@ updated: 2026-02-23T21:10:00
 📍 **Exemplo:**
 
 - Vendas por estado ao longo dos anos.
-
-💡 **Dica de prova:**
-
-> Misturou critérios → série mista.
 
 ---
 ## Pegadinha de banca
@@ -78,10 +72,5 @@ updated: 2026-02-23T21:10:00
 ---
 
 ## Resumo de Alta Performance
-
-- **Temporal → tempo**
-- **Geográfica → lugar**
-- **Específica → categoria**
-- **Mista → combinação**
 
 ![[Pasted image 20260323213022.png]]
