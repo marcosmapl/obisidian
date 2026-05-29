@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Economia/03 - Modelos Econômicos/Curva de Possibilidades de Produção (CPP).md",
+                "file": "Concursos/Direito/08 - Direito Penal/01 - Princípios do Direito Penal/Princípio da Individualização da Pena.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Curva de Possibilidades de Produção (CPP)"
+              "title": "Princípio da Individualização da Pena"
             }
           }
         ]
@@ -471,6 +471,16 @@
             "id": "9d60c9b5b09d2a3d",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "d8a9fcdeef4a59d1",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -478,7 +488,7 @@
             }
           }
         ],
-        "currentTab": 35
+        "currentTab": 36
       }
     ],
     "direction": "horizontal",
@@ -498,9 +508,26 @@
   },
   "active": "434416b421437e97",
   "lastOpenFiles": [
+    "Concursos/Direito/08 - Direito Penal/01 - Princípios do Direito Penal/MOC — Princípios do Direito Penal.md",
+    "Concursos/Direito/08 - Direito Penal/01 - Princípios do Direito Penal/Princípio da Presunção de Inocência.md",
+    "Concursos/Direito/08 - Direito Penal/01 - Princípios do Direito Penal/Princípio da Limitação das Penas (Humanidade).md",
+    "Concursos/Direito/08 - Direito Penal/01 - Princípios do Direito Penal/Princípio da Intranscendência da Pena.md",
+    "Concursos/Direito/08 - Direito Penal/01 - Princípios do Direito Penal/Princípio da Individualização da Pena.md",
+    "Concursos/Direito/08 - Direito Penal/01 - Princípios do Direito Penal/Princípio da Irretroatividade da Lei Penal.md",
+    "Concursos/Direito/08 - Direito Penal/01 - Princípios do Direito Penal/Princípio da Anterioridade da Lei Penal.md",
+    "Concursos/Direito/08 - Direito Penal/01 - Princípios do Direito Penal/Princípio da Taxatividade da Lei Penal.md",
+    "Concursos/Direito/08 - Direito Penal/01 - Princípios do Direito Penal/Princípio da Reserva Legal.md",
+    "Concursos/Direito/08 - Direito Penal/01 - Princípios do Direito Penal/Princípio da Legalidade Penal.md",
+    "Concursos/Direito/08 - Direito Penal/MOC — Direito Penal.md",
+    "Concursos/Direito/08 - Direito Penal/02 - Conceitos Fundamentais/MOC — Conceitos Fundamentais.md",
+    "Concursos/Direito/08 - Direito Penal/02 - Conceitos Fundamentais/Normas Penais em Branco.md",
+    "Concursos/Direito/08 - Direito Penal/02 - Conceitos Fundamentais",
+    "Concursos/Direito/05 - Direito Administrativo/02 - Princípios Administrativos/Princípio da Legalidade Administrativa.md",
+    "Concursos/Direito/08 - Direito Penal/01 - Princípios do Direito Penal",
+    "Concursos/Direito/05 - Direito Administrativo/MOC — Direito Administrativo.md",
+    "Concursos/Economia/03 - Modelos Econômicos/Curva de Possibilidades de Produção (CPP).md",
     "Concursos/Economia/03 - Modelos Econômicos/MOC — Modelos Econômicos.md",
     "Concursos/Economia/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais.md",
-    "Concursos/Economia/03 - Modelos Econômicos/Curva de Possibilidades de Produção (CPP).md",
     "Media/Pasted image 20260528232515.png",
     "Concursos/Economia/Economia.md",
     "Concursos/Economia/02 - Princípios Econômicos/MOC — Princípios econômicos.md",
@@ -514,34 +541,18 @@
     "Concursos/Economia/01 - Conceitos Fundamentais",
     "Concursos/Contabilidade Geral/Contabilidade Geral.md",
     "Concursos/Estatística/Estatística.md",
-    "Concursos/Direito/12 - Direito Empresarial/01 - Teoria da Empresa e Empresário/Empresário — Conceito.md",
     "Concursos/Economia",
     "Media/Pasted image 20260528220230.png",
     "Media/Pasted image 20260528215722.png",
     "Media/Pasted image 20260528215439.png",
     "Media/Pasted image 20260528215018.png",
-    "Concursos/Direito/12 - Direito Empresarial/01 - Teoria da Empresa e Empresário/MOC — Teoria da Empresa e Empresário.md",
-    "Concursos/Direito/12 - Direito Empresarial/01 - Teoria da Empresa e Empresário/Empresa — Conceito.md",
     "Media/Pasted image 20260528214546.png",
-    "Concursos/Direito/12 - Direito Empresarial/MOC — Direito Empresarial.md",
-    "Concursos/Direito/12 - Direito Empresarial/02 - Princípios do Direito Empresarial/MOC — Princípios do Direito Empresarial.md",
-    "Concursos/Direito/12 - Direito Empresarial/02 - Princípios do Direito Empresarial/Princípio do Direito a Preservação da Empresa.md",
-    "Concursos/Direito/12 - Direito Empresarial/02 - Princípios do Direito Empresarial/Princípio do Direito a Livre Concorrência.md",
-    "Concursos/Direito/12 - Direito Empresarial/02 - Princípios do Direito Empresarial/Princípio do Direito a Propriedade Privada.md",
-    "Concursos/Direito/12 - Direito Empresarial/02 - Princípios do Direito Empresarial/Princípio da Liberdade de Iniciativa.md",
-    "Concursos/Direito/13 - Jurisprudência e Precedentes/MOC — Jurisprudência e Precedentes.md",
     "Concursos/Direito/12 - Direito Empresarial/02 - Princípios do Direito Empresarial",
-    "Concursos/Direito/12 - Direito Empresarial/01 - Teoria da Empresa e Empresário/Fontes do Direito Empresarial.md",
     "Media/Pasted image 20260528211451.png",
-    "Concursos/Direito/05 - Direito Administrativo/MOC — Direito Administrativo.md",
-    "Concursos/Direito/05 - Direito Administrativo/Caderno de Erros (Direito Administrativo).md",
     "Concursos/Direito/12 - Direito Empresarial/01 - Teoria da Empresa e Empresário",
     "Media/Pasted image 20260528110504.png",
     "Media/Pasted image 20260528110402.png",
-    "Concursos/Estatística/01 - Conceitos Fundamentais/Distribuição de Frequências.md",
     "Concursos/Tecnologia da Informação/15 - Ciência de Dados",
-    "Concursos/Tecnologia da Informação/11 - Banco de Dados/10 - Desempenho e Otimização",
-    "Concursos/Tecnologia da Informação/11 - Banco de Dados/11 - Bancos de Dados Não Relacionais",
-    "Concursos/Tecnologia da Informação/11 - Banco de Dados/09 - Administração de Banco de Dados"
+    "Concursos/Tecnologia da Informação/11 - Banco de Dados/10 - Desempenho e Otimização"
   ]
 }
