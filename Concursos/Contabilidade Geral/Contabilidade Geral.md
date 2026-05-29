@@ -1,12 +1,8 @@
 ---
 disciplina: Contabilidade Geral
 tópico: MOC Principal
-tags:
-  - contabilidade
-  - moc
 created: 2025-12-11T14:18:00
 updated: 2026-01-09T11:58:00
-progresso: 0
 ---
 ## Conceito Geral
 

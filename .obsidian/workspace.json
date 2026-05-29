@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4b828ffc9d47ce96",
+        "id": "93911e91811e0654",
         "type": "tabs",
         "children": [
           {
-            "id": "0daca8cd6e7d4ecf",
+            "id": "434416b421437e97",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Estatística/01 - Conceitos Fundamentais/Distribuição de Frequências.md",
+                "file": "Concursos/Economia/03 - Modelos Econômicos/Curva de Possibilidades de Produção (CPP).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Distribuição de Frequências"
+              "title": "Curva de Possibilidades de Produção (CPP)"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Governança de Dados",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 374.5110321044922
+    "width": 403.5026054382324
   },
   "right": {
     "id": "ae0fcbd67c81a0a4",
@@ -446,7 +446,7 @@
             }
           },
           {
-            "id": "52a0ee92dac51079",
+            "id": "1795506245725537",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -456,7 +456,19 @@
             }
           },
           {
-            "id": "0498096538c73598",
+            "id": "8676127411555b56",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Concursos/Economia/03 - Modelos Econômicos/Curva de Possibilidades de Produção (CPP).md"
+              },
+              "icon": "lucide-info",
+              "title": "Propriedades do arquivo Curva de Possibilidades de Produção (CPP)"
+            }
+          },
+          {
+            "id": "9d60c9b5b09d2a3d",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -466,7 +478,7 @@
             }
           }
         ],
-        "currentTab": 34
+        "currentTab": 35
       }
     ],
     "direction": "horizontal",
@@ -484,49 +496,52 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "0daca8cd6e7d4ecf",
+  "active": "434416b421437e97",
   "lastOpenFiles": [
-    "Concursos/Estatística/01 - Conceitos Fundamentais/Dados Estatísticos.md",
-    "Concursos/Estatística/01 - Conceitos Fundamentais/Distribuição de Frequências.md",
-    "Concursos/Estatística/01 - Conceitos Fundamentais/Estatística — Definição.md",
-    "Concursos/Estatística/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais.md",
-    "Concursos/Estatística/01 - Conceitos Fundamentais/Variáveis Estatísticas.md",
-    "Concursos/Estatística/01 - Conceitos Fundamentais/Séries Estatísticas.md",
-    "Concursos/Estatística/01 - Conceitos Fundamentais/População e Amostra.md",
+    "Concursos/Economia/03 - Modelos Econômicos/MOC — Modelos Econômicos.md",
+    "Concursos/Economia/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais.md",
+    "Concursos/Economia/03 - Modelos Econômicos/Curva de Possibilidades de Produção (CPP).md",
+    "Media/Pasted image 20260528232515.png",
+    "Concursos/Economia/Economia.md",
+    "Concursos/Economia/02 - Princípios Econômicos/MOC — Princípios econômicos.md",
+    "Concursos/Economia/01 - Conceitos Fundamentais/Formas de Organização da Atividade Econômica.md",
+    "Concursos/Economia/03 - Modelos Econômicos",
+    "Concursos/Economia/02 - Princípios Econômicos",
+    "Concursos/Economia/01 - Conceitos Fundamentais/Problema Econômico Fundamental.md",
+    "Media/Pasted image 20260528222252.png",
+    "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais.md",
+    "Concursos/Auditoria/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais.md",
+    "Concursos/Economia/01 - Conceitos Fundamentais",
+    "Concursos/Contabilidade Geral/Contabilidade Geral.md",
     "Concursos/Estatística/Estatística.md",
-    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/Lei Complementar nº 214 de 2025.md",
-    "Concursos/Direito/04 - Direito Constitucional/MOC — Direito Constitucional.md",
-    "Concursos/Direito/04 - Direito Constitucional/01 - Teoria Geral da Constituição/MOC — Teoria Geral da Constituição.md",
-    "Concursos/Direito/04 - Direito Constitucional/02 - Princípios Fundamentais/MOC — Princípios Fundamentais.md",
-    "Concursos/Direito/04 - Direito Constitucional/01 - Teoria Geral da Constituição/Normas de Eficácia Plena.md",
-    "Concursos/Direito/04 - Direito Constitucional/01 - Teoria Geral da Constituição/Normas Autoexecutáveis.md",
+    "Concursos/Direito/12 - Direito Empresarial/01 - Teoria da Empresa e Empresário/Empresário — Conceito.md",
+    "Concursos/Economia",
+    "Media/Pasted image 20260528220230.png",
+    "Media/Pasted image 20260528215722.png",
+    "Media/Pasted image 20260528215439.png",
+    "Media/Pasted image 20260528215018.png",
+    "Concursos/Direito/12 - Direito Empresarial/01 - Teoria da Empresa e Empresário/MOC — Teoria da Empresa e Empresário.md",
+    "Concursos/Direito/12 - Direito Empresarial/01 - Teoria da Empresa e Empresário/Empresa — Conceito.md",
+    "Media/Pasted image 20260528214546.png",
+    "Concursos/Direito/12 - Direito Empresarial/MOC — Direito Empresarial.md",
+    "Concursos/Direito/12 - Direito Empresarial/02 - Princípios do Direito Empresarial/MOC — Princípios do Direito Empresarial.md",
+    "Concursos/Direito/12 - Direito Empresarial/02 - Princípios do Direito Empresarial/Princípio do Direito a Preservação da Empresa.md",
+    "Concursos/Direito/12 - Direito Empresarial/02 - Princípios do Direito Empresarial/Princípio do Direito a Livre Concorrência.md",
+    "Concursos/Direito/12 - Direito Empresarial/02 - Princípios do Direito Empresarial/Princípio do Direito a Propriedade Privada.md",
+    "Concursos/Direito/12 - Direito Empresarial/02 - Princípios do Direito Empresarial/Princípio da Liberdade de Iniciativa.md",
+    "Concursos/Direito/13 - Jurisprudência e Precedentes/MOC — Jurisprudência e Precedentes.md",
+    "Concursos/Direito/12 - Direito Empresarial/02 - Princípios do Direito Empresarial",
+    "Concursos/Direito/12 - Direito Empresarial/01 - Teoria da Empresa e Empresário/Fontes do Direito Empresarial.md",
+    "Media/Pasted image 20260528211451.png",
+    "Concursos/Direito/05 - Direito Administrativo/MOC — Direito Administrativo.md",
+    "Concursos/Direito/05 - Direito Administrativo/Caderno de Erros (Direito Administrativo).md",
+    "Concursos/Direito/12 - Direito Empresarial/01 - Teoria da Empresa e Empresário",
     "Media/Pasted image 20260528110504.png",
     "Media/Pasted image 20260528110402.png",
-    "Concursos/Direito/04 - Direito Constitucional/01 - Teoria Geral da Constituição/Normas de Eficácia Limitada.md",
-    "Concursos/Direito/04 - Direito Constitucional/16 - Tributação e Orçamento/Normas de Eficácia Contida.md",
-    "Concursos/Direito/02 - Teoria da Norma Jurídica/Emenda Constitucional — Conceito.md",
-    "Media/Pasted image 20260528104200.png",
-    "Concursos/Direito/04 - Direito Constitucional/01 - Teoria Geral da Constituição/Poder Constituinte Difuso.md",
-    "Concursos/Direito/04 - Direito Constitucional/01 - Teoria Geral da Constituição/Poder Constituinte Derivado.md",
-    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/MOC — Reforma Tributária.md",
-    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/Regra Matriz de Incidência Tributária (RMIT).md",
-    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/Lei Complementar nº 214/2025.md",
-    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/Lei Complementar nº 214",
-    "Concursos/Direito/10 - Direito Tributário/18 - Súmulas Vinculantes em Matéria Tributária/MOC — Súmulas Vinculantes em Matéria Tributária.md",
-    "Concursos/Tecnologia da Informação/15 - Ciência de Dados/DAMA-DMBOK.md",
-    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária",
-    "Concursos/Tecnologia da Informação/15 - Ciência de Dados/MOC — Ciência de Dados.md",
-    "Concursos/Tecnologia da Informação/15 - Ciência de Dados/Data Enhancement Process.md",
-    "Media/Pasted image 20260527141855.png",
-    "Media/Pasted image 20260527115126.png",
-    "Media/Pasted image 20260527113606.png",
-    "Media/Pasted image 20260527113251.png",
-    "Media/Pasted image 20260527104840.png",
-    "Media/Pasted image 20260527104332.png",
-    "Media/Pasted image 20260527101646.png",
+    "Concursos/Estatística/01 - Conceitos Fundamentais/Distribuição de Frequências.md",
     "Concursos/Tecnologia da Informação/15 - Ciência de Dados",
-    "Concursos/Tecnologia da Informação/01 - Governança de TI",
-    "Concursos/Direito/04 - Direito Constitucional/16 - Tributação e Orçamento",
-    "Concursos/Tecnologia da Informação/15 - Ciência de Dados/03 - Big Data"
+    "Concursos/Tecnologia da Informação/11 - Banco de Dados/10 - Desempenho e Otimização",
+    "Concursos/Tecnologia da Informação/11 - Banco de Dados/11 - Bancos de Dados Não Relacionais",
+    "Concursos/Tecnologia da Informação/11 - Banco de Dados/09 - Administração de Banco de Dados"
   ]
 }

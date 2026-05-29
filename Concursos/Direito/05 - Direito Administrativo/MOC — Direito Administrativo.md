@@ -1,14 +1,11 @@
 ---
 disciplina: Direito Administrativo
 created: 2025-12-11T15:01:00
-completed: 0
 ---
 ## Conceito Geral
 
 > [!note] Direito Administrativo
 > É o ramo do [[Direito Público]] que estuda o conjunto de **princípios, normas e institutos** que disciplinam a **organização**, o **funcionamento** e a **atuação da Administração Pública**, bem como as **relações jurídicas** entre o Estado e os particulares no exercício da **função administrativa**.
-
-#direito/administrativo  #direito/público  
 
 ---
 ## MOC Principal
@@ -30,7 +27,6 @@ completed: 0
 ### 14 — [[MOC — Controle da Administração Pública|MOC — Controle da Administração Pública]]
 ### 15 — [[MOC — LGPD|MOC — LGPD]]
 ### 16 — [[MOC — Lei Anticorrupção|MOC — Lei Anticorrupção]]
-
 
 ---
 ## MOC — Administração Pública
