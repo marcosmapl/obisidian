@@ -49,13 +49,6 @@ Regressão linear simples, mínimos quadrados e coeficiente de determinação.
 ---
 ## 🔑 Conceitos e Fórmulas Essenciais
 
-### Medidas de Posição
-**Média Aritmética:**
-$$\bar{x} = \frac{\sum x_i}{n}$$
-
-**Mediana:** valor central ordenado
-
-**Moda:** valor mais frequente
 
 ### Medidas de Dispersão
 **Variância:**

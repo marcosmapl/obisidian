@@ -2,24 +2,12 @@
 disciplina: Estatística
 tópico: Estatística Descritiva
 created: 2025-12-23T00:00:00
-progresso: 0
-node_size: "10"
-tags:
-  - estatistica/descritiva
+updated: 2026-05-31T17:05:00
 ---
 
-## 🔸 Estatística Descritiva
+## Índice
 
-- [[Estatística Descritiva]]
-- [[Tabelas Estatísticas]]
-- [[Gráficos Estatísticos]]
 - [[Distribuição de Frequências]]
-- [[Histograma]]
-- [[Polígono de Frequências]]
-- [[Ogiva]]
-- [[Diagrama de Dispersão]]
-
-#estatistica/descritiva
 
 ---
 ## 📊 Medidas Estatísticas
