@@ -20,8 +20,6 @@ tags:
 - [[Intervalo de Confiança para Proporção]]
 - [[Intervalo de Confiança para Variância]]
 
-#estatistica/inferencia
-
 ---
 ## 🔸 Testes de Hipóteses
 

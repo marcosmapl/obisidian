@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6950fa99eb3dac88",
+        "id": "eefc079f5996192e",
         "type": "tabs",
         "children": [
           {
-            "id": "56b147f6179b0571",
+            "id": "e7c1832adc2bb83c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concursos/Contabilidade Geral/13 - Demonstrações Contábeis/2 - DLPA/Demonstração de Lucros ou Prejuízos Acumulados (DLPA).md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Demonstração de Lucros ou Prejuízos Acumulados (DLPA)"
+              "title": "Nova aba"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Governança de Dados",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 403.5026054382324
+    "width": 410.5110321044922
   },
   "right": {
     "id": "ae0fcbd67c81a0a4",
@@ -501,6 +497,16 @@
             "id": "104952aadb4a5442",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "c587ea16224f425e",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -508,7 +514,7 @@
             }
           }
         ],
-        "currentTab": 38
+        "currentTab": 39
       }
     ],
     "direction": "horizontal",
@@ -526,53 +532,53 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "56b147f6179b0571",
+  "active": "e7c1832adc2bb83c",
   "lastOpenFiles": [
+    "Concursos/Direito/06 - Direito Civil/MOC — Direito Civil.md",
+    "Concursos/Direito/06 - Direito Civil/Lei de Introdução às Normas do Direito Brasileiro (LINDB).md",
+    "Media/Pasted image 20260603105000.png",
+    "Media/Pasted image 20260603104857.png",
+    "Media/Pasted image 20260603102748.png",
+    "Media/Pasted image 20260603101327.png",
+    "Concursos/Direito/06 - Direito Civil/Código Civil.md",
+    "Concursos/Estatística/03 - Probabilidade/MOC — Probabilidade.md",
+    "Concursos/Direito/10 - Direito Tributário/08 - Repartição das Receitas Tributárias/Repartição das Receitas Tributárias.md",
+    "Concursos/Direito/10 - Direito Tributário/08 - Repartição das Receitas Tributárias/MOC — Repartição das Receitas Tributárias.md",
+    "Concursos/Direito/10 - Direito Tributário/MOC — Direito Tributário.md",
+    "Concursos/Estatística/11 - Análise Combinatória/Combinação.md",
+    "Concursos/Estatística/11 - Análise Combinatória/Permutação.md",
+    "Concursos/Estatística/11 - Análise Combinatória/MOC — Análise Combinatória.md",
+    "Concursos/Estatística/08 - Números-Índices/MOC — Números-Índices.md",
+    "Concursos/Estatística/09 - Correlação/MOC — Correlação.md",
+    "Concursos/Estatística/10 - Regressão/MOC — Regressão.md",
+    "Concursos/Estatística/11 - Análise Combinatória",
+    "Concursos/Estatística/07 - Inferência Estatística/MOC — Inferência Estatística.md",
+    "Concursos/Estatística/06 - Amostragem/MOC — Amostragem.md",
+    "Concursos/Estatística/05 - Distribuições de Probabilidade/MOC — Distribuições de Probabilidade.md",
+    "Concursos/Estatística/04 - Variáveis Aleatórias/MOC — Variáveis Aleatórias.md",
+    "Concursos/Estatística/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais.md",
+    "Concursos/Direito/10 - Direito Tributário/12 - Crédito Tributário/Exclusão do Crédito Tributário.md",
+    "Concursos/Direito/10 - Direito Tributário/12 - Crédito Tributário/Moratória — Conceito.md",
+    "Concursos/Direito/10 - Direito Tributário/03 - Princípios Tributários/Princípio da Anterioridade Tributária.md",
+    "Concursos/Direito/10 - Direito Tributário/12 - Crédito Tributário/MOC — Crédito Tributário.md",
+    "Concursos/Direito/10 - Direito Tributário/12 - Crédito Tributário/Prescrição e Decadência.md",
+    "Concursos/Direito/10 - Direito Tributário/12 - Crédito Tributário/Extinção do Crédito Tributário.md",
+    "Media/photo_2026-06-03_09-13-48.jpg",
+    "Concursos/Direito/10 - Direito Tributário/12 - Crédito Tributário/Lançamento Tributário.md",
+    "Concursos/Direito/10 - Direito Tributário/12 - Crédito Tributário/Crédito Tributário — Conceito.md",
+    "Media/photo_2026-06-03_08-50-51.jpg",
+    "Media/photo_2026-06-03_08-48-27.jpg",
     "Media/Pasted image 20260602161745.png",
     "Media/Pasted image 20260602160642.png",
     "Media/Pasted image 20260602154218.png",
-    "Concursos/Contabilidade Geral/13 - Demonstrações Contábeis/3 - DMPL/Demonstração das Mutações do Patrimônio Líquido (DMPL).md",
-    "Concursos/Contabilidade Geral/13 - Demonstrações Contábeis/1 - DRE/Demonstração do Resultado do Exercício (DRE).md",
-    "Concursos/Contabilidade Geral/13 - Demonstrações Contábeis/2 - DLPA/Demonstração de Lucros ou Prejuízos Acumulados (DLPA).md",
-    "Concursos/Estatística/Estatística.md",
-    "Concursos/Estatística/02 - Estatística Descritiva/Medidas de Posição.md",
-    "Concursos/Estatística/02 - Estatística Descritiva/MOC — Estatística Descritiva.md",
-    "Concursos/Direito/04 - Direito Constitucional/03 - Direitos e Garantias Fundamentais/Direitos Fundamentais Básicos.md",
-    "Media/Pasted image 20260531163502.png",
-    "Media/Pasted image 20260531162443.png",
-    "Media/Pasted image 20260531160538.png",
-    "Media/Pasted image 20260531155956.png",
-    "Concursos/Direito/04 - Direito Constitucional/03 - Direitos e Garantias Fundamentais/MOC — Direitos e Garantias Fundamentais.md",
-    "Concursos/Direito/04 - Direito Constitucional/03 - Direitos e Garantias Fundamentais/Limites e Eficácia dos Direitos Fundamentais.md",
-    "Concursos/Direito/04 - Direito Constitucional/03 - Direitos e Garantias Fundamentais/Características dos Direitos Fundamentais.md",
-    "Concursos/Direito/04 - Direito Constitucional/03 - Direitos e Garantias Fundamentais/Teoria Geral dos Direitos Fundamentais.md",
-    "Media/Pasted image 20260531145946.png",
-    "Concursos/Direito/04 - Direito Constitucional/01 - Teoria Geral da Constituição/MOC — Teoria Geral da Constituição.md",
-    "Concursos/Direito/08 - Direito Penal/01 - Princípios do Direito Penal/Princípio da Individualização da Pena.md",
-    "Concursos/Direito/08 - Direito Penal/01 - Princípios do Direito Penal/MOC — Princípios do Direito Penal.md",
-    "Concursos/Direito/08 - Direito Penal/01 - Princípios do Direito Penal/Princípio da Presunção de Inocência.md",
-    "Concursos/Direito/08 - Direito Penal/01 - Princípios do Direito Penal/Princípio da Limitação das Penas (Humanidade).md",
-    "Concursos/Direito/08 - Direito Penal/01 - Princípios do Direito Penal/Princípio da Intranscendência da Pena.md",
-    "Concursos/Direito/08 - Direito Penal/01 - Princípios do Direito Penal/Princípio da Irretroatividade da Lei Penal.md",
-    "Concursos/Direito/08 - Direito Penal/01 - Princípios do Direito Penal/Princípio da Anterioridade da Lei Penal.md",
-    "Concursos/Direito/08 - Direito Penal/01 - Princípios do Direito Penal/Princípio da Taxatividade da Lei Penal.md",
-    "Concursos/Direito/08 - Direito Penal/01 - Princípios do Direito Penal/Princípio da Reserva Legal.md",
-    "Concursos/Direito/08 - Direito Penal/01 - Princípios do Direito Penal/Princípio da Legalidade Penal.md",
-    "Concursos/Direito/08 - Direito Penal/MOC — Direito Penal.md",
-    "Concursos/Direito/08 - Direito Penal/02 - Conceitos Fundamentais/MOC — Conceitos Fundamentais.md",
-    "Concursos/Direito/08 - Direito Penal/02 - Conceitos Fundamentais/Normas Penais em Branco.md",
     "Concursos/Direito/08 - Direito Penal/02 - Conceitos Fundamentais",
     "Concursos/Direito/08 - Direito Penal/01 - Princípios do Direito Penal",
-    "Media/Pasted image 20260528232515.png",
     "Concursos/Economia/03 - Modelos Econômicos",
     "Concursos/Economia/02 - Princípios Econômicos",
-    "Media/Pasted image 20260528222252.png",
     "Concursos/Economia/01 - Conceitos Fundamentais",
     "Concursos/Economia",
-    "Media/Pasted image 20260528220230.png",
     "Concursos/Direito/12 - Direito Empresarial/02 - Princípios do Direito Empresarial",
     "Concursos/Direito/12 - Direito Empresarial/01 - Teoria da Empresa e Empresário",
-    "Concursos/Tecnologia da Informação/15 - Ciência de Dados",
-    "Concursos/Tecnologia da Informação/11 - Banco de Dados/10 - Desempenho e Otimização"
+    "Concursos/Tecnologia da Informação/15 - Ciência de Dados"
   ]
 }

@@ -15,6 +15,9 @@ updated: 2026-05-14T21:15:00
 - **Isenção**
 - **Anistia**
 
+Art. 177. Salvo disposição de lei em contrário, a isenção não é extensiva: 
+I - às taxas e às contribuições de melhoria; 
+II - aos tributos instituídos posteriormente à sua concessão.
 
 ---
 ## Tópicos Relacionados

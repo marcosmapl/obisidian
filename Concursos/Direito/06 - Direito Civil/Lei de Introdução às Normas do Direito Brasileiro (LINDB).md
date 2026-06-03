@@ -26,7 +26,7 @@ não acontecer, vale a regra de que a lei começa a vigorar em todo o país **45
 > [!note] Vacatio Legis
 > Prazo de lapso temporal entre a publicação e a data que efetivamente inicia a vigência de uma lei.
 
-![[Pasted image 20260525100001.png]]
+![[Pasted image 20260603101327.png]]
 
 > [!important] Correções na lei, **durante o período de Vacatio Legis**, reiniciam o prazo para a vigência. 
  
@@ -55,7 +55,7 @@ Ocorre quando surge uma lei nova de mesmo status e que **declare expressamente**
 
 Ocorre quando surge uma lei nova de mesmo status, que **trate de conteúdo incompatível** com a lei anterior ou **regule inteiramente** a matéria de que tratava a lei anterior.
 
-![[Pasted image 20260525101750.png]]
+![[Pasted image 20260603102748.png]]
 
 ---
 ## Antinomia
@@ -66,6 +66,8 @@ Problemas que surgem quando há leis consideradas conflitantes entre si. Para so
 - **Cronológico**: Leis novas prevalecem sobre leis anteriores
 - **Especialidade**: Leis com conteúdo especial devem sobrepujar novas.
 	- Código de Defesa do Consumidor > Código Civil
+
+![[Pasted image 20260603104857.png]]
 
 ---
 ## Repristinação
@@ -100,6 +102,8 @@ As normas podem ser interpretadas quanto à:
 
 > [!important] DECRETO-LEI Nº 4.657 / 1942
 > Art. 5º Na aplicação da lei, o juiz atenderá aos fins sociais a que ela se dirige e às exigências do bem comum.
+
+![[Pasted image 20260603105000.png]]
 
 ---
 ## Integração da Norma

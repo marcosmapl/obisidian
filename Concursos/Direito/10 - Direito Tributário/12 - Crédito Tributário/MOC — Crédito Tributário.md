@@ -9,6 +9,7 @@ updated: 2026-01-05T21:30:00
 
 - [[Crédito Tributário — Conceito]]
 - [[Lançamento Tributário]]
+- [[Prescrição e Decadência]]
 - [[Suspensão do Crédito Tributário]]
 - [[Moratória — Conceito]]
 - [[Parcelamento (Crédito Tributário)]]

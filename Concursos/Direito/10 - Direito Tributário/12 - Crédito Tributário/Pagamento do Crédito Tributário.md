@@ -63,6 +63,8 @@ Os critérios estabelecidos para a imputação do pagamento são os seguintes:
 
 ![[Pasted image 20260514164733.png]]
 
+![[photo_2026-06-03_08-48-27.jpg]]
+
 ---
 ## Restituição
 
@@ -81,6 +83,8 @@ Art. 165. **O sujeito passivo tem direito, independentemente de prévio protest
 ### Restituição de Tributos Indiretos
 
 Art. 166. A restituição de tributos que comportem, por sua natureza, **transferência do respectivo encargo financeiro** somente será feita a **quem prove haver assumido o referido encargo**, ou, no caso de tê-lo transferido a terceiro, estar por este **expressamente autorizado a recebê-la**.
+
+![[photo_2026-06-03_08-50-51.jpg]]
 
 ### Efeito da Restituição nos Juros de Mora e Penalidades
 

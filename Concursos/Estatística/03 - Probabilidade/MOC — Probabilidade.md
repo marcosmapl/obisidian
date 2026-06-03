@@ -2,13 +2,10 @@
 disciplina: Estatística
 tópico: Probabilidade
 created: 2025-12-23T00:00:00
-progresso: 0
-node_size: "10"
-tags:
-  - estatistica/probabilidade
+updated: 2026-06-03T09:20:00
 ---
 
-## 🔸 Probabilidade
+## Índice
 
 - [[Probabilidade]]
 - [[Probabilidade — Definição]]
@@ -21,10 +18,8 @@ tags:
 - [[Regra da Multiplicação]]
 - [[Regra da Adição]]
 
-#estatistica/probabilidade
-
 ---
-## 🔸 Conceitos Fundamentais
+## Conceitos Fundamentais
 
 > [!info] Definição
 > **Probabilidade** é uma medida numérica da chance de ocorrência de um evento, variando entre 0 (impossível) e 1 (certo).
