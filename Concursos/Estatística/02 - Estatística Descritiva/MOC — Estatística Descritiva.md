@@ -10,14 +10,13 @@ updated: 2026-05-31T17:05:00
 - [[Distribuição de Frequências]]
 
 ---
-## 📊 Medidas Estatísticas
+## Medidas Estatísticas
 
 ### Medidas de Posição
 - [[Medidas de Posição]]
-- [[Média]]
-- [[Mediana]]
-- [[Moda]]
-- [[Quartis, Decis e Percentis]]
+- [[Medidas Separatrizes]]
+
+![[Pasted image 20260608044811.png]]
 
 ### Medidas de Variabilidade
 - [[Medidas de Variabilidade]]
@@ -30,16 +29,7 @@ updated: 2026-05-31T17:05:00
 - [[Medidas de Assimetria]]
 - [[Medidas de Curtose]]
 
-#estatistica/medidas
-
 ---
-## 🔸 Representação de Dados
+## Representação de Dados
 
-> [!info] Objetivo
-> A **Estatística Descritiva** organiza, resume e apresenta dados de forma compreensível através de tabelas, gráficos e medidas numéricas.
-
-**Principais Representações:**
-- Tabelas de frequência (absoluta, relativa, acumulada)
-- Gráficos (barras, setores, linhas, histograma)
-- Medidas resumo (tendência central, dispersão, forma)
-
+- [[Boxplot]]

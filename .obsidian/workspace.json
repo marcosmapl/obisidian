@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "eefc079f5996192e",
+        "id": "8a59ba3ceb803872",
         "type": "tabs",
         "children": [
           {
-            "id": "e7c1832adc2bb83c",
+            "id": "926119dcb92092bf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Concursos/Estatística/02 - Estatística Descritiva/Moda.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Moda"
             }
           }
         ]
@@ -507,6 +511,16 @@
             "id": "c587ea16224f425e",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "7057d33e6da02986",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -514,7 +528,7 @@
             }
           }
         ],
-        "currentTab": 39
+        "currentTab": 40
       }
     ],
     "direction": "horizontal",
@@ -532,8 +546,31 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "e7c1832adc2bb83c",
+  "active": "926119dcb92092bf",
   "lastOpenFiles": [
+    "Media/Pasted image 20260608060918.png",
+    "Media/Pasted image 20260608060552.png",
+    "Concursos/Estatística/02 - Estatística Descritiva/Medidas de Posição.md",
+    "Concursos/Estatística/02 - Estatística Descritiva/MOC — Estatística Descritiva.md",
+    "Concursos/Estatística/02 - Estatística Descritiva/Boxplot.md",
+    "Media/Pasted image 20260608054702.png",
+    "Concursos/Estatística/02 - Estatística Descritiva/Medidas Separatrizes.md",
+    "Concursos/Estatística/02 - Estatística Descritiva/Percentis.md",
+    "Concursos/Estatística/02 - Estatística Descritiva/Decis.md",
+    "Concursos/Estatística/02 - Estatística Descritiva/Quartis.md",
+    "Concursos/Estatística/02 - Estatística Descritiva/Mediana.md",
+    "Concursos/Estatística/02 - Estatística Descritiva/Média Harmônica.md",
+    "Concursos/Estatística/02 - Estatística Descritiva/Média Geométrica.md",
+    "Concursos/Estatística/02 - Estatística Descritiva/Média Aritmética.md",
+    "Media/Pasted image 20260608044811.png",
+    "Concursos/Estatística/02 - Estatística Descritiva/Moda.md",
+    "Concursos/Estatística/02 - Estatística Descritiva/Média Ponderada.md",
+    "Concursos/Direito/12 - Direito Empresarial/01 - Teoria da Empresa e Empresário/Empresário — Conceito.md",
+    "Media/Pasted image 20260605222029.png",
+    "Concursos/Direito/12 - Direito Empresarial/01 - Teoria da Empresa e Empresário/MOC — Teoria da Empresa e Empresário.md",
+    "Media/Pasted image 20260605220752.png",
+    "Media/Pasted image 20260605220258.png",
+    "Concursos/Direito/12 - Direito Empresarial/01 - Teoria da Empresa e Empresário/Empresa — Conceito.md",
     "Concursos/Direito/06 - Direito Civil/MOC — Direito Civil.md",
     "Concursos/Direito/06 - Direito Civil/Lei de Introdução às Normas do Direito Brasileiro (LINDB).md",
     "Media/Pasted image 20260603105000.png",
@@ -547,30 +584,7 @@
     "Concursos/Direito/10 - Direito Tributário/MOC — Direito Tributário.md",
     "Concursos/Estatística/11 - Análise Combinatória/Combinação.md",
     "Concursos/Estatística/11 - Análise Combinatória/Permutação.md",
-    "Concursos/Estatística/11 - Análise Combinatória/MOC — Análise Combinatória.md",
-    "Concursos/Estatística/08 - Números-Índices/MOC — Números-Índices.md",
-    "Concursos/Estatística/09 - Correlação/MOC — Correlação.md",
-    "Concursos/Estatística/10 - Regressão/MOC — Regressão.md",
     "Concursos/Estatística/11 - Análise Combinatória",
-    "Concursos/Estatística/07 - Inferência Estatística/MOC — Inferência Estatística.md",
-    "Concursos/Estatística/06 - Amostragem/MOC — Amostragem.md",
-    "Concursos/Estatística/05 - Distribuições de Probabilidade/MOC — Distribuições de Probabilidade.md",
-    "Concursos/Estatística/04 - Variáveis Aleatórias/MOC — Variáveis Aleatórias.md",
-    "Concursos/Estatística/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais.md",
-    "Concursos/Direito/10 - Direito Tributário/12 - Crédito Tributário/Exclusão do Crédito Tributário.md",
-    "Concursos/Direito/10 - Direito Tributário/12 - Crédito Tributário/Moratória — Conceito.md",
-    "Concursos/Direito/10 - Direito Tributário/03 - Princípios Tributários/Princípio da Anterioridade Tributária.md",
-    "Concursos/Direito/10 - Direito Tributário/12 - Crédito Tributário/MOC — Crédito Tributário.md",
-    "Concursos/Direito/10 - Direito Tributário/12 - Crédito Tributário/Prescrição e Decadência.md",
-    "Concursos/Direito/10 - Direito Tributário/12 - Crédito Tributário/Extinção do Crédito Tributário.md",
-    "Media/photo_2026-06-03_09-13-48.jpg",
-    "Concursos/Direito/10 - Direito Tributário/12 - Crédito Tributário/Lançamento Tributário.md",
-    "Concursos/Direito/10 - Direito Tributário/12 - Crédito Tributário/Crédito Tributário — Conceito.md",
-    "Media/photo_2026-06-03_08-50-51.jpg",
-    "Media/photo_2026-06-03_08-48-27.jpg",
-    "Media/Pasted image 20260602161745.png",
-    "Media/Pasted image 20260602160642.png",
-    "Media/Pasted image 20260602154218.png",
     "Concursos/Direito/08 - Direito Penal/02 - Conceitos Fundamentais",
     "Concursos/Direito/08 - Direito Penal/01 - Princípios do Direito Penal",
     "Concursos/Economia/03 - Modelos Econômicos",

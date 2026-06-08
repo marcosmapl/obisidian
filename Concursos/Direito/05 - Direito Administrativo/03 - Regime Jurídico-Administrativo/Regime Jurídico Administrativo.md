@@ -26,3 +26,7 @@ updated: 2026-01-14T14:00:00
 - [[Regime Jurídico da Administração Pública]]
 - [[Princípio da Supremacia do Interesse Público]]
 - [[Princípio da Indisponibilidade do Interesse Público]]
+
+Valor que ocupa a **posição central** de uma série de dados, quando **organizados em ordem crescente ou decrescente**.
+
+$$ \text{Mediana} = X_{\frac{n + 1}{2}} $$
