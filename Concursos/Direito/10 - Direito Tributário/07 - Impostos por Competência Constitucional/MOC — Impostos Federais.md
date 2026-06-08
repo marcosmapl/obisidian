@@ -28,4 +28,8 @@ updated: 2026-01-05T14:55:00
 
 ### 08 - [[Imposto Seletivo (IS)]]
 
+### 09 - [[Imposto Residuais]]
+
+### 10 - [[Imposto Extraordinários de Guerra (IEG)]]
+
 

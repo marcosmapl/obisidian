@@ -8,16 +8,10 @@ updated: 2025-12-23T00:00:00
 ## Conceito
 
 > [!note] Imposto
-> São **tributos** cuja obrigação de pagar não depende de atividade específica do contribuinte, sendo cobrados **unilateralmente** pelo Estado com base na capacidade contributiva.
+> Art. 16, CTN - Imposto é o **tributo** cuja obrigação tem por fato gerador uma **situação independente de qualquer atividade estatal específica**, relativa ao contribuinte.
 
 ---
-## Características
-
-### Conceito Constitucional
-
-- Art. 16 do CTN: "Imposto é o tributo cuja obrigação tem por fato gerador uma situação independente de qualquer atividade estatal específica, relativa ao contribuinte"
-
-### Requisitos
+## Requisitos
 
 1. **Não vinculado** a atividade estatal específica
 2. Baseado em **capacidade contributiva**
@@ -25,11 +19,19 @@ updated: 2025-12-23T00:00:00
 4. Destina-se ao **tesouro público** (receita geral)
 
 ---
-## Distinção de Outros Tributos
+## Reserva Legal
 
-| Tributo | Obrigação | Vinculação | Exemplo |
-|---------|-----------|-----------|---------|
-| **Imposto** | Unilateral | Não vinculada | IR, ICMS |
-| **Taxa** | Bilateral | Vinculada a serviço | Taxa de licença |
-| **Contribuição** | Bilateral | Vinculada a atividade | Contribuição sindical |
+> [!note] Fato Gerador, BC e Contribuintes
+> Art. 146, CF88 - Cabe à **Lei Complementar**:
+> III - estabelecer **normas gerais** em matéria de legislação tributária, especialmente sobre:
+> a) definição de tributos e suas espécies, bem como, **em relação aos impostos discriminados nesta Constituição, a dos respectivos fatos geradores, bases de cálculo e contribuintes**
 
+---
+## Tópicos Relacionados
+
+- [[Fato Gerador da Obrigação Tributária]]
+- [[Receitas Derivadas — Conceito]]
+- [[Taxa — Conceito]]
+- [[Contribuições de Melhoria]]
+- [[Empréstimos Compulsórios]]
+- [[Contribuições Especiais]]

@@ -2,30 +2,25 @@
 disciplina: Direito Tributário
 tópico: Tributos
 created: 2025-12-29T21:55:00
-updated: 2025-12-29T21:56:00
+updated: 2026-06-08T09:05:00
 ---
 
 ## Conceito
 
 > [!note] Tributo
-> É toda **prestação pecuniária compulsória**, em **moeda** ou cujo **valor nela se possa exprimir**, que **não constitua sanção de ato ilícito**, **instituída em lei** e cobrada mediante **atividade administrativa plenamente vinculada**.” (Art. 3º, CTN)
-
-> [!important] O CTN traz essa definição por exigência da CF/88, no Art. 146, II.
+> Art. 3º, CTN - É toda **prestação pecuniária compulsória**, em **moeda** ou cujo **valor nela se possa exprimir**, que **não constitua sanção de ato ilícito**, **instituída em lei** e cobrada mediante **atividade administrativa plenamente vinculada**.
 
 > [!important] Tributos são **Receitas Derivadas**
-
-#direito/tributario/tributo
 
 ---
 ## Prestação pecuniária em moeda ou cujo valor nela se possa exprimir
 
 - Pagamento deve ser feito em **dinheiro (pecúnia)**.
-- Em regra geral, não admite-se pagamento de tributos **in natura** (bens) ou **in labore** (serviços).
-- Admite-se o pagamento em **BENS IMÓVEIS**, pois podem ser expressos em moeda, desde que seja **previsto em LEI**.
+- Em regra geral, ==não admite-se pagamento de tributos in natura (bens) ou in labore (serviços)==.
 
 > [!important] Lei Complementar 104/2002, adicionou o inciso XI ao Art. 156 do CTN (Lei 5,172):
 > Art. 156. Extingue o **crédito tributário**:
-> XI - a dação em pagamento em **bens imóveis**, na forma e condiçoes estabelecidas em lei.
+> XI - a dação em pagamento em **bens imóveis**, na forma e condiçoes estabelecidas em **LEI**.
 
 > [!important] ADI 1.917, o STF decidiu que lei local de determinado ente federado ==NÃO== pode estabelecer a dação em pagamento de **BENS MÓVEIS** como forma de extinção do crédito tributário.
 
@@ -33,7 +28,7 @@ updated: 2025-12-29T21:56:00
 ## Prestação Compulsória
 
 - O pagamento ==NÃO é facultado==, mas, sim um **obrigação**.
-- É claro que o indivíduo pode **contestar** o *valor devido* ou mesmo a *legalidade da cobrança*. 
+- Indivíduo pode **contestar o valor devido ou mesmo a legalidade da cobrança**. 
 
 ---
 ## Prestação instituída em Lei
@@ -45,7 +40,7 @@ updated: 2025-12-29T21:56:00
 
 > [!important] STF aceita a instituição de tributos por meio de [[Medidas Provisórias]]. 
 
-> [!important] A alteração de **alíquotas** em regra também deve ocorrer por meio de leis, porém existem **diversas exceções**.
+> [!important] A alteração de **ALÍQUOTAS** em regra também deve ocorrer por meio de leis, porém existem **diversas exceções**.
 
 ---
 ## Prestação que não constitui sanção de ato ilícito
