@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e969641797d3a002",
+        "id": "f4c31c575620f15e",
         "type": "tabs",
         "children": [
           {
-            "id": "4cd6253d32910578",
+            "id": "f4312b4d319f27bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Direito/10 - Direito Tributário/06 - Tributos/Contribuições Especiais.md",
+                "file": "Concursos/Direito/08 - Direito Penal/02 - Conceitos Fundamentais/MOC — Conceitos Fundamentais.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Contribuições Especiais"
+              "title": "MOC — Conceitos Fundamentais"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "CIDE",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,12 +74,11 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 540.5110321044922
+    "width": 444.5110321044922
   },
   "right": {
     "id": "ae0fcbd67c81a0a4",
@@ -532,6 +531,26 @@
             "id": "32a26d39621a4087",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "d4e9d5509f6a0780",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "ba23b69dc4cd2187",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -539,7 +558,7 @@
             }
           }
         ],
-        "currentTab": 41
+        "currentTab": 43
       }
     ],
     "direction": "horizontal",
@@ -557,8 +576,26 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "796748e51eb7415e",
+  "active": "f4312b4d319f27bf",
   "lastOpenFiles": [
+    "Concursos/Direito/08 - Direito Penal/02 - Conceitos Fundamentais/Tribunal do Júri.md",
+    "Concursos/Direito/08 - Direito Penal/02 - Conceitos Fundamentais/MOC — Conceitos Fundamentais.md",
+    "Concursos/Direito/08 - Direito Penal/02 - Conceitos Fundamentais/Vedações Constitucionais Aplicáveis a Crimes Graves.md",
+    "Concursos/Direito/08 - Direito Penal/02 - Conceitos Fundamentais/Fontes do Direito Penal.md",
+    "Concursos/Direito/08 - Direito Penal/01 - Princípios do Direito Penal/Princípio da Insignificância.md",
+    "Concursos/Direito/08 - Direito Penal/01 - Princípios do Direito Penal/Princípio do Ne Bis In Idem.md",
+    "Media/Pasted image 20260609154508.png",
+    "Concursos/Direito/08 - Direito Penal/01 - Princípios do Direito Penal/MOC — Princípios do Direito Penal.md",
+    "Concursos/Direito/08 - Direito Penal/01 - Princípios do Direito Penal/Princípio da Legalidade Penal.md",
+    "Concursos/Direito/08 - Direito Penal/01 - Princípios do Direito Penal/Princípio da Individualização da Pena.md",
+    "Concursos/Direito/08 - Direito Penal/01 - Princípios do Direito Penal/Princípio da Anterioridade da Lei Penal.md",
+    "Concursos/Direito/08 - Direito Penal/MOC — Direito Penal.md",
+    "Concursos/Direito/08 - Direito Penal/01 - Princípios do Direito Penal/Princípio da Intranscendência da Pena.md",
+    "Concursos/Direito/08 - Direito Penal/01 - Princípios do Direito Penal/Princípio da Alteridade.md",
+    "Concursos/Direito/08 - Direito Penal/01 - Princípios do Direito Penal/Princípio da Intervenção Mínima.md",
+    "Concursos/Direito/08 - Direito Penal/01 - Princípios do Direito Penal/Princípio da Culpabilidade.md",
+    "Concursos/Direito/08 - Direito Penal/01 - Princípios do Direito Penal/Princípio da Adequação da Pena.md",
+    "Concursos/Direito/10 - Direito Tributário/06 - Tributos/Contribuições Especiais.md",
     "Concursos/Direito/10 - Direito Tributário/06 - Tributos/MOC — Tributos - Conceito e Espécies.md",
     "Concursos/Direito/10 - Direito Tributário/06 - Tributos/Empréstimos Compulsórios.md",
     "Concursos/Direito/10 - Direito Tributário/06 - Tributos/Contribuições de Melhoria.md",
@@ -570,25 +607,8 @@
     "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário",
     "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/MOC — Impostos Federais.md",
     "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/Imposto Extraordinários de Guerra (IEG).md",
-    "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/Imposto Residuais.md",
-    "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/MOC — Impostos por Competência Constitucional.md",
-    "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/Imposto sobre Bens e Serviços (IBS).md",
-    "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/MOC — Impostos de Competência Compartilhada.md",
-    "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/MOC — Impostos dos Municípios.md",
-    "Concursos/Direito/10 - Direito Tributário/04 - Competência Tributária/MOC — Competência Tributária.md",
-    "Concursos/Direito/10 - Direito Tributário/04 - Competência Tributária/Classificação da Competência Tributária.md",
-    "Concursos/Direito/10 - Direito Tributário/04 - Competência Tributária/Bitributação e Bis in Idem.md",
-    "Concursos/Direito/10 - Direito Tributário/04 - Competência Tributária/Competência Tributária — Conceito.md",
-    "Concursos/Direito/10 - Direito Tributário/04 - Competência Tributária/Competência Tributária das Contribuições Especiais.md",
-    "Concursos/Direito/10 - Direito Tributário/04 - Competência Tributária/Competência Tributária dos Impostos.md",
-    "Concursos/Direito/10 - Direito Tributário/06 - Tributos/Espécies Tributárias.md",
-    "Concursos/Direito/10 - Direito Tributário/06 - Tributos/Imposto — Conceito.md",
-    "Concursos/Direito/10 - Direito Tributário/06 - Tributos/Tributo — Conceito.md",
-    "Concursos/Estatística/02 - Estatística Descritiva/Moda.md",
     "Media/Pasted image 20260608060918.png",
     "Media/Pasted image 20260608060552.png",
-    "Concursos/Estatística/02 - Estatística Descritiva/Medidas de Posição.md",
-    "Concursos/Estatística/02 - Estatística Descritiva/MOC — Estatística Descritiva.md",
     "Media/Pasted image 20260608054702.png",
     "Media/Pasted image 20260608044811.png",
     "Media/Pasted image 20260605222029.png",
@@ -596,7 +616,6 @@
     "Media/Pasted image 20260605220258.png",
     "Media/Pasted image 20260603105000.png",
     "Media/Pasted image 20260603104857.png",
-    "Media/Pasted image 20260603102748.png",
     "Concursos/Estatística/11 - Análise Combinatória",
     "Concursos/Direito/08 - Direito Penal/02 - Conceitos Fundamentais",
     "Concursos/Direito/08 - Direito Penal/01 - Princípios do Direito Penal",
