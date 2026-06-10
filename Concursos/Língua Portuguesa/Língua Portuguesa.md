@@ -5,10 +5,6 @@ created: 2025-12-12T08:54:00
 updated: 2026-02-05T20:45:00
 ---
 
-> [!abstract] Sobre esta disciplina
-> **Língua Portuguesa** é o estudo sistemático da norma-padrão da língua, abrangendo **ortografia, gramática, interpretação textual e produção de textos**, essencial para comunicação eficaz e aprovação em concursos públicos.
-
----
 ## 📌 Índice de Tópicos (MOCs)
 
 ### 01 — [[Concursos/Língua Portuguesa/01 - Ortografia e Acentuação/MOC — Ortografia e Acentuação|MOC — Ortografia e Acentuação]]
@@ -38,8 +34,3 @@ updated: 2026-02-05T20:45:00
 ### 13 — [[MOC — Funções da Linguagem]]
 
 ### 14 — [[MOC — Figuras de Linguagem|MOC — Figuras de Linguagem]]
-
----
-## Links Úteis
-
-- [[Concursos/Língua Portuguesa/Caderno de Erros (Português)|Caderno de Erros]]

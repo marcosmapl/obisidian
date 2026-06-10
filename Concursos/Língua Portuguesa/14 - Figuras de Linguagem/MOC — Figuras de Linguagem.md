@@ -2,14 +2,10 @@
 disciplina: Língua Portuguesa
 tópico: Figuras de Linguagem
 created: 2025-12-23T00:00:00
-progresso: 0
-node_size: "10"
-tags:
-  - portugues/figuras-linguagem
-  - portugues/estilistica
+updated: 0202-06-10T05:20:00
 ---
 
-## 🔸 Figuras de Linguagem
+## Figuras de Linguagem
 
 ### Figuras de Palavras (Semânticas)
 - [[Figuras de Linguagem]]
@@ -44,10 +40,8 @@ tags:
 - [[Onomatopeia]]
 - [[Paronomásia]]
 
-#portugues/figuras-linguagem
-
 ---
-## 🔸 Recursos Estilísticos
+## Recursos Estilísticos
 
 > [!info] Figuras de Linguagem
 > São recursos que enriquecem a linguagem, dando-lhe expressividade e afastando-a do uso convencional.
