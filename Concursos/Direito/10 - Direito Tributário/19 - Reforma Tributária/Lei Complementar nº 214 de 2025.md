@@ -14,7 +14,7 @@ updated: 2026-05-27T15:30:00
 > II - a **Contribuição Social sobre Bens e Serviços (CBS)**, de **competência da União**, de que trata o inciso V do caput do art. 195 da Constituição Federal.
 
 > [!tip] Competência Tributária
-> O IBS foi instituído por lei única nacional, embora seja de competência E/DF, para garantir a uniformidade em todo o território nacional.
+> O IBS foi **instituído por Lei única nacional**, embora seja de competência E/M/DF, para garantir a uniformidade em todo o território nacional.
 
 ### Princípio da Neutralidade
 
@@ -38,7 +38,7 @@ updated: 2026-05-27T15:30:00
 
 > [!note] Art. 3º 
 > II - **FORNECIMENTO**:
-> a) **entrega** ou disponibilização de bem material; 
+> a) **entrega ou disponibilização** de bem material; 
 > b) instituição, transferência, cessão, concessão, licenciamento ou **disponibilização de bem** imaterial, **inclusive direito**;
 > c) **prestação ou disponibilização de serviço**;
 
@@ -50,7 +50,6 @@ updated: 2026-05-27T15:30:00
 
 ### Adquirente
 
-
 > [!note] Art. 3º 
 > IV - **ADQUIRENTE**:
 > a) aquele **obrigado ao pagamento** ou a qualquer outra forma de contraprestação **pelo fornecimento de bem ou serviço**; 
@@ -58,7 +57,6 @@ updated: 2026-05-27T15:30:00
 
 > [!tip] Adquirente = Quem paga pelo bem ou serviço (comprador)
 ### Destinatário
-
 
 > [!note] Art. 3º 
 > V - **DESTINATÁRIO**: aquele a **quem for fornecido o bem ou serviço**, ==podendo ser o próprio adquirente ou não==.
@@ -100,32 +98,36 @@ updated: 2026-05-27T15:30:00
 
 O art. 5º prevê hipóteses de **incidência** em operações **não onerosas**:
 
-**Inciso I — Fornecimento não oneroso ou a valor inferior ao de mercado, nas seguintes situações:**
-- **Bens adquiridos pelo contribuinte que permitiram a apropriação de créditos de IBS e CBS, fornecidos para:**
-	- **O próprio contribuinte, caso seja pessoa física**
-	- **Sócios, acionistas, administradores e membros de conselhos de administração e fiscal e comitês de assessoramento do conselho de administração do contribuinte previstos em lei**
-	- **Empregados do contribuinte**
-	- **Cônjuges, companheiros ou parentes, consanguíneos ou afins, até o terceiro grau, das pessoas físicas acima**
-- **Bens produzidos ou prestados pelo contribuinte para:**
-	- **Sócios, acionistas, administradores e membros de conselhos/comitês e empregados (conforme alínea acima)**
-	- **Cônjuges, companheiros ou parentes até o terceiro grau dessas pessoas**
-- **Demais hipóteses previstas na LC 214**
+#### Inciso I — Fornecimento não oneroso ou a valor inferior ao de mercado
+
+- Bens adquiridos pelo contribuinte que **permitiram a apropriação de créditos de IBS e CBS**, fornecidos para:
+	- O próprio contribuinte, caso seja pessoa física
+	- Sócios, acionistas, administradores e membros de conselhos de administração e fiscal e comitês de assessoramento do conselho de administração do contribuinte previstos em lei
+	- Empregados do contribuinte
+	- Cônjuges, companheiros ou parentes, consanguíneos ou afins, até o terceiro grau, das pessoas físicas acima
+- Bens **produzidos ou prestados pelo contribuinte** para:
+	- Sócios, acionistas, administradores e membros de conselhos/comitês e empregados (conforme alínea acima)
+	- Cônjuges, companheiros ou parentes até o terceiro grau dessas pessoas
+- Demais hipóteses previstas na LC 214
 
 > [!important] Consumo pessoal disfarçado
 > Haverá incidência quando o bem tiver sido **adquirido com direito a crédito de IBS e CBS** e, posteriormente, **for destinado gratuitamente ou por valor inferior ao de mercado**, aos sujeitos elencados.
 > 
 > Haverá incidência se a empresa **fabrica um produto** ou **presta serviço**, gratuitamente ou por valor inferior ao mercado, para os sujeitos elencados.
 
+#### Inciso II — Brindes e bonificações (importante)
 
-**Inciso II — Brindes e bonificações (importante)**:
 - **Bonificações** (unidade entregue a mais de mercadoria vendida): **não incide** se constar no **documento fiscal** e **não depender de evento posterior**
     - **Incide sempre** se o bem estiver sujeito a **alíquota específica por unidade de medida**, mesmo cumprindo as condições acima 🚨
 - **Brindes** (bens entregues gratuitamente para agradar ou fidelizar clientes): **sempre sofrem incidência**
 
+#### Inciso III
 
-**Inciso III** — Transmissão pelo contribuinte a sócio ou acionista que não seja contribuinte no regime regular, por **devolução de capital, dividendos in natura ou de outra forma**, de bens cuja aquisição tenha permitido a apropriação de créditos (inclusive na produção). Atua como **norma antielisiva**.
+**Transmissão** pelo **contribuinte a sócio ou acionista que não seja contribuinte no regime regular**, por devolução de capital, dividendos in natura ou de outra forma, de bens cuja aquisição tenha permitido a apropriação de créditos (inclusive na produção). Atua como norma antielisiva.
 
-**Inciso IV** — Demais fornecimentos não onerosos ou a valor inferior ao de mercado por contribuinte a **parte relacionada**.
+#### Inciso IV
+
+Demais fornecimentos não onerosos ou a valor inferior ao de mercado por contribuinte a **parte relacionada**.
 
 ### Caracterização das Operações
 

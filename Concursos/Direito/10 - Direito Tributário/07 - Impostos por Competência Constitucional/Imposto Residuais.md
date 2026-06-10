@@ -11,3 +11,7 @@ updated: 2026-06-08T11:05:00
 - ==Não cumulativo==
 - Fator gerador e Base de Cálculo **diferente dos demais impostos**
 - Instituídos por meio de **Lei Complementar**
+
+> [!tip] Repartição
+> Os impostos residuais serão repartidos na proporção de 20% aos Estados.
+
