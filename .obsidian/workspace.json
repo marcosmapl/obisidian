@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "34d7d5d4f7d516b4",
+        "id": "1cebe1b1649eac4b",
         "type": "tabs",
         "children": [
           {
-            "id": "5432c6f763f8fbf2",
+            "id": "a0158ea86fc961b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/Lei Complementar nº 214 de 2025.md",
+                "file": "Concursos/Estatística/02 - Estatística Descritiva/Desvio Médio.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lei Complementar nº 214 de 2025"
+              "title": "Desvio Médio"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 444.5110321044922
+    "width": 200
   },
   "right": {
     "id": "ae0fcbd67c81a0a4",
@@ -571,6 +571,16 @@
             "id": "be4fc1f8b471e95c",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "d2a1ea7003236875",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -578,7 +588,7 @@
             }
           }
         ],
-        "currentTab": 45
+        "currentTab": 46
       }
     ],
     "direction": "horizontal",
@@ -596,11 +606,16 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "5432c6f763f8fbf2",
+  "active": "a0158ea86fc961b2",
   "lastOpenFiles": [
+    "Concursos/Estatística/02 - Estatística Descritiva/Medidas de Variabilidade.md",
+    "Concursos/Estatística/02 - Estatística Descritiva/Desvio Médio.md",
+    "Concursos/Estatística/02 - Estatística Descritiva/Amplitude Total.md",
+    "Concursos/Estatística/02 - Estatística Descritiva/Amplitude Interquartílica.md",
+    "Concursos/Estatística/02 - Estatística Descritiva/MOC — Estatística Descritiva.md",
+    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/Lei Complementar nº 214 de 2025.md",
     "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/MOC — Impostos Federais.md",
     "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/Imposto Residuais.md",
-    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/Lei Complementar nº 214 de 2025.md",
     "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/MOC — Reforma Tributária.md",
     "Concursos/Língua Portuguesa/15 - Coerência e Coesão/Coerência.md",
     "Concursos/Língua Portuguesa/15 - Coerência e Coesão/Coesão.md",
@@ -621,11 +636,6 @@
     "Concursos/Direito/08 - Direito Penal/01 - Princípios do Direito Penal/MOC — Princípios do Direito Penal.md",
     "Concursos/Direito/08 - Direito Penal/01 - Princípios do Direito Penal/Princípio da Legalidade Penal.md",
     "Concursos/Direito/08 - Direito Penal/01 - Princípios do Direito Penal/Princípio da Individualização da Pena.md",
-    "Concursos/Direito/08 - Direito Penal/01 - Princípios do Direito Penal/Princípio da Anterioridade da Lei Penal.md",
-    "Concursos/Direito/08 - Direito Penal/MOC — Direito Penal.md",
-    "Concursos/Direito/08 - Direito Penal/01 - Princípios do Direito Penal/Princípio da Intranscendência da Pena.md",
-    "Concursos/Direito/08 - Direito Penal/01 - Princípios do Direito Penal/Princípio da Alteridade.md",
-    "Concursos/Direito/08 - Direito Penal/01 - Princípios do Direito Penal/Princípio da Intervenção Mínima.md",
     "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/01 - Conceitos Básicos do Direito Tributário",
     "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário",
     "Media/Pasted image 20260608060918.png",
