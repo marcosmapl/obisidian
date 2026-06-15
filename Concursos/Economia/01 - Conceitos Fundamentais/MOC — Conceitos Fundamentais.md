@@ -9,5 +9,7 @@ updated: 2026-05-28T22:20:00
 
 - [[Problema Econômico Fundamental]]
 - [[Formas de Organização da Atividade Econômica]]
+- [[Demanda]]
+
 
 
