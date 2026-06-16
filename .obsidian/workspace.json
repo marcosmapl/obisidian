@@ -601,6 +601,16 @@
             "id": "6f47381e04ad8a41",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "e7277729d173c3b6",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -608,7 +618,7 @@
             }
           }
         ],
-        "currentTab": 48
+        "currentTab": 49
       }
     ],
     "direction": "horizontal",
@@ -626,7 +636,7 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "a0158ea86fc961b2",
+  "active": "e7277729d173c3b6",
   "lastOpenFiles": [
     "Media/Pasted image 20260615114841.png",
     "Media/Pasted image 20260615102719.png",
