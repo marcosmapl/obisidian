@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Auditoria/11 - Controle Interno e Externo/Controle Interno.md",
+                "file": "Concursos/Direito/10 - Direito Tributário/06 - Tributos/Contribuições de Melhoria.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Controle Interno"
+              "title": "Contribuições de Melhoria"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "contribuição de me",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -611,6 +612,16 @@
             "id": "e7277729d173c3b6",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "e9e52a9c3c015a8a",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -618,7 +629,7 @@
             }
           }
         ],
-        "currentTab": 49
+        "currentTab": 50
       }
     ],
     "direction": "horizontal",
@@ -636,12 +647,12 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "e7277729d173c3b6",
+  "active": "a0158ea86fc961b2",
   "lastOpenFiles": [
+    "Concursos/Auditoria/11 - Controle Interno e Externo/Controle Interno.md",
     "Media/Pasted image 20260615114841.png",
     "Media/Pasted image 20260615102719.png",
     "Concursos/Auditoria/11 - Controle Interno e Externo/MOC — Controle Interno e Externo.md",
-    "Concursos/Auditoria/11 - Controle Interno e Externo/Controle Interno.md",
     "Demanda.md",
     "Media/Pasted image 20260612111821.png",
     "Media/Pasted image 20260612111805.png",
@@ -676,7 +687,6 @@
     "Media/Pasted image 20260608060552.png",
     "Media/Pasted image 20260608054702.png",
     "Media/Pasted image 20260608044811.png",
-    "Media/Pasted image 20260605222029.png",
     "Concursos/Estatística/11 - Análise Combinatória",
     "Concursos/Direito/08 - Direito Penal/02 - Conceitos Fundamentais",
     "Concursos/Direito/08 - Direito Penal/01 - Princípios do Direito Penal",
