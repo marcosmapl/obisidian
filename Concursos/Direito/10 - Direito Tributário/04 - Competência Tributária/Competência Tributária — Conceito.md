@@ -113,4 +113,3 @@ Para **LEGISLAR** sobre Direito Tributário
 - [[Limitações ao Poder de Tributar]]
 - [[Imunidade Tributária  — Conceito]]
 - [[Capacidade Tributária Ativa  — Conceito]]
-- [[Princípios Constitucionais Tributários]]

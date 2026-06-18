@@ -44,6 +44,9 @@ Art. 82, CTN - A lei relativa à contribuição de melhoria observará os seguin
 > - VII - construção de **aeródromos e aeroportos** e seus acessos; 
 > - VIII - **aterros e realizações de embelezamento em geral**, inclusive desapropriações em desenvolvimento de plano de aspecto paisagístico.
 
+> [!important] Pavimentação x Recapeamento
+> O STF tem posição jurisprudencial que o **mero recapeamento asfáltico** ==não gera contribuição de melhoria, por não ser obra pública==, mas sim serviço de manutenção e conservação. Por outro lado, a **pavimentação asfáltica nova pode sim gerar contribuição de melhoria**.
+
 ---
 ## Rito
 

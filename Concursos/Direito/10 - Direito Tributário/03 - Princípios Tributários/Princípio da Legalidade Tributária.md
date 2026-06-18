@@ -2,17 +2,16 @@
 disciplina: Direito Tributário
 tópico: Princípios Tributários
 created: 2026-01-05T05:15:00
-updated: 2026-01-05T05:20:00
+updated: 2026-06-18T05:20:00
 ---
 
 ## Conceito
 
 > [!note] Princípio da Legalidade Tributária
-> É o princípio constitucional que **veda a exigência ou o aumento de tributo sem lei que o institua**, assegurando que a criação e a majoração de tributos dependam de **lei em sentido estrito**, editada pelo ente competente.
+> Art. 150 CF/88 Sem prejuízo de outras garantias asseguradas ao contribuinte, é ==vedado à União, aos Estados, ao Distrito Federal e aos Municípios==:
+> I - **exigir ou aumentar tributo sem lei** que o estabeleça;.
 
 > [!tip] No Direito Tributário, **não há tributo sem lei anterior que o estabeleça**.
-
-#direito/tributario/principio_legalidade_tributaria
 
 ---
 ## Fundamento Constitucional
@@ -23,35 +22,30 @@ updated: 2026-01-05T05:20:00
 ---
 ## Conteúdo do Princípio
 
-- Criação de tributos somente por **lei**;
-- Majoração de tributos somente por **lei**;
-- Definição legal de:
-  - fato gerador,
-  - base de cálculo,
-  - alíquota,
-  - sujeito passivo,
-  - penalidades.
+> [!note] Art. 97. Somente a lei pode estabelecer:
+> I - a **instituição** de tributos, ou a sua **extinção**;
+> II - a **majoração** de tributos, ou sua **redução**, ressalvado o disposto nos artigos 21, 26, 39, 57 e 65;
+> III - a definição do **fato gerador** da obrigação tributária principal, ressalvado o disposto no inciso I do § 3º do artigo 52, e do seu **sujeito passivo**;
+> IV - a **fixação de alíquota** do tributo e da sua **base de cálculo**, ressalvado o disposto nos artigos 21, 26, 39, 57 e 65;
+> V - a cominação de **penalidades** para as ações ou omissões contrárias a seus dispositivos, ou para outras infrações nela definidas;
+> 
 
-📌 Garante **segurança jurídica** e previsibilidade ao contribuinte.
+🚨 Grave: **apenas através da lei pode-se criar, extinguir, majorar e reduzir tributos.**
 
----
-## Legalidade x Reserva Legal
-
-- **Legalidade Tributária:** regra geral de submissão à lei.
-- **Reserva Legal:** certas matérias **exigem lei formal**, sem possibilidade de delegação.
 ---
 ## Exceções Constitucionais
 
 ### Legalidade Mitigada
 
-> [!important] A Constituição admite exceções à legalidade estrita:
+Quanto à **alteração de alíquotas** (atos infralegais):
+- Imposto de Importação (**II**);
+- Imposto de Exportação (**IE**);
+- Imposto sobre Produtos Industrializados (**IPI**);
+- Imposto sobre Operações Financeiras (**IOF**);
+- CIDE-Combustíveis * (**reduzidas ou reestabelecidas**);
+- ICMS-Combustíveis * (**convênio** dos Estados e DF).
 
-- Alteração de alíquotas por ato do Poder Executivo:
-  - **II, IE, IPI e IOF**
-- **CIDE-combustíveis** (alíquotas)
-- **ICMS-combustíveis** (alíquotas, conforme EC)
-
-📌 Mesmo nas exceções, deve haver **autorização constitucional expressa**.
+Quanto ao **IPTU**, em relação a atualização da base de cálculo que ==não supere a inflação==, pode ser alterada por ato infralegal.
 
 ### Lei Complementar
 
@@ -62,20 +56,19 @@ A regra é **Lei Ordinária**, mas é exigido **Lei Complementar** para:
 - Novas Contribuições
 - Grandes Fortunas
 
+**Tributos**: lei complementar para estipular **normas gerais** em matéria de legislação tributária.
+**Impostos**: lei complementar para estipular **fatos geradores**, **bases de cálculo** e **contribuintes**.
+
 ---
 ## Limitações Importantes
 
-- Medida Provisória **pode instituir ou majorar tributos**, desde que observados os princípios da anterioridade;
-- Decreto **não pode criar tributo**;
-- Legalidade não afasta o controle de constitucionalidade.
+### Medidas Provisórias
 
----
-## Pontos de Prova
-
-- Princípio de **aplicação geral**;
-- Exceções **taxativas**;
-- Legalidade ≠ Anterioridade;
-- Violação gera **inconstitucionalidade da exigência tributária**.
+⚠️ Não pode haver edição de **MP para tributos que devem ser instituídos por lei complementar**, saiba quais são:
+- Imposto sobre Grandes Fortunas;
+- Impostos Residuais;
+- Contribuições Residuais;
+- Empréstimos Compulsórios.
 
 ---
 ## Tópicos Relacionados
@@ -83,4 +76,3 @@ A regra é **Lei Ordinária**, mas é exigido **Lei Complementar** para:
 - [[Limitações ao Poder de Tributar]]
 - [[Competência Tributária — Conceito]]
 - [[Princípio da Anterioridade Tributária]]
-- [[Código Tributário Nacional]]

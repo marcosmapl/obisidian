@@ -16,7 +16,7 @@ updated: 2026-06-08T16:10:00
 
 ### Contribuições Sociais
 - Todos os entes podem instituir, por meio de lei, **contribuição previdenciária** a ser cobrada de seus servidores, para o custeio do **Regime Próprio de Previdência Social**.
-- Contribuições de **seguridade social**: Previdência + Saúde + Assistência Social
+- Contribuições de **seguridade social**: Previdência + Saúde + Assistência Social (PAS)
 	- **Empregador**: Folha de salários, Receita, Faturamento, Lucro (CSLL)
 	- **Trabalhador**: Valor do Salário de Contribuição (não incidindo sore aposentadoria e pensão, pagas pelo RGPS)
 	- **Bens e Serviços** (CBS)
@@ -43,6 +43,12 @@ updated: 2026-06-08T16:10:00
 
 ### Contribuição de Iluminação Pública
 - Somente **Distrito Federal** e **Municípios**
+
+### Contribuição para o Custeio do Serviço de Iluminação Pública - COSIP
+
+Art. 149-A Os **Municípios e o Distrito Federal** poderão instituir contribuição, na forma das respectivas leis, para o **custeio do serviço de iluminação pública**, observado o disposto no art. 150, I e III.
+
+Parágrafo único. É **facultada a cobrança da contribuição** a que se refere o caput, na **fatura de consumo de energia elétrica**.
 
 ---
 ## Regras
