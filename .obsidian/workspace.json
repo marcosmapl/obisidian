@@ -631,6 +631,16 @@
             "id": "eeb7bac7519deb1b",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "760632f3037eaa29",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -638,7 +648,7 @@
             }
           }
         ],
-        "currentTab": 51
+        "currentTab": 52
       }
     ],
     "direction": "horizontal",
@@ -656,7 +666,7 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "a0158ea86fc961b2",
+  "active": "760632f3037eaa29",
   "lastOpenFiles": [
     "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/Lei Complementar nº 214 de 2025.md",
     "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/Imposto sobre Bens e Serviços (IBS).md",

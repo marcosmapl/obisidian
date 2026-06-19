@@ -27,7 +27,7 @@ O IBS e a CBS incidem sobre operações com **bens materiais**, **bens imateriai
 	- Bens adquiridos pelo contribuinte que permitiram a apropriação de créditos de IBS e CBS
 	- Bens produzidos ou prestados pelo contribuinte
 	- Demais hipóteses previstas na LC 214
-- Bonificações e Brindes (este último quando não constar no documento fiscal)
+- **Brindes** e **Bonificações** (este último quando não constar no documento fiscal)
 - Transmissão pelo contribuinte a sócio ou acionista que não seja contribuinte no regime regular, por devolução de capital, dividendos in natura ou de outra form
 - Demais fornecimentos não onerosos ou a valor inferior ao de mercado por contribuinte a parte relacionada.
 
@@ -77,4 +77,20 @@ A não-cumulatividade plena **garante que todo tributo incidente nas operações
 ## Princípio do Destino
 
 Com a adoção do **princípio do destino**, o **IBS é devido no local do consumo**, ==não mais na origem==. Isso busca dar fim à Guerra Fiscal entre as Unidades Federativas.
+
+---
+## Fato Gerador
+
+| Situação                                                                                                                      | Momento do Fato Gerador                                                                             |
+| ----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| Fornecimento de bens ou serviços (regra geral)                                                                                | No momento do **fornecimento**                                                                      |
+| Cálculo final do tributo na entrega do bem ou serviço                                                                         | No momento do **fornecimento**                                                                      |
+| Transporte iniciado no Brasil                                                                                                 | No **início do transporte**                                                                         |
+| Bem encontrado sem documentação fiscal idônea                                                                                 | No momento da **constatação da irregularidade**                                                     |
+| Transporte de carga iniciado no exterior                                                                                      | No **término do transporte**                                                                        |
+| Aquisição de bens via licitação de bens apreendidos ou abandonados                                                            | No momento da **aquisição**                                                                         |
+| Aquisição de bens via leilão judicial                                                                                         | No momento da **aquisição**                                                                         |
+| Aquisição de bens e serviços pela Administração Pública (exceto as efetuadas de forma presencial e com dispensa de licitação) | No momento do **pagamento**                                                                         |
+| Execução continuada ou fracionada sem momento claro de entrega                                                                | Quando o **pagamento se torna devido ou quando o pagamento for realizado** (o que ocorrer primeiro) |
+| Demais serviços                                                                                                               | No **término do fornecimento**                                                                      |
 
