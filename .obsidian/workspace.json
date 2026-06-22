@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/Imposto sobre Bens e Serviços (IBS).md",
+                "file": "Concursos/Direito/04 - Direito Constitucional/02 - Princípios Fundamentais/MOC — Princípios Fundamentais.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Imposto sobre Bens e Serviços (IBS)"
+              "title": "MOC — Princípios Fundamentais"
             }
           }
         ]
@@ -641,6 +641,16 @@
             "id": "760632f3037eaa29",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "091b9c8eb4c562f1",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -648,7 +658,7 @@
             }
           }
         ],
-        "currentTab": 52
+        "currentTab": 53
       }
     ],
     "direction": "horizontal",
@@ -666,10 +676,14 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "760632f3037eaa29",
+  "active": "a0158ea86fc961b2",
   "lastOpenFiles": [
-    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/Lei Complementar nº 214 de 2025.md",
+    "Concursos/Direito/04 - Direito Constitucional/02 - Princípios Fundamentais/Objetivos Fundamentais da República.md",
+    "Concursos/Direito/04 - Direito Constitucional/02 - Princípios Fundamentais/MOC — Princípios Fundamentais.md",
+    "Concursos/Direito/04 - Direito Constitucional/02 - Princípios Fundamentais/Princípios nas Relações Internacionais.md",
+    "Concursos/Direito/04 - Direito Constitucional/02 - Princípios Fundamentais/Fundamentos da República.md",
     "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/Imposto sobre Bens e Serviços (IBS).md",
+    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/Lei Complementar nº 214 de 2025.md",
     "Concursos/Direito/10 - Direito Tributário/04 - Competência Tributária/Competência Tributária — Conceito.md",
     "Concursos/Direito/10 - Direito Tributário/03 - Princípios Tributários/Princípio da Legalidade Tributária.md",
     "Concursos/Direito/10 - Direito Tributário/05 - Limitações do Poder de Tributar/Limitações ao Poder de Tributar.md",
@@ -695,10 +709,6 @@
     "Concursos/Estatística/02 - Estatística Descritiva/MOC — Estatística Descritiva.md",
     "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/MOC — Impostos Federais.md",
     "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/Imposto Residuais.md",
-    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/MOC — Reforma Tributária.md",
-    "Concursos/Língua Portuguesa/15 - Coerência e Coesão/Coerência.md",
-    "Concursos/Língua Portuguesa/15 - Coerência e Coesão/Coesão.md",
-    "Concursos/Língua Portuguesa/15 - Coerência e Coesão/MOC — Coerência e Coesão.md",
     "Concursos/Língua Portuguesa/15 - Coerência e Coesão",
     "Media/Pasted image 20260609154508.png",
     "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/01 - Conceitos Básicos do Direito Tributário",
