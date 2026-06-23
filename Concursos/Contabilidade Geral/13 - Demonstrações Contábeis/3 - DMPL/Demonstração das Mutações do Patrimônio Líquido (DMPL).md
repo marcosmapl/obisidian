@@ -17,8 +17,6 @@ updated: 2026-05-19T08:45:00
 - [[Destinação do Resultado na DMPL]]
 - [[Critérios de Cálculo — Lei nº 6.404/1976]]
 
-#contabilidade/dmpl
-
 ---
 ## Objetivo da DMPL
 
