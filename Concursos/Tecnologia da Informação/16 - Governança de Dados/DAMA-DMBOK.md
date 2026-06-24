@@ -9,10 +9,10 @@ updated: 2026-05-27T11:15:00
 
 O DMBOK apresenta um conjunto de papéis clássicos de governança de dados e suas respectivas responsabilidades:
 
-### DATA OWNER
+### Data Steward (Owner)
 
 - Também chamado de **Dono ou Gestor de Dados**
-- Administrador de Dados de Negócio (**Business Data Steward**)
+- Custodião/Zelador de Dados
 - **Possui autoridade de aprovação para decisões sobre dados dentro de seu domínio**.
 - Responsável pela **qualidade**
 - Representa os **stakeholders**
@@ -44,22 +44,13 @@ Processo de gerenciamento de ciclo de vida dos dados para garantir que sejam **P
 3. Gerenciamento de Problemas de Qualidade
 4. Execução Operacional da Governança
 
----
-## Modelos Operacionais de Governança de Dados
+> [!note] Dados Mestres (Master Data)
+> **Dados críticos e compartilhados** sobre entidades de negócio fundamentais (ex: clientes, produtos, funcionários). 
+> A gestão de dados mestres (MDM) busca uma **"versão única da verdade"**.
+> ==Atenção: Dados mestres NÃO armazenam informações sobre tabelas e sua localização física; isso é papel dos metadados==.
 
-![[Pasted image 20260527113606.png]]
-
-### Modelo Centralizado
-
-No Modelo Centralizado, uma **única organização de governança de dados supervisiona todas as atividades em todas as áreas temáticas**.
-
-### Modelo Replicado (Colegiado)
-
-No Modelo Replicado, **cada unidade de negócio adota o mesmo modelo operacional e padrões de governança de dados**.
-
-### Modelo Federado (Compartilhada)
-
-O Modelo Federado combina elementos centralizados e descentralizados. Uma organização central de governança de dados coordena com várias unidades de negócios para manter definições e padrões consistentes, enquanto permite certa autonomia local.
+> [!note] Linhagem de Dados (Data Lineage)
+> Documenta a origem dos dados, suas transformações e movimentações ao longo do tempo. Essencial para rastreabilidade e análise de impacto.
 
 ---
 ## Dama Wheel
@@ -104,28 +95,25 @@ Em volta dela estão dez áreas especializadas, como:
 ## Dimensões da Qualidade de Dados
 
 As principais dimensões de Qualidade de Dados são:
-- **Acurácia**
-- **Completude**
-- **Unicidade**
-- **Consistência**
-- **Validade**
-- **Temporalidade**
+- **Acurácia**: Representação correta da realidade.
+- **Completude**: proporção de dados existentes em relação a todos os atributos presentes.
+- **Unicidade**: ausência de duplicidade.
+- **Consistência**: ausência de contradições entre dados.
+- **Validade**: conformidade com formatos e regras.
+- **Tempestividade/Oportunidade**: disponibilidade no tempo certo.
+- **Performance**: tempo de resposta e acesso satisfatório.
 
-### Acurácia – Accuracy
+---
+## Documentos e Artefatos
 
-Considerada por muitos autores a Dimensão de Qualidade de Dados mais importante, **representa o quão corretamente os dados descrevem** o “mundo real”. Se não houver precisão, a informação pode não ser válida para uso.
-### Completude – Completeness
+- **Políticas de Dados**: regras de alto nível
+- **Normas/Padrões**: práticas recomendadas ou obrigatórias
+- **Procedimentos**: "como fazer" tarefas específicas
 
-A completude é a **proporção de dados existentes em relação a todos os atributos presentes**. Em outras palavras, avaliaremos quanta informação está faltando em cada item dos nossos dados.
-### Unicidade – Uniqueness
+> [!tip] Documento principal
+> O manual de normas e padrões NÃO é o principal documento; a Política de Governança de Dados é mais fundamental.
 
-A Unicidade, ou Singularidade, é uma Dimensão de Qualidade de Dados que se refere a **termos apenas um registro único de algo** – por exemplo, um número de identificação.
-### Consistência – Consistency
+---
+## Tópicos Relacionados
 
-A Dimensão de Consistência diz que **deve-se comparar um item de uma  base de dados ou dataset com a mesma representação desse item em outro local**.
-### Validade – Validity
-
-Essa Dimensão de Qualidade de Dados **compara a representação do dado em relação a sua definição**. Avaliaremos o formato, tipo, valores permitidos e outros atributos do dado.
-### Temporalidade – Timeliness
-
-É a capacidade que o dado tem de **representar corretamente um momento no tempo**. Tem também relação com a velocidade de atualização dos dados. Um problema nesta dimensão também indica problemas na Precisão dos dados.
+- [[Técnicas de Qualidade de Dados]]

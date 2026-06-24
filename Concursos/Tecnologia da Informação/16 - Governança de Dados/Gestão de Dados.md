@@ -33,4 +33,4 @@ updated: 2026-05-27T10:50:00
 ## Tópicos Relacionados
 
 - [[Governança de TI]]
-- [[Governança de Dados]]
+- [[MOC — Governança de Dados]]

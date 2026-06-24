@@ -8,8 +8,8 @@ updated: 2026-05-21T16:35:00
 ## Índice
 
 - [[Organização Administrativa]]
-- [[Centralização e Descentralização]]
-- [[Concentração e Desconcentração]]
+- [[Descentralização]]
+- [[Desconcentração]]
 - [[Entidades Políticas e Administrativas]]
 - [[Administração Pública Direta e Indireta]]
 - [[Autarquias]]

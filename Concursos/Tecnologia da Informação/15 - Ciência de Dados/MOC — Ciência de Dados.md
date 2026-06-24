@@ -18,10 +18,11 @@ updated: 2026-01-06T17:05:00
 
 ### Governança e Gestão
 
-- [[Governança de Dados]]
+- [[MOC — Governança de Dados]]
 - [[Gestão de Dados]]
 - [[DAMA-DMBOK]]
 - [[Data Enhancement Process]]
+- [[Data Lineage]]
 
 ### Business Inteligence
 

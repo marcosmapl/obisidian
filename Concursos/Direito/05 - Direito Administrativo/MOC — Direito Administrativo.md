@@ -40,8 +40,8 @@ created: 2025-12-11T15:01:00
 ## MOC — Organização Administrativa
 
 - [[Organização Administrativa — Princípios]]
-- [[Centralização e Descentralização]]
-- [[Concentração e Desconcentração]]
+- [[Descentralização]]
+- [[Desconcentração]]
 - [[Administração Pública Direta]]
 - [[Administração Pública Indireta]]
 

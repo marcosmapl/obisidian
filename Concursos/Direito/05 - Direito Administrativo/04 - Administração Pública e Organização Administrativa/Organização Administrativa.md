@@ -17,5 +17,5 @@ updated: 2026-05-21T14:50:00
 ## Tópicos Relacionados
 
 - [[Entidades Políticas e Administrativas]]
-- [[Centralização e Descentralização]]
-- [[Concentração e Desconcentração]]
+- [[Descentralização]]
+- [[Desconcentração]]
