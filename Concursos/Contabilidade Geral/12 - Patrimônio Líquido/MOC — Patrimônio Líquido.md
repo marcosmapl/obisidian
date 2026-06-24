@@ -8,6 +8,8 @@ updated: 2026-05-18T11:20:00
 ## Patrimônio Líquido
 
 - [[Patrimônio Líquido]]
+- [[Reservas de Lucros]]
+
 
 ---
 ## Composição do PL
