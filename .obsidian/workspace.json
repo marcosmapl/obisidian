@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7afdaa7760733348",
+        "id": "d100b41b3b0ecba4",
         "type": "tabs",
         "children": [
           {
-            "id": "200c957c2216ccda",
+            "id": "2eed13d71b34f492",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/Lei Complementar nº 227 de 2026.md",
+                "file": "Concursos/Contabilidade Geral/13 - Demonstrações Contábeis/4 - DFC/Fluxos de Caixa das Atividades Operacionais.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lei Complementar nº 227 de 2026"
+              "title": "Fluxos de Caixa das Atividades Operacionais"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.5110321044922
+    "width": 430.5110321044922
   },
   "right": {
     "id": "ae0fcbd67c81a0a4",
@@ -691,6 +691,16 @@
             "id": "c61de97faf22499d",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "08d7138d36e31cc2",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -698,7 +708,7 @@
             }
           }
         ],
-        "currentTab": 57
+        "currentTab": 58
       }
     ],
     "direction": "horizontal",
@@ -716,16 +726,31 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "200c957c2216ccda",
+  "active": "2eed13d71b34f492",
   "lastOpenFiles": [
+    "Concursos/Contabilidade Geral/13 - Demonstrações Contábeis/4 - DFC/Demonstração dos Fluxos de Caixa (DFC).md",
+    "Concursos/Contabilidade Geral/13 - Demonstrações Contábeis/4 - DFC/Fluxos de Caixa das Atividades de Investimento.md",
+    "Concursos/Contabilidade Geral/13 - Demonstrações Contábeis/4 - DFC/Fluxos de Caixa das Atividades Operacionais.md",
+    "Concursos/Contabilidade Geral/13 - Demonstrações Contábeis/4 - DFC/Fluxos de Caixa das Atividades de Financiamento.md",
+    "Concursos/Contabilidade Geral/13 - Demonstrações Contábeis/3 - DMPL/Demonstração das Mutações do Patrimônio Líquido (DMPL).md",
+    "Concursos/Contabilidade Geral/13 - Demonstrações Contábeis/3 - DMPL/Destinação do Resultado na DMPL.md",
+    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 214 2025/Local da Operação.md",
+    "Media/Pasted image 20260625110343.png",
+    "Media/Pasted image 20260625110310.png",
+    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 214 2025/Domicílio Principal.md",
+    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 214 2025/Lei Complementar nº 214 de 2025.md",
+    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/Lei Complementar nº 227 de 2026.md",
+    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 214 2025/Ordem de Prevalência de um Benefício Fiscal.md",
+    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 214 2025/Hipóteses de Incidência.md",
+    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 214 2025/Disposições Preliminares.md",
+    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/MOC — Reforma Tributária.md",
+    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 214 2025",
     "Media/Pasted image 20260624235231.png",
     "Media/Pasted image 20260624235151.png",
     "Media/Pasted image 20260624235002.png",
     "Media/Pasted image 20260624234931.png",
     "Media/Pasted image 20260624234822.png",
     "Media/Pasted image 20260624234730.png",
-    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/MOC — Reforma Tributária.md",
-    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/Lei Complementar nº 227 de 2026.md",
     "Lei Complementar nº 227/2026.md",
     "Lei Complementar nº 227",
     "Concursos/Direito/04 - Direito Constitucional/03 - Direitos e Garantias Fundamentais/Direito à Defesa do Consumidor.md",
@@ -739,30 +764,15 @@
     "Concursos/Direito/04 - Direito Constitucional/03 - Direitos e Garantias Fundamentais/Sigilo da Correspondência de Comunicações Telegráficas.md",
     "Concursos/Direito/04 - Direito Constitucional/03 - Direitos e Garantias Fundamentais/Direito à Inviolabilidade Domiciliar.md",
     "Concursos/Direito/04 - Direito Constitucional/03 - Direitos e Garantias Fundamentais/Direito à Privacidade.md",
-    "Concursos/Direito/04 - Direito Constitucional/03 - Direitos e Garantias Fundamentais/Direito à Liberdade Religiosa.md",
-    "Concursos/Direito/04 - Direito Constitucional/03 - Direitos e Garantias Fundamentais/Direito à Liberdade de Expressão.md",
-    "Concursos/Direito/04 - Direito Constitucional/03 - Direitos e Garantias Fundamentais/Direitos Fundamentais.md",
     "Media/Pasted image 20260624125028.png",
-    "Concursos/Direito/04 - Direito Constitucional/03 - Direitos e Garantias Fundamentais/MOC — Direitos e Garantias Fundamentais.md",
-    "Concursos/Contabilidade Geral/12 - Patrimônio Líquido/MOC — Patrimônio Líquido.md",
-    "Concursos/Contabilidade Geral/12 - Patrimônio Líquido/Reserva Especial de Dividendo Obrigatório Não Distribuído.md",
-    "Concursos/Contabilidade Geral/12 - Patrimônio Líquido/Reserva Específica de Prêmio de Debêntures.md",
-    "Concursos/Contabilidade Geral/12 - Patrimônio Líquido/Reservas de Lucros.md",
-    "Concursos/Contabilidade Geral/12 - Patrimônio Líquido/Reserva de Lucros a Realizar.md",
-    "Concursos/Contabilidade Geral/12 - Patrimônio Líquido/Reserva Estatutária.md",
-    "Concursos/Contabilidade Geral/12 - Patrimônio Líquido/Reserva de Retenção de Lucros.md",
     "Concursos/Tecnologia da Informação/16 - Governança de Dados",
     "Media/Pasted image 20260615114841.png",
-    "Media/Pasted image 20260615102719.png",
-    "Media/Pasted image 20260612111821.png",
-    "Media/Pasted image 20260612111805.png",
     "Concursos/Língua Portuguesa/15 - Coerência e Coesão",
     "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/01 - Conceitos Básicos do Direito Tributário",
     "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário",
     "Concursos/Estatística/11 - Análise Combinatória",
     "Concursos/Direito/08 - Direito Penal/02 - Conceitos Fundamentais",
     "Concursos/Direito/08 - Direito Penal/01 - Princípios do Direito Penal",
-    "Concursos/Economia/03 - Modelos Econômicos",
-    "Concursos/Economia/02 - Princípios Econômicos"
+    "Concursos/Economia/03 - Modelos Econômicos"
   ]
 }

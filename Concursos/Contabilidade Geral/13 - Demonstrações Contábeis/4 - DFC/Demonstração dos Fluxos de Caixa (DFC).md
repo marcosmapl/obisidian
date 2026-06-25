@@ -5,30 +5,36 @@ created: 2025-12-23T00:00:00
 updated: 2026-05-19T08:45:00
 ---
 
-## Índice
+## Conceito
 
-- [[DFC — Conceito]]
-- [[Atividades Operacionais]]
-- [[Atividades de Investimento]]
-- [[Atividades de Financiamento]]
-- [[Método Direto]]
-- [[Método Indireto]]
-- [[Estrutura de Apresentação da DFC]]
-- [[Conciliação entre Lucro e Caixa]]
+> [!note] Lei nº 6.404/76, Art. 188, I
+> A **Demonstração dos Fluxos de Caixa** evidencia as alterações ocorridas, durante o exercício, no saldo de caixa e equivalentes de caixa, segregando-se essas alterações em, no mínimo, **três fluxos**:
+> - Das **operações**;
+> - Dos **financiamentos**;
+> - Dos **investimentos**;
+
+> [!tip] Obrigatoriedade
+> - ✅ **Sociedades Anônimas**
+> - ❌**Companhias Fechadas** com **Patrimônio Líquido < 2 Milhões**
+> 
+
+> [!note] Caixa
+> Numerário em espécie e depósito bancários disponíveis
+
+> [!note] Equivalentes de Caixa
+> Aplicações financeiras de **curto prazo (3 meses ou menos)**, de **alta liquidez**, que são prontamente conversíveis em montante conhecido de caixa e que estão sujeitas a um **insignificante risco de mudança de valor**
 
 ---
-## Estrutura da DFC
+## Objetivo
 
-> [!info] CPC 03 (R2)
-> A **DFC** apresenta as alterações históricas do caixa e equivalentes de caixa da entidade, classificando os fluxos em: **operacionais**, **de investimento** e **de financiamento**.
+Proporcionar aos usuários das demonstrações contáveis uma base para **avaliar a capacidade de a entidade gerar caixa e equivalentes de caixa**, bem como as **necessidades da entidade de utilização desses fluxos de caixa**.
 
-**Três Atividades:**
+> [!important] Aplicação de Lucro no Disponível
+> Um dos objetivos da DFC é identificar a parte do lucro líquido ou prejuízo líquido apurado pelo regime de competência convertido em dinheiro. Em outras palavras, avaliar quanto do lucro da entidade foi aplicado no seu Disponível
 
-1. **Operacionais**: Fluxos das principais atividades geradoras de receita
-2. **Investimento**: Aquisição e alienação de ativos de longo prazo
-3. **Financiamento**: Atividades que alteram o tamanho e composição do capital próprio e empréstimos
+---
+## Fluxos de Caixa
 
-**Métodos de Elaboração:**
-- **Método Direto**: Apresenta recebimentos e pagamentos brutos
-- **Método Indireto**: Ajusta o lucro líquido pelos itens que não afetaram o caixa
-
+- [[Fluxos de Caixa das Atividades Operacionais]]
+- [[Fluxos de Caixa das Atividades de Investimento]]
+- [[Fluxos de Caixa das Atividades de Financiamento]]
