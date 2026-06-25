@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "db84ed84e9be2563",
+        "id": "7afdaa7760733348",
         "type": "tabs",
         "children": [
           {
-            "id": "6fc335e24a74aa92",
+            "id": "200c957c2216ccda",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Direito/04 - Direito Constitucional/03 - Direitos e Garantias Fundamentais/Direito à Defesa do Consumidor.md",
+                "file": "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/Lei Complementar nº 227 de 2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Direito à Defesa do Consumidor"
+              "title": "Lei Complementar nº 227 de 2026"
             }
           }
         ]
@@ -681,6 +681,16 @@
             "id": "7e11c7fe3079b9cd",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "c61de97faf22499d",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -688,7 +698,7 @@
             }
           }
         ],
-        "currentTab": 56
+        "currentTab": 57
       }
     ],
     "direction": "horizontal",
@@ -706,10 +716,20 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "6fc335e24a74aa92",
+  "active": "200c957c2216ccda",
   "lastOpenFiles": [
-    "Concursos/Direito/04 - Direito Constitucional/03 - Direitos e Garantias Fundamentais/Direitos Individuais e Coletivos.md",
+    "Media/Pasted image 20260624235231.png",
+    "Media/Pasted image 20260624235151.png",
+    "Media/Pasted image 20260624235002.png",
+    "Media/Pasted image 20260624234931.png",
+    "Media/Pasted image 20260624234822.png",
+    "Media/Pasted image 20260624234730.png",
+    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/MOC — Reforma Tributária.md",
+    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/Lei Complementar nº 227 de 2026.md",
+    "Lei Complementar nº 227/2026.md",
+    "Lei Complementar nº 227",
     "Concursos/Direito/04 - Direito Constitucional/03 - Direitos e Garantias Fundamentais/Direito à Defesa do Consumidor.md",
+    "Concursos/Direito/04 - Direito Constitucional/03 - Direitos e Garantias Fundamentais/Direitos Individuais e Coletivos.md",
     "Concursos/Direito/04 - Direito Constitucional/03 - Direitos e Garantias Fundamentais/Direito de Petição e de Obtenção de Certidões.md",
     "Concursos/Direito/04 - Direito Constitucional/03 - Direitos e Garantias Fundamentais/Direito de Informação.md",
     "Concursos/Direito/04 - Direito Constitucional/03 - Direitos e Garantias Fundamentais/Direito de Resposta.md",
@@ -731,28 +751,18 @@
     "Concursos/Contabilidade Geral/12 - Patrimônio Líquido/Reserva de Lucros a Realizar.md",
     "Concursos/Contabilidade Geral/12 - Patrimônio Líquido/Reserva Estatutária.md",
     "Concursos/Contabilidade Geral/12 - Patrimônio Líquido/Reserva de Retenção de Lucros.md",
-    "Concursos/Contabilidade Geral/12 - Patrimônio Líquido/Reserva Legal.md",
-    "Concursos/Contabilidade Geral/12 - Patrimônio Líquido/Reserva de Incentivos Fiscais.md",
-    "Concursos/Contabilidade Geral/12 - Patrimônio Líquido/Reserva para Contingências.md",
-    "Concursos/Contabilidade Geral/13 - Demonstrações Contábeis/3 - DMPL/Demonstração das Mutações do Patrimônio Líquido (DMPL).md",
     "Concursos/Tecnologia da Informação/16 - Governança de Dados",
     "Media/Pasted image 20260615114841.png",
     "Media/Pasted image 20260615102719.png",
     "Media/Pasted image 20260612111821.png",
     "Media/Pasted image 20260612111805.png",
-    "Media/Pasted image 20260612111104.png",
     "Concursos/Língua Portuguesa/15 - Coerência e Coesão",
-    "Media/Pasted image 20260609154508.png",
     "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/01 - Conceitos Básicos do Direito Tributário",
     "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário",
-    "Media/Pasted image 20260608060918.png",
-    "Media/Pasted image 20260608060552.png",
-    "Media/Pasted image 20260608054702.png",
     "Concursos/Estatística/11 - Análise Combinatória",
     "Concursos/Direito/08 - Direito Penal/02 - Conceitos Fundamentais",
     "Concursos/Direito/08 - Direito Penal/01 - Princípios do Direito Penal",
     "Concursos/Economia/03 - Modelos Econômicos",
-    "Concursos/Economia/02 - Princípios Econômicos",
-    "Concursos/Economia/01 - Conceitos Fundamentais"
+    "Concursos/Economia/02 - Princípios Econômicos"
   ]
 }
