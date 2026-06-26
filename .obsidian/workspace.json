@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Contabilidade Geral/13 - Demonstrações Contábeis/4 - DFC/Fluxos de Caixa das Atividades Operacionais.md",
+                "file": "Concursos/Contabilidade Geral/13 - Demonstrações Contábeis/4 - DFC/Método Direto (DFC).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fluxos de Caixa das Atividades Operacionais"
+              "title": "Método Direto (DFC)"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 430.5110321044922
+    "width": 300.51103591918945
   },
   "right": {
     "id": "ae0fcbd67c81a0a4",
@@ -701,6 +701,16 @@
             "id": "08d7138d36e31cc2",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "476a4454f59bb366",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -708,7 +718,7 @@
             }
           }
         ],
-        "currentTab": 58
+        "currentTab": 59
       }
     ],
     "direction": "horizontal",
@@ -729,9 +739,15 @@
   "active": "2eed13d71b34f492",
   "lastOpenFiles": [
     "Concursos/Contabilidade Geral/13 - Demonstrações Contábeis/4 - DFC/Demonstração dos Fluxos de Caixa (DFC).md",
+    "Sem título.md",
+    "Concursos/Contabilidade Geral/13 - Demonstrações Contábeis/4 - DFC/Método Direto (DFC).md",
+    "Concursos/Contabilidade Geral/13 - Demonstrações Contábeis/4 - DFC/Método Indireto (DFC).md",
+    "Media/Pasted image 20260625210912.png",
+    "Media/Pasted image 20260625210837.png",
+    "Media/Pasted image 20260625210809.png",
+    "Concursos/Contabilidade Geral/13 - Demonstrações Contábeis/4 - DFC/Fluxos de Caixa das Atividades de Financiamento.md",
     "Concursos/Contabilidade Geral/13 - Demonstrações Contábeis/4 - DFC/Fluxos de Caixa das Atividades de Investimento.md",
     "Concursos/Contabilidade Geral/13 - Demonstrações Contábeis/4 - DFC/Fluxos de Caixa das Atividades Operacionais.md",
-    "Concursos/Contabilidade Geral/13 - Demonstrações Contábeis/4 - DFC/Fluxos de Caixa das Atividades de Financiamento.md",
     "Concursos/Contabilidade Geral/13 - Demonstrações Contábeis/3 - DMPL/Demonstração das Mutações do Patrimônio Líquido (DMPL).md",
     "Concursos/Contabilidade Geral/13 - Demonstrações Contábeis/3 - DMPL/Destinação do Resultado na DMPL.md",
     "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 214 2025/Local da Operação.md",
@@ -750,7 +766,6 @@
     "Media/Pasted image 20260624235002.png",
     "Media/Pasted image 20260624234931.png",
     "Media/Pasted image 20260624234822.png",
-    "Media/Pasted image 20260624234730.png",
     "Lei Complementar nº 227/2026.md",
     "Lei Complementar nº 227",
     "Concursos/Direito/04 - Direito Constitucional/03 - Direitos e Garantias Fundamentais/Direito à Defesa do Consumidor.md",
@@ -761,12 +776,7 @@
     "Concursos/Direito/04 - Direito Constitucional/03 - Direitos e Garantias Fundamentais/Direito à Propriedade.md",
     "Concursos/Direito/04 - Direito Constitucional/03 - Direitos e Garantias Fundamentais/Direito de Associação.md",
     "Concursos/Direito/04 - Direito Constitucional/03 - Direitos e Garantias Fundamentais/Direito de Reunião.md",
-    "Concursos/Direito/04 - Direito Constitucional/03 - Direitos e Garantias Fundamentais/Sigilo da Correspondência de Comunicações Telegráficas.md",
-    "Concursos/Direito/04 - Direito Constitucional/03 - Direitos e Garantias Fundamentais/Direito à Inviolabilidade Domiciliar.md",
-    "Concursos/Direito/04 - Direito Constitucional/03 - Direitos e Garantias Fundamentais/Direito à Privacidade.md",
-    "Media/Pasted image 20260624125028.png",
     "Concursos/Tecnologia da Informação/16 - Governança de Dados",
-    "Media/Pasted image 20260615114841.png",
     "Concursos/Língua Portuguesa/15 - Coerência e Coesão",
     "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário/01 - Conceitos Básicos do Direito Tributário",
     "Concursos/Direito/03 - Ramos do Direito Público/Direito Tributário",
