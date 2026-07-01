@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Contabilidade Geral/07 - Estoques/MOC — Estoques.md",
+                "file": "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/Imposto sobre Transmissão Inter vivos de Bens Imóveis (ITBI).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MOC — Estoques"
+              "title": "Imposto sobre Transmissão Inter vivos de Bens Imóveis (ITBI)"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Desconto Incon",
+                "query": "SV 19",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 412.5110321044922
+    "width": 551.5110321044922
   },
   "right": {
     "id": "ae0fcbd67c81a0a4",
@@ -748,8 +748,20 @@
   },
   "active": "2eed13d71b34f492",
   "lastOpenFiles": [
-    "Concursos/Contabilidade Geral/07 - Estoques/Compras.md",
+    "Concursos/Direito/10 - Direito Tributário/18 - Jurisprudência e SV em Matéria Tributária/MOC — Jurisprudência e Súmulas Vinculantes em Matéria Tributária.md",
+    "Concursos/Direito/10 - Direito Tributário/18 - Jurisprudência e SV em Matéria Tributária/Súmula Vinculante 41.md",
+    "Concursos/Direito/10 - Direito Tributário/18 - Jurisprudência e SV em Matéria Tributária/Súmula Vinculante 29.md",
+    "Concursos/Direito/10 - Direito Tributário/18 - Jurisprudência e SV em Matéria Tributária/Súmula Vinculante 19.md",
+    "Concursos/Direito/10 - Direito Tributário/18 - Jurisprudência e SV em Matéria Tributária/Súmula Vinculante 656 (STF).md",
+    "Concursos/Direito/10 - Direito Tributário/18 - Jurisprudência e SV em Matéria Tributária/Jurisprudência sobre o Ônus da Prova.md",
+    "Concursos/Direito/10 - Direito Tributário/06 - Tributos/Contribuições de Melhoria.md",
+    "Concursos/Direito/10 - Direito Tributário/06 - Tributos/Taxa — Conceito.md",
+    "Concursos/Direito/10 - Direito Tributário/04 - Competência Tributária/Características da Competência Tributária.md",
+    "Concursos/Direito/10 - Direito Tributário/04 - Competência Tributária/Classificação da Competência Tributária.md",
+    "Concursos/Direito/10 - Direito Tributário/04 - Competência Tributária/MOC — Competência Tributária.md",
+    "Concursos/Direito/10 - Direito Tributário/01 - Conceitos Fundamentais/Capacidade Tributária Passiva  — Conceito.md",
     "Concursos/Contabilidade Geral/07 - Estoques/MOC — Estoques.md",
+    "Concursos/Contabilidade Geral/07 - Estoques/Compras.md",
     "Concursos/Contabilidade Geral/07 - Estoques/Custos Aquisição Estoque.md",
     "Concursos/Contabilidade Geral/07 - Estoques/Controle de Estoques.md",
     "Concursos/Contabilidade Geral/07 - Estoques/Custos Mercadoria Vendida.md",
@@ -762,18 +774,6 @@
     "Concursos/Direito/04 - Direito Constitucional/03 - Direitos e Garantias Fundamentais/Direito à Liberdade de Expressão.md",
     "Concursos/Direito/04 - Direito Constitucional/03 - Direitos e Garantias Fundamentais/Direitos Individuais e Coletivos.md",
     "Concursos/Direito/04 - Direito Constitucional/03 - Direitos e Garantias Fundamentais/Direito de Informação.md",
-    "Concursos/Direito/04 - Direito Constitucional/03 - Direitos e Garantias Fundamentais/MOC — Direitos e Garantias Fundamentais.md",
-    "Concursos/Contabilidade Geral/13 - Demonstrações Contábeis/4 - DFC/Método Indireto (DFC).md",
-    "Concursos/Contabilidade Geral/13 - Demonstrações Contábeis/4 - DFC/Método Direto (DFC).md",
-    "Concursos/Contabilidade Geral/13 - Demonstrações Contábeis/4 - DFC/Demonstração dos Fluxos de Caixa (DFC).md",
-    "Concursos/Economia/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais.md",
-    "Concursos/Economia/01 - Conceitos Fundamentais/Demanda.md",
-    "Concursos/Economia/01 - Conceitos Fundamentais/Preço e Quantidade de Equilíbrio.md",
-    "Concursos/Economia/Economia.md",
-    "Concursos/Estatística/Estatística.md",
-    "Concursos/Estatística/03 - Probabilidade/MOC — Probabilidade.md",
-    "Concursos/Contabilidade Geral/13 - Demonstrações Contábeis/4 - DFC/Fluxos de Caixa das Atividades de Financiamento.md",
-    "Concursos/Contabilidade Geral/13 - Demonstrações Contábeis/4 - DFC/Fluxos de Caixa das Atividades de Investimento.md",
     "Media/Pasted image 20260625210912.png",
     "Media/Pasted image 20260625210837.png",
     "Media/Pasted image 20260625210809.png",

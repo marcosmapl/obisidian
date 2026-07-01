@@ -10,6 +10,8 @@ updated: 2026-06-08T15:40:00
 > [!note] Contribuições de Melhoria
 > Art. 81, CTN - A contribuição de melhoria cobrada pela União, pelos Estados, pelo Distrito Federal ou pelos Municípios, no âmbito de suas respectivas atribuições, é instituída para fazer face ao **custo de obras públicas de que decorra valorização imobiliária**, tendo como **limite total a despesa realizada** e como **limite individual o acréscimo de valor que da obra resultar para cada imóvel beneficiado**.
 
+- [[Jurisprudência sobre o Ônus da Prova]]
+
 ---
 ## Características
 
@@ -57,8 +59,3 @@ Art. 82, CTN - A lei relativa à contribuição de melhoria observará os seguin
 - **Fase 5**: término da obra
 - **Fase 6**: verificação da **efetiva valorização imobiliária**
 - **Fase 7**: **cobrança** da CM
-
----
-## Ônus da Prova
-
-Segundo a jurisprudência do STJ é necessário **lei prévia e específica**, que institua a contribuição de melhoria, sendo da **administração pública o ônus da aferida prova** de **valorização imobiliária** decorrente de **obra pública**.
