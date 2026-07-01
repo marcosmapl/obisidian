@@ -1,13 +1,8 @@
 ---
 disciplina: Estatística
 tópico: MOC Principal
-tags:
-  - estatistica
-  - moc
 created: 2025-03-22T16:49:00
 updated: 2025-12-23T00:00:00
-progresso: 0
-node_size: "80"
 ---
 
 > [!abstract] Sobre esta disciplina
@@ -21,6 +16,9 @@ População, amostra, tipos de variáveis e dados estatísticos.
 
 ### 02 — [[Concursos/Estatística/02 - Estatística Descritiva/MOC — Estatística Descritiva|MOC — Estatística Descritiva]]
 Tabelas, gráficos, medidas de posição, variabilidade e forma.
+
+### 03 — [[MOC — Análise Combinatória]]
+
 
 ### 03 — [[Concursos/Estatística/03 - Probabilidade/MOC — Probabilidade|MOC — Probabilidade]]
 Espaço amostral, eventos, probabilidade condicional e teorema de Bayes.

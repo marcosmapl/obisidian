@@ -10,6 +10,15 @@ updated: 2026-06-21T11:05:00
 > [!note] Equilíbrio de Mercado
 > Existe um princípio que afirma que **os mercados se movem em direção ao equilíbrio**.
 
+### Oferta
+
+[[Oferta]]
+
+### Demanda
+
+[[Demanda]]
+
+
 ![[Pasted image 20260621120558.png]]
 
 No exemplo:

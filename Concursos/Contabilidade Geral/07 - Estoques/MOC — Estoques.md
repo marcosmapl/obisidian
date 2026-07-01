@@ -10,6 +10,8 @@ updated: 2026-01-07T11:55:00
 - [[Estoques — Conceito]]
 - [[Controle de Estoques]]
 - [[Custos Aquisição Estoque]]
+- [[Custos Mercadoria Vendida]]
+- [[Compras]]
 - [[Critérios de Avaliação de Estoques]]
 - [[PEPS]]
 - [[UEPS]]
@@ -17,6 +19,8 @@ updated: 2026-01-07T11:55:00
 - [[Custo Específico]]
 - [[Valor Realizável Líquido]]
 - [[Perdas e Ajustes de Estoques]]
+- [[Desconto Incondicional]]
+- [[Desconto Condicional]]
 
 ---
 ## Métodos de Avaliação

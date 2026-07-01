@@ -20,16 +20,15 @@ Segundo o método direto, a apresentação dos **fluxos das atividades operacion
 ```
 Atividades Operacionais
 (+) Recebimento de clientes
-(+) Recebimento de juros
+(+) Juros Ativos
 (+) Recebimento de dividendos e juros sobre o capital próprio
 (+) Duplicatas Descontadas
-(-) Pagamentos
-Fornecedores
-Impostos e Contribuições
-Salários
-Juros
-Despesas Operacionais
-Despesas Pagas Antecipadamente
+(-) Pagamentos a Fornecedores
+(-) Pagamentos de Impostos e Contribuições
+(-) Pagamentos de Salários
+(-) Juros Passivos
+(-) Despesas Operacionais
+(-) Despesas Pagas Antecipadamente
 (=) Fluxo de Caixa Líquido das Atividades Operacionais (I)
 ```
 
@@ -37,7 +36,8 @@ Despesas Pagas Antecipadamente
 
 ```
 Atividades de Investimento
-(+/-) Compra/venda de investimentos, imobilizado e intangível (parte do AÑC)
+(+) Compras de investimentos, imobilizado e intangível (parte do ANC)
+(-) Vendas de investimentos, imobilizado e intangível (parte do ANC)
 (=) Fluxo de Caixa Líquido das Atividades de Investimento (II)
 ```
 
@@ -61,18 +61,29 @@ VI - Saldo Final do Disponível (IV + V)
 ```
 
 ---
-## Fórmulas
+## Recebimento de Clientes
 
+$$ S_f = S_i + V - R $$
+- **Si**: Saldo inicial
+- **Sf**: Saldo final
+- **V**: Vendas
+- **R**: Recebimentos
+
+> [!important] Outras operações
+> - (-) Devoluções e Abatimentos
+> - (-) Descontos incondicionais (comerciais)
+> - (+) Adiantamento de cliente (saldo inicial)
+> - (-) Adiantamento de cliente (saldo final)
+
+---
+## Pagamentos a Fornecedores
+
+### DFC
+
+$$ S_f = S_i + C - P_g $$
 ### CMV
 
 $$ CMV = E_{i} + C - E_f $$
-### Saldo Final (Fornecedores)
-
-$$ S_f = S_i + C - P_g $$
-### Saldo Final (Fornecedores)
-
-$$ S_f = S_i + V - R $$
-
 - **CMV**: Custo da Mercadoria Vendida
 - **Ei**: Estoque Inicial
 - **Ef**: Estoque Final
@@ -80,8 +91,6 @@ $$ S_f = S_i + V - R $$
 - **Sf**: Saldo final
 - **C**: Compras
 - **Pg**: Pagamentos
-- **V**: Vendas
-- **R**: Recebimentos
 
 ---
 ## Tópicos Relacionados
