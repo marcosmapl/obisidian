@@ -15,10 +15,11 @@ updated: 2026-05-19T08:45:00
 
 ![[Pasted image 20260625210837.png]]
 
-> [!tip] Obrigatoriedade
+> [!tip] Obrigatória
 > - ✅ **Sociedades Anônimas**
+
+> [!tip] Facultativa
 > - ❌**Companhias Fechadas** com **Patrimônio Líquido < 2 Milhões**
-> 
 
 ![[Pasted image 20260625210912.png]]
 
@@ -31,7 +32,7 @@ updated: 2026-05-19T08:45:00
 ---
 ## Objetivos e Utilidade
 
-Proporcionar aos usuários das demonstrações contáveis uma base para **avaliar a capacidade de a entidade gerar caixa e equivalentes de caixa**, bem como as **necessidades da entidade de utilização desses fluxos de caixa**.
+Proporcionar aos usuários das demonstrações contábeis uma base para **avaliar a capacidade de a entidade gerar caixa e equivalentes de caixa**, bem como as **necessidades da entidade de utilização desses fluxos de caixa**.
 
 - Avaliar a **capacidade de gerar caixa**
 - Avaliar a **capacidade de honrar compromissos**

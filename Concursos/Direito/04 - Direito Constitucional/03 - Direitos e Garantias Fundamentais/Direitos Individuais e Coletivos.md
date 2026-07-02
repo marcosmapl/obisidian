@@ -7,8 +7,8 @@ updated: 2026-06-24T12:15:00
 
 ## Índice
 
-- [[Direito de Resposta]]
 - [[Direito à Liberdade de Expressão]]
+- [[Direito de Resposta]]
 - [[Direito à Liberdade Religiosa]]
 - [[Direito à Privacidade]]
 - [[Direito à Inviolabilidade Domiciliar]]

@@ -20,4 +20,10 @@ updated: 2026-06-24T13:05:00
 
 Segundo o STF, a **liberdade de expressão** existe para a manifestação de opiniões contrárias, jocosas, satíricas e até mesmo errôneas, mas ==não para opiniões criminosas, discurso de ódio ou atentados contra o Estado Democrático de Direito e a democracia==.
 
+> [!tip] Acesso à Informação
+> Art. 5º, XIV - É assegurado a todos o acesso à informação e resguardado o sigilo da fonte, quando necessário ao exercício profissional.
+
 ---
+## Tópicos Relacionados
+
+- [[Direito de Resposta]]

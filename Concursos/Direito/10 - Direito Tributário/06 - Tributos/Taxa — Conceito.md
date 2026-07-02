@@ -13,6 +13,8 @@ updated: 2025-12-23T00:00:00
 > [!important] Base de cálculo
 > Art. 145, § 2º da CF/88 - As taxas não podem ter base de cálculo própria de impostos.
 
+- [[Súmula Vinculante 29]]
+
 ---
 ## Característica
 
@@ -46,13 +48,21 @@ O contribuinte ==não poderá fazer opção por não receber determinada presta�
 > III - **divisíveis**, quando suscetíveis de utilização, separadamente, por parte de cada um dos seus usuários.
 
 ---
+## Poder de Polícia
+
+
+> [!note] Taxa de Poder de Polícia
+> Art. 78. Considera-se **pode de polícia** atividade da administração pública que **limitando ou disciplinando direito, interesse ou liberdade**, **regula a prática de ato ou abstenção de fato, em razão de interesse público** concernente à **segurança**, à **higiene**, à **ordem**, aos **costumes**, à **disciplina da produção e do mercado**, ao **exercício de atividades econômicas** dependentes de concessão ou autorização do Poder Público, à **tranquilidade pública** ou ao **respeito à propriedade e aos direitos individuais ou coletivos**.
+
+> [!note] RE 222.252-AgR/SP
+> A cobrança de taxa de localização e funcionamento, ..., **prescinde da efetiva comprovação da atividade fiscalizadora**, bastando a existência do **órgão fiscalizador** e **estrutura adminsitrativa em funcionamento**.
+
+---
 ## Jurisprudência
 
-> [!note] **Serviço de Iluminação Pública**
-> SV 41 - ==Não pode ser remunerado mediante taxa==.
+- [[Súmula Vinculante 19]]
+- [[Súmula Vinculante 41]]
 
-> [!note] **Serviço de Coleta de Lixo**
-> SV 19 - É **constitucional** a taxa cobrada exclusivamente em razão dos serviços públicos de coleta, remoção e tratamento ou destinação de lixo ou resíduos provenientes de imóveis.
 
 > [!note] Taxa de Polícia
 > - **Regularidade** do exercício de poder de polícia é **imprescindível**.

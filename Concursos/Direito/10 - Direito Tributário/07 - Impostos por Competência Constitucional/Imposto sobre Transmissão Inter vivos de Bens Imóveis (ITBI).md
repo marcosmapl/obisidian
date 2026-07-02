@@ -33,7 +33,7 @@ updated: 2026-04-03T19:45:00
 - Em regra, possui alíquota **proporcional**.
 - A **progressividade com base no valor venal** é vedada pela jurisprudência do STF.
 
-> [!important] **Súmula STF 656**: É inconstitucional a lei que estabelece alíquotas progressivas para o ITBI com base no valor venal do imóvel.
+- [[Súmula Vinculante 656 (STF)]]
 
 ---
 ## Princípios
@@ -54,7 +54,6 @@ updated: 2026-04-03T19:45:00
 ---
 ## Jurisprudência (STF)
 
-- **Súmula STF 656** - É inconstitucional a lei que estabelece alíquotas progressivas para o ITBI com base no valor venal do imóvel.
 - **Tema 1124** - O fato gerador do ITBI somente ocorre com a efetiva transferência da propriedade imobiliária, que se dá com o **registro**.
 - **Tema 796** - A imunidade do ITBI na integralização de capital alcança apenas o valor do bem limitado ao **capital social a integralizar**; eventual excedente pode ser tributado.
 - **REsp 1.188.655/RS** - Não incide ITBI sobre a arrematação judicial de bem imóvel em leilão público.

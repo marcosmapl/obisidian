@@ -13,12 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Concursos/Contabilidade Geral/13 - Demonstrações Contábeis/4 - DFC/Método Indireto (DFC).md",
+=======
+                "file": "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/Imposto sobre Transmissão Inter vivos de Bens Imóveis (ITBI).md",
+>>>>>>> ebddb88f45de079ad65dbc9ca272cb94f40393c1
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "Método Indireto (DFC)"
+=======
+              "title": "Imposto sobre Transmissão Inter vivos de Bens Imóveis (ITBI)"
+>>>>>>> ebddb88f45de079ad65dbc9ca272cb94f40393c1
             }
           }
         ]
@@ -53,7 +61,11 @@
             "state": {
               "type": "search",
               "state": {
+<<<<<<< HEAD
                 "query": "Oferta",
+=======
+                "query": "SV 19",
+>>>>>>> ebddb88f45de079ad65dbc9ca272cb94f40393c1
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.51103591918945
+    "width": 551.5110321044922
   },
   "right": {
     "id": "ae0fcbd67c81a0a4",
@@ -718,7 +730,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "95594cff3d380195",
+=======
+            "id": "50b3fff1c18571c3",
+>>>>>>> ebddb88f45de079ad65dbc9ca272cb94f40393c1
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -748,6 +764,7 @@
   },
   "active": "6920f2509dab4c3e",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Concursos/Contabilidade Geral/13 - Demonstrações Contábeis/4 - DFC/Método Direto (DFC).md",
     "Concursos/Contabilidade Geral/13 - Demonstrações Contábeis/4 - DFC/Fluxos de Caixa das Atividades de Financiamento.md",
     "Concursos/Contabilidade Geral/13 - Demonstrações Contábeis/4 - DFC/Demonstração dos Fluxos de Caixa (DFC).md",
@@ -779,11 +796,48 @@
     "Media/Pasted image 20260625110310.png",
     "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 214 2025/Domicílio Principal.md",
     "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 214 2025/Lei Complementar nº 214 de 2025.md",
+=======
+    "Concursos/Direito/10 - Direito Tributário/18 - Jurisprudência e SV em Matéria Tributária/MOC — Jurisprudência e Súmulas Vinculantes em Matéria Tributária.md",
+    "Concursos/Direito/10 - Direito Tributário/18 - Jurisprudência e SV em Matéria Tributária/Súmula Vinculante 41.md",
+    "Concursos/Direito/10 - Direito Tributário/18 - Jurisprudência e SV em Matéria Tributária/Súmula Vinculante 29.md",
+    "Concursos/Direito/10 - Direito Tributário/18 - Jurisprudência e SV em Matéria Tributária/Súmula Vinculante 19.md",
+    "Concursos/Direito/10 - Direito Tributário/18 - Jurisprudência e SV em Matéria Tributária/Súmula Vinculante 656 (STF).md",
+    "Concursos/Direito/10 - Direito Tributário/18 - Jurisprudência e SV em Matéria Tributária/Jurisprudência sobre o Ônus da Prova.md",
+    "Concursos/Direito/10 - Direito Tributário/06 - Tributos/Contribuições de Melhoria.md",
+    "Concursos/Direito/10 - Direito Tributário/06 - Tributos/Taxa — Conceito.md",
+    "Concursos/Direito/10 - Direito Tributário/04 - Competência Tributária/Características da Competência Tributária.md",
+    "Concursos/Direito/10 - Direito Tributário/04 - Competência Tributária/Classificação da Competência Tributária.md",
+    "Concursos/Direito/10 - Direito Tributário/04 - Competência Tributária/MOC — Competência Tributária.md",
+    "Concursos/Direito/10 - Direito Tributário/01 - Conceitos Fundamentais/Capacidade Tributária Passiva  — Conceito.md",
+    "Concursos/Contabilidade Geral/07 - Estoques/MOC — Estoques.md",
+    "Concursos/Contabilidade Geral/07 - Estoques/Compras.md",
+    "Concursos/Contabilidade Geral/07 - Estoques/Custos Aquisição Estoque.md",
+    "Concursos/Contabilidade Geral/07 - Estoques/Controle de Estoques.md",
+    "Concursos/Contabilidade Geral/07 - Estoques/Custos Mercadoria Vendida.md",
+    "Concursos/Contabilidade Geral/07 - Estoques/Estoques — Conceito.md",
+    "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/Desconto Condicional.md",
+    "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/Desconto Incondicional.md",
+    "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais.md",
+    "Concursos/Contabilidade Geral/13 - Demonstrações Contábeis/1 - DRE/Demonstração do Resultado do Exercício (DRE).md",
+    "Concursos/Direito/04 - Direito Constitucional/03 - Direitos e Garantias Fundamentais/Direito de Resposta.md",
+    "Concursos/Direito/04 - Direito Constitucional/03 - Direitos e Garantias Fundamentais/Direito à Liberdade de Expressão.md",
+    "Concursos/Direito/04 - Direito Constitucional/03 - Direitos e Garantias Fundamentais/Direitos Individuais e Coletivos.md",
+    "Concursos/Direito/04 - Direito Constitucional/03 - Direitos e Garantias Fundamentais/Direito de Informação.md",
+    "Media/Pasted image 20260625210912.png",
+    "Media/Pasted image 20260625210837.png",
+    "Media/Pasted image 20260625210809.png",
+    "Media/Pasted image 20260625110343.png",
+    "Media/Pasted image 20260625110310.png",
+>>>>>>> ebddb88f45de079ad65dbc9ca272cb94f40393c1
     "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 214 2025",
     "Media/Pasted image 20260624235231.png",
     "Media/Pasted image 20260624235151.png",
     "Media/Pasted image 20260624235002.png",
     "Media/Pasted image 20260624234931.png",
+<<<<<<< HEAD
+=======
+    "Media/Pasted image 20260624234822.png",
+>>>>>>> ebddb88f45de079ad65dbc9ca272cb94f40393c1
     "Lei Complementar nº 227",
     "Concursos/Tecnologia da Informação/16 - Governança de Dados",
     "Concursos/Língua Portuguesa/15 - Coerência e Coesão",

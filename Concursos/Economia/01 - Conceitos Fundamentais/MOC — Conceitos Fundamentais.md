@@ -9,6 +9,7 @@ updated: 2026-05-28T22:20:00
 
 - [[Problema Econômico Fundamental]]
 - [[Formas de Organização da Atividade Econômica]]
+<<<<<<< HEAD
 - [[Demanda]]
 - [[Oferta]]
 
@@ -24,6 +25,14 @@ updated: 2026-05-28T22:20:00
 
 - [[Bens Comuns]]
 - [[Bens de Giffen]]
+=======
+- [[Preço e Quantidade de Equilíbrio]]
+- [[Bens de Giffen]]
+- [[Bens Inferiores]]
+- [[Bens Substitutos]]
+- [[Bens Complementares]]
+
+>>>>>>> ebddb88f45de079ad65dbc9ca272cb94f40393c1
 
 
 
