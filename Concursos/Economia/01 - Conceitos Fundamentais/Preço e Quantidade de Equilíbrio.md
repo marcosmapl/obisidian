@@ -24,3 +24,7 @@ No exemplo:
 
 ![[Pasted image 20260621121106.png]]
 
+---
+## Excedentes
+
+![[Pasted image 20260626230317.png]]

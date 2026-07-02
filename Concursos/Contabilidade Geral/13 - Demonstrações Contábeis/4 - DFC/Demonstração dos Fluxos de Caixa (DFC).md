@@ -23,7 +23,7 @@ updated: 2026-05-19T08:45:00
 ![[Pasted image 20260625210912.png]]
 
 > [!note] Caixa
-> Numerário em espécie e depósito bancários disponíveis
+> Numerário em **espécie** e **depósito bancários disponíveis**
 
 > [!note] Equivalentes de Caixa
 > Aplicações financeiras de **curto prazo (3 meses ou menos)**, de **alta liquidez**, que são prontamente conversíveis em montante conhecido de caixa e que estão sujeitas a um **insignificante risco de mudança de valor**

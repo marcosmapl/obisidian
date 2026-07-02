@@ -14,6 +14,8 @@ updated: 2026-06-21T11:10:00
 
 Exemplos: **Ovos** x **Carne**
 
+A expressão “bem de Giffen” é usada pelos economistas para descrever bens inferiores, nos quais o **efeito renda domina o efeito substituição**. Como resultado, suas curvas de demanda têm inclinação ascendente.
+
 ---
 ## Tópicos Relacionados
 

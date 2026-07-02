@@ -24,12 +24,12 @@ Atividades Operacionais
 (+) Recebimento de dividendos e juros sobre o capital próprio
 (+) Duplicatas Descontadas
 (-) Pagamentos
-Fornecedores
-Impostos e Contribuições
-Salários
-Juros
-Despesas Operacionais
-Despesas Pagas Antecipadamente
+(-) Fornecedores
+(-) Impostos e Contribuições
+(-) Salários
+(-) Juros Passivos
+(-) Despesas Operacionais
+(-) Despesas Pagas Antecipadamente
 (=) Fluxo de Caixa Líquido das Atividades Operacionais (I)
 ```
 
