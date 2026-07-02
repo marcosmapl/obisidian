@@ -49,6 +49,7 @@ updated: 2026-04-03T19:47:00
 ---
 ## Jurisprudência (STF)
 
+- [[Súmula Vinculante 52]]
 - **Súmula STJ 160** – É defeso, ao Município, atualizar o IPTU (BC), mediante decreto, em percentual superior ao índice oficial de correção monetária.
 - **_Súmula STF 539 -_** É constitucional a lei do município que **reduz o IPTU sobre imóvel ocupado pela residência do proprietário**, que ==não possua outro==.
 - **Súmula STJ 614** - O locatário não possui legitimidade ativa para discutir a relação jurídico-tributária de IPTU e de taxas referentes ao imóvel alugado nem para repetir indébito desses tributos. 

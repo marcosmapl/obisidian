@@ -11,6 +11,7 @@ updated: 2026-01-05T21:40:00
 - [[Súmula Vinculante 19]] (**Coleta de lixo**)
 - [[Súmula Vinculante 29]] (**Base de cálculo de imposto**)
 - [[Súmula Vinculante 41]] (**Iluminação Pública**)
+- [[Súmula Vinculante 52]] (**Imunidade ao IPTU**)
 
 ### Impostos
 

@@ -7,7 +7,7 @@ updated: 2026-06-11T16:35:00
 
 ## Conceito
 
-O **desvio absoluto médio**, ou simplesmente desvio médio, mede a dispersão entre os valores da distribuição e a média dos dados coletados.
+O **desvio absoluto médio**, ou simplesmente **desvio médio**, mede a dispersão entre os valores da distribuição e a média dos dados coletados.
 
 > $$ D_m = \frac{\sum^n_{i=1}{\lvert x_i = \bar{x} \rvert}}{n} $$
 

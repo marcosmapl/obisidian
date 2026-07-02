@@ -12,18 +12,11 @@ updated: 2026-05-31T17:05:00
 ---
 ## Medidas Estatísticas
 
-### Medidas de Posição
 - [[Medidas de Posição]]
 - [[Medidas Separatrizes]]
+- [[Medidas de Variabilidade]]
 
 ![[Pasted image 20260608044811.png]]
-
-### Medidas de Variabilidade
-- [[Medidas de Variabilidade]]
-- [[Amplitude]]
-- [[Variância]]
-- [[Desvio-Padrão]]
-- [[Coeficiente de Variação]]
 
 ### Medidas de Forma
 - [[Medidas de Assimetria]]
