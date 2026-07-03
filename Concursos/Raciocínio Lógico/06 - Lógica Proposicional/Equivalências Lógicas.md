@@ -3,7 +3,6 @@ disciplina: Raciocínio Lógico
 tópico: Equivalências Lógicas
 created: 2025-12-24T08:24:00
 updated: 2025-12-24T00:00:00
-tags:
   - rlm
   - equivalencias
 ---

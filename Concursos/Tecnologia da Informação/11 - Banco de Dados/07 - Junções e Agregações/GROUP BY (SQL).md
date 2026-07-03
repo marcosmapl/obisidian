@@ -4,6 +4,7 @@ tópico: SQL
 created: 2026-01-18T15:20:00
 updated: 2026-01-18T15:25:00
 ---
+
 ## Conceito
 
 > [!note] Cláusula Group By

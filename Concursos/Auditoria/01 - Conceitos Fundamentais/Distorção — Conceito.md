@@ -2,6 +2,7 @@
 disciplina: Auditoria
 tópico: Conceitos Fundamentais
 created: 2025-12-22T15:24:00
+updated: 2025-12-29T08:13:07
 ---
 
 > [!note] Distorção 

@@ -4,6 +4,7 @@ tópico: Conceitos Introdutórios
 created: 2025-12-11T14:34:00
 updated: 2026-05-19T09:30:00
 ---
+
 ## Contabilidade Teórica
 
 > **Ramo da Contabilidade** voltado ao **estudo científico** da Contabilidade, analisando e sistematizando seus **princípios, teorias, conceitos, postulados e axiomas**.
@@ -31,5 +32,12 @@ updated: 2026-05-19T09:30:00
 📌 **Ideia-chave de prova:**
 
 > A Contabilidade Prática **define o “como”** da Contabilidade.
+
+---
+## Tópicos Relacionados
+
+- [[Técnicas Contábeis]]
+- [[Funções da Contabilidade]]
+- [[MOC — Conceitos Fundamentais]]
 
 ---

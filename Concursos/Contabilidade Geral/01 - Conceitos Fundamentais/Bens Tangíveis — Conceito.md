@@ -27,18 +27,10 @@ updated: 2025-12-29T11:42:00
 - Estão sujeitos, quando aplicável, à **depreciação**.
 
 ---
-## 🔗 Links relacionados
+## Tópicos Relacionados
 
 - [[Bens — Conceito]]
 - [[Bens Intangíveis — Conceito]]
-- [[Ativo]]
-- [[Ativo Imobilizado]]
-- [[Ativo Circulante]]
-- [[Estoques — Conceito]]
-
----
-## 🧭 Navegação
-
-- ⬅️ [[Bens — Conceito]]
-- ⬅️ [[Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais]]
-- 📊 [[Contabilidade Geral]]
+- [[Bens de Uso — Conceito]]
+- [[Bens de Venda — Conceito]]
+- [[MOC — Ativo]]

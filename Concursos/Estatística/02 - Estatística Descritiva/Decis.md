@@ -1,3 +1,9 @@
+---
+disciplina: Estatística
+tópico: Decis
+created: 2026-06-08T09:01:40
+updated: 2026-06-08T09:01:40
+---
 
 > [!note] Decis
 > Dividem uma série em **dez partes iguais**.

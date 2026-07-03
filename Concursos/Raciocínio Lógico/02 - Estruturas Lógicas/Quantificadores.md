@@ -2,7 +2,9 @@
 disciplina: Raciocínio Lógico
 tópico: Conceitos Introdutórios
 created: 2025-12-13T07:54:00
+updated: 2025-12-13T08:23:36
 ---
+
 ## 📌 Definição de Quantificador
 
 > **Quantificadores** são expressões que **transformam sentenças abertas em proposições**, indicando **quantidade** ou **existência**.

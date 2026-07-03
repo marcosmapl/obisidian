@@ -4,6 +4,7 @@ tópico: Tipologia Textual
 created: 2025-12-21T08:28:00
 updated: 2026-01-07T21:20:00
 ---
+
 ##  Conceito
 
 > [!note] Texto Narrativo

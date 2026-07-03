@@ -4,6 +4,7 @@ tópico: Conceitos Introdutórios
 created: 2025-12-19T14:38:00
 updated: 2025-12-29T15:53:00
 ---
+
 ## 🔸Definição
 
 > [!note] Entidade
@@ -18,7 +19,9 @@ updated: 2025-12-29T15:53:00
 #contabilidade/azienda #contabilidade/entidade
 
 ---
-## 🧭 Navegação
+## Tópicos Relacionados
 
-- ⬅️ [[Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais]]
-- 📊 [[Contabilidade Geral]]
+- [[Patrimônio — Conceito]]
+- [[Classificação das Aziendas]]
+- [[Usuários das Informações Contábeis]]
+- [[MOC — Conceitos Fundamentais]]

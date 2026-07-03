@@ -4,6 +4,7 @@ tópico: Teoria da Norma Jurídica
 created: 2025-12-22T10:57:00
 updated: 2026-01-16T15:20:00
 ---
+
 ## Conceito
 
 > [!note] Lei Ordinária

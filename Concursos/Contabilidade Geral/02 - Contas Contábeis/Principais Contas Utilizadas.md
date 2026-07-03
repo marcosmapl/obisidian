@@ -67,3 +67,14 @@ updated: 2026-01-11T11:10:00
 - **Depreciação**
 - **Despesas de Frete**
 - **Despesas de Aluguel**
+
+---
+## Tópicos Relacionados
+
+- [[Conta Contábil]]
+- [[Contas Patrimoniais]]
+- [[Contas de Resultado]]
+- [[MOC — Ativo]]
+- [[MOC — Passivo|Passivo]]
+- [[Patrimônio Líquido]]
+- [[MOC — Contas Contábeis]]

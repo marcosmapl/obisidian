@@ -1,5 +1,5 @@
 ---
-disciplina:
+disciplina: Auditoria
 tópico: Documentação de Auditoria
 created: 2026-01-06T20:15:00
 updated: 2026-01-06T20:20:00

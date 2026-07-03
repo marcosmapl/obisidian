@@ -1,8 +1,10 @@
 ---
 disciplina: Direito Tributário
 tópico: Reforma Tributária
-created:
+created: 2026-06-25T09:08:44
+updated: 2026-06-25T09:09:13
 ---
+
 ## Disposições Preliminares
 ### Instituição IBS e CBS
 

@@ -2,10 +2,10 @@
 disciplina: Tecnologia da Informação
 tópico: ITIL 4
 created: 2025-12-18T16:10:00
-tags:
+updated: 2025-12-23T08:25:48
   - ti/itil4/svs
-node_size: "10"
 ---
+
 ## Conceito
 
 O **Sistema de Valor de Serviços (SVS)** descreve **como todos os componentes e atividades da organização trabalham em conjunto** para **criar valor** por meio de produtos e serviços.

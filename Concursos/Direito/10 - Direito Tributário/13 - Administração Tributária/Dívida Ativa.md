@@ -4,6 +4,7 @@ tópico: Administração Tributária
 created: 2026-05-25T20:30:00
 updated: 2026-05-25T20:30:00
 ---
+
 ## Conceito
 
 > [!note] Inscrição em Dívida Ativa

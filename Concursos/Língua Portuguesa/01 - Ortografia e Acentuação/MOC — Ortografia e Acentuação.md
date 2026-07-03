@@ -2,6 +2,7 @@
 disciplina: Língua Portuguesa
 tópico: Ortografia e Acentuação
 created: 2025-12-23T00:00:00
+updated: 2026-02-12T17:03:32
 ---
 
 ## Ortografia e Acentuação

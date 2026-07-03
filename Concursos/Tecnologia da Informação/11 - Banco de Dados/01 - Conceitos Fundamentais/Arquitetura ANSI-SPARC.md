@@ -4,6 +4,7 @@ tópico: Banco de Dados
 created: 2025-12-13T08:42:00
 updated: 2025-12-26T00:10:00
 ---
+
 ## Definição
 
 > [!note] Arquitetura ANSI/SPARC

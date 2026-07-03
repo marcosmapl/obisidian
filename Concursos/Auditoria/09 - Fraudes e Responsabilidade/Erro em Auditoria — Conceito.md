@@ -2,6 +2,7 @@
 disciplina: Auditoria
 tópico: Conceitos Fundamentais
 created: 2025-12-22T16:05:00
+updated: 2026-01-12T08:31:46
 ---
 
 > [!NOTE] Erro em Auditoria  

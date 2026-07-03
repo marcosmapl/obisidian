@@ -8,12 +8,8 @@ updated: 2026-01-10T10:20:00
 ## Avaliação de Distorções
 
 - [[Avaliação de Distorções Identificadas]]
-- [[Identificação de Distorções]]
 - [[Distorção — Conceito]]
-- [[Avaliação Individual de Distorções]]
-- [[Avaliação Agregada de Distorções]]
-- [[Comunicação das Distorções]]
-- [[Distorções Não Corrigidas]]
+- [[Identificação, Avaliação e Comunicação das Distorções]]
 
 #auditoria/distorcoes
 
@@ -22,3 +18,10 @@ updated: 2026-01-10T10:20:00
 
 > [!info] NBC TA 450
 > Avaliação das Distorções Identificadas Durante a Auditoria
+
+---
+## Tópicos Relacionados
+
+- [[MOC — Materialidade e Relevância]]
+- [[MOC — Procedimentos de Auditoria]]
+- [[Emissão do Relatório da Auditoria]]

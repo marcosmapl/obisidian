@@ -4,6 +4,7 @@ tópico: Business Intelligence
 created: 2026-02-12T09:25:00
 updated: 2026-02-12T09:30:00
 ---
+
 ## Processo de Modelagem Multidiomensional
 
 **Procuradoria Geral do Distrito Federal - PGDF**

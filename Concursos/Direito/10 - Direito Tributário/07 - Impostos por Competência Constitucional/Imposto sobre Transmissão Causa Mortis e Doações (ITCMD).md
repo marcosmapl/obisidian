@@ -4,6 +4,7 @@ tópico: Impostos por Competência Constitucional
 created: 2026-03-17T11:35:00
 updated: 2026-04-03T19:47:00
 ---
+
 ## Conceito
 
 - Imposto sobre Transmissões Causa Mortis e Doações (bens móveis, imóveis e financeiros).

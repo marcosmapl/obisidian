@@ -28,15 +28,9 @@ updated: 2025-12-29T15:31:00
 #contabilidade/obrigações
 
 ---
-## 🔗Links relacionados
+## Tópicos Relacionados
 
-- [[Bens — Conceito]]
-- [[Passivo]]
 - [[Patrimônio — Conceito]]
 - [[Direitos — Conceito]]
-
----
-## 🧭 Navegação
-
-- ⬅️ [[Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais]]
-- 📊 [[Contabilidade Geral]]
+- [[Bens — Conceito]]
+- [[MOC — Passivo|Passivo]]

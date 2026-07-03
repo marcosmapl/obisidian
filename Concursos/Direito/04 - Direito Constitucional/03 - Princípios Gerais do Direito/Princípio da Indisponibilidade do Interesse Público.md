@@ -2,6 +2,7 @@
 disciplina: Direito
 tópico: Princípios
 created: 2025-12-12T05:00:00
+updated: 2026-05-18T08:49:15
 ---
 
 > [!NOTE] Indisponibilidade do Interesse Público

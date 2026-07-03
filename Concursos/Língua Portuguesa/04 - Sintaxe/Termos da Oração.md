@@ -1,8 +1,8 @@
 ---
-created: 2026-04-03T19:10:00
-updated: 2026-04-03T19:30:00
 disciplina: Língua Portuguesa
 tópico: Sintaxe
+created: 2026-04-03T19:10:00
+updated: 2026-04-03T19:30:00
 ---
 
 ## Conceito

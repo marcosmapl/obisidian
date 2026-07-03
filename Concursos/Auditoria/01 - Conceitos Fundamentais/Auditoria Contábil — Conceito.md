@@ -4,6 +4,7 @@ tópico: Conceitos Fundamentais
 created: 2025-12-30T10:30:00
 updated: 2025-12-30T10:31:00
 ---
+
 ## Conceito
 
 > [!note] Auditoria Contábil

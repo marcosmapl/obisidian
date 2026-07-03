@@ -4,6 +4,7 @@ tópico: Princípios Administrativos
 created: 2026-01-03T18:15:00
 updated: 2026-01-03T18:20:00
 ---
+
 ## Definição
 
 > [!note] Princípios Administrativos

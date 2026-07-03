@@ -1,3 +1,9 @@
+---
+disciplina: Tecnologia da Informação
+tópico: Data Analytics
+created: 2026-04-28T08:43:03
+updated: 2026-04-28T08:43:03
+---
 
 ---
 subcategoria: Ciência de Dados e IA

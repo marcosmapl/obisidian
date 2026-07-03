@@ -4,6 +4,7 @@ tópico: Conceitos Fundamentais
 created: 2025-12-30T09:16:00
 updated: 2025-12-30T09:18:00
 ---
+
 ## Conceito
 
 > [!note] **Objetivo**

@@ -4,6 +4,7 @@ tópico: SQL
 created: 2025-12-20T09:25:00
 updated: 2025-12-30T11:18:00
 ---
+
 ## Conceito
 
 > [!note] CLOB (SQL ANSI)

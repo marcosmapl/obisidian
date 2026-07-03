@@ -1,11 +1,11 @@
 ---
 disciplina: Raciocínio Lógico
 tópico: Conceitos Introdutórios
-tags:
-  - "#rlm/conectivos/conjunção"
 created: 2025-12-15T15:00:00
-node_size: "10"
+updated: 2025-12-15T15:10:24
+  - "#rlm/conectivos/conjunção"
 ---
+
 ## Conjunção (p ∧ q)
 
 ### Conceito

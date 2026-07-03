@@ -2,7 +2,9 @@
 disciplina: Raciocínio Lógico
 tópico: Conceitos Introdutórios
 created: 2025-12-13T07:43:00
+updated: 2025-12-15T15:09:13
 ---
+
 # Definição de Proposição Lógica
 
 > Uma **proposição lógica** é uma oração **declarativa** à qual pode ser atribuído **um, e apenas um**, dos seguintes valores lógicos:

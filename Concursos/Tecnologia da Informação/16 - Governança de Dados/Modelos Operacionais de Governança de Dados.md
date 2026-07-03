@@ -1,3 +1,10 @@
+---
+disciplina: Tecnologia da Informação
+tópico: Modelos Operacionais de Governança de Dados
+created: 2026-06-24T08:39:47
+updated: 2026-06-24T08:39:47
+---
+
 ## Modelos Operacionais de Governança de Dados
 
 ![[Pasted image 20260527113606.png]]

@@ -2,9 +2,7 @@
 disciplina: Estatística
 tópico: Números-Índices
 created: 2025-12-23T00:00:00
-progresso: 0
-node_size: "10"
-tags:
+updated: 2026-06-03T09:29:30
   - estatistica/numeros-indices
 ---
 

@@ -8,15 +8,9 @@ updated: 2026-12-23T09:45:00
 ## Controle Interno e Externo
 
 - [[Controle Interno]]
-- [[Conceito de Controle Interno]]
-- [[Componentes do Controle Interno]]
-- [[Ambiente de Controle]]
-- [[Avaliação de Riscos pela Entidade]]
-- [[Sistema de Informação]]
-- [[Atividades de Controle]]
-- [[Monitoramento de Controles]]
-- [[Avaliação do Controle Interno]]
-- [[Controle Externo]]
+- [[Controle Interno — Componentes e Avaliação]]
+- [[Auditoria Interna — Aspectos Gerais, NBC TI 01, IIA e Diferenças]]
+- [[Governança Corporativa, Lei Sarbanes-Oxley e COSO]]
 
 
 ---
@@ -27,3 +21,10 @@ updated: 2026-12-23T09:45:00
 
 > [!info] COSO
 > Framework de Controle Interno
+
+---
+## Tópicos Relacionados
+
+- [[MOC — Riscos de Auditoria]]
+- [[MOC — O Auditor]]
+- [[MOC — Normas Brasileiras de Auditoria]]

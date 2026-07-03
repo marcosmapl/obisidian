@@ -21,4 +21,6 @@ updated: 2026-05-16T22:05:00
 ---
 ## Tópicos Relacionados
 
-- [[Contas Transitórias]]
+- [[Conta Contábil]]
+- [[Contas Permanentes]]
+- [[MOC — Contas Contábeis]]

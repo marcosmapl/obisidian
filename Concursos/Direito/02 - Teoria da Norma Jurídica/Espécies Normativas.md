@@ -1,9 +1,10 @@
 ---
 disciplina: Direito
 tópico: Teoria da Norma Jurídica
-updated: 2026-01-16T15:05:00
 created: 2026-01-16T15:00:00
+updated: 2026-01-16T15:05:00
 ---
+
 ## Conceito
 
 > [!note] Espécies Normativas

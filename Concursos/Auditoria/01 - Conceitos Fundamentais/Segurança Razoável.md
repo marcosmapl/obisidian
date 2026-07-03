@@ -2,6 +2,7 @@
 disciplina: Auditoria
 tópico: Conceitos Fundamentais
 created: 2025-12-22T11:48:00
+updated: 2025-12-22T11:48:34
 ---
 
 > [!note] Segurança Razoável

@@ -2,7 +2,9 @@
 disciplina: Tecnologia da Informação
 tópico: SQL
 created: 2025-12-20T10:05:00
+updated: 2026-01-26T09:57:34
 ---
+
 ## Tipos Data
 
 Representam datas do calendário.

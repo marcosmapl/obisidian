@@ -1,4 +1,9 @@
-
+---
+disciplina: Auditoria
+tópico: Fraudes e Responsabilidade
+created: 2025-12-22T15:43:36
+updated: 2025-12-23T16:43:56
+---
 
 ## 🔸Sumário
 
@@ -32,6 +37,8 @@ Mnemônico:
 **“Fraude é risco, não culpa automática do auditor.”**
 ---
 
-## 🔸 Navegação
+## Tópicos Relacionados
 
-**← MOC Principal:** [[Concursos/Auditoria/Auditoria|Auditoria]]
+- [[MOC — O Auditor]]
+- [[MOC — Riscos de Auditoria]]
+- [[Concursos/Auditoria/Auditoria|Auditoria]]

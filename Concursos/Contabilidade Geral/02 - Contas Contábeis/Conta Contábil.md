@@ -50,4 +50,7 @@ updated: 2026-01-08T21:56:00
 ---
 ## Tópicos Relacionados
 
+- [[Teoria das Contas]]
+- [[Principais Contas Utilizadas]]
 - [[Plano de Contas]]
+- [[MOC — Contas Contábeis]]

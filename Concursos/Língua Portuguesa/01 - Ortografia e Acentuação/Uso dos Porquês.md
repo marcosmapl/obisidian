@@ -4,6 +4,7 @@ tópico: Ortografia e Acentuação
 created: 2026-02-05T21:30:00
 updated: 2026-02-05T21:30:00
 ---
+
 ## Porque
 
 - **Conjunção Explicativa Causal** (introduz uma explicação ou causa da oração anterior)

@@ -5,7 +5,6 @@ created: 2026-06-24T13:00:00
 updated: 2026-06-24T13:05:00
 ---
 
-
 > [!note] CF, Art. 5, IV
 > É livre a manifestação do pensamento, sendo ==vedado o anonimato==.
 

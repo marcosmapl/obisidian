@@ -17,8 +17,9 @@ updated: 2025-12-29T10:24:00
 #contabilidade/usuários/internos  
 
 ---
-## 🧭Navegação
+## Tópicos Relacionados
 
-- ⬅️ [[Usuários das Informações Contábeis]]
-- ⬅️ [[Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais]]
-- 📊 [[Contabilidade Geral]]
+- [[Usuários das Informações Contábeis]]
+- [[Usuários Externos]]
+- [[Entidade — Conceito]]
+- [[MOC — Conceitos Fundamentais]]

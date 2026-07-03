@@ -4,6 +4,7 @@ tópico: Business Intelligence
 created: 2026-02-06T04:55:00
 updated: 2026-02-06T05:00:00
 ---
+
 ## Fontes de Dados
 
 - CRM/ERP

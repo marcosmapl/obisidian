@@ -4,6 +4,7 @@ tópico: Atos e Fatos Contábeis
 created: 2026-01-14T20:00:00
 updated: 2026-01-14T20:00:00
 ---
+
 	
 ## Ato Contábil
 

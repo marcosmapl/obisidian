@@ -1,7 +1,10 @@
 ---
 disciplina: Direito Tributário
+tópico: Caderno de Erros
 created: 2025-12-11T14:40:00
+updated: 2025-12-23T08:25:48
 ---
+
 ## Questão 62037052
 
 #ano/2008 #banca/FCC #questão/62037052 #órgão/MP-CE

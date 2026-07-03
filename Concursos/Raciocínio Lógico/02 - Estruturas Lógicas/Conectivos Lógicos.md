@@ -2,9 +2,8 @@
 disciplina: Raciocínio Lógico
 tópico: Conceitos Introdutórios
 created: 2025-12-15T15:06:00
-tags:
+updated: 2025-12-19T09:14:56
   - rlm/conectivos
-node_size: "10"
 ---
 
 ### 1. Visão Geral

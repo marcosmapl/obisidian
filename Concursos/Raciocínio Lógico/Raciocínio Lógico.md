@@ -3,9 +3,6 @@ disciplina: Raciocínio Lógico
 tópico: MOC Principal
 created: 2025-12-13T05:17:00
 updated: 2025-12-23T00:00:00
-node_size: "80"
-progresso: 10
-tags:
   - rlm
   - moc
 ---

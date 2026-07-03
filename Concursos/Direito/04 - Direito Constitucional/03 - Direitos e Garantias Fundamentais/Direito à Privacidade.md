@@ -5,7 +5,6 @@ created: 2026-06-24T13:00:00
 updated: 2026-06-24T13:05:00
 ---
 
-
 > [!note] CF, Art. 5, X 
 > São invioláveis a **intimidade**, a **vida privada**, a **honra** e a **imagem das pessoas**, assegurado o **direito a indenização pelo dano material ou moral decorrente de sua violação**;
 

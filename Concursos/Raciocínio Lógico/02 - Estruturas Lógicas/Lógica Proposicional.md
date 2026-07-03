@@ -1,11 +1,11 @@
 ---
 disciplina: Raciocínio Lógico
 tópico: Conceitos Introdutórios
-tags:
-  - rlm/estruturas-lógicas
-node_size: "10"
 created: 2025-12-13T07:43:00
+updated: 2025-12-15T15:02:43
+  - rlm/estruturas-lógicas
 ---
+
 ## Lógica Proposicional 
 
 Também conhecida como:

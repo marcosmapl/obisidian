@@ -22,6 +22,6 @@ updated: 2026-05-18T16:55:00
 - [[Bens de Renda — Conceito]]
 - [[Bens Numerários — Conceito]]
 - [[Bens de Uso — Conceito]]
-- [[Ativo]]
+- [[MOC — Ativo]]
 - [[Ativo Circulante]]
 - [[Estoques — Conceito]]

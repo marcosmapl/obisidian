@@ -1,7 +1,10 @@
 ---
 disciplina: Direito Administrativo
+tópico: Direito Administrativo
 created: 2025-12-11T15:01:00
+updated: 2026-06-23T11:09:49
 ---
+
 ## Conceito Geral
 
 > [!note] Direito Administrativo

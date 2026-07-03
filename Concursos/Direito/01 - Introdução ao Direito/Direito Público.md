@@ -2,9 +2,7 @@
 disciplina: Direito
 tópico: Conceitos Introdutórios
 created: 2025-12-12T04:28:00
-completed: 0
-node_size: "10"
-tags:
+updated: 2025-12-23T08:25:48
   - direito/público
 ---
 

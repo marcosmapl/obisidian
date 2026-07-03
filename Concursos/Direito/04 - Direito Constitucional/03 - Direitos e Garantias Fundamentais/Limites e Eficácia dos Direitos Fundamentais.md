@@ -4,6 +4,7 @@ tópico: Direitos e Garantias Fundamentais
 created: 2026-05-31T15:25:00
 updated: 2026-05-31T15:30:00
 ---
+
 ## Teorias
 
 Para tratar das limitações aos direitos fundamentais, a doutrina desenvolveu duas teorias: 

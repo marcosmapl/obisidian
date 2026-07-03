@@ -2,7 +2,9 @@
 disciplina: Raciocínio Lógico
 tópico: Conceitos Introdutórios
 created: 2025-12-13T07:57:00
+updated: 2025-12-13T08:11:26
 ---
+
 ## 🧩 Princípios fundamentais
 
 A lógica proposicional obedece a **três princípios fundamentais**:

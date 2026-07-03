@@ -4,6 +4,7 @@ tópico: Conceitos Fundamentais
 created: 2026-05-28T22:40:00
 updated: 2026-05-28T22:45:00
 ---
+
 ## Sistema Econômico
 
 Um sistema econômico pode ser definido como sendo a **forma política, social e econômica pelo qual é organizada uma sociedade**. 

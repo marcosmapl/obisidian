@@ -1,4 +1,9 @@
-
+---
+disciplina: Tecnologia da Informação
+tópico: Bloqueios (Locks)
+created: 2026-05-22T08:12:59
+updated: 2026-05-22T08:12:59
+---
 
 - **Deadlock**: o que é e como ocorre.
 - Protocolo **2PL (Two-Phase Locking)**.

@@ -2,22 +2,16 @@
 disciplina: Auditoria
 tópico: Ética Profissional
 created: 2025-12-23T00:00:00
-progresso: 0
-node_size: "10"
-tags:
-  - auditoria/etica
+updated: 2026-01-26T09:57:34
 ---
 
 ## Ética Profissional
 
 - [[Ética Profissional e Conflito de Interesses]]
+- [[Ética, Independência e Salvaguardas]]
 - [[Princípios de Ética Profissional]]
-- [[Código de Ética Profissional do Contador]]
-- [[Conflito de Interesses]]
-- [[Salvaguardas Éticas]]
-- [[Independência Profissional]]
 - [[Confidencialidade]]
-- [[Competência e Zelo Profissional]]
+- [[Controle de Qualidade da Auditoria]]
 
 #auditoria/etica
 
@@ -29,3 +23,10 @@ tags:
 
 > [!info] NBC PA 290
 > Independência – Trabalhos de Auditoria e Revisão
+
+---
+## Tópicos Relacionados
+
+- [[MOC — O Auditor]]
+- [[MOC — Normas Brasileiras de Auditoria]]
+- [[MOC — Processo de Auditoria]]

@@ -5,7 +5,6 @@ created: 2025-12-11T14:59:00
 updated: 2026-05-21T14:50:00
 ---
 
-
 [^1]A atuação da Administração e do Governo ocorre por meio de :
 - **Entidades** (pessoas jurídicas)
 - **Órgãos** (centros de decisão)

@@ -4,6 +4,7 @@ tópico: SQL
 created: 2026-01-18T16:40:00
 updated: 2026-01-18T16:40:00
 ---
+
 ## Conceito
 
 > [!note] Order By

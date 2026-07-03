@@ -5,7 +5,6 @@ created: 2026-06-24T13:30:00
 updated: 2026-06-24T13:35:00
 ---
 
-
 > [!note] Constituição Federal, Art. 5, XXXII
 > O Estado promoverá, na forma da lei, a **defesa do consumidor**
 

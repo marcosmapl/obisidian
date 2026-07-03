@@ -4,6 +4,7 @@ tópico: Crédito Tributário
 created: 2026-05-14T16:50:00
 updated: 2026-05-14T16:50:00
 ---
+
 ## Conceito
 
 **Art. 162. O pagamento é efetuado:**

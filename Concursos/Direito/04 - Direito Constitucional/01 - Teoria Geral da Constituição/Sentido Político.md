@@ -4,6 +4,7 @@ tópico: Teoria Geral da Constituição
 created: 2026-05-17T14:55:00
 updated: 2026-05-17T14:55:00
 ---
+
 ## Conceito
 
 - **Carl Schmitt**

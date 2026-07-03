@@ -29,6 +29,8 @@ As contas retificadoras são apresentadas no balanço patrimonial com **saldo ne
 ---
 ## Tópicos Relacionados
 
-- [[Ativo]]
-- [[Passivo]]
+- [[Conta Contábil]]
+- [[Contas Patrimoniais]]
+- [[MOC — Ativo]]
+- [[MOC — Passivo|Passivo]]
 - [[Patrimônio Líquido]]

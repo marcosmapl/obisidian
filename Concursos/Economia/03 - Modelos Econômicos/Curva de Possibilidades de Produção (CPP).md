@@ -4,6 +4,7 @@ tópico: Modelos Econômicos
 created: 2026-05-28T23:25:00
 updated: 2026-05-28T23:30:00
 ---
+
 É um gráfico que demonstra as combinações de bens que uma economia pode produzir, dados os fatores de produção e a tecnologia de produção disponíveis.
 
 > [!tip] Também chamado fronteira de possibilidade de produção (FPP)

@@ -3,7 +3,6 @@ disciplina: Tecnologia da Informação
 tópico: MOC Principal
 created: 2025-12-17T16:00:00
 updated: 2025-12-30T10:57:00
-progresso: 12
 ---
 
 > [!abstract] Sobre esta disciplina

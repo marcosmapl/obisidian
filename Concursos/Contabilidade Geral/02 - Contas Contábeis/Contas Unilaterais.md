@@ -15,4 +15,6 @@ updated: 2026-01-09T05:45:00
 ---
 ## Tópicos Relacionados
 
+- [[Conta Contábil]]
 - [[Contas Bilaterais]]
+- [[MOC — Contas Contábeis]]

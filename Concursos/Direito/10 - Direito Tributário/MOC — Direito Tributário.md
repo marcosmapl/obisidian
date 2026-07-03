@@ -1,8 +1,10 @@
 ---
 disciplina: Direito Tributário
+tópico: Direito Tributário
 created: 2025-12-12T04:10:00
 updated: 2026-01-08T16:51:00
 ---
+
 ## Definição
 
 > [!note] Direito Tributário 

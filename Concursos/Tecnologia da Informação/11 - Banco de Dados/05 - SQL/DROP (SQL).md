@@ -2,6 +2,7 @@
 disciplina: Tecnologia da Informação
 tópico: SQL
 created: 2025-12-20T15:21:00
+updated: 2026-01-26T09:57:34
 ---
 
 ## Conceito

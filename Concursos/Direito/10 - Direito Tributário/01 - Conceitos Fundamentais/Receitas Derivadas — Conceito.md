@@ -4,6 +4,7 @@ tópico: Conceitos Fundamentais
 created: 2025-12-12T05:29:00
 updated: 2026-01-03T16:54:00
 ---
+
 ## Conceito
 
 > [!NOTE] Receita Derivada

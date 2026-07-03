@@ -4,6 +4,7 @@ tópico: Processo de Auditoria
 created: 2025-12-26T17:42:00
 updated: 2025-12-26T17:45:00
 ---
+
 ## Definição
 
 > [!note] Emissão do Relatório 

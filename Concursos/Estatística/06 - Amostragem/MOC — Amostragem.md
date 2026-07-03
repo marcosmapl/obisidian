@@ -2,9 +2,7 @@
 disciplina: Estatística
 tópico: Amostragem
 created: 2025-12-23T00:00:00
-progresso: 0
-node_size: "10"
-tags:
+updated: 2026-06-03T09:23:14
   - estatistica/amostragem
 ---
 

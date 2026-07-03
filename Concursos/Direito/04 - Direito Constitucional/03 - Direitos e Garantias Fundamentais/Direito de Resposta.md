@@ -5,7 +5,6 @@ created: 2026-06-24T12:55:00
 updated: 2026-06-24T13:00:00
 ---
 
-
 > [!note] CF, Art. 5, V 
 > É assegurado o direito de resposta, proporcional ao agravo, além da indenização por dano material, moral ou à imagem;.
 

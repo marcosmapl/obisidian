@@ -4,6 +4,7 @@ tópico: Teoria da Empresa e Empresário
 created: 2026-05-28T21:45:00
 updated: 2026-05-28T21:50:00
 ---
+
 ## Empresário
 
 **Código Civil - Art. 966**. Considera-se empresário quem **exerce profissionalmente atividade econômica organizada** para a **produção ou a circulação de bens ou de serviços**.

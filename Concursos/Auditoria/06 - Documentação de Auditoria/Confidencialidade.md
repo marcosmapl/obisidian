@@ -4,6 +4,7 @@ tópico: Documentação de Auditoria
 created: 2026-01-06T21:00:00
 updated: 2026-01-06T21:10:00
 ---
+
 ## Conceito
 
 > [!note] Confidencialidade

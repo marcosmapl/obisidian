@@ -4,6 +4,7 @@ tópico: Banco de Dados
 created: 2025-12-26T00:19:00
 updated: 2025-12-26T00:19:00
 ---
+
 ## Definição
 
 > [!note] Independência Física de Dados

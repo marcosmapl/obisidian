@@ -17,8 +17,8 @@ updated: 2026-01-11T11:55:00
 
 ### Contas Integrais
 
-- [[Ativo]]
-- [[Passivo]]
+- [[MOC — Ativo]]
+- [[MOC — Passivo|Passivo]]
 ### Contas Diferenciais
 
 - [[Patrimônio Líquido]]
@@ -28,5 +28,7 @@ updated: 2026-01-11T11:55:00
 ---
 ## Tópicos Relacionados
 
+- [[Conta Contábil]]
+- [[Teoria das Contas]]
 - [[Teoria Patrimonialista]]
 - [[Teoria Personalista]]

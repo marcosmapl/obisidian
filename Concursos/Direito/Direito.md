@@ -4,6 +4,7 @@ tópico: MOC Principal
 created: 2025-12-12T04:50:00
 updated: 2025-12-29T19:51:00
 ---
+
 ##  Definição
 
 > [!abstract] Direito

@@ -4,6 +4,7 @@ tópico: Conceitos Fundamentais
 created: 2025-12-30T09:20:00
 updated: 2025-12-30T09:22:00
 ---
+
 ## Conceito
 
 > [!note] Auditoria Governamental

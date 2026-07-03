@@ -5,7 +5,6 @@ created: 2025-12-11T14:59:00
 updated: 2026-05-21T16:40:00
 ---
 
-
 A Lei 9.784/1999 define entidade como “a unidade de atuação dotada de **PERSONALIDADE JURÍDICA PRÓPRIA**” (art. 1º, § 2º, II). 
 
 Possuir **PERSONALIDADE JURÍDICA** significa que o ente pode, em nome próprio, adquirir **DIREITOS** e contrair **OBRIGAÇÕES**.

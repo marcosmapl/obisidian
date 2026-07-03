@@ -2,7 +2,9 @@
 disciplina: Tecnologia da Informação
 tópico: SQL
 created: 2025-12-20T10:15:00
+updated: 2026-01-26T09:57:34
 ---
+
 ## ⏱️ Outros Tipos de Dados Temporais
 
 Tipos avançados relacionados a data e hora.

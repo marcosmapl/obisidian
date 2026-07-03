@@ -5,7 +5,6 @@ created: 2026-02-05T22:15:00
 updated: 2026-04-26T17:25:00
 ---
 
-
 ## Conceito
 
 > [!note] Artigo

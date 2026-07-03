@@ -9,9 +9,16 @@ updated: 2026-01-10T08:35:00
 
 - [[Perícia Contábil — Conceito]]
 - [[Laudo Pericial Contábil — Conceito]]
+- [[Parecer Pericial Contábil — Conceito]]
 
 ---
 ## Normas Relacionadas
 
 > [!info] NBC PP 01
 > Perito Contábil
+
+---
+## Tópicos Relacionados
+
+- [[MOC — Normas Brasileiras de Auditoria]]
+- [[Perícia Contábil — Conceito]]

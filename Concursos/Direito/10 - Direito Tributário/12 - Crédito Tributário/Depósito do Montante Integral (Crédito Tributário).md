@@ -4,6 +4,7 @@ tópico: Crédito Tributário
 created: 2026-05-15T05:55:00
 updated: 2026-05-15T06:58:00
 ---
+
 ## Conceito
 
 > [!note] Depósito Integral

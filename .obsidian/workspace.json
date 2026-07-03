@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Contabilidade Geral/13 - Demonstrações Contábeis/4 - DFC/Demonstração dos Fluxos de Caixa (DFC).md",
+                "file": "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 214 2025/Imunidades (IBS e CBS).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Demonstração dos Fluxos de Caixa (DFC)"
+              "title": "Imunidades (IBS e CBS)"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 514.5110359191895
+    "width": 465.5110321044922
   },
   "right": {
     "id": "4ab4bb61d64fd956",
@@ -179,6 +179,16 @@
             "id": "993cddbad1184fd2",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "8c29e6f13159ed48",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -186,7 +196,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -206,28 +216,40 @@
   },
   "active": "297fb69275f0536d",
   "lastOpenFiles": [
+    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 214 2025/MOC — Lei Complementar nº 214 de 2025.md",
+    "Concursos/Direito/10 - Direito Tributário/18 - Jurisprudência/Jurisprudência sobre o Ônus da Prova.md",
+    "Concursos/Direito/10 - Direito Tributário/18 - Jurisprudência/Tema nº 1140 do STF.md",
+    "Concursos/Direito/10 - Direito Tributário/18 - Jurisprudência/MOC — Jurisprudência e Súmulas Vinculantes em Matéria Tributária.md",
+    "Concursos/Direito/13 - Jurisprudência e Precedentes/MOC — Jurisprudência e Precedentes.md",
+    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 214 2025/Imunidades (IBS e CBS).md",
+    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 214 2025/Hipóteses de Não Incidência (IBS e CBS).md",
+    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 214 2025/Hipóteses de Incidência (IBS e CBS).md",
+    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 214 2025/Local da Operação (IBS e CBS).md",
+    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 214 2025/Momento da Ocorrência do Fato Gerador (IBS e CBS).md",
+    "Concursos/Auditoria/07 - Procedimentos de Auditoria/Testes de Controle.md",
+    "Concursos/Auditoria/05 - Materialidade e Relevância/Materialidade em Auditoria.md",
+    "Concursos/Auditoria/07 - Procedimentos de Auditoria/Procedimentos Adicionais.md",
+    "Concursos/Auditoria/07 - Procedimentos de Auditoria/Procedimentos de Avaliação de Risco.md",
+    "Concursos/Auditoria/07 - Procedimentos de Auditoria/Procedimento Analítico.md",
+    "Concursos/Auditoria/09 - Fraudes e Responsabilidade/Limitações da Auditoria.md",
+    "Concursos/Auditoria/09 - Fraudes e Responsabilidade/Responsabilidade do Auditor.md",
+    "Concursos/Auditoria/10 - Ética Profissional/Independência do Auditor.md",
+    "Concursos/Auditoria/08 - Avaliação de Distorções/Identificação, Avaliação e Comunicação das Distorções.md",
+    "Concursos/Auditoria/05 - Materialidade e Relevância/Materialidade no Planejamento, Execução e Revisão.md",
+    "Concursos/Auditoria/13 - Normas Brasileiras de Auditoria (CFC)/Estrutura das NBCs e Convergência com ISAs.md",
+    "Concursos/Auditoria/13 - Normas Brasileiras de Auditoria (CFC)/Normas do CFC para Auditoria e Perícia.md",
+    "Concursos/Auditoria/13 - Normas Brasileiras de Auditoria (CFC)/Normas Complementares do Auditor Independente.md",
+    "Concursos/Auditoria/13 - Normas Brasileiras de Auditoria (CFC)/Controle de Qualidade da Auditoria.md",
+    "Concursos/Auditoria/13 - Normas Brasileiras de Auditoria (CFC)/Normas do Auditor Independente.md",
+    "Concursos/Auditoria/12 - Laudo e Parecer Pericial Contábil/Parecer Pericial Contábil — Conceito.md",
+    "Concursos/Contabilidade Geral/13 - Princípios Contábeis",
+    "Concursos/Contabilidade Geral/12 - Demonstração do Valor Adicionado (DVA)",
+    "Concursos/Contabilidade Geral/11 - Demonstração dos Fluxos de Caixa (DFC)",
+    "Concursos/Contabilidade Geral/10 - Demonstração das Mutações do Patrimônio Líquido (DMPL)",
+    "Concursos/Contabilidade Geral/09 - Demonstração de Lucros ou Prejuízos Acumulados (DLPA)",
+    "Concursos/Contabilidade Geral/08 - Demonstração do Resultado do Exercício (DRE)",
+    "Concursos/Contabilidade Geral/12 - Patrimônio Líquido",
     "Media/Pasted image 20260702220217.png",
-    "Concursos/Contabilidade Geral/13 - Demonstrações Contábeis/4 - DFC/Fluxos de Caixa das Atividades de Investimento.md",
-    "Concursos/Contabilidade Geral/13 - Demonstrações Contábeis/4 - DFC/Fluxos de Caixa das Atividades de Financiamento.md",
-    "Concursos/Contabilidade Geral/13 - Demonstrações Contábeis/4 - DFC/Fluxos de Caixa das Atividades Operacionais.md",
-    "Concursos/Contabilidade Geral/13 - Demonstrações Contábeis/4 - DFC/Demonstração dos Fluxos de Caixa (DFC).md",
-    "Concursos/Contabilidade Geral/REORGANIZACAO-LOG.md",
-    "Concursos/Contabilidade Geral/02 - Contas Contábeis/MOC - Contas Contábeis.md",
-    "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/MOC - Conceitos Fundamentais.md",
-    "Concursos/SUMÁRIO-Resumo-Disciplinas.md",
-    "Media/Pasted image 20260702192548.png",
-    "Concursos/Estatística/02 - Estatística Descritiva/Variância.md",
-    "Concursos/Estatística/02 - Estatística Descritiva/Medidas de Variabilidade.md",
-    "Concursos/Estatística/02 - Estatística Descritiva/Desvio Médio.md",
-    "Concursos/Estatística/02 - Estatística Descritiva/Amplitude Total.md",
-    "Concursos/Estatística/02 - Estatística Descritiva/Amplitude Interquartílica.md",
-    "Concursos/Estatística/02 - Estatística Descritiva/MOC — Estatística Descritiva.md",
-    "Concursos/Estatística/02 - Estatística Descritiva/Medidas de Posição.md",
-    "Concursos/Direito/04 - Direito Constitucional/03 - Direitos e Garantias Fundamentais/Direito à Liberdade Religiosa.md",
-    "Concursos/Direito/04 - Direito Constitucional/03 - Direitos e Garantias Fundamentais/Direitos Individuais e Coletivos.md",
-    "Concursos/Direito/04 - Direito Constitucional/03 - Direitos e Garantias Fundamentais/MOC — Direitos e Garantias Fundamentais.md",
-    "Concursos/Direito/10 - Direito Tributário/18 - Jurisprudência e SV em Matéria Tributária/MOC — Jurisprudência e Súmulas Vinculantes em Matéria Tributária.md",
-    "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/Imposto sobre a Propriedade Predial e Territorial Urbana (IPTU).md",
-    "Concursos/Direito/10 - Direito Tributário/18 - Jurisprudência e SV em Matéria Tributária/Súmula Vinculante 52.md"
+    "Media/Pasted image 20260702192548.png"
   ]
 }

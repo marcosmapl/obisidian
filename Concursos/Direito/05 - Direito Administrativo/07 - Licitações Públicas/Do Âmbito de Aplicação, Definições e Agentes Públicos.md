@@ -1,8 +1,8 @@
 ---
-created: 2026-04-30T14:25:00
-updated: 2026-04-30T14:30:00
 disciplina: Direito Administrativo
 tópico: Licitações Públicas
+created: 2026-04-30T14:25:00
+updated: 2026-04-30T14:30:00
 ---
 
 ## Entidades que devem Licitar

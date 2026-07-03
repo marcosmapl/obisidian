@@ -4,6 +4,7 @@ tópico: Limitações do Poder de Tributar
 created: 2026-01-04T15:46:00
 updated: 2026-01-04T15:50:00
 ---
+
 ## Conceito
 
 > [!note] Imunidade Recíproca

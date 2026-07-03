@@ -4,6 +4,7 @@ tópico: Princípios Administrativos
 created: 2026-01-04T00:55:00
 updated: 2026-01-04T01:00:00
 ---
+
 ## Conceito
 
 > [!note] Princípio da Eficiência

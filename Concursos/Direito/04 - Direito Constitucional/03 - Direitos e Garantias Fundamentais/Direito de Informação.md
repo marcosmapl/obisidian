@@ -5,7 +5,6 @@ created: 2026-06-24T13:15:00
 updated: 2026-06-24T13:20:00
 ---
 
-
 > [!note] Art. 5, XXXIII, CF/88
 > Todos têm direito a receber dos órgãos públicos informações de seu interesse particular, ou de interesse coletivo ou geral, que serão prestadas no prazo da lei, sob pena de responsabilidade, ressalvadas aquelas cujo sigilo seja imprescindível à segurança da sociedade e do Estado;
 

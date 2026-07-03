@@ -5,7 +5,6 @@ created: 2026-06-24T13:05:00
 updated: 2026-06-24T13:10:00
 ---
 
-
 > [!note] CF, Art. 5, XII 
 > É **inviolável o sigilo da correspondência e das comunicações telegráficas, de dados e das comunicações telefônicas**, salvo, no último caso, por ordem judicial, nas hipóteses e na forma que a lei estabelecer para fins de investigação criminal ou instrução processual penal;
 

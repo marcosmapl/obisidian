@@ -2,10 +2,7 @@
 disciplina: Auditoria
 tópico: O Auditor
 created: 2025-12-23T00:00:00
-progresso: 0
-node_size: "10"
-tags:
-  - auditoria/auditor
+updated: 2026-01-26T09:57:34
 ---
 
 ## 🔸 O Auditor
@@ -16,7 +13,7 @@ tags:
 - [[Princípios de Ética Profissional]]
 - [[Características Inerentes do Auditor]]
 - [[Competência Profissional Exigida]]
-- [[Independência e Objetividade]]
+- [[Ética, Independência e Salvaguardas]]
 - [[Responsabilidades do Auditor]]
 
 #auditoria/auditor
@@ -35,3 +32,10 @@ tags:
 ## 🔸 Navegação
 
 **← MOC Principal:** [[Concursos/Auditoria/Auditoria|Auditoria]]
+
+---
+## Tópicos Relacionados
+
+- [[MOC — Ética Profissional]]
+- [[MOC — Processo de Auditoria]]
+- [[MOC — Normas Brasileiras de Auditoria]]

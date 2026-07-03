@@ -5,7 +5,6 @@ created: 2026-06-24T13:05:00
 updated: 2026-06-24T13:10:00
 ---
 
-
 - Sem autorização prévia, apenas prévio aviso à autoridade competente.
 - Sem armas
 - Deve ser **pacífica**

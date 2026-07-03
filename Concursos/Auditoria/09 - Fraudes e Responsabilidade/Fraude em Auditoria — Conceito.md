@@ -1,3 +1,9 @@
+---
+disciplina: Auditoria
+tópico: Fraude em Auditoria — Conceito
+created: 2025-12-22T15:46:30
+updated: 2026-01-12T08:31:46
+---
 
 > [!NOTE] Conceito  
 > **Fraude**, em Auditoria, é um **ato intencional** praticado por **um ou mais indivíduos** da administração, governança, empregados ou terceiros, que resulta em **distorção relevante** nas demonstrações contábeis ou em **apropriação indevida de ativos**.

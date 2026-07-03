@@ -4,6 +4,7 @@ tópico: Tipologia Textual
 created: 2025-12-21T08:32:00
 updated: 2026-01-07T22:25:00
 ---
+
 ## Conceito
 
 > [!note] Texto Descritivo

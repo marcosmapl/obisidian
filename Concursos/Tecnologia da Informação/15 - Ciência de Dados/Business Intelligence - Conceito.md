@@ -4,6 +4,7 @@ tópico: Business Intelligence
 created: 2026-01-23T20:17:00
 updated: 2026-01-23T20:20:00
 ---
+
 ## Conceito
 
 > [!note] Business Intelligence

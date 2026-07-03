@@ -4,6 +4,7 @@ tópico: Bancos de Dados Não Relacionais
 created: 2026-03-11T05:00:00
 updated: 2026-03-11T05:10:00
 ---
+
 ## NoSQL — Conceito
 
 **NoSQL (Not Only SQL)** refere-se a uma categoria de bancos de dados **não relacionais**, projetados para lidar com **grandes volumes de dados**, **alta escalabilidade** e **flexibilidade de estrutura**.

@@ -4,6 +4,7 @@ tópico: Coerência e Coesão
 created: 2026-06-10T06:00:00
 updated: 0202-06-10T06:05:00
 ---
+
 ## Conceito
 
 - **“Ligação”** entre palavras e partes do texto. 

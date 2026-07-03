@@ -4,6 +4,7 @@ tópico: SQL
 created: 2025-12-20T09:23:00
 updated: 2025-12-30T11:06:00
 ---
+
 ## Conceito
 
 > [!note] Tipos Textuais (SQL ANSI)

@@ -22,4 +22,6 @@ updated: 2026-01-11T11:50:00
 ---
 ## Tópicos Relacionados
 
+- [[Conta Contábil]]
 - [[Contas Analíticas]]
+- [[MOC — Contas Contábeis]]

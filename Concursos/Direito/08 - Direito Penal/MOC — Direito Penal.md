@@ -1,8 +1,10 @@
 ---
 disciplina: Direito Penal
+tópico: Direito Penal
 created: 2026-05-29T11:35:00
 updated: 2026-05-29T11:40:00
 ---
+
 ## Conceito Geral
 
 > [!note] Direito Penal

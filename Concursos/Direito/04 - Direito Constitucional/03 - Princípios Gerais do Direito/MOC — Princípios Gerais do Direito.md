@@ -2,9 +2,7 @@
 disciplina: Direito
 tópico: Princípios Gerais do Direito
 created: 2025-12-23T00:00:00
-progresso: 0
-node_size: "10"
-tags:
+updated: 2026-05-18T08:49:15
   - direito/principios
 ---
 

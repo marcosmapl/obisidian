@@ -1,3 +1,9 @@
+---
+disciplina: Direito Empresarial
+tópico: Teoria da Empresa e Empresário
+created: 2026-05-29T08:22:48
+updated: 2026-05-29T08:22:48
+---
 
 ## Índice
 

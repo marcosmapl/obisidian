@@ -2,7 +2,9 @@
 disciplina: Contabilidade Geral
 tópico: Conceitos Introdutórios
 created: 2025-12-11T14:51:00
+updated: 2026-07-03T11:00:23
 ---
+
 ## Função Administrativa da Contabilidade
 
 > **Finalidade:** Auxiliar o **controle do patrimônio** e a **gestão interna** da entidade.
@@ -44,7 +46,9 @@ created: 2025-12-11T14:51:00
 ![[funções-contabilidade.png]]
 
 ---
-## 🧭 Navegação
+## Tópicos Relacionados
 
-- ⬅️ [[Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais]]
-- 📊 [[Contabilidade Geral]]
+- [[Divisões Didáticas]]
+- [[Técnicas Contábeis]]
+- [[Atos e Fatos Contábeis]]
+- [[MOC — Conceitos Fundamentais]]

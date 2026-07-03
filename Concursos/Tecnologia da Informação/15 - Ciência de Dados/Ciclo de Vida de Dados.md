@@ -4,6 +4,7 @@ tópico: Ciência de Dados
 created: 2026-05-27T10:15:00
 updated: 2026-05-27T10:20:00
 ---
+
 ## Ciclo Básico
 
 ![[Pasted image 20260527101646.png]]

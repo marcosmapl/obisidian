@@ -2,10 +2,10 @@
 disciplina: Raciocínio Lógico
 tópico: Conceitos Introdutórios
 created: 2025-12-15T15:11:00
-tags:
+updated: 2025-12-15T15:47:23
   - rlm/conectivos/disjunção
-node_size: "10"
 ---
+
 ## 1. Conceito Geral
 - A **disjunção** é o conectivo lógico expresso, em regra, pela palavra **“ou”**.
 - Divide-se em **dois tipos**:

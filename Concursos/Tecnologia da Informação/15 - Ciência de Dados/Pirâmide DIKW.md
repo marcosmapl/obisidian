@@ -4,6 +4,7 @@ tópico: Fluência de Dados
 created: 2025-12-12T15:25:00
 updated: 2026-01-09T16:26:00
 ---
+
 ## Conceito
 
 > [!note] Pirâmide DIKW

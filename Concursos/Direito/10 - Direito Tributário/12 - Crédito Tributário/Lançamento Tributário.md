@@ -1,8 +1,8 @@
 ---
-created: 2026-04-28T15:10:00
-updated: 2026-05-12T15:35:00
 disciplina: Direito Tributário
 tópico: Crédito Tributário
+created: 2026-04-28T15:10:00
+updated: 2026-05-12T15:35:00
 ---
 
 ## Conceito

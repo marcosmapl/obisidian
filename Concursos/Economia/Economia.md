@@ -1,8 +1,10 @@
 ---
 disciplina: Economia
+tópico: Economia
 created: 2026-05-28T22:10:00
 updated: 2026-05-28T22:15:00
 ---
+
 ## Conceito Geral
 
 > [!abstract] Enomia

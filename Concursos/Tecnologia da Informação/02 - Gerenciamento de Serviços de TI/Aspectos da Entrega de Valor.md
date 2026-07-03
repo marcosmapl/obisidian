@@ -2,10 +2,10 @@
 disciplina: Tecnologia da Informação
 tópico: ITIL 4
 created: 2025-12-18T14:49:00
-node_size: "10"
-tags:
+updated: 2025-12-23T08:25:48
   - ti/itil4/aspectos-entrega-valor
 ---
+
 ## Utilidade
 
 >  **Utilidade** consiste na **funcionalidade** oferecida por um produto ou serviço para atender a uma necessidade em particular.

@@ -1,3 +1,9 @@
+---
+disciplina: Estatística
+tópico: Percentis
+created: 2026-06-08T09:01:40
+updated: 2026-06-08T09:01:40
+---
 
 > [!note] Percentis
 > Dividem uma série em **cem partes iguais**.

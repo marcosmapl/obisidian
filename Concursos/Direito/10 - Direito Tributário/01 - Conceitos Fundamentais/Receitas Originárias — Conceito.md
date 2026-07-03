@@ -4,6 +4,7 @@ tópico: Conceitos Introdutórios
 created: 2025-12-12T05:22:00
 updated: 2026-01-03T16:44:00
 ---
+
 ## Conceito
 
 > [!NOTE] Receita Originária

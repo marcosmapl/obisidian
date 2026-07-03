@@ -4,6 +4,7 @@ tópico: Conceitos Fundamentais
 created: 2025-12-30T09:55:00
 updated: 2025-12-30T10:00:00
 ---
+
 ## Conceito
 
 > [!note] Auditoria de Acompanhamento da Gestão

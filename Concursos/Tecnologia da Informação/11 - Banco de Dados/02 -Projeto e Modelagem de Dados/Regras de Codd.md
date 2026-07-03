@@ -1,9 +1,10 @@
 ---
-created: 2026-01-14T15:20:00
-updated: 2026-01-10T15:25:00
 disciplina: Tecnologia da Informação
 tópico: Banco de Dados
+created: 2026-01-14T15:20:00
+updated: 2026-01-10T15:25:00
 ---
+
 ## Conceito
 
 > [!note] Regras de Codd

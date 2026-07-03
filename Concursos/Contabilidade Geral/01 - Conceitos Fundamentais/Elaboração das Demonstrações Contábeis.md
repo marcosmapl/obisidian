@@ -31,12 +31,12 @@ updated: 2026-05-21T21:55:00
 > [!note] Pequenos saldos: não ultrapassam 0.1 (um décimo) do valor do respectivo grupo de contas.
 
 ---
-## Tópicos relacionados
+## Tópicos Relacionados
 
 - [[Análise das Demonstrações Contábeis (Técnica Contábil)]]
 - [[Auditoria (Técnica Contábil)]]
 - [[Escrituração Contábil]]
-- [[Balanço Patrimonial]]
+- [[MOC — Balanço Patrimonial]]
 - [[Demonstração de Lucros ou Prejuízos Acumulados (DLPA)]]
 - [[Demonstração do Resultado do Exercício (DRE)]]
 - [[Demonstração dos Fluxos de Caixa (DFC)]]

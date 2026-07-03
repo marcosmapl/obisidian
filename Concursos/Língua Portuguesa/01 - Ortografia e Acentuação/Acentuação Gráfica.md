@@ -2,7 +2,9 @@
 disciplina: Língua Portuguesa
 tópico: Ortografia e Acentuação
 created: 2025-12-12T11:52:00
+updated: 2026-02-12T17:03:32
 ---
+
 ## Acentuação segundo Sílaba Tônica
 
 **Sílaba tônica:** sílaba pronunciada com maior intensidade.

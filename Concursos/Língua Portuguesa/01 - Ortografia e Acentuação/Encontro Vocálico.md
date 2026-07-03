@@ -1,14 +1,14 @@
 ---
 disciplina: Língua Portuguesa
 tópico: Ortografia e Acentuação
-tags:
+created: 2025-12-12T10:05:00
+updated: 2026-01-08T08:23:02
   - "#português/encontro/vocálico"
   - "#português/ditongo"
   - "#português/tritongo"
   - "#português/hiato"
-created: 2025-12-12T10:05:00
-node_size: "10"
 ---
+
 ### 🔹 Ditongo
 
 > ✏️É o encontro de **uma vogal + uma semivogal** (ou vice-versa), **na mesma sílaba**.

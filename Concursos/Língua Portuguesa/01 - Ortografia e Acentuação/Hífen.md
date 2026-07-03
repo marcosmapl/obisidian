@@ -2,10 +2,10 @@
 disciplina: Língua Portuguesa
 tópico: Uso do Hífen
 created: 2025-12-19T10:30:00
-tags:
+updated: 2026-01-08T08:23:02
   - português/hífen
-node_size: "10"
 ---
+
 ## 🔸Prefixos mais cobrados em prova
 
 Alguns exemplos recorrentes:

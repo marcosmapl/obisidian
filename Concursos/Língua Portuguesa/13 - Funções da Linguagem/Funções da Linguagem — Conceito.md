@@ -4,6 +4,7 @@ tópico: Funções da Linguagem
 created: 2026-01-17T15:50:00
 updated: 2026-01-17T15:50:00
 ---
+
 ## Funções da Linguagem — Conceito
 
 > [!info] Definição

@@ -17,4 +17,8 @@ updated: 2026-05-20T09:30:00
 ## Tópicos Relacionados
 
 - [[Conta Contábil]]
+- [[Teoria Personalista]]
+- [[Teoria Materialista]]
+- [[Teoria Patrimonialista]]
+- [[MOC — Contas Contábeis]]
 

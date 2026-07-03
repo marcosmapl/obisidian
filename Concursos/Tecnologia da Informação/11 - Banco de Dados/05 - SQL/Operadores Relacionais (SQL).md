@@ -4,6 +4,7 @@ tópico: SQL
 created: 2026-01-16T19:45:00
 updated: 2026-01-16T19:45:00
 ---
+
 ## Operadores
 
 | Operador | Descrição      | Exemplo                      |

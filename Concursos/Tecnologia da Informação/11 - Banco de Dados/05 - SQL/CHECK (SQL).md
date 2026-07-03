@@ -4,6 +4,7 @@ tópico: Banco de Dados
 created: 2025-12-30T17:00:00
 updated: 2025-12-30T17:05:00
 ---
+
 ## Conceito
 
 > [!note] CHECK

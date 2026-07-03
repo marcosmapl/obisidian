@@ -4,6 +4,7 @@ tópico: Perfil e Responsabilidades do Auditor
 created: 2025-12-19T08:51:00
 updated: 2026-01-19T21:55:00
 ---
+
 ## Características Inerentes
 
 O auditor deve possuir, de forma permanente, duas características inerentes:

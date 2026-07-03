@@ -4,6 +4,7 @@ tópico: Teoria da Norma Jurídica
 created: 2026-01-16T15:00:00
 updated: 2026-01-16T15:00:00
 ---
+
 ## Índice
 
 - [[Norma Jurídica — Conceito]]

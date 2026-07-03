@@ -28,6 +28,6 @@ updated: 2026-01-14T13:45:00
 - [[Bens — Conceito]]
 - [[Bens Numerários — Conceito]]
 - [[Bens de Venda — Conceito]]
-- [[Ativo]]
+- [[MOC — Ativo]]
 - [[Ativo Imobilizado]]
 - [[Estoques — Conceito]]

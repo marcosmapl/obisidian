@@ -2,8 +2,9 @@
 disciplina: Língua Portuguesa
 tópico: Ortografia e Acentuação
 created: 2025-12-19T10:43:00
-node_size: "10"
+updated: 2026-01-08T08:23:02
 ---
+
 ## 🔸Dígrafos Consonantais
 
 > ✏️São duas consoantes que representam **um único som consonantal**.

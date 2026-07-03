@@ -2,7 +2,9 @@
 disciplina: Auditoria
 tópico: Conceitos Fundamentais
 created: 2025-12-22T21:48:00
+updated: 2026-01-12T08:31:46
 ---
+
 ## Conceito
 
 > [!note] Auditoria Interna 

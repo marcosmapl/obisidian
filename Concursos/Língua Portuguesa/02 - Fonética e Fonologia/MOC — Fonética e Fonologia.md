@@ -2,9 +2,7 @@
 disciplina: Língua Portuguesa
 tópico: Fonética e Fonologia
 created: 2025-12-23T00:00:00
-progresso: 0
-node_size: "10"
-tags:
+updated: 2025-12-23T14:52:09
   - portugues/fonetica
 ---
 

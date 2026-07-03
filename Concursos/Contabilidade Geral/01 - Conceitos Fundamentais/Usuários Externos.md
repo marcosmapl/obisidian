@@ -2,6 +2,7 @@
 disciplina: Contabilidade Geral
 tópico: Conceitos Fundamentais
 created: 2025-12-19T15:59:00
+updated: 2026-07-03T11:00:23
 ---
 
 ## 🔸Definição
@@ -26,8 +27,9 @@ created: 2025-12-19T15:59:00
 #contabilidade/usuários/principais
 
 ---
-## 🧭Navegação
+## Tópicos Relacionados
 
-- ⬅️ [[Usuários das Informações Contábeis]]
-- ⬅️ [[Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais]]
-- 📊 [[Contabilidade Geral]]
+- [[Usuários das Informações Contábeis]]
+- [[Usuários Internos]]
+- [[Análise das Demonstrações Contábeis (Técnica Contábil)]]
+- [[MOC — Conceitos Fundamentais]]

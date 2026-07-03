@@ -2,8 +2,9 @@
 disciplina: Contabilidade Geral
 tópico: MOC Principal
 created: 2025-12-11T14:18:00
-updated: 2026-01-09T11:58:00
+updated: 2026-07-03T00:00:00
 ---
+
 ## Conceito Geral
 
 > [!abstract] Contabilidade
@@ -15,30 +16,28 @@ updated: 2026-01-09T11:58:00
 ---
 ## Índice
 
-### 1. [[Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/MOC - Conceitos Fundamentais]]
+### 1. [[Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais]]
 
-### 2. [[Concursos/Contabilidade Geral/02 - Contas Contábeis/MOC - Contas Contábeis]]
+### 2. [[MOC — Contas Contábeis]]
 
-### 3. [[Concursos/Contabilidade Geral/03 - Escrituração Contábil/MOC - Escrituração Contábil]]
+### 3. [[MOC — Escrituração Contábil]]
 
-### 4. [[Concursos/Contabilidade Geral/04 - Balanço Patrimonial (BP)/Balanço Patrimonial]]
+### 4. [[MOC — Balanço Patrimonial]]
 
-### 5. [[Concursos/Contabilidade Geral/05 - Ativo/MOC - Ativo]]
+### 5. [[Concursos/Contabilidade Geral/05 - Ativo/MOC — Ativo]]
 
-### 6. [[Concursos/Contabilidade Geral/06 - Ativo Circulante/MOC - Ativo Circulante]]
+### 6. [[Concursos/Contabilidade Geral/06 - Passivo/MOC — Passivo]]
 
-### 7. [[Concursos/Contabilidade Geral/07 - Estoques/MOC - Estoques]]
+### 7. [[Concursos/Contabilidade Geral/07 - Patrimônio Líquido/MOC — Patrimônio Líquido]]
 
-### 8. [[Concursos/Contabilidade Geral/08 - Ativo Não Circulante/MOC - Ativo Não Circulante]]
+### 8. [[Concursos/Contabilidade Geral/08 - Demonstração do Resultado do Exercício (DRE)/MOC — Demonstração do Resultado do Exercício (DRE)]]
 
-### 9. [[Concursos/Contabilidade Geral/09 - Passivo/MOC - Passivo]]
+### 9. [[Concursos/Contabilidade Geral/09 - Demonstração de Lucros ou Prejuízos Acumulados (DLPA)/MOC — Demonstração de Lucros ou Prejuízos Acumulados (DLPA)]]
 
-### 10. [[Concursos/Contabilidade Geral/10 - Passivo Circulante/MOC - Passivo Circulante]]
+### 10. [[Concursos/Contabilidade Geral/10 - Demonstração das Mutações do Patrimônio Líquido (DMPL)/MOC — Demonstração das Mutações do Patrimônio Líquido (DMPL)]]
 
-### 11. [[Concursos/Contabilidade Geral/11 - Passivo Não Circulante/MOC - Passivo Não Circulante]]
+### 11. [[Concursos/Contabilidade Geral/11 - Demonstração dos Fluxos de Caixa (DFC)/MOC — Demonstração dos Fluxos de Caixa (DFC)]]
 
-### 12. [[Concursos/Contabilidade Geral/12 - Patrimônio Líquido/MOC - Patrimônio Líquido]]
+### 12. [[Concursos/Contabilidade Geral/12 - Demonstração do Valor Adicionado (DVA)/MOC — Demonstração do Valor Adicionado (DVA)]]
 
-### 13. [[Concursos/Contabilidade Geral/13 - Demonstrações Contábeis/MOC - Demonstrações Contábeis]]
-
-### 14. [[Concursos/Contabilidade Geral/14 - Princípios Contábeis/MOC - Princípios Contábeis]]
+### 13. [[Concursos/Contabilidade Geral/13 - Princípios Contábeis/MOC — Princípios Contábeis]]

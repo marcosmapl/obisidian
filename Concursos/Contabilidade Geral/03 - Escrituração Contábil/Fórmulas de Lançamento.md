@@ -74,4 +74,4 @@ C - Fornecedores               100
 ## Tópicos Relacionados
 
 - [[Escrituração Contábil]]
-- [[Balanço Patrimonial]]
+- [[MOC — Balanço Patrimonial]]

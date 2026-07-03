@@ -4,6 +4,7 @@ tópico: Conceitos Fundamentais
 created: 2025-12-29T09:49:00
 updated: 2026-01-13T20:35:00
 ---
+
 ## Definição
 
 > [!note] Técnicas Contábeis
@@ -36,3 +37,11 @@ Existem quatro principais técnicas contábeis:
 |Análise|Interpretar informações|
 
 ![[Pasted image 20251216164400.png]]
+
+---
+## Tópicos Relacionados
+
+- [[Divisões Didáticas]]
+- [[Elaboração das Demonstrações Contábeis]]
+- [[Auditoria (Técnica Contábil)]]
+- [[Análise das Demonstrações Contábeis (Técnica Contábil)]]

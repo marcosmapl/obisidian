@@ -18,8 +18,10 @@ updated: 2026-01-08T21:42:00
 - Apresentam a **Estática Patrimonial**, ou seja, uma posição patrimonial e financeira de uma entidade em determinado momento.
 
 ---
-## Contas Patrimoniais
+## Tópicos Relacionados
 
-- [[Ativo]]
-- [[Passivo]]
+- [[Conta Contábil]]
+- [[Contas de Resultado]]
+- [[MOC — Ativo]]
+- [[MOC — Passivo|Passivo]]
 - [[Patrimônio Líquido]]

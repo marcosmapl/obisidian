@@ -1,9 +1,10 @@
 ---
-disciplina: Tecnologia da Informação
+disciplina: Auditoria
 tópico: Conceitos Fundamentais
 created: 2025-12-22T23:15:00
 updated: 2025-12-30T09:48:00
 ---
+
 ## Conceito
 
 > [!note] Auditoria Externa  

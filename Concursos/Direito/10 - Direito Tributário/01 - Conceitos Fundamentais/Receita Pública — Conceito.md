@@ -2,7 +2,9 @@
 disciplina: Direito Tributário
 tópico: Conceitos Fundamentais
 created: 2025-12-20T15:41:00
+updated: 2026-01-06T09:57:50
 ---
+
 ## Conceito
 
 > [!note] Receita Pública

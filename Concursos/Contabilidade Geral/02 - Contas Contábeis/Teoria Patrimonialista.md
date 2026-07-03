@@ -17,8 +17,8 @@ updated: 2026-01-11T11:55:00
 
 ### Contas Patrimoniais
 
-- [[Ativo]]
-- [[Passivo]]
+- [[MOC — Ativo]]
+- [[MOC — Passivo|Passivo]]
 - [[Patrimônio Líquido]]
 
 ### Contas de Resultado
@@ -29,9 +29,10 @@ updated: 2026-01-11T11:55:00
 ---
 ## Tópicos Relacionados
 
+- [[Conta Contábil]]
+- [[Teoria das Contas]]
 - [[Teoria Materialista]]
 - [[Teoria Personalista]]
-- [[Conta Contábil]]
 - [[Contas Patrimoniais]]
 - [[Contas de Resultado]]
 

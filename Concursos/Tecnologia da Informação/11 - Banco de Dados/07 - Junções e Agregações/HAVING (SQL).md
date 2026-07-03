@@ -4,6 +4,7 @@ tópico: SQL
 created: 2026-01-18T15:30:00
 updated: 2026-01-18T15:30:00
 ---
+
 ## Conceito
 
 > [!note] Cláusula Having

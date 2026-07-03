@@ -2,7 +2,9 @@
 disciplina: Direito Administrativo
 tópico: Organização Administrativa
 created: 2025-12-11T14:59:00
+updated: 2026-06-23T11:09:49
 ---
+
 ## Desconcentração
 
 - Cria **Órgãos Públicos**.

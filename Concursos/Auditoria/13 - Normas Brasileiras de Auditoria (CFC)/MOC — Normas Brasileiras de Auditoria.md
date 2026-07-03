@@ -2,22 +2,17 @@
 disciplina: Auditoria
 tópico: Normas Brasileiras de Auditoria (CFC)
 created: 2025-12-23T00:00:00
-progresso: 0
-node_size: "10"
-tags:
-  - auditoria/normas
+updated: 2025-12-23T16:43:56
 ---
 
 ## 🔸 Normas Brasileiras de Auditoria (CFC)
 
 - [[Normas Brasileiras de Auditoria — CFC]]
-- [[NBC PA — Normas Profissionais do Auditor]]
-- [[NBC PP — Normas do Perito Contábil]]
-- [[NBC TA — Normas Técnicas de Auditoria]]
-- [[NBC TI — Normas de Auditoria Interna]]
-- [[NBC TP — Normas Técnicas de Perícia Contábil]]
-- [[Estrutura das NBCs]]
-- [[Convergência com ISAs]]
+- [[Normas do CFC para Auditoria e Perícia]]
+- [[Normas do Auditor Independente]]
+- [[Controle de Qualidade da Auditoria]]
+- [[Normas Complementares do Auditor Independente]]
+- [[Estrutura das NBCs e Convergência com ISAs]]
 
 #auditoria/normas
 
@@ -31,7 +26,9 @@ tags:
 > Objetivos Gerais do Auditor Independente e Condução da Auditoria
 
 ---
+## Tópicos Relacionados
 
-## 🔸 Navegação
-
-**← MOC Principal:** [[Concursos/Auditoria/Auditoria|Auditoria]]
+- [[MOC — O Auditor]]
+- [[MOC — Processo de Auditoria]]
+- [[MOC — Laudo e Parecer Pericial]]
+- [[Concursos/Auditoria/Auditoria|Auditoria]]

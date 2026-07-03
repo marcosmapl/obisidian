@@ -4,6 +4,7 @@ tópico: Teoria Geral da Constituição
 created: 1202-12-14T21:45:00
 updated: 2026-05-17T14:50:00
 ---
+
 ## Conceito
 
 - **Ferdinand Lassalle** (**Século XIX**).

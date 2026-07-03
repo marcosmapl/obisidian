@@ -2,6 +2,7 @@
 disciplina: Língua Portuguesa
 tópico: Tipologia Textual
 created: 2025-12-21T08:42:00
+updated: 2026-01-26T09:57:34
 ---
 
 ## Conceito

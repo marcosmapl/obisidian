@@ -26,8 +26,10 @@ São consideradas Contas **Credoras**:
 ---
 ## Tópicos Relacionados
 
-- [[Passivo]]
+- [[Conta Contábil]]
+- [[Contas Devedoras]]
+- [[Contas Estáveis]]
+- [[Contas Patrimoniais]]
+- [[MOC — Passivo|Passivo]]
 - [[Patrimônio Líquido]]
 - [[Receita (Contabilidade)]]
-- [[Contas Patrimoniais]]
-- [[Contas Devedoras]]

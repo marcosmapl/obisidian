@@ -21,16 +21,9 @@ updated: 2025-12-29T11:49:00
 #contabilidade/bens_intangíveis
 
 ---
-## 🔗 Links relacionados
+## Tópicos Relacionados
 
 - [[Bens — Conceito]]
 - [[Bens Tangíveis — Conceito]]
-- [[Ativo]]
-- [[Estoques — Conceito]]
-
----
-## 🧭 Navegação
-
-- ⬅️ [[Bens — Conceito]]
-- ⬅️ [[Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais]]
-- 📊 [[Contabilidade Geral]]
+- [[Patrimônio — Conceito]]
+- [[MOC — Ativo]]

@@ -3,9 +3,6 @@ disciplina: Direito Processual Civil
 tópico: Processo Civil
 created: 2025-12-23T00:00:00
 updated: 2025-12-23T00:00:00
-progresso: 0
-node_size: "12"
-tags:
   - direito/processual/civil
   - moc
 ---

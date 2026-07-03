@@ -5,7 +5,6 @@ created: 2026-01-07T22:40:00
 updated: 2024-01-07T22:45:00
 ---
 
-
 ## Conceito
 
 > [!tip] Discurso Indireto Livre

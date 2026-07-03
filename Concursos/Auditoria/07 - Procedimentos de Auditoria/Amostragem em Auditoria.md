@@ -4,6 +4,7 @@ tópico: Amostragem em Auditoria
 created: 2026-01-10T08:23:00
 updated: 2026-05-12T06:25:00
 ---
+
 ## Conceito
 
 > [!note] Amostra

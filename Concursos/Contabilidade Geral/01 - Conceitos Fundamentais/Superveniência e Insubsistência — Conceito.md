@@ -4,6 +4,7 @@ tópico: Conceitos Fundamentais
 created: 2026-01-19T04:50:00
 updated: 2026-01-19T04:50:00
 ---
+
 ## Superveniência
 
 > [!note] Superveniência

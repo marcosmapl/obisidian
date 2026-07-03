@@ -2,20 +2,13 @@
 disciplina: Auditoria
 tópico: Materialidade e Relevância
 created: 2025-12-23T00:00:00
-progresso: 0
-node_size: "10"
-tags:
-  - auditoria/materialidade
+updated: 2025-12-23T16:43:56
 ---
 
 ## 🔸 Materialidade e Relevância
 
 - [[Materialidade e Relevância]]
-- [[Conceito de Materialidade]]
-- [[Julgamento Profissional em Materialidade]]
-- [[Materialidade no Planejamento]]
-- [[Materialidade na Execução]]
-- [[Revisão da Materialidade]]
+- [[Materialidade no Planejamento, Execução e Revisão]]
 
 #auditoria/materialidade
 
@@ -27,6 +20,8 @@ tags:
 
 ---
 
-## 🔸 Navegação
+## Tópicos Relacionados
 
-**← MOC Principal:** [[Concursos/Auditoria/Auditoria|Auditoria]]
+- [[MOC — Riscos de Auditoria]]
+- [[MOC — Procedimentos de Auditoria]]
+- [[Concursos/Auditoria/Auditoria|Auditoria]]

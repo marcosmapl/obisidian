@@ -2,10 +2,10 @@
 disciplina: Tecnologia da Informação
 tópico: ITIL 4
 created: 2025-12-18T14:46:00
-node_size: "10"
-tags:
+updated: 2025-12-23T08:25:48
   - ti/itil4/consumidor
 ---
+
 ## Cliente
 
 >  Define os requisitos para um serviço e assume a responsabilidade pelos resultados do consumo desse serviço

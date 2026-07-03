@@ -1,10 +1,9 @@
 ---
-subcategoria: Ciência de Dados e IA
-categoria: Ciência e Tecnologia
+disciplina: Tecnologia da Informação
+tópico: Big Data
 created: 2026-04-02T00:00:00
 updated: 2026-04-02T21:20:00
 ---
-
 
 > [!info] Definição
 > Big Data é o conjunto de tecnologias, arquiteturas e práticas para capturar, armazenar, processar e analisar grandes volumes de dados, com alta velocidade e variedade, gerando valor para tomada de decisão.

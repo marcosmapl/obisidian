@@ -21,7 +21,7 @@ updated: 2026-05-21T20:40:00
 > [!tip] A análise de balanços **não registra fatos**, apenas **interpreta informações já registradas**.
 
 ---
-## Tópicos relacionados
+## Tópicos Relacionados
 
 - [[Escrituração Contábil]]
 - [[Auditoria (Técnica Contábil)]]

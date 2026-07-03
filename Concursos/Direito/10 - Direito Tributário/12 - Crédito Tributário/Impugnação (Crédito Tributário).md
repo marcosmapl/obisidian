@@ -4,6 +4,7 @@ tópico: Crédito Tributário
 created: 2026-05-15T05:35:00
 updated: 2026-05-15T05:35:00
 ---
+
 ## Modalidades
 
 - Via **Administrativa**: **Suspensão automática**, assim que for instaurado o processo administrativo.

@@ -4,6 +4,7 @@ tópico: Teoria Geral da Constituição
 created: 2026-05-26T08:40:00
 updated: 2026-05-26T08:45:00
 ---
+
 ## Burocrático
 
 Baseado na impessoalidade, na hierarquia e na meritocracia. O objetivo é combater a corrupção e o nepotismo do modelo anterior por meio de regras rígidas, processos padronizados e controle de procedimentos (o foco é no "meio", não necessariamente no resultado).

@@ -1,8 +1,10 @@
 ---
 disciplina: Contabilidade Geral
 tópico: Conceitos Fundamentais
-created:
+created: 2025-12-19T15:36:53
+updated: 2026-07-03T11:00:23
 ---
+
 ## 🔸 Classificação Quanto à Finalidade
 
 A doutrina classifica as aziendas, **quanto ao fim a que se destinam**, em três grupos:
@@ -53,7 +55,9 @@ A doutrina classifica as aziendas, **quanto ao fim a que se destinam**, em três
 ![[tipos-azienda.png]]
 
 ---
-## 🧭Navegação
+## Tópicos Relacionados
 
-- ⬅️ [[Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais]]
-- 📊 [[Contabilidade Geral]]
+- [[Entidade — Conceito]]
+- [[Patrimônio — Conceito]]
+- [[Funções da Contabilidade]]
+- [[MOC — Conceitos Fundamentais]]

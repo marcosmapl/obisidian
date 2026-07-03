@@ -4,6 +4,7 @@ tópico: SQL
 created: 2026-01-16T16:10:00
 updated: 2026-01-16T16:15:00
 ---
+
 ## Conceito
 
 > [!note] UPDATE

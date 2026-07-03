@@ -4,6 +4,7 @@ tópico: Crédito Tributário
 created: 2026-06-03T09:10:00
 updated: 2026-06-03T09:15:00
 ---
+
 ## Decadência 
 
 ![[photo_2026-06-03_09-13-48.jpg]]

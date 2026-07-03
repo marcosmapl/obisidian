@@ -5,7 +5,6 @@ created: 2026-01-08T21:55:00
 updated: 2026-01-08T21:55:00
 ---
 
-
 ## Conceito
 
 > [!note] Contas de Resultado
@@ -22,8 +21,15 @@ updated: 2026-01-08T21:55:00
 - As contas de despesas e receitas têm seus **saldos encerrados ao final de cada período contábil**.
 
 ---
-## Contas Patrimoniais
+## Componentes
 
 - [[Receita (Contabilidade)]]
 - [[Despesa (Contabilidade)]]
+
+---
+## Tópicos Relacionados
+
+- [[Conta Contábil]]
+- [[Contas Patrimoniais]]
+- [[MOC — Contas Contábeis]]
 

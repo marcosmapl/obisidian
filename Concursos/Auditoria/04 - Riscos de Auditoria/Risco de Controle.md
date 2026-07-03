@@ -2,6 +2,7 @@
 disciplina: Auditoria
 tópico: Risco de Auditoria
 created: 2025-12-19T14:18:00
+updated: 2025-12-22T14:58:13
 ---
 
 > [!note] Risco de Controle

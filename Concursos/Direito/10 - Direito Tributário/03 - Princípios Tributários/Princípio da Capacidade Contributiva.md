@@ -1,6 +1,6 @@
 ---
-tópico: Princípios Tributários
 disciplina: Direito Tributário
+tópico: Princípios Tributários
 created: 2026-01-05T05:30:00
 updated: 2026-01-05T05:35:00
 ---

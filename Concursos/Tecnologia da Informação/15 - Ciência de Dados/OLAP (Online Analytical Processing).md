@@ -5,7 +5,6 @@ created: 2026-02-26T15:50:00
 updated: 2026-02-26T15:55:00
 ---
 
-
 ## Conceito
 
 Ambiente voltado à **análise de dados históricos para suporte à decisão estratégica**.

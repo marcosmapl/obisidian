@@ -2,10 +2,10 @@
 disciplina: Tecnologia da Informação
 tópico: ITIL 4
 created: 2025-12-18T14:53:00
-tags:
+updated: 2025-12-23T08:25:48
   - "#ti/itil4/4-dimensões"
-node_size: "10"
 ---
+
 ## ITIL — Modelo das Quatro Dimensões
 
 O **modelo de quatro dimensões da ITIL** sustenta uma **abordagem holística** do gerenciamento de serviços, garantindo a **criação de valor** para clientes e demais partes interessadas por meio de produtos e serviços.

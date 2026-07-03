@@ -14,7 +14,9 @@ Os usuários das informações contábeis são classificados em:
 #contabilidade/usuários
 
 ---
-## 🧭Navegação
+## Tópicos Relacionados
 
-- ⬅️ [[Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais]]
-- 📊 [[Contabilidade Geral]]
+- [[Usuários Internos]]
+- [[Usuários Externos]]
+- [[Análise das Demonstrações Contábeis (Técnica Contábil)]]
+- [[MOC — Conceitos Fundamentais]]

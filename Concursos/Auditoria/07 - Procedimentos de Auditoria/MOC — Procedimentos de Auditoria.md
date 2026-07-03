@@ -13,6 +13,18 @@ updated: 2026-01-10T08:45:00
 - [[Anomalia]]
 - [[Distorção Tolerável]]
 - [[Taxa Tolerável]]
+- [[Contingências, Estimativas, Partes Relacionadas e Eventos Subsequentes]]
+- [[Testes em Áreas Específicas das Demonstrações Contábeis]]
+- [[Procedimento de Confirmação Externa]]
+- [[Procedimento de Indagação]]
+- [[Procedimento de Inspeção]]
+- [[Procedimento de Observação]]
+- [[Procedimento de Recálculo]]
+- [[Procedimento de Reexecução]]
+- [[Procedimentos Analíticos]]
+- [[Teste de Controle]]
+- [[Testes de Observância]]
+- [[Testes Substantivos]]
 
 ---
 ## Normas Relacionadas
@@ -25,4 +37,11 @@ updated: 2026-01-10T08:45:00
 
 > [!info] NBC TA 520
 > Procedimentos Analíticos
+
+---
+## Tópicos Relacionados
+
+- [[MOC — Processo de Auditoria]]
+- [[MOC — Fraudes e Responsabilidade]]
+- [[MOC — Documentação de Auditoria]]
 

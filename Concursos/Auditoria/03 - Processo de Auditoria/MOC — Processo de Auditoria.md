@@ -12,6 +12,10 @@ Podemos dividir o trabalho da auditoria em **quatro fases**:
 - [[Execução da Auditoria]] (Testes de Controle e Procedimentos Substantivos)
 - [[Emissão do Relatório da Auditoria]]
 - [[Monitoramento da Auditoria]]
+- [[Representações Formais e Carta de Responsabilidade]]
+- [[Continuidade Normal das Atividades da Entidade]]
+- [[Utilização do Trabalho de Outros Profissionais (Auditoria)]]
+- [[Normas Complementares do Processo de Auditoria]]
 
 > [!tip] Dica
 > As normas de **auditoria externa** não fazem essa separação de **forma expressa**, enquanto que as normas de **auditoria governamental**, por sua vez, versam sobre esse fluxo de trabalho.
@@ -24,7 +28,7 @@ Podemos dividir o trabalho da auditoria em **quatro fases**:
 ![[Pasted image 20251226164446.png]]
 
 ---
-## Tópicos Links Relacionados
+## Tópicos Relacionados
 
 - [[Auditoria — Conceito]]
 - [[Riscos em Auditoria — Conceito]]

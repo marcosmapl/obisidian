@@ -4,6 +4,7 @@ tópico: Governança de TI
 created: 2026-05-27T06:05:00
 updated: 2026-05-27T06:10:00
 ---
+
 ## Conceito
 
 > [!note] Governança de Tecnologia da Informação

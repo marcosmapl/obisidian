@@ -2,6 +2,7 @@
 disciplina: Auditoria
 tópico: Conceitos Fundamentais
 created: 2025-12-22T11:46:00
+updated: 2025-12-23T11:40:12
 ---
 
 ## 🔸NBC T 12 - Da Auditoria Interna

@@ -2,6 +2,7 @@
 disciplina: Direito Administrativo
 tópico: Organização Administrativa
 created: 2025-12-11T15:00:00
+updated: 2026-06-23T11:10:45
 ---
 
 ## Conceito

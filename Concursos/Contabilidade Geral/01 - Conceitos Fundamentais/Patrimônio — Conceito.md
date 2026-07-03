@@ -36,8 +36,8 @@ updated: 2025-12-29T10:38:00
 ## Tópicos Relacionados
 
 - [[Bens — Conceito]]
-- [[Ativo]]
-- [[Passivo]]
+- [[MOC — Ativo]]
+- [[MOC — Passivo|Passivo]]
 - [[Patrimônio Líquido]]
 - [[Direitos — Conceito]]
 - [[Obrigações — Conceito]]

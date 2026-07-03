@@ -27,15 +27,9 @@ updated: 2025-12-29T15:50:00
 #contabilidade/direitos 
 
 ---
-## 🔸Links relacionados
+## Tópicos Relacionados
 
-- [[Ativo]]
+- [[Patrimônio — Conceito]]
 - [[Bens — Conceito]]
 - [[Obrigações — Conceito]]
-- [[Patrimônio — Conceito]]
-
----
-## 🧭Navegação
-
-- ⬅️ [[Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais]]
-- 📊 [[Contabilidade Geral]]
+- [[MOC — Ativo]]
