@@ -16,9 +16,14 @@ updated: 2026-07-01T10:00:00
 São operações de **pagamentos ou recebimentos** em caixa, relacionadas com:
 - **Emissão de ações ou outros instrumentos patrimoniais**;
 - **Ações da entidade**;
-- **Debêntures, empréstimos, notas promissórias, outros títulos de dívida, hipotecas e outros empréstimos de curto e longo prazo**
+- **Debêntures, Empréstimos Tomados, notas promissórias, outros títulos de dívida, hipotecas e outros empréstimos de curto e longo prazo**
 - **Amortização de empréstimos e financiamentos**
 - **Arrendamento mercantil financeiro**
+
+> [!note] Balanço Patrimonial
+> - **Passivo Circulante (Atividades Não Operacionais)**
+> - **Passivo Exigível a Longo Prazo  (Atividades Não Operacionais)**
+> - **Patrimônio Líquido**
 
 ---
 ## Dividendos e Juros

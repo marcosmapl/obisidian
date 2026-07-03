@@ -11,7 +11,7 @@ updated: 2026-06-25T16:50:00
 > Relacionam-se normalmente com o **aumento (aquisição) e diminuição (venda) dos ativos de longo prazo (não circulantes)** que a empresa utiliza para **produzir bens e serviços**. 
 
 - Compra/Venda de **imobilizado** ou **intangível**
-- Empréstimos a **terceiros**
+- **Empréstimos Concedidos a terceiros**
 
 > [!important] CPC 03
 
@@ -23,6 +23,11 @@ São **Pagamentos ou recebimentos** em caixa referentes a operações com:
 - **Instrumentos patrimoniais ou instrumentos de dívida de outras entidades e participações societárias** em joint ventures;
 - **Adiantamento** e **Empréstimos feitos a terceiros** (exceto aqueles adiantamentos e empréstimos feitos por instituição financeira);
 - **Contratos futuros, a termo, de opção e swap**
+
+> [!note] Balanço Patrimonial
+> - **Ativo Imobilizado**
+> - **Ativo Intangível**
+> - **Investimentos**
 
 ---
 ## Tópicos Relacionados

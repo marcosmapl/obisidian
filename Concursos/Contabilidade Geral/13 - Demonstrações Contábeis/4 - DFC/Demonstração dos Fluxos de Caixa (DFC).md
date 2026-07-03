@@ -50,7 +50,9 @@ Proporcionar aos usuários das demonstrações contábeis uma base para **avalia
 - [[Fluxos de Caixa das Atividades de Investimento]]
 - [[Fluxos de Caixa das Atividades de Financiamento]]
 
-![[Pasted image 20260625210809.png]]
+![[Pasted image 20260702192548.png]]
+
+![[Pasted image 20260702220217.png]]
 
 ---
 ## Métodos de Elaboração

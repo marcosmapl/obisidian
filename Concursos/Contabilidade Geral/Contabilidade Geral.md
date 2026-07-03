@@ -15,30 +15,30 @@ updated: 2026-01-09T11:58:00
 ---
 ## Índice
 
-### 1. [[Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais]]
+### 1. [[Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/MOC - Conceitos Fundamentais]]
 
-### 2. [[MOC — Contas Contábeis]]
+### 2. [[Concursos/Contabilidade Geral/02 - Contas Contábeis/MOC - Contas Contábeis]]
 
-### 3. [[MOC — Escrituração Contábil]]
+### 3. [[Concursos/Contabilidade Geral/03 - Escrituração Contábil/MOC - Escrituração Contábil]]
 
-### 4. [[Balanço Patrimonial]]
+### 4. [[Concursos/Contabilidade Geral/04 - Balanço Patrimonial (BP)/Balanço Patrimonial]]
 
-### 5. [[MOC — Ativo]]
+### 5. [[Concursos/Contabilidade Geral/05 - Ativo/MOC - Ativo]]
 
-### 6. [[MOC — Ativo Circulante]]
+### 6. [[Concursos/Contabilidade Geral/06 - Ativo Circulante/MOC - Ativo Circulante]]
 
-### 7. [[MOC — Estoques]]
+### 7. [[Concursos/Contabilidade Geral/07 - Estoques/MOC - Estoques]]
 
-### 8. [[MOC — Ativo Não Circulante]]
+### 8. [[Concursos/Contabilidade Geral/08 - Ativo Não Circulante/MOC - Ativo Não Circulante]]
 
-### 9. [[MOC — Passivo]]
+### 9. [[Concursos/Contabilidade Geral/09 - Passivo/MOC - Passivo]]
 
-### 10. [[MOC — Passivo Circulante]]
+### 10. [[Concursos/Contabilidade Geral/10 - Passivo Circulante/MOC - Passivo Circulante]]
 
-### 11. [[MOC — Passivo Não Circulante]]
+### 11. [[Concursos/Contabilidade Geral/11 - Passivo Não Circulante/MOC - Passivo Não Circulante]]
 
-### 12. [[MOC — Patrimônio Líquido]]
+### 12. [[Concursos/Contabilidade Geral/12 - Patrimônio Líquido/MOC - Patrimônio Líquido]]
 
-### 13. [[MOC — Demonstrações Contábeis]]
+### 13. [[Concursos/Contabilidade Geral/13 - Demonstrações Contábeis/MOC - Demonstrações Contábeis]]
 
-### 14. [[MOC — Princípios Contábeis]]
+### 14. [[Concursos/Contabilidade Geral/14 - Princípios Contábeis/MOC - Princípios Contábeis]]
