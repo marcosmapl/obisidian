@@ -7,7 +7,7 @@ updated: 2026-05-17T16:15:00
 
 ## Conceito
 
-- São aquelas normas que **ao entrar em vigor**, **estão aptas a produzir todos os seus efeitos**, mas que podem ser **restringidas** pelo poder público.
+- São aquelas normas que<mark style="background:#b1ffff"> ao entrar em vigor, estão aptas a produzir todos os seus efeitos</mark> mas que <mark style="background:#b1ffff">podem ser restringidas</mark> pelo poder público.
 
 > [!tip] Art. 5, XIII
 > É **livre o exercício de qualquer trabalho, ofício ou profissão**, atendidas as **qualificações profissionais que a lei estabelecer**; (exemplo OAB)

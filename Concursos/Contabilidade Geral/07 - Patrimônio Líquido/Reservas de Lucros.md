@@ -12,6 +12,7 @@ updated: 2026-07-03T00:00:00
 
 > [!important] Decorrem da **destinação do lucro**, e não de aportes dos sócios.
 
+---
 ## Ideia-chave para prova
 
 - São parcelas do lucro retidas no patrimônio líquido com finalidades específicas.
