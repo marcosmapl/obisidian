@@ -32,9 +32,16 @@ updated: 2026-07-03T00:00:00
 ---
 ## Fluxos de Caixa
 
-- [[Fluxos de Caixa das Atividades Operacionais]]
-- [[Fluxos de Caixa das Atividades de Investimento]]
-- [[Fluxos de Caixa das Atividades de Financiamento]]
+- [[Fluxo de Caixa das Atividades Operacionais]]
+- [[Fluxo de Caixa das Atividades de Investimento]]
+- [[Fluxo de Caixa das Atividades de Financiamento]]
+
+> [!important] Transação incluindo mais de um fluxo
+> Uma única transação pode incluir fluxos de caixa classificados em mais de uma atividade.
+> 
+> - Empréstimo
+> 	- **Juros**: Atividade **Operacional**
+> 	- **Valor Principal**: Atividade de **Financiamento**
 
 ---
 ## Métodos de Elaboração
@@ -55,8 +62,8 @@ updated: 2026-07-03T00:00:00
 ## Tópicos Relacionados
 
 - [[MOC — Demonstração dos Fluxos de Caixa (DFC)]]
-- [[Fluxos de Caixa das Atividades Operacionais]]
-- [[Fluxos de Caixa das Atividades de Investimento]]
-- [[Fluxos de Caixa das Atividades de Financiamento]]
+- [[Fluxo de Caixa das Atividades Operacionais]]
+- [[Fluxo de Caixa das Atividades de Investimento]]
+- [[Fluxo de Caixa das Atividades de Financiamento]]
 - [[Método Direto (DFC)]]
 - [[Método Indireto (DFC)]]

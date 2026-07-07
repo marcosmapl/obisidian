@@ -20,10 +20,18 @@ São operações de **pagamentos ou recebimentos** em caixa, relacionadas com:
 - **Amortização de empréstimos e financiamentos**
 - **Arrendamento mercantil financeiro**
 
-> [!note] Balanço Patrimonial
-> - **Passivo Circulante (Atividades Não Operacionais)**
-> - **Passivo Exigível a Longo Prazo  (Atividades Não Operacionais)**
-> - **Patrimônio Líquido**
+> [!important] Ações em Tesouraria
+
+> [!important] Debêntures / Empréstimo
+
+> [!important] Arrendamento Mercantil
+
+---
+## Balanço Patrimonial
+
+- **Passivo Circulante (Atividades Não Operacionais)**
+- **Passivo Exigível a Longo Prazo  (Atividades Não Operacionais)**
+- **Patrimônio Líquido**
 
 ---
 ## Dividendos e Juros
@@ -38,6 +46,6 @@ Segundo o CPC 03:
 ## Tópicos Relacionados
 
 - [[MOC — Demonstração dos Fluxos de Caixa (DFC)]]
-- [[Fluxos de Caixa das Atividades Operacionais]]
-- [[Fluxos de Caixa das Atividades de Investimento]]
+- [[Fluxo de Caixa das Atividades Operacionais]]
+- [[Fluxo de Caixa das Atividades de Investimento]]
 

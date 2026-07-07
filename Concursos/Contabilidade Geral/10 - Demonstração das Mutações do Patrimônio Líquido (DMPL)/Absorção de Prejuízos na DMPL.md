@@ -108,3 +108,38 @@ Cada absorção aparece como uma **linha separada** na DMPL:
 - [[Reserva Legal]]
 - [[Prejuízos Acumulados]]
 - [[MOC — Demonstração das Mutações do Patrimônio Líquido (DMPL)]]
+
+## Situações Líquidas
+
+### Superavitária
+
+> [!note] Patrimônio Líquido > 0 (positivo)
+
+- **Ativo >  Passivo Exigível**
+- Positiva
+- Confortável
+- Favorável
+### Nula
+
+> [!note] Patrimônio Líquido = 0
+
+- **Ativo = Passivo**
+- Compensada
+- Neutra
+- Igualitária
+### Passivo à Descoberto
+
+> [!note] Patrimônio Líquido < 0 (negativo) 
+
+- **Ativo <  Passivo**
+- Negativa
+- Desconfortável
+- Desfavorável
+- Deficitária
+- Passiva
+
+### Constituição da Sociedade
+
+> [!note] Ativo = Patrimônio Líquido
+
+- Passivo Exigível = 0

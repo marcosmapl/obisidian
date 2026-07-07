@@ -10,9 +10,6 @@ updated: 2026-06-25T16:50:00
 > [!note] Atividades de Investimento
 > Relacionam-se normalmente com o **aumento (aquisição) e diminuição (venda) dos ativos de longo prazo (não circulantes)** que a empresa utiliza para **produzir bens e serviços**. 
 
-- Compra/Venda de **imobilizado** ou **intangível**
-- **Empréstimos Concedidos a terceiros**
-
 > [!important] CPC 03
 
 ---
@@ -24,14 +21,22 @@ São **Pagamentos ou recebimentos** em caixa referentes a operações com:
 - **Adiantamento** e **Empréstimos feitos a terceiros** (exceto aqueles adiantamentos e empréstimos feitos por instituição financeira);
 - **Contratos futuros, a termo, de opção e swap**
 
-> [!note] Balanço Patrimonial
-> - **Ativo Imobilizado**
-> - **Ativo Intangível**
-> - **Investimentos**
+> [!important] Venda de Imobilizados / Intangíveis
+> São considerados como fluxos de investimento
+
+> [!important] Empréstimos Concedidos
+> São considerados como fluxos de investimento.
+
+---
+## Balanço Patrimonial
+
+- **Ativo Imobilizado**
+- **Ativo Intangível**
+- **Investimentos**
 
 ---
 ## Tópicos Relacionados
 
 - [[MOC — Demonstração dos Fluxos de Caixa (DFC)]]
-- [[Fluxos de Caixa das Atividades Operacionais]]
-- [[Fluxos de Caixa das Atividades de Financiamento]]
+- [[Fluxo de Caixa das Atividades Operacionais]]
+- [[Fluxo de Caixa das Atividades de Financiamento]]

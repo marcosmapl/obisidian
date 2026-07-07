@@ -21,11 +21,13 @@ updated: 2026-06-25T16:00:00
 - **Pagamentos ou restituição** de caixa de **impostos sobre a renda**, a menos que possam ser especificamente identificados com as atividades de financiamento ou de investimento;
 - **Recebimentos e pagamentos** de caixa de **contratos** mantidos para **negociação imediata** ou **disponíveis para venda futura**
 
-> [!note] Balanço Patrimonial
-> - **Ativo Circulante**
-> - **Ativo Realizável a Longo Prazo**
-> - **Passivo Circulante (Operacional)**
-> - **Passivo Não Circulante (Operacional)**
+---
+## Balanço Patrimonial
+
+- **Ativo Circulante**
+- **Ativo Realizável a Longo Prazo**
+- **Passivo Circulante (Operacional)**
+- **Passivo Não Circulante (Operacional)**
 
 ---
 ## Dividendos e Juros
@@ -37,11 +39,6 @@ Segundo o CPC 03:
 - Dividendos e Juros **pagos** sobre o **capital próprio** ➡️ Atividades de **Financiamento**
 
 ---
-## Venda de Imobilizado
-
-- São fluxos de caixa provenientes de atividades de **investimento**.
-
----
 ## IR e CSLL
 
 - O **Imposto de Renda** e a **Contribuição Sobre o Lucro Líquido** são geralmente classificados como **Atividades Operacionais**, contudo podem ser classificados como **Atividades de Investimento** quando resultantes de algum investimento feito pela entidade.
@@ -50,5 +47,5 @@ Segundo o CPC 03:
 ## Tópicos Relacionados
 
 - [[MOC — Demonstração dos Fluxos de Caixa (DFC)]]
-- [[Fluxos de Caixa das Atividades de Investimento]]
-- [[Fluxos de Caixa das Atividades de Financiamento]]
+- [[Fluxo de Caixa das Atividades de Investimento]]
+- [[Fluxo de Caixa das Atividades de Financiamento]]

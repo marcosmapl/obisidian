@@ -15,20 +15,12 @@ updated: 2026-07-03T00:00:00
 ## Estrutura da pasta
 
 - [[Demonstração dos Fluxos de Caixa (DFC)]]
-- [[Fluxos de Caixa das Atividades Operacionais]]
-- [[Fluxos de Caixa das Atividades de Investimento]]
-- [[Fluxos de Caixa das Atividades de Financiamento]]
+- [[Fluxo de Caixa das Atividades Operacionais]]
+- [[Fluxo de Caixa das Atividades de Investimento]]
+- [[Fluxo de Caixa das Atividades de Financiamento]]
+- [[Juros e Dividendos (DFC)]]
 - [[Método Direto (DFC)]]
 - [[Método Indireto (DFC)]]
-
-## Essencial para revisão
-
-- Fluxos operacionais
-- Fluxos de investimento
-- Fluxos de financiamento
-- Método direto
-- Método indireto
-- Caixa e equivalentes de caixa
 
 ---
 ## Tópicos relacionados

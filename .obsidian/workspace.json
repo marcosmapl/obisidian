@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Contabilidade Geral/10 - Demonstração das Mutações do Patrimônio Líquido (DMPL)/Demonstração das Mutações do Patrimônio Líquido (DMPL).md",
+                "file": "Concursos/Estatística/02 - Estatística Descritiva/Medidas de Variabilidade.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Demonstração das Mutações do Patrimônio Líquido (DMPL)"
+              "title": "Medidas de Variabilidade"
             }
           }
         ]
@@ -199,6 +199,26 @@
             "id": "37593f7241775d28",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "5635921612c13263",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "fdba45995b1398ab",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -206,7 +226,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
@@ -228,9 +248,25 @@
   },
   "active": "297fb69275f0536d",
   "lastOpenFiles": [
+    "Concursos/Estatística/02 - Estatística Descritiva/MOC — Estatística Descritiva.md",
+    "Concursos/Direito/08 - Direito Penal/03 - Lei Penal/Classificação da Lei Penal.md",
+    "Concursos/Direito/08 - Direito Penal/03 - Lei Penal/MOC — Lei Penal.md",
+    "Concursos/Direito/08 - Direito Penal/03 - Lei Penal",
+    "Concursos/Direito/08 - Direito Penal/MOC — Direito Penal.md",
+    "Concursos/Direito/08 - Direito Penal/02 - Conceitos Fundamentais/MOC — Conceitos Fundamentais.md",
+    "Concursos/Contabilidade Geral/11 - Demonstração dos Fluxos de Caixa (DFC)/Método Indireto (DFC).md",
+    "Concursos/Contabilidade Geral/11 - Demonstração dos Fluxos de Caixa (DFC)/Demonstração dos Fluxos de Caixa (DFC).md",
+    "Concursos/Contabilidade Geral/11 - Demonstração dos Fluxos de Caixa (DFC)/MOC — Demonstração dos Fluxos de Caixa (DFC).md",
+    "Concursos/Contabilidade Geral/04 - Balanço Patrimonial (BP)/MOC — Balanço Patrimonial.md",
+    "Concursos/Contabilidade Geral/04 - Balanço Patrimonial (BP)/Balanço Patrimonial.md",
+    "Concursos/Contabilidade Geral/04 - Balanço Patrimonial (BP)/Situações Líquidas.md",
+    "Concursos/Contabilidade Geral/11 - Demonstração dos Fluxos de Caixa (DFC)/Juros e Dividendos (DFC).md",
+    "Concursos/Contabilidade Geral/11 - Demonstração dos Fluxos de Caixa (DFC)/Fluxo de Caixa das Atividades de Financiamento.md",
+    "Concursos/Contabilidade Geral/11 - Demonstração dos Fluxos de Caixa (DFC)/Fluxo de Caixa das Atividades de Investimento.md",
+    "Concursos/Contabilidade Geral/11 - Demonstração dos Fluxos de Caixa (DFC)/Fluxo de Caixa das Atividades Operacionais.md",
+    "Concursos/Contabilidade Geral/10 - Demonstração das Mutações do Patrimônio Líquido (DMPL)/Demonstração das Mutações do Patrimônio Líquido (DMPL).md",
     "Media/5cb306d8-fe08-4f62-8a2c-670c1ab24db9.gif",
     "Concursos/Contabilidade Geral/10 - Demonstração das Mutações do Patrimônio Líquido (DMPL)/Elaboração da DMPL — Passo a Passo.md",
-    "Concursos/Contabilidade Geral/10 - Demonstração das Mutações do Patrimônio Líquido (DMPL)/Demonstração das Mutações do Patrimônio Líquido (DMPL).md",
     "Concursos/Contabilidade Geral/10 - Demonstração das Mutações do Patrimônio Líquido (DMPL)/Destinação do Resultado (DMPL).md",
     "Concursos/Contabilidade Geral/07 - Patrimônio Líquido/Ajustes de Exercícios Anteriores.md",
     "Concursos/Contabilidade Geral/07 - Patrimônio Líquido/Patrimônio Líquido.md",
@@ -241,20 +277,6 @@
     "Concursos/Contabilidade Geral/07 - Patrimônio Líquido/Ajustes de Avaliação Patrimonial.md",
     "Concursos/Contabilidade Geral/09 - Demonstração de Lucros ou Prejuízos Acumulados (DLPA)/Demonstração de Lucros ou Prejuízos Acumulados (DLPA).md",
     "Concursos/Contabilidade Geral/10 - Demonstração das Mutações do Patrimônio Líquido (DMPL)/MOC — Demonstração das Mutações do Patrimônio Líquido (DMPL).md",
-    "Concursos/Contabilidade Geral/07 - Patrimônio Líquido/Ações em Tesouraria.md",
-    "Concursos/Contabilidade Geral/07 - Patrimônio Líquido/Prejuízos Acumulados.md",
-    "Concursos/Direito/04 - Direito Constitucional/03 - Direitos e Garantias Fundamentais/Direito de Associação.md",
-    "Concursos/Direito/04 - Direito Constitucional/03 - Direitos e Garantias Fundamentais/Direitos e Garantias Fundamentais.md",
-    "Concursos/Direito/04 - Direito Constitucional/03 - Direitos e Garantias Fundamentais/MOC — Direitos e Garantias Fundamentais.md",
-    "Concursos/Direito/04 - Direito Constitucional/03 - Direitos e Garantias Fundamentais/Direitos Individuais e Coletivos.md",
-    "Concursos/Direito/04 - Direito Constitucional/03 - Direitos e Garantias Fundamentais/Direito a Herança.md",
-    "Concursos/Direito/04 - Direito Constitucional/03 - Direitos e Garantias Fundamentais/Direito à Inviolabilidade Domiciliar.md",
-    "Concursos/Direito/04 - Direito Constitucional/03 - Direitos e Garantias Fundamentais/Direito à Privacidade.md",
-    "Concursos/Direito/04 - Direito Constitucional/03 - Direitos e Garantias Fundamentais/Direito de Reunião.md",
-    "Concursos/Direito/04 - Direito Constitucional/03 - Direitos e Garantias Fundamentais/Direito a Liberdade de Manifestação.md",
-    "Concursos/Direito/04 - Direito Constitucional/03 - Direitos e Garantias Fundamentais/Direito à Liberdade Religiosa.md",
-    "Concursos/Direito/04 - Direito Constitucional/02 - Princípios Fundamentais/MOC — Princípios Fundamentais.md",
-    "Concursos/Direito/04 - Direito Constitucional/01 - Teoria Geral da Constituição/Normas de Eficácia Contida.md",
     "Concursos/Contabilidade Geral/13 - Princípios Contábeis",
     "Concursos/Contabilidade Geral/12 - Demonstração do Valor Adicionado (DVA)",
     "Concursos/Contabilidade Geral/11 - Demonstração dos Fluxos de Caixa (DFC)",
