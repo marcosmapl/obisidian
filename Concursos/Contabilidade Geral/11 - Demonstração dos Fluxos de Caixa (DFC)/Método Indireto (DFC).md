@@ -7,8 +7,7 @@ updated: 2026-07-03T00:00:00
 
 ## Conceito
 
-> [!note] Método Indireto
-> O **lucro líquido ou o prejuízo** é ajustado pelos **efeitos de transações que não envolvem caixa**.
+O **lucro líquido ou o prejuízo** é ajustado pelos **efeitos de transações que não envolvem caixa**.
 
 > [!tip] Outros Nomes
 > Também conhecido como **Método da Reconciliação** ou **Método da Conciliação**.
@@ -26,12 +25,26 @@ Lembrando que:
 ==Redução== do Passivo - ==Reduz== o Caixa
 
 ---
-## Essencial
+## Etapas
 
-- Parte do **lucro líquido** ou prejuízo.
-- Ajusta itens que afetaram o resultado, mas **não afetaram o caixa**.
-- Ajusta também as **variações das contas operacionais**.
+- **Passo 1**: No [[Balanço Patrimonial]], identificar as contas operacionais (**Ativo Circulante e Passivo Circulante**).
+- **Passo 2**: Na [[Demonstração do Resultado do Exercício (DRE)]], identificar o **lucro líquido**.
+- **Passo 3**: Ajusta o **lucros líquido** com as **Receitas/Despesas** sem efeito caixa.
+	- (+) Depreciação
+	- (+) Amortização
+	- (+) Perdas Estimadas com Créditos de Liquidação Duvidosa
+	- (+) Resultado com Equivalência Patrimonial
+	- (=) Lucro Líquido Ajustado
+- **Passo3**: Ajustar também as **variações das contas operacionais**.
+	- 
 
+> [!tip] Ativo
+> **Aumento** do ativo, **diminui** o caixa. **Diminuição** do ativo, **aumenta** o caixa. (relação **inversa**)
+
+> [!tip] Passivo
+> **Aumento** do passivo, **aumenta** o caixa. **Diminuição** do passivo, **diminui** o caixa. (relação **direta**)
+
+---
 ## Ajustes frequentes
 
 - Depreciação, amortização e exaustão
@@ -39,7 +52,8 @@ Lembrando que:
 - Lucro ou prejuízo na venda de ativo
 - Variações de clientes, estoques, fornecedores e obrigações operacionais
 
-## Fórmula-resumo
+---
+## Variação do Disponível
 
 $$\Delta Disponível = FCO + FCI + FCF$$
 

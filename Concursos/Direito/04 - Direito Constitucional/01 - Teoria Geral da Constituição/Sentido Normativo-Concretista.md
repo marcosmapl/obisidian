@@ -23,6 +23,7 @@ updated: 2026-05-17T15:15:00
 
 ---
 ## Oposição a Ferdinand Lassalle
+
 - **Lassalle**:
   - Constituição = fato social  
   - “Folha de papel”  
@@ -35,11 +36,12 @@ updated: 2026-05-17T15:15:00
     - **Prevalece a Constituição**
 
 🧠 **Regra de prova:**  
-> Para Hesse, **o fato social não anula a Constituição**.
 
+> Para Hesse, **o fato social não anula a Constituição**.
 
 ---
 ## Constituição Real × Constituição Jurídica
+
 - **Não há oposição** entre elas.
 - Ambas:
   - Se **influenciam reciprocamente**
@@ -48,7 +50,8 @@ updated: 2026-05-17T15:15:00
     - Totalmente confundidas  
 
 🧠 **Mnemônico:**  
-**CR ↔ CJ** → *Constituição Real e Jurídica caminham juntas*
+
+> **CR ↔ CJ** → *Constituição Real e Jurídica caminham juntas*
 
 ---
 ## Tópicos Relacionados

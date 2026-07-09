@@ -1,6 +1,6 @@
 ---
 disciplina: Direito Empresarial
-tópico: Teoria da Empresa e Empresário
+tópico: Do Empresário (arts. 966 a 980 do CC)
 created: 2026-05-28T21:45:00
 updated: 2026-05-28T21:50:00
 ---

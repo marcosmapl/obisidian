@@ -19,3 +19,5 @@ updated: 2026-06-24T12:15:00
 - [[Direito de Informação]]
 - [[Direito de Petição e de Obtenção de Certidões]]
 - [[Direito à Defesa do Consumidor]]
+- [[Direito a Herança]]
+

@@ -5,7 +5,8 @@ created: 2026-06-24T13:00:00
 updated: 2026-06-24T13:05:00
 ---
 
-- Brasil  é um **estado laico**
+Brasil é um **Estado laico!** A administração pública e os governantes não podem promover a atividade religiosa.
+
 - É permitido **ter ou não religião**
 - É permitido **criar a própria religião**
 - É garantido a **proteção aos locais de culto e a suas liturgias**
@@ -42,3 +43,4 @@ updated: 2026-06-24T13:05:00
 ### Vacinação
 
 É **obrigatória**, pois os pais ==não podem alegar escusa de consciência em relação aos filhos (terceiros)==.
+

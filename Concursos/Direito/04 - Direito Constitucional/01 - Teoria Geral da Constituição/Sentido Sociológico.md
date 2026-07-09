@@ -21,6 +21,7 @@ updated: 2026-05-17T14:50:00
 
 ---
 ### Exemplo Clássico: Prússia
+
 - Fatores reais de poder identificados por Lassalle:
   - Monarquia  
   - Exército  

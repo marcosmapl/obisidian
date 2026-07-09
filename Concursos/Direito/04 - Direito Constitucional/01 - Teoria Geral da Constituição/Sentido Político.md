@@ -8,7 +8,6 @@ updated: 2026-05-17T14:55:00
 ## Conceito
 
 - **Carl Schmitt**
-- Obra: **“A Teoria da Constituição” (1920)**
 - A Constituição nasce da **vontade do povo**, titular do **Poder Constituinte**.
 - Por isso, a teoria é chamada de:
   - **Decisionista**
@@ -17,6 +16,7 @@ updated: 2026-05-17T14:55:00
 📌 **Palavra-chave:** *Decisão Política* 
 
 ### Finalidade da Constituição
+
 - **Organizar os elementos essenciais do Estado**, como:
   - Forma de Estado  
   - Forma de governo  

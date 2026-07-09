@@ -7,7 +7,8 @@ updated: 2026-05-28T21:50:00
 
 ## Empresário
 
-**Código Civil - Art. 966**. Considera-se empresário quem **exerce profissionalmente atividade econômica organizada** para a **produção ou a circulação de bens ou de serviços**.
+> [!note] Código Civil, Art. 966
+> Considera-se empresário quem **exerce profissionalmente atividade econômica organizada** para a **produção ou a circulação de bens ou de serviços**.
 
 ![[Pasted image 20260528215018.png]]
 
@@ -16,7 +17,8 @@ A doutrina entende e já consolidou esse entendimento na Jornada de Direito Civi
 ---
 ## Não Empresário
 
-**Código Civil - Art. 966** - Parágrafo único. Não se considera empresário quem exerce **profissão intelectual**, de **natureza científica**, **literária** ou **artística**, **ainda com o concurso de auxiliares ou colaboradores**, ==salvo se o exercício da profissão constituir elemento de empresa==.
+> [!note] Código Civil, Art. 966 Parágrafo único. 
+> Não se considera empresário quem exerce **profissão intelectual**, de **natureza científica**, **literária** ou **artística**, **ainda com o concurso de auxiliares ou colaboradores**, ==salvo se o exercício da profissão constituir elemento de empresa==.
 
 ![[Pasted image 20260528215439.png]]
 

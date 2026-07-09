@@ -14,7 +14,7 @@ updated: 2026-05-28T20:45:00
 ---
 ## MOC Principal
 
-### 01 — [[MOC — Teoria da Empresa e Empresário]]
+### 01 — [[MOC — Direito de Empresa]]
 
 ### 02 — [[MOC — Princípios do Direito Empresarial]]
 

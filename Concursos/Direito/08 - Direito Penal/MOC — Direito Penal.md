@@ -17,7 +17,7 @@ updated: 2026-05-29T11:40:00
 
 ### 02 — [[Concursos/Direito/08 - Direito Penal/02 - Conceitos Fundamentais/MOC — Conceitos Fundamentais|MOC — Conceitos Fundamentais]]
 
-
+### 03 — [[MOC — Lei Penal]]
 
 ---
 ## MOC — Princípios do Direito Penal

@@ -24,6 +24,7 @@ updated: 2026-07-03T00:00:00
 - [[Capital Social]]
 - [[Reservas de Capital]]
 - [[Ajustes de Avaliação Patrimonial]]
+- [[Ajustes de Exercícios Anteriores]]
 - [[Reservas de Lucros]]
 - [[Ações em Tesouraria]]
 - [[Prejuízos Acumulados]]
