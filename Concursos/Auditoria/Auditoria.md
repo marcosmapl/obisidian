@@ -29,7 +29,7 @@ updated: 2026-07-03T00:00:00
 - [[Concursos/Auditoria/08 - Avaliação de Distorções/MOC — Avaliação de Distorções|MOC — Avaliação de Distorções]]
 - [[Concursos/Auditoria/09 - Fraudes e Responsabilidade/MOC — Fraudes e Responsabilidade|MOC — Fraudes e Responsabilidade]]
 - [[Concursos/Auditoria/10 - Ética Profissional/MOC — Ética Profissional|MOC — Ética Profissional]]
-- [[Concursos/Auditoria/13 - Normas Brasileiras de Auditoria (CFC)/MOC — Normas Brasileiras de Auditoria|MOC — Normas Brasileiras de Auditoria]]
+- [[MOC — Normas Brasileiras de Auditoria|MOC — Normas Brasileiras de Auditoria]]
 
 #### 1.3 Auditoria Interna, Controle Interno e Diferenças
 

@@ -66,6 +66,8 @@ Nos termos da NBC T 16.8, o controle interno atua como **suporte do sistema de i
 - **Contábil** – relacionado à **veracidade e à fidedignidade** dos registros e das demonstrações contábeis;
 - **Normativo** – relacionado à **observância da regulamentação pertinente**.
 
+![[Pasted image 20260708224704.png]]
+
 ### Estrutura e Componentes
 
 #### Ambiente de Controle
@@ -78,7 +80,10 @@ Nos termos da NBC T 16.8, o controle interno atua como **suporte do sistema de i
 	- Gerenciamento de riscos
 	- Ações para impedir ocorrência
 	- Respostas aos riscos
+
 #### Procedimentos de Controle
+
+São medidas e ações estabelecidas para prevenir ou detectar os riscos inerentes ou potenciais à tempestividade, à fidedignidade e à precisão da informação contábil,
 - Procedimentos de **prevenção**
 - Procedimentos de **detecção**
 #### Informação e Comunicação
@@ -98,3 +103,16 @@ Nos termos da NBC T 16.8, o controle interno atua como **suporte do sistema de i
 	- **políticas** são declarações do que deve, ou não deve, ser feito em uma entidade para se efetuar o controle.
 	- **procedimentos** são ações para implementar as políticas.
 
+### Sistema de Controle Interno
+
+(i) ambiente de controle;
+(ii) processo de avaliação de riscos da entidade;
+(iii) processo da entidade para monitorar o sistema de controles internos;
+(iv) sistema de informação e comunicação; e
+(v) atividades de controle.
+
+### Deficiências de Controle Interno
+
+Com base na avaliação do auditor de cada um dos **componentes do sistema de controles internos** da entidade, o auditor deve **determinar se uma ou mais deficiências de controle foram identificadas**.
+
+- [[NBC TA 265 - Comunicação de Deficiências de Controle Interno]]

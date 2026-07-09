@@ -5,7 +5,7 @@ created: 2025-12-23T00:00:00
 updated: 2025-12-23T16:43:56
 ---
 
-## 🔸 Normas Brasileiras de Auditoria (CFC)
+## Normas Brasileiras de Auditoria (CFC)
 
 - [[Normas Brasileiras de Auditoria — CFC]]
 - [[Normas do CFC para Auditoria e Perícia]]
@@ -17,7 +17,7 @@ updated: 2025-12-23T16:43:56
 #auditoria/normas
 
 ---
-## 🔸 Normas Fundamentais
+## Normas Fundamentais
 
 > [!info] NBC TA Estrutura Conceitual
 > Define os princípios e conceitos aplicáveis às normas técnicas de auditoria

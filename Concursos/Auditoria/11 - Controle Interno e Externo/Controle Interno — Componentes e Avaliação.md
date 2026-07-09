@@ -18,6 +18,8 @@ updated: 2026-07-03T00:00:00
 - Atividades de controle
 - Monitoramento de controles
 
+![[Pasted image 20260708231913.png]]
+
 ## Avaliação pelo Auditor
 
 - Compreender o desenho dos controles
