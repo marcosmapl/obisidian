@@ -38,6 +38,6 @@ Segundo o CPC 03:
 ## Tópicos Relacionados
 
 - [[MOC — Demonstração dos Fluxos de Caixa (DFC)]]
-- [[Fluxos de Caixa das Atividades Operacionais]]
-- [[Fluxos de Caixa das Atividades de Investimento]]
+- [[Atividades Operacionais]]
+- [[Atividades de Investimento]]
 

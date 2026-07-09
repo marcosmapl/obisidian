@@ -10,19 +10,16 @@ updated: 2026-07-03T00:00:00
 > [!note] DLPA
 > Demonstração que evidencia a movimentação dos **lucros ou prejuízos acumulados** ao longo do período.
 
-> [!important] Pode ser dispensada quando a entidade elaborar a **DMPL**.
+> [!important] Segundo a Lei nº 6.404/76 é uma demonstração obrigatória, podendo ser dispensada somente quando a entidade elaborar a **DMPL**.
 
+> [!tip] DLPA complementa a DRE, por evidenciar a destinação do resultado do exercício.
+
+---
 ## Estrutura da pasta
 
-- [[Demonstração de Lucros ou Prejuízos Acumulados (DLPA)]]
+- [[Destinação do Resultado do Exercício]]
+- [[Estrutura da DLPA]]
 
-## Essencial para revisão
-
-- Saldo inicial
-- Ajustes de exercícios anteriores
-- Reversões de reservas
-- Lucro líquido do exercício
-- Destinações e saldo final
 
 ---
 ## Tópicos relacionados

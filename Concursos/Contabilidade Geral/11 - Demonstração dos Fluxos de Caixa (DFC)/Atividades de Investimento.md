@@ -33,5 +33,5 @@ São **Pagamentos ou recebimentos** em caixa referentes a operações com:
 ## Tópicos Relacionados
 
 - [[MOC — Demonstração dos Fluxos de Caixa (DFC)]]
-- [[Fluxos de Caixa das Atividades Operacionais]]
-- [[Fluxos de Caixa das Atividades de Financiamento]]
+- [[Atividades Operacionais]]
+- [[Atividades de Financiamento]]

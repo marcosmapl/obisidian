@@ -16,6 +16,15 @@ updated: 2026-07-03T00:00:00
 > [!note] Método da Reconciliação
 > Faz a conciliação entre o lucro líquido e o caixa gerado pelas atividades operacionais.
 
+Utilizando o método INDIRETO, devemos encontrar o valor do Lucro Líquido ajustado que neste caso será igual ao lucro líquido
+
+Lembrando que:
+
+**Aumento** do ativo - ==Reduz== o Caixa
+==Redução== do Ativo - **Aumenta** o Caixa
+**Aumento** do Passivo - **Aumenta** o Caixa
+==Redução== do Passivo - ==Reduz== o Caixa
+
 ---
 ## Essencial
 

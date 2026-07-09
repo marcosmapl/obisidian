@@ -13,15 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 214 2025/Imunidades (IBS e CBS).md",
+                "file": "Concursos/Contabilidade Geral/11 - Demonstração dos Fluxos de Caixa (DFC)/Método Indireto (DFC).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Imunidades (IBS e CBS)"
+              "title": "Método Indireto (DFC)"
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -78,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 465.5110321044922
+    "width": 418.51103591918945
   },
   "right": {
     "id": "4ab4bb61d64fd956",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concursos/Estatística/02 - Estatística Descritiva/Variância.md",
+                "file": "Concursos/Contabilidade Geral/11 - Demonstração dos Fluxos de Caixa (DFC)/Método Indireto (DFC).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Variância"
+              "title": "Links inversos para Método Indireto (DFC)"
             }
           },
           {
@@ -189,18 +190,27 @@
             "id": "8c29e6f13159ed48",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "58f1bb2b62133dcc",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
               "title": "Graph Analysis"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -211,17 +221,35 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": false
+      "bases:Criar nova base": false,
+      "markdown-importer:Abrir importador Markdown": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "297fb69275f0536d",
   "lastOpenFiles": [
+    "Concursos/Contabilidade Geral/11 - Demonstração dos Fluxos de Caixa (DFC)/Método Direto (DFC).md",
+    "Concursos/Contabilidade Geral/11 - Demonstração dos Fluxos de Caixa (DFC)/Demonstração dos Fluxos de Caixa (DFC).md",
+    "Concursos/Contabilidade Geral/11 - Demonstração dos Fluxos de Caixa (DFC)/Atividades de Financiamento.md",
+    "Concursos/Contabilidade Geral/11 - Demonstração dos Fluxos de Caixa (DFC)/Atividades de Investimento.md",
+    "Concursos/Contabilidade Geral/11 - Demonstração dos Fluxos de Caixa (DFC)/Atividades Operacionais.md",
+    "Concursos/Contabilidade Geral/11 - Demonstração dos Fluxos de Caixa (DFC)/MOC — Demonstração dos Fluxos de Caixa (DFC).md",
+    "Concursos/Contabilidade Geral/11 - Demonstração dos Fluxos de Caixa (DFC)/Método Indireto (DFC).md",
+    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 214 2025/Base de Cálculo.md",
     "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 214 2025/MOC — Lei Complementar nº 214 de 2025.md",
+    "Concursos/Contabilidade Geral/09 - Demonstração de Lucros ou Prejuízos Acumulados (DLPA)/Estrutura da DLPA.md",
+    "Concursos/Contabilidade Geral/09 - Demonstração de Lucros ou Prejuízos Acumulados (DLPA)/MOC — Demonstração de Lucros ou Prejuízos Acumulados (DLPA).md",
+    "Concursos/Contabilidade Geral/09 - Demonstração de Lucros ou Prejuízos Acumulados (DLPA)/Destinação do Resultado do Exercício.md",
+    "Media/Pasted image 20260704101331.png",
+    "Concursos/Contabilidade Geral/09 - Demonstração de Lucros ou Prejuízos Acumulados (DLPA)/Demonstração de Lucros ou Prejuízos Acumulados (DLPA).md",
+    "Media/Pasted image 20260704100331.png",
+    "Media/Pasted image 20260704095946.png",
+    "Concursos/Contabilidade Geral/08 - Demonstração do Resultado do Exercício (DRE)/MOC — Demonstração do Resultado do Exercício (DRE).md",
+    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 214 2025/Imunidades (IBS e CBS).md",
     "Concursos/Direito/10 - Direito Tributário/18 - Jurisprudência/Jurisprudência sobre o Ônus da Prova.md",
     "Concursos/Direito/10 - Direito Tributário/18 - Jurisprudência/Tema nº 1140 do STF.md",
     "Concursos/Direito/10 - Direito Tributário/18 - Jurisprudência/MOC — Jurisprudência e Súmulas Vinculantes em Matéria Tributária.md",
     "Concursos/Direito/13 - Jurisprudência e Precedentes/MOC — Jurisprudência e Precedentes.md",
-    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 214 2025/Imunidades (IBS e CBS).md",
     "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 214 2025/Hipóteses de Não Incidência (IBS e CBS).md",
     "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 214 2025/Hipóteses de Incidência (IBS e CBS).md",
     "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 214 2025/Local da Operação (IBS e CBS).md",
@@ -229,19 +257,6 @@
     "Concursos/Auditoria/07 - Procedimentos de Auditoria/Testes de Controle.md",
     "Concursos/Auditoria/05 - Materialidade e Relevância/Materialidade em Auditoria.md",
     "Concursos/Auditoria/07 - Procedimentos de Auditoria/Procedimentos Adicionais.md",
-    "Concursos/Auditoria/07 - Procedimentos de Auditoria/Procedimentos de Avaliação de Risco.md",
-    "Concursos/Auditoria/07 - Procedimentos de Auditoria/Procedimento Analítico.md",
-    "Concursos/Auditoria/09 - Fraudes e Responsabilidade/Limitações da Auditoria.md",
-    "Concursos/Auditoria/09 - Fraudes e Responsabilidade/Responsabilidade do Auditor.md",
-    "Concursos/Auditoria/10 - Ética Profissional/Independência do Auditor.md",
-    "Concursos/Auditoria/08 - Avaliação de Distorções/Identificação, Avaliação e Comunicação das Distorções.md",
-    "Concursos/Auditoria/05 - Materialidade e Relevância/Materialidade no Planejamento, Execução e Revisão.md",
-    "Concursos/Auditoria/13 - Normas Brasileiras de Auditoria (CFC)/Estrutura das NBCs e Convergência com ISAs.md",
-    "Concursos/Auditoria/13 - Normas Brasileiras de Auditoria (CFC)/Normas do CFC para Auditoria e Perícia.md",
-    "Concursos/Auditoria/13 - Normas Brasileiras de Auditoria (CFC)/Normas Complementares do Auditor Independente.md",
-    "Concursos/Auditoria/13 - Normas Brasileiras de Auditoria (CFC)/Controle de Qualidade da Auditoria.md",
-    "Concursos/Auditoria/13 - Normas Brasileiras de Auditoria (CFC)/Normas do Auditor Independente.md",
-    "Concursos/Auditoria/12 - Laudo e Parecer Pericial Contábil/Parecer Pericial Contábil — Conceito.md",
     "Concursos/Contabilidade Geral/13 - Princípios Contábeis",
     "Concursos/Contabilidade Geral/12 - Demonstração do Valor Adicionado (DVA)",
     "Concursos/Contabilidade Geral/11 - Demonstração dos Fluxos de Caixa (DFC)",

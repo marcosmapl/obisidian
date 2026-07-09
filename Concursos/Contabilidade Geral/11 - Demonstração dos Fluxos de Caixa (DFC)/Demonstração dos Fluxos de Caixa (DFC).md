@@ -14,7 +14,9 @@ updated: 2026-07-03T00:00:00
 > - Dos **investimentos**;
 
 > [!tip] Obrigatória
-> Para as **sociedades anônimas**, salvo dispensa legal da companhia fechada com PL inferior a R$ 2 milhões.
+> A DFC É OBRIGATÓRIA PARA:
+> - COMPANHIAS **ABERTAS**
+> - COMPANHIAS **FECHADAS COM PATRIMÔNIO LÍQUIDO SUPERIOR A 2 MILHÕES**
 
 > [!note] Caixa
 > Numerário em **espécie** e **depósito bancários disponíveis**
@@ -32,9 +34,9 @@ updated: 2026-07-03T00:00:00
 ---
 ## Fluxos de Caixa
 
-- [[Fluxos de Caixa das Atividades Operacionais]]
-- [[Fluxos de Caixa das Atividades de Investimento]]
-- [[Fluxos de Caixa das Atividades de Financiamento]]
+- [[Atividades Operacionais]]
+- [[Atividades de Investimento]]
+- [[Atividades de Financiamento]]
 
 ---
 ## Métodos de Elaboração
@@ -55,8 +57,8 @@ updated: 2026-07-03T00:00:00
 ## Tópicos Relacionados
 
 - [[MOC — Demonstração dos Fluxos de Caixa (DFC)]]
-- [[Fluxos de Caixa das Atividades Operacionais]]
-- [[Fluxos de Caixa das Atividades de Investimento]]
-- [[Fluxos de Caixa das Atividades de Financiamento]]
+- [[Atividades Operacionais]]
+- [[Atividades de Investimento]]
+- [[Atividades de Financiamento]]
 - [[Método Direto (DFC)]]
 - [[Método Indireto (DFC)]]

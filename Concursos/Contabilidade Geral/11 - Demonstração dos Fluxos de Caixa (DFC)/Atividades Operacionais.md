@@ -50,5 +50,5 @@ Segundo o CPC 03:
 ## Tópicos Relacionados
 
 - [[MOC — Demonstração dos Fluxos de Caixa (DFC)]]
-- [[Fluxos de Caixa das Atividades de Investimento]]
-- [[Fluxos de Caixa das Atividades de Financiamento]]
+- [[Atividades de Investimento]]
+- [[Atividades de Financiamento]]

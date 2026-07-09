@@ -15,9 +15,9 @@ updated: 2026-07-03T00:00:00
 ## Estrutura da pasta
 
 - [[Demonstração dos Fluxos de Caixa (DFC)]]
-- [[Fluxos de Caixa das Atividades Operacionais]]
-- [[Fluxos de Caixa das Atividades de Investimento]]
-- [[Fluxos de Caixa das Atividades de Financiamento]]
+- [[Atividades Operacionais]]
+- [[Atividades de Investimento]]
+- [[Atividades de Financiamento]]
 - [[Método Direto (DFC)]]
 - [[Método Indireto (DFC)]]
 
