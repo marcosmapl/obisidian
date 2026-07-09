@@ -27,7 +27,7 @@ updated: 2026-07-03T00:00:00
 ---
 ## Tópicos Relacionados
 
-- [[Evidências de Auditoria — Conceito]]
+- [[Evidências de Auditoria]]
 - [[Procedimentos de Auditoria]]
 - [[Fraude em Auditoria — Conceito]]
 - [[Emissão do Relatório da Auditoria]]

@@ -7,7 +7,7 @@ updated: 2026-04-28T10:45:00
 
 ## Conceito
 
-- [[Riscos em Auditoria — Conceito]]
+- [[Riscos em Auditoria]]
 
 ---
 ## Classificação do Risco de Auditoria

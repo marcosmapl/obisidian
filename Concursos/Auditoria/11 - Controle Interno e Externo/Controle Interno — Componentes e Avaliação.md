@@ -35,6 +35,6 @@ updated: 2026-07-03T00:00:00
 ## Tópicos Relacionados
 
 - [[Controle Interno]]
-- [[Riscos em Auditoria — Conceito]]
+- [[Riscos em Auditoria]]
 - [[Teste de Controle]]
 - [[Governança Corporativa, Lei Sarbanes-Oxley e COSO]]

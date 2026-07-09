@@ -27,5 +27,5 @@ updated: 2026-07-03T00:00:00
 ## Tópicos Relacionados
 
 - [[Emissão do Relatório da Auditoria]]
-- [[Riscos em Auditoria — Conceito]]
+- [[Riscos em Auditoria]]
 - [[Avaliação de Distorções Identificadas]]

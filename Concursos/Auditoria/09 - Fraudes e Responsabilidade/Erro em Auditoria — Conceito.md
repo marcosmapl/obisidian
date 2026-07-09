@@ -58,5 +58,5 @@ Mnemônico:
 
 - [[Distorção — Conceito]]
 - [[Fraude em Auditoria — Conceito]]
-- [[Riscos em Auditoria — Conceito]]
+- [[Riscos em Auditoria]]
 - [[Materialidade em Auditoria]]

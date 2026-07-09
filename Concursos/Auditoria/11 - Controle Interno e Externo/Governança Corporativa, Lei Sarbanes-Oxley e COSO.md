@@ -29,5 +29,5 @@ updated: 2026-07-03T00:00:00
 
 - [[Controle Interno]]
 - [[Controle Interno — Componentes e Avaliação]]
-- [[Riscos em Auditoria — Conceito]]
+- [[Riscos em Auditoria]]
 - [[Auditoria Interna — Aspectos Gerais, NBC TI 01, IIA e Diferenças]]

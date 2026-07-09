@@ -34,5 +34,5 @@ updated: 2026-07-03T00:00:00
 
 - [[Materialidade e Relevância]]
 - [[Julgamento Profissional]]
-- [[Riscos em Auditoria — Conceito]]
+- [[Riscos em Auditoria]]
 - [[Avaliação de Distorções Identificadas]]
