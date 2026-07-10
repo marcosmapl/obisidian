@@ -28,5 +28,5 @@ updated: 2026-01-26T09:57:34
 ## Tópicos Relacionados
 
 - [[MOC — O Auditor]]
-- [[MOC — Normas Brasileiras de Auditoria]]
+- [[Concursos/Auditoria/15 - Normas Brasileiras de Auditoria (CFC)/MOC — Normas Brasileiras de Auditoria]]
 - [[MOC — Processo de Auditoria]]

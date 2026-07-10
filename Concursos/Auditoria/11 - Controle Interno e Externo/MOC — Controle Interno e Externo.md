@@ -31,4 +31,4 @@ updated: 2026-12-23T09:45:00
 
 - [[MOC — Riscos de Auditoria]]
 - [[MOC — O Auditor]]
-- [[MOC — Normas Brasileiras de Auditoria]]
+- [[Concursos/Auditoria/15 - Normas Brasileiras de Auditoria (CFC)/MOC — Normas Brasileiras de Auditoria]]

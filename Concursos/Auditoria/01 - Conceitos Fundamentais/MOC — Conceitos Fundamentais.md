@@ -35,5 +35,5 @@ Trata das responsabilidades gerais do auditor independente na condução da audi
 
 - [[MOC — O Auditor]]
 - [[MOC — Processo de Auditoria]]
-- [[MOC — Normas Brasileiras de Auditoria]]
+- [[Concursos/Auditoria/15 - Normas Brasileiras de Auditoria (CFC)/MOC — Normas Brasileiras de Auditoria]]
 

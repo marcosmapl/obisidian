@@ -11,6 +11,8 @@ updated: 2026-06-24T13:20:00
 - Obriga os órgãos e entidades da Administração Pública, direta e indireta, a **dar conhecimento** aos administrados **da conduta interna de seus agentes**.
 - Todos os cidadãos têm o direito de receber dos órgãos públicos **informações de seu interesse particular ou coletivo**.
 
+![[Pasted image 20260709213801.png]]
+
 > [!important] Sigilo à Informação
 > É permitido o sigilo às informações imprescindíveis à segurança da sociedade e do Estado e também às informações pessoais.
 
@@ -20,5 +22,10 @@ updated: 2026-06-24T13:20:00
 ---
 ## Lesão ao Direito à Informação
 
+- Interesse particular do requerente/interesse coletivo ou geral: **Mandado de Segurança**
 - Informações próprias, pessoais do impetrante: **Habeas Data**
-- Interese particular do requerente/interesse coletivo ou geral: **Mandado de Segurança**
+
+---
+## Gratuidade na emissão de certidões
+
+O direito à gratuidade da certidão não é absoluto: a gratuidade condiciona-se à demonstração de que a certidão é solicitada para a defesa de direitos ou o esclarecimento de situações de interesse pessoal.

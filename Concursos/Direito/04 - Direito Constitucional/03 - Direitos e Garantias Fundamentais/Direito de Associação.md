@@ -13,6 +13,16 @@ updated: 2026-06-24T13:15:00
 
 > [!tip] É vedada a interferência estatal em seu funcionamento.
 
+> [!tip] Dissolução Compulsória
+> Art. 5º XIX - as associações só poderão ser compulsoriamente dissolvidas ou ter suas atividades suspensas por decisão judicial, exigindo-se, no primeiro caso, o trânsito em julgado;
+
 > [!tip] Representação
 > Art. 5º XXI - as entidades associativas, **quando expressamente autorizadas**, têm legitimidade para r**epresentar seus filiados judicial ou extrajudicialmente**.
+
+---
+## Requisitos para existência de Associação
+
+- **Pluralidade de Pessoas**
+- **Estabilidade**: caráter **permanente**
+- Surgem a partir de um **ato de vontade**
 
