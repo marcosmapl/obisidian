@@ -22,6 +22,9 @@ updated: 2026-07-03T00:00:00
 ---
 ## Classificação do Ativo
 
+
+![[8e4a80e9-a047-4fff-b99d-639cedfc0d01.png]]
+
 ### Quanto ao prazo
 
 > [!note] Conceito

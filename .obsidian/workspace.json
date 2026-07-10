@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Direito/08 - Direito Penal/02 - Conceitos Fundamentais/Tribunal do Júri.md",
+                "file": "Concursos/Contabilidade Geral/05 - Ativo/MOC — Ativo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tribunal do Júri"
+              "title": "MOC — Ativo"
             }
           }
         ],
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tribunal do Júri",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,8 +75,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -231,6 +230,26 @@
             "id": "2b3cfb709497afbc",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "1552aa52c62501df",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "f87d81905515a569",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -238,7 +257,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 13
       }
     ],
     "direction": "horizontal",
@@ -260,6 +279,13 @@
   },
   "active": "88ff6ffc2d62f148",
   "lastOpenFiles": [
+    "Media/8e4a80e9-a047-4fff-b99d-639cedfc0d01.png",
+    "Concursos/Contabilidade Geral/03 - Escrituração Contábil/Livro Razão.md",
+    "Concursos/Contabilidade Geral/03 - Escrituração Contábil/Balancetes de Verificação.md",
+    "Concursos/Contabilidade Geral/03 - Escrituração Contábil/Escrituração Contábil.md",
+    "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/Elaboração das Demonstrações Contábeis.md",
+    "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/Análise das Demonstrações Contábeis (Técnica Contábil).md",
+    "Concursos/Direito/08 - Direito Penal/02 - Conceitos Fundamentais/Tribunal do Júri.md",
     "Concursos/Direito/08 - Direito Penal/02 - Conceitos Fundamentais/MOC — Conceitos Fundamentais.md",
     "Concursos/Direito/04 - Direito Constitucional/03 - Direitos e Garantias Fundamentais/Direito de Informação.md",
     "Media/Pasted image 20260709213801.png",
@@ -290,14 +316,7 @@
     "Concursos/Auditoria/07 - Procedimentos de Auditoria/Procedimentos Analíticos.md",
     "Concursos/Auditoria/07 - Procedimentos de Auditoria/Procedimentos de Auditoria.md",
     "Concursos/Auditoria/04 - Riscos de Auditoria/MOC — Riscos de Auditoria.md",
-    "Concursos/Auditoria/07 - Procedimentos de Auditoria/Evidências de Auditoria.md",
-    "Concursos/Auditoria/13 - Contingências e Estimativas Contábeis/MOC — Contingências e Estimativas Contábeis.md",
-    "Concursos/Auditoria/11 - Controle Interno e Externo/Princípios do Controle Interno Administrativo.md",
     "Concursos/Auditoria/13 - Contingências e Estimativas Contábeis",
-    "Concursos/Auditoria/11 - Controle Interno e Externo/MOC — Controle Interno e Externo.md",
-    "Concursos/Auditoria/11 - Controle Interno e Externo/Controle Interno.md",
-    "Concursos/Auditoria/11 - Controle Interno e Externo/Controle Interno — Componentes e Avaliação.md",
-    "Concursos/Auditoria/11 - Controle Interno e Externo/NBC TA 265 - Comunicação de Deficiências de Controle Interno.md",
     "Concursos/Contabilidade Geral/13 - Princípios Contábeis",
     "Concursos/Contabilidade Geral/12 - Demonstração do Valor Adicionado (DVA)",
     "Concursos/Contabilidade Geral/11 - Demonstração dos Fluxos de Caixa (DFC)",

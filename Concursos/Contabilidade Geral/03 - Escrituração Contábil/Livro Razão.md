@@ -13,10 +13,13 @@ updated: 2026-05-21T21:20:00
 ---
 ## Características Principais
 
-- Registro **por conta**, e não cronológico;
+- Registro **por conta**
+- Dentro de cada conta, são apresentados em **ordem cronológica**;
 - Evidencia **débitos, créditos e saldo**;
-- Complementa o **Livro Diário**;
+- Complementa o **Livro Diário**, documento de **registro auxiliar**;
 - Base para apuração de saldos e demonstrações.
+
+> [!important] Dispensa autenticação e registro público.
 
 ---
 ## Elementos da Conta
