@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 214 2025/Alíquotas (IBS e CBS).md",
+                "file": "Concursos/Contabilidade Geral/05 - Ativo/Custos Mercadoria Vendida.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Alíquotas (IBS e CBS)"
+              "title": "Custos Mercadoria Vendida"
             }
           }
         ],
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Taxas",
+                "query": "CMV",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,11 +75,12 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 418.51103591918945
+    "width": 332.5110321044922
   },
   "right": {
     "id": "4ab4bb61d64fd956",
@@ -260,6 +261,16 @@
             "id": "8cf8e38dcadeed3c",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "b00f24717982bd98",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -267,7 +278,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "horizontal",
@@ -287,10 +298,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cc5fcfdafdde85fe",
+  "active": "88ff6ffc2d62f148",
   "lastOpenFiles": [
-    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 214 2025/MOC — Lei Complementar nº 214 de 2025.md",
+    "Concursos/Contabilidade Geral/08 - Demonstração do Resultado do Exercício (DRE)/Demonstração do Resultado do Exercício (DRE).md",
+    "Media/Pasted image 20260715150413.png",
+    "Concursos/Contabilidade Geral/04 - Balanço Patrimonial (BP)/Balanço Patrimonial.md",
+    "Concursos/Contabilidade Geral/04 - Balanço Patrimonial (BP)/MOC — Balanço Patrimonial.md",
+    "Concursos/Contabilidade Geral/08 - Demonstração do Resultado do Exercício (DRE)/MOC — Demonstração do Resultado do Exercício (DRE).md",
+    "Concursos/Contabilidade Geral/04 - Balanço Patrimonial (BP)/Valor Justo.md",
+    "Concursos/Contabilidade Geral/07 - Patrimônio Líquido/Ajustes de Avaliação Patrimonial.md",
     "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 214 2025/Alíquotas (IBS e CBS).md",
+    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 214 2025/MOC — Lei Complementar nº 214 de 2025.md",
     "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 214 2025/Base de Cálculo (IBS e CBS).md",
     "Concursos/Direito/10 - Direito Tributário/03 - Princípios Tributários/Princípio da Vedação às Isenções Heterônomas.md",
     "Concursos/Direito/10 - Direito Tributário/03 - Princípios Tributários/MOC — Princípios Tributários.md",
@@ -312,13 +330,7 @@
     "Concursos/Direito/10 - Direito Tributário/06 - Tributos/Taxa — Conceito.md",
     "Concursos/Direito/10 - Direito Tributário/18 - Jurisprudência/Súmula Vinculante 29.md",
     "Concursos/Direito/10 - Direito Tributário/06 - Tributos/MOC — Tributos - Conceito e Espécies.md",
-    "Concursos/Direito/10 - Direito Tributário/04 - Competência Tributária/Competência Tributária — Conceito.md",
-    "Concursos/Tecnologia da Informação/15 - Ciência de Dados/MOC — Ciência de Dados.md",
-    "Concursos/Contabilidade Geral/05 - Ativo/MOC — Ativo.md",
     "Media/8e4a80e9-a047-4fff-b99d-639cedfc0d01.png",
-    "Concursos/Contabilidade Geral/03 - Escrituração Contábil/Livro Razão.md",
-    "Concursos/Contabilidade Geral/03 - Escrituração Contábil/Balancetes de Verificação.md",
-    "Concursos/Contabilidade Geral/03 - Escrituração Contábil/Escrituração Contábil.md",
     "Media/Pasted image 20260709213801.png",
     "Concursos/Auditoria/14 - Processamento Eletrônico de Dados (PED)",
     "Media/Pasted image 20260110092257.png",
@@ -326,7 +338,6 @@
     "Media/Pasted image 20260111114950.png",
     "Media/Pasted image 20260110084323.png",
     "Media/Pasted image 20260110082408.png",
-    "Media/Pasted image 20251227163014.png",
     "Concursos/Auditoria/13 - Contingências e Estimativas Contábeis",
     "Concursos/Contabilidade Geral/13 - Princípios Contábeis",
     "Concursos/Contabilidade Geral/12 - Demonstração do Valor Adicionado (DVA)",

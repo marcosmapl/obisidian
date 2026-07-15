@@ -26,25 +26,16 @@ updated: 2026-07-01T15:30:00
 
 ### Esquema rápido
 
-```text
-Receita Bruta
-(-) Deduções
-(=) Receita Líquida
-(-) Custos
-(=) Lucro Bruto
-(-/+) Despesas e Receitas Operacionais
-(=) Resultado antes do IR e CSLL
-(-) IR e CSLL
-(-) Participações
-(=) Lucro Líquido do Exercício
-```
+![[Pasted image 20260715150413.png]]
 
+----
 ## Pontos de prova
 
 - A DRE segue o **regime de competência**.
 - Evidencia a formação do **lucro ou prejuízo** do período.
 - O lucro líquido apurado servirá de base para destinações no patrimônio líquido.
 
+---
 ## Fórmula útil
 
 > CMV = Estoque inicial + Compras líquidas - Estoque final

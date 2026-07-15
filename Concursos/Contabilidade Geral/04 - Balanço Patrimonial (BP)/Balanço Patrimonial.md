@@ -27,36 +27,44 @@ Art. 178 - (...) as contas serão classificadas segundo os **elementos do patrim
 
 ### Ativo
 
-Art. 178, § 1º No ativo, as contas serão dispostas em **ORDEM DESCRESCENTE DE GRAU DE LIQUIDEZ** dos elementos nelas registrados, nos seguintes grupos:
-- I – **ATIVO CIRCULANTE**
-	- Disponibilidades
-	- Direitos realizáveis no curso do exercício social
-	- Aplicações de recursos em despesas do exercício seguinte
-- II – **ATIVO NÃO CIRCULANTE**
-	- **REALIZÁVEL DE LONGO PRAZO**
-	- **INVESTIMENTOS**
-	- **IMOBILIZADO**
-	- **INTANGÍVEL**
+> [!note] Lei nº 6.404/76 Art. 178, § 1º 
+> No ativo, as contas serão dispostas em **ORDEM DESCRESCENTE DE GRAU DE LIQUIDEZ** dos elementos nelas registrados, nos seguintes grupos:
+> I – **ATIVO CIRCULANTE**
+> 	- Disponibilidades
+> 	- Direitos realizáveis no curso do exercício social
+> 	- Aplicações de recursos em despesas do exercício seguinte
+> II – **ATIVO NÃO CIRCULANTE**
+> 	- **REALIZÁVEL DE LONGO PRAZO**
+> 	- **INVESTIMENTOS**
+> 	- **IMOBILIZADO**
+> 	- **INTANGÍVEL**
 
 > [!note] Grau de Liquidez
 > Prazo no qual os **bens e direitos podem ser transformados em dinheiro**. Sendo assim, quanto **MENOR o prazo**, **MAIOR a liquidez** e vice-versa.
 
 ### Passivo
 
-Art. 178, § 2º No passivo, as contas serão classificadas nos seguintes grupos: 
-- I – **PASSIVO CIRCULANTE**: obrigações vincendas até o término do exercício
-- II – **PASSIVO NÃO CIRCULANTE**: obrigações vincendas após o término do exercício seguinte
-- III - **PATRIMÔNIO LÍQUIDO**
-	- **CAPITAL SOCIAL**
-	- **RESERVAS DE CAPITAL**
-	- **AJUSTES DE AVALIAÇÃO PATRIMONIAL**
-	- **RESERVAS DE LUCROS**
-	- **AÇÕES EM TESOURARIA**
-	- **PREJUÍZOS ACUMULADOS**
+> [!note] Lei nº 6.404/76 Art. 178, § 2º 
+> No passivo, as contas serão classificadas nos seguintes grupos: 
+> - I – **PASSIVO CIRCULANTE**: obrigações vincendas até o término do exercício
+> - II – **PASSIVO NÃO CIRCULANTE**: obrigações vincendas após o término do exercício seguinte
 
-> [!tip] Art. 178 § 3º Os saldos **DEVEDORES** e **CREDORES** que a companhia não tiver direito de compensar serão **CLASSIFICADOS SEPARADAMENTE**.
+> [!tip] Lei nº 6.404/76 Art. 178 § 3º 
+> Os saldos **DEVEDORES** e **CREDORES** que a companhia não tiver direito de compensar serão **CLASSIFICADOS SEPARADAMENTE**.
 
 > [!note] Grau de Exigibilidade
 > Prazo no qual as **obrigações devem ser pagas**. Portanto, quanto **MENOR o prazo**, **MAIOR o grau de exigibilidade** e vice-versa.
 
 ![[Pasted image 20260512220446.png]]
+
+### Patrimônio Líquido
+
+> [!note] Lei nº 6.404/76 Art. 178
+> No passivo, as contas serão classificadas nos seguintes grupos:
+> III - **PATRIMÔNIO LÍQUIDO**
+> 	- **CAPITAL SOCIAL**
+> 	- **RESERVAS DE CAPITAL**
+> 	- **AJUSTES DE AVALIAÇÃO PATRIMONIAL**
+> 	- **RESERVAS DE LUCROS**
+> 	- **AÇÕES EM TESOURARIA**
+> 	- **PREJUÍZOS ACUMULADOS**
