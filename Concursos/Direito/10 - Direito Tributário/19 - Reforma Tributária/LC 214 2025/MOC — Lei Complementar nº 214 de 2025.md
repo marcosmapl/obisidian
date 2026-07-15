@@ -16,7 +16,8 @@ updated: 2026-05-27T15:30:00
 - [[Local da Operação (IBS e CBS)]]
 - [[Imunidades (IBS e CBS)]]
 - [[Momento da Ocorrência do Fato Gerador (IBS e CBS)]]
-- [[Base de Cálculo]]
+- [[Base de Cálculo (IBS e CBS)]]
+- [[Alíquotas (IBS e CBS)]]
 
 
 ---

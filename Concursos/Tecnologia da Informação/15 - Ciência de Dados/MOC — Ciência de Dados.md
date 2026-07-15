@@ -41,3 +41,7 @@ updated: 2026-01-06T17:05:00
 - [[Processo ETL]]
 - [[Power BI]]
 - [[Pirâmide DIKW]]
+
+### Aprendizagem de Máquina
+
+- []

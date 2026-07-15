@@ -17,6 +17,8 @@ updated: 2026-01-05T21:40:00
 ### Impostos
 
 - [[Súmula Vinculante 656 (STF)]] (**ITBI**)
+- [[Súmula 160 STJ]] (Atualização da **BC do IPTU**)
+- [[Súmula 539 STF]] (Redução IPTU único imóvel)
 
 ## Índice de Jurisprudências
 ### Contribuições de Melhoria
@@ -26,4 +28,8 @@ updated: 2026-01-05T21:40:00
 ### Imunidade Recíproca
 
 - [[Tema nº 1140 do STF]]
+
+## Decisões
+
+- [[RE 1.253.706 RS STF]]
 

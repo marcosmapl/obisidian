@@ -42,19 +42,20 @@ Quanto à **alteração de alíquotas** (atos infralegais):
 - Imposto de Exportação (**IE**);
 - Imposto sobre Produtos Industrializados (**IPI**);
 - Imposto sobre Operações Financeiras (**IOF**);
-- CIDE-Combustíveis * (**reduzidas ou reestabelecidas**);
-- ICMS-Combustíveis * (**convênio** dos Estados e DF).
+- **ICMS-Combustíveis** (**convênio** dos Estados e DF).
+- **CIDE-Combustíveis** (**reduzidas ou reestabelecidas** pelo Executivo);
 
 Quanto ao **IPTU**, em relação a atualização da base de cálculo que ==não supere a inflação==, pode ser alterada por ato infralegal.
 
-### Lei Complementar
+---
+## Lei Complementar
 
 A regra é **Lei Ordinária**, mas é exigido **Lei Complementar** para:
 
-- Novos Impostos
+- Impostos
 - Empréstimos Compulsórios
-- Novas Contribuições
-- Grandes Fortunas
+- Contribuições Residuais
+- Imposto sobre Grandes Fortunas
 
 **Tributos**: lei complementar para estipular **normas gerais** em matéria de legislação tributária.
 **Impostos**: lei complementar para estipular **fatos geradores**, **bases de cálculo** e **contribuintes**.

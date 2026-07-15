@@ -11,9 +11,7 @@ updated: 2025-12-23T00:00:00
 > Art. 77, CTN - As **taxas** cobradas pela União, Estados, Distrito Federal ou Municípios, no âmbito de suas respectivas atribuições, têm como **Fato Gerador** o **exercício regular do poder de polícia, ou a utilização efetiva ou potencial, de serviço público específico e divisível, prestado ao contribuinte ou posto a sua disposção**.
 
 > [!important] Base de cálculo
-> Art. 145, § 2º da CF/88 - As taxas não podem ter base de cálculo própria de impostos.
-
-- [[Súmula Vinculante 29]]
+> Art. 145, § 2º da CF/88 - As taxas não podem ter base de cálculo própria de impostos. Contudo o STF entende que é constitucional a adoção de um ou mais elementos da base de cálculo própria de um imposto, desde que não sejam todos os elementos ([[Súmula Vinculante 29]])
 
 ---
 ## Característica
@@ -28,6 +26,15 @@ updated: 2025-12-23T00:00:00
 - Fatos Geradores:
 	- Exercício do **poder regular de polícia**
 	- Serviço público **específico e divisível**
+
+---
+## Poder de Polícia
+
+> [!note] Taxa de Poder de Polícia
+> Art. 78. Considera-se **pode de polícia** atividade da administração pública que **limitando ou disciplinando direito, interesse ou liberdade**, **regula a prática de ato ou abstenção de fato, em razão de interesse público** concernente à **segurança**, à **higiene**, à **ordem**, aos **costumes**, à **disciplina da produção e do mercado**, ao **exercício de atividades econômicas** dependentes de concessão ou autorização do Poder Público, à **tranquilidade pública** ou ao **respeito à propriedade e aos direitos individuais ou coletivos**.
+
+> [!note] RE 222.252-AgR/SP
+> A cobrança de taxa de localização e funcionamento, ..., **prescinde da efetiva comprovação da atividade fiscalizadora**, bastando a existência do **órgão fiscalizador** e **estrutura adminsitrativa em funcionamento**.
 
 ---
 ## Taxas de Serviço
@@ -48,16 +55,6 @@ O contribuinte ==não poderá fazer opção por não receber determinada presta�
 > III - **divisíveis**, quando suscetíveis de utilização, separadamente, por parte de cada um dos seus usuários.
 
 ---
-## Poder de Polícia
-
-
-> [!note] Taxa de Poder de Polícia
-> Art. 78. Considera-se **pode de polícia** atividade da administração pública que **limitando ou disciplinando direito, interesse ou liberdade**, **regula a prática de ato ou abstenção de fato, em razão de interesse público** concernente à **segurança**, à **higiene**, à **ordem**, aos **costumes**, à **disciplina da produção e do mercado**, ao **exercício de atividades econômicas** dependentes de concessão ou autorização do Poder Público, à **tranquilidade pública** ou ao **respeito à propriedade e aos direitos individuais ou coletivos**.
-
-> [!note] RE 222.252-AgR/SP
-> A cobrança de taxa de localização e funcionamento, ..., **prescinde da efetiva comprovação da atividade fiscalizadora**, bastando a existência do **órgão fiscalizador** e **estrutura adminsitrativa em funcionamento**.
-
----
 ## Jurisprudência
 
 - [[Súmula Vinculante 19]]
@@ -73,8 +70,8 @@ O contribuinte ==não poderá fazer opção por não receber determinada presta�
 > [!note] Base de Cálculo de Imposto
 > SV 29 - É **constitucional** a adoção, no cálculo do valor de taxa, de um ou mais elementos da **base de cálculo** própria de determinado imposto, desde que não haja integral identidade entre uma base e outra.
 
-> [!note] Taxa de Prevenção e Combate a Incêndios
-> É constitucional a taxa de prevenção e combate a incêndios, busca, salvamento e resgate instituídas por Estados-Membros. (STF, Tema 1282)
+> [!note] Taxa de Combate e Prevênção a Incêndios
+> Não cabe cobrança de taxa por ser serviço geral e indivisível relacionado à segurança pública (RE 1.179.245/MT)
 
 > [!note] Taxa de Recursos Minerários
 > É **constitucional** taxa de polícia para acompanhamento e fiscalização das atividades de pesquisa, lavra, exploração ou aproveitamento de **recursos minerários**. Sendo de competência **Estadual** e podendo ser proporcional ao **volume de minérios extraídos**.

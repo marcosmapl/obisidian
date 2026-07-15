@@ -10,8 +10,6 @@ updated: 2026-01-05T05:40:00
 > [!note] Princípio do Não Confisco
 > É o princípio constitucional que **veda a utilização de tributo com efeito confiscatório**, impedindo que a tributação **suprima ou inviabilize o patrimônio, a renda ou a atividade econômica do contribuinte**.
 
-#direito/tributario/principio_nao_confisco
-
 ---
 ## Fundamento Constitucional
 
@@ -20,10 +18,13 @@ updated: 2026-01-05T05:40:00
 ---
 ## Conteúdo do Princípio
 
-- Proíbe:
+### Proíbe
+
   - tributação **excessiva, desproporcional ou abusiva**;
   - utilização do tributo como **instrumento de punição indireta**;
-- Exige:
+
+### Exige
+
   - **razoabilidade**;
   - **proporcionalidade** na fixação da carga tributária.
 
@@ -46,8 +47,8 @@ updated: 2026-01-05T05:40:00
 > [!important] Multas também se submetem ao princípio do não confisco.
 
 - **Excessivamente elevadas** podem ser consideradas confiscatórias
-- Não podem ultrapassar o **valor do Tributo**!
-- STF admite controle de constitucionalidade quando há **desproporção manifesta**.
+- **Multas Moratórias**: acima de 20% do valor do tributo.
+- **Multas Punitivas**: acima de 100% do valor do tributo.
 
 ---
 ## Relação com Outros Princípios

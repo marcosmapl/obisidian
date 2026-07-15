@@ -19,4 +19,7 @@ updated: 2025-12-23T00:00:00
 - [[Princípio do Não Confisco]]
 - [[Princípio do Pecúnia Non Olet]]
 - [[Princípio da Territorialidade]]
+- [[Princípio da Vedação às Isenções Heterônomas]]
+
+
 

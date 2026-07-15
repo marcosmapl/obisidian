@@ -12,8 +12,6 @@ updated: 2026-01-05T05:25:00
 
 > [!tip] A tributação deve respeitar o **tempo** como forma de proteção ao contribuinte.
 
-#direito/tributario/principio_anterioridade
-
 ---
 ## Fundamento Constitucional
 
@@ -44,6 +42,10 @@ updated: 2026-01-05T05:25:00
 
 ---
 ## Exceções Importantes (Prova)
+
+![[Pasted image 20260711175505.png]]
+
+![[Pasted image 20260711175528.png]]
 
 ### ❌ Não se sujeitam à ambos (5)
 - **II**

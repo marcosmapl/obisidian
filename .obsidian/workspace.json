@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Contabilidade Geral/05 - Ativo/MOC — Ativo.md",
+                "file": "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 214 2025/Alíquotas (IBS e CBS).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MOC — Ativo"
+              "title": "Alíquotas (IBS e CBS)"
             }
           }
         ],
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Taxas",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -250,6 +250,16 @@
             "id": "f87d81905515a569",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "8cf8e38dcadeed3c",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -257,7 +267,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "horizontal",
@@ -277,45 +287,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "88ff6ffc2d62f148",
+  "active": "cc5fcfdafdde85fe",
   "lastOpenFiles": [
+    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 214 2025/MOC — Lei Complementar nº 214 de 2025.md",
+    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 214 2025/Alíquotas (IBS e CBS).md",
+    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 214 2025/Base de Cálculo (IBS e CBS).md",
+    "Concursos/Direito/10 - Direito Tributário/03 - Princípios Tributários/Princípio da Vedação às Isenções Heterônomas.md",
+    "Concursos/Direito/10 - Direito Tributário/03 - Princípios Tributários/MOC — Princípios Tributários.md",
+    "Concursos/Direito/10 - Direito Tributário/03 - Princípios Tributários/Princípio do Não Confisco.md",
+    "Concursos/Direito/10 - Direito Tributário/03 - Princípios Tributários/Princípio da Anterioridade Tributária.md",
+    "Concursos/Direito/10 - Direito Tributário/18 - Jurisprudência/MOC — Jurisprudência e Súmulas Vinculantes em Matéria Tributária.md",
+    "Concursos/Direito/10 - Direito Tributário/18 - Jurisprudência/RE 1.253.706/RE 1.253.706 RS STF.md",
+    "Concursos/Direito/10 - Direito Tributário/18 - Jurisprudência/RE 1.253.706",
+    "Media/Pasted image 20260711175528.png",
+    "Media/Pasted image 20260711175505.png",
+    "Concursos/Direito/10 - Direito Tributário/03 - Princípios Tributários/Princípio da Legalidade Tributária.md",
+    "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/Imposto sobre a Propriedade Predial e Territorial Urbana (IPTU).md",
+    "Concursos/Direito/10 - Direito Tributário/18 - Jurisprudência/RE 602347 STF.md",
+    "Concursos/Direito/10 - Direito Tributário/18 - Jurisprudência/Súmula 668 STF.md",
+    "Concursos/Direito/10 - Direito Tributário/18 - Jurisprudência/Súmula 614 STJ.md",
+    "Concursos/Direito/10 - Direito Tributário/18 - Jurisprudência/Súmula 539 STF.md",
+    "Concursos/Direito/10 - Direito Tributário/18 - Jurisprudência/Súmula 160 STJ.md",
+    "Concursos/Direito/10 - Direito Tributário/06 - Tributos/Contribuições de Melhoria.md",
+    "Concursos/Direito/10 - Direito Tributário/06 - Tributos/Taxa — Conceito.md",
+    "Concursos/Direito/10 - Direito Tributário/18 - Jurisprudência/Súmula Vinculante 29.md",
+    "Concursos/Direito/10 - Direito Tributário/06 - Tributos/MOC — Tributos - Conceito e Espécies.md",
+    "Concursos/Direito/10 - Direito Tributário/04 - Competência Tributária/Competência Tributária — Conceito.md",
+    "Concursos/Tecnologia da Informação/15 - Ciência de Dados/MOC — Ciência de Dados.md",
+    "Concursos/Contabilidade Geral/05 - Ativo/MOC — Ativo.md",
     "Media/8e4a80e9-a047-4fff-b99d-639cedfc0d01.png",
     "Concursos/Contabilidade Geral/03 - Escrituração Contábil/Livro Razão.md",
     "Concursos/Contabilidade Geral/03 - Escrituração Contábil/Balancetes de Verificação.md",
     "Concursos/Contabilidade Geral/03 - Escrituração Contábil/Escrituração Contábil.md",
-    "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/Elaboração das Demonstrações Contábeis.md",
-    "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/Análise das Demonstrações Contábeis (Técnica Contábil).md",
-    "Concursos/Direito/08 - Direito Penal/02 - Conceitos Fundamentais/Tribunal do Júri.md",
-    "Concursos/Direito/08 - Direito Penal/02 - Conceitos Fundamentais/MOC — Conceitos Fundamentais.md",
-    "Concursos/Direito/04 - Direito Constitucional/03 - Direitos e Garantias Fundamentais/Direito de Informação.md",
     "Media/Pasted image 20260709213801.png",
-    "Concursos/Direito/04 - Direito Constitucional/03 - Direitos e Garantias Fundamentais/Direito a Herança.md",
-    "Concursos/Direito/04 - Direito Constitucional/03 - Direitos e Garantias Fundamentais/Direito à Propriedade.md",
-    "Concursos/Direito/04 - Direito Constitucional/03 - Direitos e Garantias Fundamentais/Direito de Associação.md",
-    "Concursos/Direito/04 - Direito Constitucional/03 - Direitos e Garantias Fundamentais/Direitos Individuais e Coletivos.md",
-    "Concursos/Direito/04 - Direito Constitucional/03 - Direitos e Garantias Fundamentais/MOC — Direitos e Garantias Fundamentais.md",
-    "Concursos/Auditoria/14 - Processamento Eletrônico de Dados (PED)/MOC — Processamento Eletrônico de Dados (PED).md",
-    "Concursos/Auditoria/15 - Normas Brasileiras de Auditoria (CFC)/MOC — Normas Brasileiras de Auditoria.md",
-    "Concursos/Contabilidade Geral/06 - Passivo/Contingências Passivas.md",
     "Concursos/Auditoria/14 - Processamento Eletrônico de Dados (PED)",
-    "Concursos/Contabilidade Geral/06 - Passivo/Contingências Passivas de Longo Prazo.md",
-    "Concursos/Auditoria/07 - Procedimentos de Auditoria/MOC — Procedimentos de Auditoria.md",
-    "Concursos/Auditoria/04 - Riscos de Auditoria/Risco de Distorção Relevante.md",
-    "Concursos/Auditoria/04 - Riscos de Auditoria/Riscos em Auditoria.md",
-    "Concursos/Auditoria/07 - Procedimentos de Auditoria/Procedimentos de Avaliação de Risco.md",
     "Media/Pasted image 20260110092257.png",
     "Media/Pasted image 20260110092327.png",
     "Media/Pasted image 20260111114950.png",
     "Media/Pasted image 20260110084323.png",
     "Media/Pasted image 20260110082408.png",
     "Media/Pasted image 20251227163014.png",
-    "Media/Pasted image 20251227163046.png",
-    "Media/Pasted image 20251229102051.png",
-    "Media/Pasted image 20251229231614.png",
-    "Concursos/Auditoria/07 - Procedimentos de Auditoria/Procedimentos Adicionais.md",
-    "Concursos/Auditoria/07 - Procedimentos de Auditoria/Procedimentos Analíticos.md",
-    "Concursos/Auditoria/07 - Procedimentos de Auditoria/Procedimentos de Auditoria.md",
-    "Concursos/Auditoria/04 - Riscos de Auditoria/MOC — Riscos de Auditoria.md",
     "Concursos/Auditoria/13 - Contingências e Estimativas Contábeis",
     "Concursos/Contabilidade Geral/13 - Princípios Contábeis",
     "Concursos/Contabilidade Geral/12 - Demonstração do Valor Adicionado (DVA)",

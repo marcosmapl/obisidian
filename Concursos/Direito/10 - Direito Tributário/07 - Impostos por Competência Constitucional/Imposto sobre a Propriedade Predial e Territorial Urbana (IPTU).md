@@ -50,11 +50,11 @@ updated: 2026-04-03T19:47:00
 ## Jurisprudência (STF)
 
 - [[Súmula Vinculante 52]]
-- **Súmula STJ 160** – É defeso, ao Município, atualizar o IPTU (BC), mediante decreto, em percentual superior ao índice oficial de correção monetária.
-- **_Súmula STF 539 -_** É constitucional a lei do município que **reduz o IPTU sobre imóvel ocupado pela residência do proprietário**, que ==não possua outro==.
-- **Súmula STJ 614** - O locatário não possui legitimidade ativa para discutir a relação jurídico-tributária de IPTU e de taxas referentes ao imóvel alugado nem para repetir indébito desses tributos. 
-- **Súmula STF 668** - É inconstitucional a lei municipal que tenha estabelecido, antes da Emenda Constitucional 29/2000, alíquotas progressivas para o IPTU, salvo se destinada a assegurar o cumprimento da função social da propriedade urbana.
-- **STF RE 602347** - Declarada inconstitucional, o IPTU ainda poderá ser cobrado, considerando a menor alíquota prevista na lei tributária que previa a progressividade.
+- [[Súmula 160 STJ]]
+- [[Súmula 539 STF]]
+- [[Súmula 614 STJ]]
+- [[Súmula 668 STF]]
+- [[RE 602347 STF]]
 - **Decreto Lei 57/66** -  ainda que o imóvel fique localizado em área urbana, se for **utilizado em exploração extrativa vegetal, agrícola, pecuária ou agro-industrial**, ==não incidirá IPTU== e sim **ITR** e demais tributos com o mesmo cobrados.
 
 ---
