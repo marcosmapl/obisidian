@@ -71,36 +71,18 @@ Para **LEGISLAR** sobre Direito Tributário
 
 - Tributos (conforme Art. 47 da CF/88)
 
----
-## Residual
+### Residual
 
 - Novos Impostos
 - Novas Contribuições para Seguridade Social
 
----
-## Extraordinária
+### Extraordinária
 
 - Imposto Extraordinário de Guerra (IEG)
 
----
-## Compartilhada
+### Compartilhada
 
 - Imposto sobre Bens e Serviços (IBS)
----
-## Limites à Competência Tributária
-
-- **Princípios constitucionais tributários**;
-- **Imunidades tributárias**;
-- **Repartição constitucional de competências**;
-- **Normas gerais de Direito Tributário**.
-
----
-## Pontos de Prova
-
-- Competência **não se presume**;
-- Lei infraconstitucional **não cria competência**;
-- Competência ≠ obrigação de tributar;
-- Imunidade atua como **limitação da competência**.
 
 ---
 ## Resumindo

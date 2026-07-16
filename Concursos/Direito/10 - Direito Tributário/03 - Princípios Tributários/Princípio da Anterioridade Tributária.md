@@ -47,22 +47,25 @@ updated: 2026-01-05T05:25:00
 
 ![[Pasted image 20260711175528.png]]
 
-### ❌ Não se sujeitam à ambos (5)
+### ❌ Não se sujeitam à Anterioridade Anual (4)
+
 - **II**
 - **IE**
 - **IOF**
 - **IEG**
-- **EC-GC**
-
-### ❌ Não se sujeitam à Anterioridade Anual (4)
-
+- **Empréstimos Compulsórios (Guerra)**
 - **IPI**
 -  **Contribuições para a seguridade social** (regra própria)
-- **ICMS-Combustível**
-- **CIDE-Combustível**
+- **ICMS-Combustível** (Redução e reestabelecimento de alíquotas)
+- **CIDE-Combustível** (Redução e reestabelecimento de alíquotas)
 
 ### ❌ Não se sujeitam à Anterioridade Nonagesimal (3)
 
+- **II**
+- **IE**
+- **IOF**
+- **IEG**
+- **Empréstimos Compulsórios (Guerra)**
 - **IR**
 - **IPVA (BC)**
 - **IPTU (BC)**
@@ -75,20 +78,7 @@ updated: 2026-01-05T05:25:00
 - Revogação de Isenção
 - Redução ou extinção
 
----
-## Observações Relevantes
-
-- Contribuições sociais **não se submetem à anterioridade anual**, mas **se submetem à noventena** (art. 195, §6º, CF);
-- A anterioridade protege contra **instituição e majoração**, não contra redução ou extinção;
-- Alteração de base de cálculo que implique aumento indireto **submete-se à anterioridade**.
-
----
-## Pontos de Prova
-
-- Anterioridade ≠ Legalidade;
-- Exceções são **taxativas**;
-- Regra do **prazo mais longo**;
-- Violações geram **inconstitucionalidade da cobrança**.
+[[Súmula Vinculante 50 (STF)]]
 
 ---
 ## Tópicos Relacionados

@@ -10,14 +10,12 @@ updated: 2026-01-05T05:40:00
 > [!note] Princípio da Irretroatividade Tributária
 > É o princípio constitucional que **veda a aplicação de lei tributária a fatos geradores ocorridos antes do início de sua vigência**, impedindo a **cobrança retroativa de tributos**.
 
+> [!note] CF 88 Art. 150, III, "a"
+>Sem prejuízo de outras garantias asseguradas ao contribuinte, é vedado à União, aos Estados, ao Distrito Federal e aos Municípios:
+>III - cobrar tributos:
+>a) em relação a fatos geradores ocorridos antes do início da vigência da lei que os houver instituído ou aumentado;
+
 > [!tip] O contribuinte só pode ser tributado com base em **lei anterior ao fato gerador**.
-
-#direito/tributario/principio_irretroatividade
-
----
-## Fundamento Constitucional
-
-- **Art. 150, III, “a”, da Constituição Federal**
 
 ---
 ## Conteúdo do Princípio

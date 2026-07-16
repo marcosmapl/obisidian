@@ -49,9 +49,9 @@ updated: 2026-04-03T19:47:00
 ---
 ## Jurisprudência (STF)
 
-- [[Súmula Vinculante 52]]
-- [[Súmula 160 STJ]]
-- [[Súmula 539 STF]]
+- [[Súmula Vinculante 52 (STF)]]
+- [[Súmula 160 (STJ)]]
+- [[Súmula  Vinculante 539 (STF)]]
 - [[Súmula 614 STJ]]
 - [[Súmula 668 STF]]
 - [[RE 602347 STF]]

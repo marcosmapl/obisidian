@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Contabilidade Geral/05 - Ativo/Custos Mercadoria Vendida.md",
+                "file": "Concursos/Direito/10 - Direito Tributário/03 - Princípios Tributários/Princípio da Imunidade Recíproca.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Custos Mercadoria Vendida"
+              "title": "Princípio da Imunidade Recíproca"
             }
           }
         ],
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "CMV",
+                "query": "DRE",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,12 +75,11 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 332.5110321044922
+    "width": 434.5110321044922
   },
   "right": {
     "id": "4ab4bb61d64fd956",
@@ -271,6 +270,16 @@
             "id": "b00f24717982bd98",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "0ac3682a23f73870",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -278,7 +287,7 @@
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "horizontal",
@@ -300,36 +309,36 @@
   },
   "active": "88ff6ffc2d62f148",
   "lastOpenFiles": [
-    "Concursos/Contabilidade Geral/08 - Demonstração do Resultado do Exercício (DRE)/Demonstração do Resultado do Exercício (DRE).md",
-    "Media/Pasted image 20260715150413.png",
-    "Concursos/Contabilidade Geral/04 - Balanço Patrimonial (BP)/Balanço Patrimonial.md",
-    "Concursos/Contabilidade Geral/04 - Balanço Patrimonial (BP)/MOC — Balanço Patrimonial.md",
-    "Concursos/Contabilidade Geral/08 - Demonstração do Resultado do Exercício (DRE)/MOC — Demonstração do Resultado do Exercício (DRE).md",
-    "Concursos/Contabilidade Geral/04 - Balanço Patrimonial (BP)/Valor Justo.md",
-    "Concursos/Contabilidade Geral/07 - Patrimônio Líquido/Ajustes de Avaliação Patrimonial.md",
-    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 214 2025/Alíquotas (IBS e CBS).md",
-    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 214 2025/MOC — Lei Complementar nº 214 de 2025.md",
-    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 214 2025/Base de Cálculo (IBS e CBS).md",
-    "Concursos/Direito/10 - Direito Tributário/03 - Princípios Tributários/Princípio da Vedação às Isenções Heterônomas.md",
-    "Concursos/Direito/10 - Direito Tributário/03 - Princípios Tributários/MOC — Princípios Tributários.md",
-    "Concursos/Direito/10 - Direito Tributário/03 - Princípios Tributários/Princípio do Não Confisco.md",
+    "Concursos/Direito/10 - Direito Tributário/05 - Limitações do Poder de Tributar/MOC — Limitações do Poder de Tributar.md",
+    "Concursos/Direito/10 - Direito Tributário/03 - Princípios Tributários/Princípio do Pecúnia Non Olet.md",
+    "Concursos/Direito/10 - Direito Tributário/05 - Limitações do Poder de Tributar/Limitações ao Poder de Tributar.md",
     "Concursos/Direito/10 - Direito Tributário/03 - Princípios Tributários/Princípio da Anterioridade Tributária.md",
+    "Concursos/Direito/10 - Direito Tributário/03 - Princípios Tributários/Princípio da Irretroatividade Tributária.md",
     "Concursos/Direito/10 - Direito Tributário/18 - Jurisprudência/MOC — Jurisprudência e Súmulas Vinculantes em Matéria Tributária.md",
-    "Concursos/Direito/10 - Direito Tributário/18 - Jurisprudência/RE 1.253.706/RE 1.253.706 RS STF.md",
+    "Concursos/Direito/10 - Direito Tributário/18 - Jurisprudência/Súmula Vinculante 52 (STF).md",
+    "Concursos/Direito/10 - Direito Tributário/18 - Jurisprudência/Súmula Vinculante 41 (STF).md",
+    "Concursos/Direito/10 - Direito Tributário/18 - Jurisprudência/Súmula Vinculante 29 (STF).md",
+    "Concursos/Direito/10 - Direito Tributário/18 - Jurisprudência/Súmula Vinculante 19 (STF).md",
+    "Concursos/Direito/10 - Direito Tributário/18 - Jurisprudência/Súmula  Vinculante 539 (STF).md",
+    "Concursos/Direito/10 - Direito Tributário/18 - Jurisprudência/Súmula 160 (STJ).md",
+    "Concursos/Direito/10 - Direito Tributário/18 - Jurisprudência/Súmula Vinculante 50 (STF).md",
+    "Concursos/Direito/10 - Direito Tributário/03 - Princípios Tributários/MOC — Princípios Tributários.md",
+    "Concursos/Direito/10 - Direito Tributário/03 - Princípios Tributários/Princípio da Legalidade Tributária.md",
+    "Concursos/Direito/10 - Direito Tributário/04 - Competência Tributária/MOC — Competência Tributária.md",
+    "Concursos/Direito/10 - Direito Tributário/04 - Competência Tributária/Bitributação e Bis in Idem.md",
+    "Concursos/Direito/10 - Direito Tributário/04 - Competência Tributária/Competência Tributária — Conceito.md",
+    "Concursos/Direito/10 - Direito Tributário/04 - Competência Tributária/Competência Tributária dos Impostos.md",
+    "Concursos/Direito/10 - Direito Tributário/04 - Competência Tributária/Competência Tributária das Contribuições Especiais.md",
+    "Concursos/Direito/10 - Direito Tributário/04 - Competência Tributária/Características da Competência Tributária.md",
+    "Concursos/Direito/10 - Direito Tributário/04 - Competência Tributária/Classificação da Competência Tributária.md",
+    "Concursos/Direito/10 - Direito Tributário/18 - Jurisprudência/Jurisprudência sobre o Ônus da Prova.md",
+    "Concursos/Direito/10 - Direito Tributário/18 - Jurisprudência/RE 1.417.155 RN STF.md",
+    "Concursos/Direito/10 - Direito Tributário/18 - Jurisprudência/RE 1.253.706 RS STF.md",
+    "Concursos/Direito/10 - Direito Tributário/18 - Jurisprudência/ADI 3.717.md",
+    "Media/Pasted image 20260715150413.png",
     "Concursos/Direito/10 - Direito Tributário/18 - Jurisprudência/RE 1.253.706",
     "Media/Pasted image 20260711175528.png",
     "Media/Pasted image 20260711175505.png",
-    "Concursos/Direito/10 - Direito Tributário/03 - Princípios Tributários/Princípio da Legalidade Tributária.md",
-    "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/Imposto sobre a Propriedade Predial e Territorial Urbana (IPTU).md",
-    "Concursos/Direito/10 - Direito Tributário/18 - Jurisprudência/RE 602347 STF.md",
-    "Concursos/Direito/10 - Direito Tributário/18 - Jurisprudência/Súmula 668 STF.md",
-    "Concursos/Direito/10 - Direito Tributário/18 - Jurisprudência/Súmula 614 STJ.md",
-    "Concursos/Direito/10 - Direito Tributário/18 - Jurisprudência/Súmula 539 STF.md",
-    "Concursos/Direito/10 - Direito Tributário/18 - Jurisprudência/Súmula 160 STJ.md",
-    "Concursos/Direito/10 - Direito Tributário/06 - Tributos/Contribuições de Melhoria.md",
-    "Concursos/Direito/10 - Direito Tributário/06 - Tributos/Taxa — Conceito.md",
-    "Concursos/Direito/10 - Direito Tributário/18 - Jurisprudência/Súmula Vinculante 29.md",
-    "Concursos/Direito/10 - Direito Tributário/06 - Tributos/MOC — Tributos - Conceito e Espécies.md",
     "Media/8e4a80e9-a047-4fff-b99d-639cedfc0d01.png",
     "Media/Pasted image 20260709213801.png",
     "Concursos/Auditoria/14 - Processamento Eletrônico de Dados (PED)",

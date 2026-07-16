@@ -12,8 +12,6 @@ updated: 2026-01-05T05:45:00
 
 > [!tip] O tributo incide sobre o **fato econômico**, não sobre a moralidade da origem do dinheiro.
 
-#direito/tributario/pecunia_non_olet
-
 ---
 ## Fundamento
 

@@ -10,18 +10,17 @@ updated: 2025-12-23T00:00:00
 
 ## Índice
 
-### Conceito
-
-- [[Limitações ao Poder de Tributar]]
-
 ### Princípios Constitucionais Tributários
 
-- [[Princípio da Legalidade Tributária]]
 - [[Princípio da Anterioridade Tributária]]
-- [[Princípio da Isonomia Tributária]]
 - [[Princípio da Capacidade Contributiva]]
-- [[Princípio do Não Confisco]]
 - [[Princípio da Irretroatividade Tributária]]
+- [[Princípio da Isonomia Tributária]]
+- [[Princípio da Legalidade Tributária]]
+- [[Princípio da Territorialidade]]
+- [[Princípio da Imunidade Recíproca]]
+- [[Princípio do Não Confisco]]
+- [[Princípio do Pecúnia Non Olet]]
 
 ### Imunidades Tributárias
 
