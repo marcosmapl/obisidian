@@ -5,22 +5,11 @@ created: 2026-01-05T05:15:00
 updated: 2026-06-18T05:20:00
 ---
 
-## Conceito
+## Previsão Legal
 
-> [!note] Princípio da Legalidade Tributária
-> Art. 150 CF/88 Sem prejuízo de outras garantias asseguradas ao contribuinte, é ==vedado à União, aos Estados, ao Distrito Federal e aos Municípios==:
+> [!note] CF/88 Art. 150
+> Sem prejuízo de outras garantias asseguradas ao contribuinte, é ==vedado à União, aos Estados, ao Distrito Federal e aos Municípios==:
 > I - **exigir ou aumentar tributo sem lei** que o estabeleça;.
-
-> [!tip] No Direito Tributário, **não há tributo sem lei anterior que o estabeleça**.
-
----
-## Fundamento Constitucional
-
-- **Art. 150, I, da Constituição Federal**
-- **Art. 97 do Código Tributário Nacional**
-
----
-## Conteúdo do Princípio
 
 > [!note] Art. 97. Somente a lei pode estabelecer:
 > I - a **instituição** de tributos, ou a sua **extinção**;

@@ -11,7 +11,7 @@ updated: 2025-12-23T00:00:00
 > Art. 77, CTN - As **taxas** cobradas pela União, Estados, Distrito Federal ou Municípios, no âmbito de suas respectivas atribuições, têm como **Fato Gerador** o **exercício regular do poder de polícia, ou a utilização efetiva ou potencial, de serviço público específico e divisível, prestado ao contribuinte ou posto a sua disposção**.
 
 > [!important] Base de cálculo
-> Art. 145, § 2º da CF/88 - As taxas não podem ter base de cálculo própria de impostos. Contudo o STF entende que é constitucional a adoção de um ou mais elementos da base de cálculo própria de um imposto, desde que não sejam todos os elementos ([[Súmula Vinculante 29]])
+> Art. 145, § 2º da CF/88 - As taxas não podem ter base de cálculo própria de impostos. Contudo o STF entende que é constitucional a adoção de um ou mais elementos da base de cálculo própria de um imposto, desde que não sejam todos os elementos ([[Súmula Vinculante 29 (STF)]])
 
 ---
 ## Característica
@@ -57,8 +57,10 @@ O contribuinte ==não poderá fazer opção por não receber determinada presta�
 ---
 ## Jurisprudência
 
-- [[Súmula Vinculante 19]]
-- [[Súmula Vinculante 41]]
+- [[Súmula Vinculante 19 (STF)]] (Coleta de Lixo)
+- [[Súmula Vinculante 41 (STF)]]
+- [[RE 1.417.155 RN STF]] (Combate à Incêndio)
+- [[ADI 3.717]] (Eventos esportivos e de Lazer)
 
 
 > [!note] Taxa de Polícia
@@ -70,11 +72,16 @@ O contribuinte ==não poderá fazer opção por não receber determinada presta�
 > [!note] Base de Cálculo de Imposto
 > SV 29 - É **constitucional** a adoção, no cálculo do valor de taxa, de um ou mais elementos da **base de cálculo** própria de determinado imposto, desde que não haja integral identidade entre uma base e outra.
 
-> [!note] Taxa de Combate e Prevênção a Incêndios
-> Não cabe cobrança de taxa por ser serviço geral e indivisível relacionado à segurança pública (RE 1.179.245/MT)
-
 > [!note] Taxa de Recursos Minerários
 > É **constitucional** taxa de polícia para acompanhamento e fiscalização das atividades de pesquisa, lavra, exploração ou aproveitamento de **recursos minerários**. Sendo de competência **Estadual** e podendo ser proporcional ao **volume de minérios extraídos**.
+
+---
+## Imunidades Constitucionais
+
+> [!note] CF/88 Art. 5º XXXIV
+> São a todos assegurados, **independentemente** do pagamento de taxas:
+> a) o **direito de petição** aos Poderes Públicos em defesa de direitos ou contra ilegalidade ou abuso de poder;
+> b) a **obtenção de certidões** em repartições públicas, para defesa de direitos e esclarecimento de situações de interesse pessoal;
 
 ---
 ## Tópicos Relacionados
