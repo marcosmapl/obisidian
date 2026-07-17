@@ -51,8 +51,8 @@ updated: 2026-01-17T16:00:00
 ---
 ## Tópicos Relacionados
 
-- [[Função Referencial]]
-- [[Função Conativa ou Apelativa]]
+- [[Função Denotativa (Referencial)]]
+- [[Função Conativa (Apelativa)]]
 - [[Função Fática]]
 - [[Função Metalinguística]]
 - [[Função Poética]]

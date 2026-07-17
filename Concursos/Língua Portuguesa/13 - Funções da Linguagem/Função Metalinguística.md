@@ -50,8 +50,8 @@ Nesse caso, o texto fala **sobre o próprio sistema de signos** que está sendo 
 ---
 ## Tópicos Relacionados
 
-- [[Função Referencial]]
-- [[Função Emotiva ou Expressiva]]
-- [[Função Conativa ou Apelativa]]
+- [[Função Denotativa (Referencial)]]
+- [[Função Emotiva (Expressiva)]]
+- [[Função Conativa (Apelativa)]]
 - [[Função Fática]]
 - [[Função Poética]]

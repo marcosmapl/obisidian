@@ -8,11 +8,10 @@ updated: 2026-01-17T16:00:00
 ## Índice
 
 - [[Funções da Linguagem — Conceito]]
-- [[Função Referencial]]
-- [[Função Emotiva ou Expressiva]]
-- [[Função Conativa ou Apelativa]]
-- [[Função Fática]]
-- [[Função Metalinguística]]
-- [[Função Poética]]
+- [[Função Denotativa (Referencial)]] >> Foco no **objeto**
+- [[Função Emotiva (Expressiva)]] >> Foco no **emissor**
+- [[Função Conativa (Apelativa)]] >> Foco no **receptor**
+- [[Função Metalinguística]] >> Foco no **código**
+- [[Função Fática]] >> Foco no **canal**
+- [[Função Poética]] >> Foco no **estética**
 
-#portugues/funcoes-da-linguagem

@@ -6,9 +6,8 @@ updated: 2025-12-23T14:52:09
   - portugues/semantica
 ---
 
-## 🔸 Semântica
+## Índice
 
-- [[Significação das Palavras]]
 - [[Sinonímia e Antonímia]]
 - [[Polissemia]]
 - [[Homonímia]]
@@ -18,10 +17,8 @@ updated: 2025-12-23T14:52:09
 - [[Ambiguidade]]
 - [[Sentido Literal e Figurado]]
 
-#portugues/semantica
-
 ---
-## 🔸 Significado das Palavras
+## Significado das Palavras
 
 > [!info] Semântica
 > **Semântica** é o estudo do significado das palavras e das relações de sentido entre elas.

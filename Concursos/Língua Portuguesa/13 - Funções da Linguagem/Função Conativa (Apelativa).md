@@ -51,8 +51,8 @@ updated: 2026-01-17T16:05:00
 ---
 ## Tópicos Relacionados
 
-- [[Função Referencial]]
-- [[Função Emotiva ou Expressiva]]
+- [[Função Denotativa (Referencial)]]
+- [[Função Emotiva (Expressiva)]]
 - [[Função Fática]]
 - [[Função Metalinguística]]
 - [[Função Poética]]

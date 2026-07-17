@@ -48,9 +48,9 @@ updated: 2026-01-17T16:00:00
 ## Tópicos Relacionados
 
 - [[Texto Dissertativo]]
-- [[Função Referencial]]
-- [[Função Emotiva ou Expressiva]]
-- [[Função Conativa ou Apelativa]]
+- [[Função Denotativa (Referencial)]]
+- [[Função Emotiva (Expressiva)]]
+- [[Função Conativa (Apelativa)]]
 - [[Função Fática]]
 - [[Função Metalinguística]]
 - [[Função Poética]]
