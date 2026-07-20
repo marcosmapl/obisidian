@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Direito/06 - Direito Civil/02 - Das Pessoas Naturais/Pessoas Naturais e Jurídicas.md",
+                "file": "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 214 2025/Sujeição Passiva (IBS e CBS).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pessoas Naturais e Jurídicas"
+              "title": "Sujeição Passiva (IBS e CBS)"
             }
           }
         ],
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314.5110321044922,
-    "collapsed": true
+    "width": 506.51103591918945
   },
   "right": {
     "id": "4ab4bb61d64fd956",
@@ -291,6 +290,26 @@
             "id": "61fd75cf0c862e79",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "9a66193a6c97489f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "656e816743ff1f5f",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -298,7 +317,7 @@
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 19
       }
     ],
     "direction": "horizontal",
@@ -320,51 +339,51 @@
   },
   "active": "88ff6ffc2d62f148",
   "lastOpenFiles": [
+    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 214 2025/Fornecimento Conjunto.md",
+    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 214 2025/Flashcards — LC 214 2025.md",
+    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 214 2025/Domicílio Principal.md",
+    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 214 2025/Disposições Preliminares.md",
+    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/Regra Matriz de Incidência Tributária (RMIT).md",
+    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/Lei Complementar nº 227 de 2026.md",
+    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 214 2025/Local da Operação (IBS e CBS).md",
+    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 214 2025/MOC — Lei Complementar nº 214 de 2025.md",
+    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 214 2025/Momento da Ocorrência do Fato Gerador (IBS e CBS).md",
+    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 214 2025/Ordem de Prevalência de um Benefício Fiscal.md",
+    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 214 2025/Sujeição Passiva (IBS e CBS).md",
+    "Media/Pasted image 20260719214232.png",
+    "Concursos/Direito/05 - Direito Administrativo/04 - Organização Administrativa/Órgãos Públicos.md",
+    "Concursos/Direito/05 - Direito Administrativo/04 - Organização Administrativa/MOC — Organização Administrativa.md",
+    "Concursos/Direito/05 - Direito Administrativo/04 - Organização Administrativa/Descentralização.md",
+    "Concursos/Direito/06 - Direito Civil/99 - Jurisprudência e Precedentes/MOC — Jurisprudência e Precedentes em Direito Civil.md",
+    "Concursos/Direito/06 - Direito Civil/99 - Jurisprudência e Precedentes/REsp 1297660 RS.md",
+    "Concursos/Direito/13 - Jurisprudência e Precedentes/MOC — Jurisprudência e Precedentes.md",
+    "Concursos/Direito/06 - Direito Civil/99 - Jurisprudência e Precedentes/Súmula 331 (STF).md",
+    "Concursos/Direito/06 - Direito Civil/99 - Jurisprudência e Precedentes",
+    "Concursos/Direito/06 - Direito Civil/99 - Jurisprudência e Precedentes/Súmula 403 (STJ).md",
+    "Concursos/Direito/06 - Direito Civil/99 - Jurisprudência e Precedentes/Súmula 221 (STJ).md",
+    "Concursos/Direito/06 - Direito Civil/02 - Das Pessoas Naturais/Direitos de Personalidade.md",
+    "Media/Pasted image 20260719202633.png",
+    "Media/Pasted image 20260717234300.png",
+    "Media/Pasted image 20260717233858.png",
+    "Media/Pasted image 20260717231854.png",
+    "Media/Pasted image 20260717224941.png",
+    "Media/Pasted image 20260717223045.png",
+    "Concursos/Direito/06 - Direito Civil/02 - Das Pessoas Naturais/MOC — Das Pessoas Naturais.md",
+    "Concursos/Direito/06 - Direito Civil/MOC — Direito Civil.md",
+    "Concursos/Direito/06 - Direito Civil/02 - Das Pessoas Naturais/Pessoas Naturais e Jurídicas.md",
     "Media/Pasted image 20260717170410.png",
     "Media/Pasted image 20260717170403.png",
     "Media/Pasted image 20260717170237.png",
-    "Media/Pasted image 20260717170156.png",
-    "Media/Pasted image 20260717165047.png",
-    "Media/Pasted image 20260717162121.png",
-    "Media/Pasted image 20260717154722.png",
     "Pessoas Naturais e Jurídicas.md",
-    "Concursos/Direito/06 - Direito Civil/MOC — Direito Civil.md",
-    "Concursos/Direito/06 - Direito Civil/02 - Das Pessoas Naturais/Pessoas Naturais e Jurídicas.md",
     "Concursos/Direito/06 - Direito Civil/01 - Origem e Princípios/Código Civil.md",
     "Concursos/Direito/06 - Direito Civil/02 - Das Pessoas Naturais",
-    "Concursos/Direito/06 - Direito Civil/01 - Origem e Princípios/Lei de Introdução às Normas do Direito Brasileiro (LINDB).md",
-    "Concursos/Língua Portuguesa/14 - Figuras de Linguagem/MOC — Figuras de Linguagem.md",
     "Concursos/Direito/06 - Direito Civil/01 - Origem e Princípios",
-    "Concursos/Língua Portuguesa/14 - Figuras de Linguagem/Paronomásia.md",
-    "Concursos/Língua Portuguesa/14 - Figuras de Linguagem/Onomatopeia.md",
-    "Concursos/Língua Portuguesa/14 - Figuras de Linguagem/Assonância.md",
-    "Concursos/Língua Portuguesa/14 - Figuras de Linguagem/Aliteração.md",
-    "Concursos/Língua Portuguesa/14 - Figuras de Linguagem/Hipérbato.md",
-    "Concursos/Língua Portuguesa/14 - Figuras de Linguagem/Assíndeto.md",
-    "Concursos/Língua Portuguesa/14 - Figuras de Linguagem/Polissíndeto.md",
-    "Concursos/Língua Portuguesa/14 - Figuras de Linguagem/Anáfora.md",
-    "Concursos/Língua Portuguesa/14 - Figuras de Linguagem/Pleonasmo.md",
-    "Concursos/Língua Portuguesa/14 - Figuras de Linguagem/Zeugma.md",
-    "Concursos/Língua Portuguesa/14 - Figuras de Linguagem/Elipse.md",
-    "Concursos/Língua Portuguesa/14 - Figuras de Linguagem/Gradação.md",
-    "Concursos/Língua Portuguesa/14 - Figuras de Linguagem/Prosopopeia.md",
-    "Concursos/Língua Portuguesa/14 - Figuras de Linguagem/Hipérbole.md",
-    "Concursos/Língua Portuguesa/14 - Figuras de Linguagem/Eufemismo.md",
-    "Concursos/Língua Portuguesa/14 - Figuras de Linguagem/Paradoxo.md",
-    "Concursos/Língua Portuguesa/14 - Figuras de Linguagem/Antítese.md",
-    "Concursos/Língua Portuguesa/14 - Figuras de Linguagem/Ironia.md",
-    "Concursos/Língua Portuguesa/14 - Figuras de Linguagem/Perífrase.md",
-    "Media/Pasted image 20260715150413.png",
     "Concursos/Direito/10 - Direito Tributário/18 - Jurisprudência/RE 1.253.706",
-    "Media/Pasted image 20260711175528.png",
-    "Media/Pasted image 20260711175505.png",
-    "Media/8e4a80e9-a047-4fff-b99d-639cedfc0d01.png",
     "Concursos/Auditoria/14 - Processamento Eletrônico de Dados (PED)",
     "Concursos/Auditoria/13 - Contingências e Estimativas Contábeis",
     "Concursos/Contabilidade Geral/13 - Princípios Contábeis",
     "Concursos/Contabilidade Geral/12 - Demonstração do Valor Adicionado (DVA)",
     "Concursos/Contabilidade Geral/11 - Demonstração dos Fluxos de Caixa (DFC)",
-    "Concursos/Contabilidade Geral/10 - Demonstração das Mutações do Patrimônio Líquido (DMPL)",
-    "Concursos/Contabilidade Geral/09 - Demonstração de Lucros ou Prejuízos Acumulados (DLPA)"
+    "Concursos/Contabilidade Geral/10 - Demonstração das Mutações do Patrimônio Líquido (DMPL)"
   ]
 }

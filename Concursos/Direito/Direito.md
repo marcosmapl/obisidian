@@ -23,7 +23,7 @@ updated: 2025-12-29T19:51:00
 
 ### 5. [[MOC — Direito Administrativo]]
 
-### 6. [[MOC — Direito Civil]]
+### 6. [[Concursos/Direito/06 - Direito Civil/MOC — Direito Civil]]
 
 ### 7. [[MOC — Direito Processual Civil]]
 

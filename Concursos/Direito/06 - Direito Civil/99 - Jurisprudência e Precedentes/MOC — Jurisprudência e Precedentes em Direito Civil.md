@@ -1,20 +1,26 @@
----
-disciplina: Direito
-tópico: Jurisprudência e Precedentes
-created: 2025-12-23T00:00:00
-updated: 2025-12-30T08:55:20
-  - direito/jurisprudencia
----
 
 ## Jurisprudência e Precedentes
 
-- [[Súmulas Vinculantes]]
-- [[Súmulas do STF]]
-- [[Súmulas do STJ]]
-- [[Repercussão Geral]]
-- [[Recursos Repetitivos]]
-- [[Jurisprudência dos Tribunais]]
+### Súmulas Vinculantes
 
+### Súmulas do STF
+
+- [[Súmula 331 (STF)]]
+
+### Súmulas do STJ
+
+- [[Súmula 221 (STJ)]]
+- [[Súmula 403 (STJ)]]
+
+### Repercussão Geral
+
+### Recursos Repetitivos
+
+### Recursos Especiais
+
+- [[REsp 1297660 RS]]
+
+### Jurisprudência dos Tribunais
 
 ---
 ## Sistema de Precedentes no Brasil

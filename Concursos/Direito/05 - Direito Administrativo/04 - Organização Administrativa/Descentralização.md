@@ -40,7 +40,24 @@ updated: 2026-06-23T11:10:45
 
 - Transfere a **execução** (Pessoas privadas)
 - Pode ocorrer por **Contrato (Bilateral)** ou **Ato Normativo (Unilateral)**
-- **Concessão**, **Permissão** e **Autorização**
+
+📍 A descentralização por delegação pode ocorrer por três modalidades: concessão, permissão e autorização de serviços públicos.
+
+**✔ Concessão:**
+
+- Firmada por **contrato administrativo** entre o poder público e um particular.
+- Exige **licitação**.
+- O **prazo de vigência é determinado** e há **cláusulas específicas de rescisão e modificação**.
+
+**✔ Permissão:**
+
+- Também ocorre por **contrato administrativo**, mas tem um regime mais **flexível e precário**.
+- O **prazo pode ser determinado ou indeterminado**, conforme o interesse da Administração.
+
+**✔ Autorização:**
+
+- Concedida por **ato unilateral da Administração**.
+- Tem **caráter precário**, **podendo ser revogada a qualquer momento sem direito a indenização**.
 
 #### Territorial ou geográfica.
 

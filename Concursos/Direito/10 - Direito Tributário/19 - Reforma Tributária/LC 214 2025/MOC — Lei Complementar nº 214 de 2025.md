@@ -18,6 +18,7 @@ updated: 2026-05-27T15:30:00
 - [[Momento da Ocorrência do Fato Gerador (IBS e CBS)]]
 - [[Base de Cálculo (IBS e CBS)]]
 - [[Alíquotas (IBS e CBS)]]
+- [[Sujeição Passiva (IBS e CBS)]]
 
 
 ---
