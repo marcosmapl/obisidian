@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 214 2025/Sujeição Passiva (IBS e CBS).md",
+                "file": "Concursos/Economia/04 - Elasticidades/Elasticidade - Preço da Demanda.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sujeição Passiva (IBS e CBS)"
+              "title": "Elasticidade - Preço da Demanda"
             }
           }
         ],
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "DRE",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -310,6 +310,16 @@
             "id": "656e816743ff1f5f",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "e2531c2b8c6824cb",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -317,7 +327,7 @@
             }
           }
         ],
-        "currentTab": 19
+        "currentTab": 20
       }
     ],
     "direction": "horizontal",
@@ -339,51 +349,51 @@
   },
   "active": "88ff6ffc2d62f148",
   "lastOpenFiles": [
-    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 214 2025/Fornecimento Conjunto.md",
-    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 214 2025/Flashcards — LC 214 2025.md",
-    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 214 2025/Domicílio Principal.md",
-    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 214 2025/Disposições Preliminares.md",
-    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/Regra Matriz de Incidência Tributária (RMIT).md",
-    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/Lei Complementar nº 227 de 2026.md",
-    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 214 2025/Local da Operação (IBS e CBS).md",
-    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 214 2025/MOC — Lei Complementar nº 214 de 2025.md",
-    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 214 2025/Momento da Ocorrência do Fato Gerador (IBS e CBS).md",
-    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 214 2025/Ordem de Prevalência de um Benefício Fiscal.md",
-    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 214 2025/Sujeição Passiva (IBS e CBS).md",
+    "Media/Pasted image 20260720165451.jpg",
+    "Concursos/Economia/04 - Elasticidades/Elasticidade - Renda da Demanda.md",
+    "Concursos/Economia/04 - Elasticidades/Elasticidade - Preço da Oferta.md",
+    "Concursos/Economia/04 - Elasticidades/Elasticidade - Preço da Demanda.md",
+    "Concursos/Economia/04 - Elasticidades/Elasticidade - Cruzada.md",
+    "Media/Pasted image 20260720165048.jpg",
+    "Concursos/Economia/04 - Elasticidades/MOC — Elasticidades.md",
+    "Concursos/Economia/01 - Conceitos Fundamentais/Oferta.md",
+    "Concursos/Economia/01 - Conceitos Fundamentais/Demanda.md",
+    "Media/Pasted image 20260720162932.jpg",
+    "Concursos/Economia/01 - Conceitos Fundamentais/Bens de Giffen.md",
+    "Media/Pasted image 20260720162203.jpg",
+    "Concursos/Economia/01 - Conceitos Fundamentais/Bens Inferiores.md",
+    "Concursos/Economia/01 - Conceitos Fundamentais/Bens Complementares.md",
+    "Concursos/Economia/01 - Conceitos Fundamentais/Bens Substitutos.md",
+    "Concursos/Economia/01 - Conceitos Fundamentais/Bens Essenciais.md",
+    "Concursos/Economia/01 - Conceitos Fundamentais/Bens Normais.md",
+    "Concursos/Economia/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais.md",
+    "Media/Pasted image 20260720160511.jpg",
+    "Concursos/Economia/03 - Modelos Econômicos/MOC — Modelos Econômicos.md",
+    "Concursos/Economia/Economia.md",
+    "Concursos/Economia/02 - Princípios Econômicos/MOC — Princípios econômicos.md",
+    "Concursos/Economia/04 - Elasticidades",
+    "Concursos/Direito/12 - Direito Empresarial/01 - Direito de Empresa/Prepostos.md",
+    "Concursos/Direito/12 - Direito Empresarial/01 - Direito de Empresa/MOC — Direito de Empresa.md",
+    "Concursos/Direito/12 - Direito Empresarial/01 - Direito de Empresa/Registro da Empresa.md",
+    "Concursos/Direito/12 - Direito Empresarial/01 - Direito de Empresa/Empresa (Conceito).md",
+    "Concursos/Direito/12 - Direito Empresarial/01 - Direito de Empresa/Empresário (Conceito).md",
+    "Concursos/Direito/12 - Direito Empresarial/01 - Direito de Empresa/Fontes do Direito Empresarial.md",
+    "Concursos/Direito/12 - Direito Empresarial/03 - Dos Institutos Complementares/MOC — Dos Institutos Complementares.md",
+    "Concursos/Direito/12 - Direito Empresarial/02 - Princípios do Direito Empresarial/MOC — Princípios do Direito Empresarial.md",
+    "Concursos/Direito/12 - Direito Empresarial/03 - Dos Institutos Complementares",
     "Media/Pasted image 20260719214232.png",
-    "Concursos/Direito/05 - Direito Administrativo/04 - Organização Administrativa/Órgãos Públicos.md",
-    "Concursos/Direito/05 - Direito Administrativo/04 - Organização Administrativa/MOC — Organização Administrativa.md",
-    "Concursos/Direito/05 - Direito Administrativo/04 - Organização Administrativa/Descentralização.md",
-    "Concursos/Direito/06 - Direito Civil/99 - Jurisprudência e Precedentes/MOC — Jurisprudência e Precedentes em Direito Civil.md",
-    "Concursos/Direito/06 - Direito Civil/99 - Jurisprudência e Precedentes/REsp 1297660 RS.md",
-    "Concursos/Direito/13 - Jurisprudência e Precedentes/MOC — Jurisprudência e Precedentes.md",
-    "Concursos/Direito/06 - Direito Civil/99 - Jurisprudência e Precedentes/Súmula 331 (STF).md",
     "Concursos/Direito/06 - Direito Civil/99 - Jurisprudência e Precedentes",
-    "Concursos/Direito/06 - Direito Civil/99 - Jurisprudência e Precedentes/Súmula 403 (STJ).md",
-    "Concursos/Direito/06 - Direito Civil/99 - Jurisprudência e Precedentes/Súmula 221 (STJ).md",
-    "Concursos/Direito/06 - Direito Civil/02 - Das Pessoas Naturais/Direitos de Personalidade.md",
     "Media/Pasted image 20260719202633.png",
     "Media/Pasted image 20260717234300.png",
     "Media/Pasted image 20260717233858.png",
     "Media/Pasted image 20260717231854.png",
     "Media/Pasted image 20260717224941.png",
-    "Media/Pasted image 20260717223045.png",
-    "Concursos/Direito/06 - Direito Civil/02 - Das Pessoas Naturais/MOC — Das Pessoas Naturais.md",
-    "Concursos/Direito/06 - Direito Civil/MOC — Direito Civil.md",
-    "Concursos/Direito/06 - Direito Civil/02 - Das Pessoas Naturais/Pessoas Naturais e Jurídicas.md",
-    "Media/Pasted image 20260717170410.png",
-    "Media/Pasted image 20260717170403.png",
-    "Media/Pasted image 20260717170237.png",
-    "Pessoas Naturais e Jurídicas.md",
-    "Concursos/Direito/06 - Direito Civil/01 - Origem e Princípios/Código Civil.md",
     "Concursos/Direito/06 - Direito Civil/02 - Das Pessoas Naturais",
     "Concursos/Direito/06 - Direito Civil/01 - Origem e Princípios",
     "Concursos/Direito/10 - Direito Tributário/18 - Jurisprudência/RE 1.253.706",
     "Concursos/Auditoria/14 - Processamento Eletrônico de Dados (PED)",
     "Concursos/Auditoria/13 - Contingências e Estimativas Contábeis",
     "Concursos/Contabilidade Geral/13 - Princípios Contábeis",
-    "Concursos/Contabilidade Geral/12 - Demonstração do Valor Adicionado (DVA)",
-    "Concursos/Contabilidade Geral/11 - Demonstração dos Fluxos de Caixa (DFC)",
-    "Concursos/Contabilidade Geral/10 - Demonstração das Mutações do Patrimônio Líquido (DMPL)"
+    "Concursos/Contabilidade Geral/12 - Demonstração do Valor Adicionado (DVA)"
   ]
 }

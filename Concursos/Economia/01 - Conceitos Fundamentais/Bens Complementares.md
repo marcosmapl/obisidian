@@ -24,4 +24,8 @@ Exemplos:
 ---
 ## Tópicos Relacionados
 
+- [[Bens Normais]]
+- [[Bens Essenciais]]
+- [[Bens Inferiores]]
 - [[Bens Substitutos]]
+- [[Bens de Giffen]]

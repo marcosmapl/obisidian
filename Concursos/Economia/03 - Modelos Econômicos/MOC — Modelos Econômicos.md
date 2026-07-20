@@ -7,5 +7,5 @@ updated: 2026-05-28T23:30:00
 
 ## Índice
 
-- [[Curva de Possibilidades de Produção (CPP)]]
+### 01. [[Curva de Possibilidades de Produção (CPP)]]
 

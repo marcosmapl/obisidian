@@ -10,12 +10,21 @@ updated: 2026-06-21T11:25:00
 > [!note] Oferta
 > A oferta de um bem é a **quantidade que os produtores querem e podem vender.** 
 
+> [!tip] Na oferta vemos o lado do **vendedor (produtor, firma)**.
+
 ---
 ## Curva de Oferta
 
 É **crescente** / **ascendente** / **exponencial**
 
-![[Pasted image 20260621115453.png]]
+![[Pasted image 20260720162932.jpg]]
+
+> [!note] Função da Oferta
+> $$
+> Qo = x.P + y
+> $$
+
+> [!tip] A quantidade ofertada é função do preço da oferta.
 
 ---
 ## Fatores que afetam a Oferta

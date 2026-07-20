@@ -21,3 +21,5 @@ updated: 2026-05-29T08:22:48
 ### Dos Institutos Complementares (arts. 1.150 a 1.195 do CC)
 
 - [[Registro da Empresa]]
+- [[Nome Empresarial]]
+- [[Prepostos]]
