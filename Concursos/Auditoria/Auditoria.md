@@ -44,3 +44,14 @@ updated: 2026-07-03T00:00:00
 
 - [[Concursos/Auditoria/12 - Laudo e Parecer Pericial Contábil/MOC — Laudo e Parecer Pericial|MOC — Laudo e Parecer Pericial]]
 
+#### 1.6 Processamento Eletrônico de Dados (PED)
+
+- [[MOC — Processamento Eletrônico de Dados (PED)]]
+
+#### 1.7 Normas Brasileiras de Auditoria (CFC)
+
+- [[MOC — Normas Brasileiras de Auditoria]]
+#### 1.7 Contingências e Estimativas Contábeis
+
+- [[MOC — Contingências e Estimativas Contábeis]]
+

@@ -12,6 +12,6 @@ updated: 2026-01-26T09:57:34
 - [[Direito Objetivo]]
 - [[Direito Subjetivo]]
 - [[Direito Público]]
-- [[Direito Privado]]]]]]
+- [[Direito Privado]]
 - [[Ciência Jurídica]]
 - [[Sistema Jurídico]]

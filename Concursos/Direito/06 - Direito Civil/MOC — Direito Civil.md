@@ -10,13 +10,9 @@ updated: 2026-05-25T08:45:00
 
 ## Índice Geral
 
-- [[Código Civil]]
-- [[Lei de Introdução às Normas do Direito Brasileiro (LINDB)]]
-- [[Pessoas Naturais e Jurídicas]]
-- [[Bens]]
-- [[Fatos Jurídicos]]
-- [[Atos Jurídicos]]
-- [[Negócios Jurídicos]]
-- [[Prescrição e Decadência]]
-- [[Responsabilidade Civil]]
+### 1. [[MOC — Introdução ao Direito Civil]]
+
+### 2. [[MOC — Das Pessoas Naturais]]
+
+### 3. [[MOC — Jurisprudência e Precedentes em Direito Civil]]
 

@@ -14,8 +14,6 @@ updated: 2025-12-23T16:43:56
 - [[Normas Complementares do Auditor Independente]]
 - [[Estrutura das NBCs e Convergência com ISAs]]
 
-#auditoria/normas
-
 ---
 ## Normas Fundamentais
 
