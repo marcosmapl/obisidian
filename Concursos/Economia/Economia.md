@@ -17,3 +17,5 @@ updated: 2026-05-28T22:15:00
 ### 2. [[MOC — Princípios econômicos]]
 ### 3. [[MOC — Modelos Econômicos]]
 
+### 4. [[MOC — Elasticidades]]
+
