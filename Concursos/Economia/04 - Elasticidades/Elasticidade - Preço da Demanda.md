@@ -6,7 +6,7 @@ updated: 2026-07-20T16:00:00
 ---
 
 
-> [!note] Elasticidade Preço da Demanda
+> [!note] Elasticidade Preço da Demanda (EPD)
 > Mede quão sensíveis são os **consumidores a uma mudança no preço**.
 
 $$ Ed = \frac{ \% \Delta Q}{ \% \Delta P} $$
@@ -21,6 +21,12 @@ $$ Ed = \frac{ \% \Delta Q}{ \% \Delta P} $$
 ![[Pasted image 20260720165048.jpg]]
 
 ---
+## Interpretação Gráfica
+
+![[Pasted image 20260720215718.jpg]]
+
+
+---
 ## Determinantes da Elasticidade - Preço da Demanda
 
 Temos 4 principais fatores que determinam a elasticidade da demanda, são eles:
@@ -30,7 +36,6 @@ Temos 4 principais fatores que determinam a elasticidade da demanda, são eles:
 - **se estivermos considerando a curva de demanda de longo prazo, em vez da de curto prazo.**
 
 ![[Pasted image 20260720165451.jpg]]
-
 
 ---
 ## Tópicos Relacionados

@@ -18,3 +18,4 @@ updated: 2026-07-20T15:55:00
 
 ### 04. [[Elasticidade - Preço da Oferta]]
 
+---
