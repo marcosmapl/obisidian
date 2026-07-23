@@ -25,7 +25,7 @@ A atuação administrativa **não pertence ao agente**, mas **à Administração
 
 - [[Princípio da Moralidade]]
 - [[Princípio da Finalidade]]
-- [[Atos Administrativos]]
+- [[Ato Administrativo]]
 - [[Improbidade Administrativa]]
 - [[Controle da Administração Pública]]
 

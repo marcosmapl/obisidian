@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Auditoria/01 - Conceitos Fundamentais/Auditoria — Conceito.md",
+                "file": "Concursos/Direito/05 - Direito Administrativo/06 - Atos Administrativos/MOC — Atos Administrativos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Auditoria — Conceito"
+              "title": "MOC — Atos Administrativos"
             }
           }
         ],
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Processamento Elet",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 345.5110321044922
+    "width": 435.51103591918945
   },
   "right": {
     "id": "4ab4bb61d64fd956",
@@ -327,7 +327,17 @@
             }
           },
           {
-            "id": "7b1895fb433f809d",
+            "id": "93f77928ced1739b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "5bd7008d0da1d0f2",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -337,7 +347,7 @@
             }
           }
         ],
-        "currentTab": 21
+        "currentTab": 22
       }
     ],
     "direction": "horizontal",
@@ -359,44 +369,44 @@
   },
   "active": "88ff6ffc2d62f148",
   "lastOpenFiles": [
-    "Concursos/Auditoria/Auditoria.md",
-    "Concursos/Auditoria/13 - Contingências e Estimativas Contábeis/MOC — Contingências e Estimativas Contábeis.md",
-    "Concursos/Língua Portuguesa/Língua Portuguesa.md",
-    "Concursos/Língua Portuguesa/15 - Coerência e Coesão/MOC — Coerência e Coesão.md",
-    "Concursos/Economia/Economia.md",
-    "Concursos/Economia/04 - Elasticidades/MOC — Elasticidades.md",
-    "Concursos/Auditoria/15 - Normas Brasileiras de Auditoria (CFC)/MOC — Normas Brasileiras de Auditoria.md",
-    "Concursos/Auditoria/14 - Processamento Eletrônico de Dados (PED)/MOC — Processamento Eletrônico de Dados (PED).md",
-    "Concursos/Contabilidade Geral/Contabilidade Geral.md",
-    "Concursos/Direito/06 - Direito Civil/MOC — Direito Civil.md",
-    "Concursos/Direito/06 - Direito Civil/02 - Das Pessoas Naturais/MOC — Das Pessoas Naturais.md",
-    "Concursos/Direito/06 - Direito Civil/01 - Origem e Princípios/MOC — Introdução ao Direito Civil.md",
-    "Concursos/Direito/01 - Introdução ao Direito/MOC — Introdução ao Direito.md",
-    "Concursos/Direito/06 - Direito Civil/99 - Jurisprudência e Precedentes/MOC — Jurisprudência e Precedentes em Direito Civil.md",
-    "Concursos/Direito/02 - Teoria da Norma Jurídica/MOC — Teoria da Norma Jurídica.md",
-    "Concursos/Direito/05 - Direito Administrativo/04 - Organização Administrativa/Entidades Paraestatais.md",
-    "Concursos/Direito/05 - Direito Administrativo/04 - Organização Administrativa/Organizações da Sociedade Civil (MROSC).md",
+    "Concursos/Direito/05 - Direito Administrativo/06 - Atos Administrativos/Ato Administrativo.md",
+    "Concursos/Direito/05 - Direito Administrativo/06 - Atos Administrativos/Ato Negocial.md",
+    "Concursos/Direito/05 - Direito Administrativo/06 - Atos Administrativos/Ato Normativo.md",
+    "Concursos/Direito/05 - Direito Administrativo/06 - Atos Administrativos/Ato Ordinário.md",
+    "Concursos/Direito/05 - Direito Administrativo/06 - Atos Administrativos/Ato Enunciativo.md",
+    "Concursos/Direito/05 - Direito Administrativo/06 - Atos Administrativos/Ato Punitivo.md",
+    "Concursos/Direito/05 - Direito Administrativo/06 - Atos Administrativos/MOC — Atos Administrativos.md",
+    "Concursos/Direito/05 - Direito Administrativo/06 - Atos Administrativos/Extinção dos Atos Administrativos.md",
+    "Concursos/Direito/05 - Direito Administrativo/06 - Atos Administrativos/Classificação dos Atos Administrativos.md",
+    "Concursos/Direito/05 - Direito Administrativo/06 - Atos Administrativos/Ato Concreto.md",
+    "Concursos/Direito/05 - Direito Administrativo/06 - Atos Administrativos/Atributos dos Atos Administrativos.md",
+    "Concursos/Direito/05 - Direito Administrativo/06 - Atos Administrativos/Ato Administrativo Constitutivo.md",
+    "Concursos/Direito/05 - Direito Administrativo/06 - Atos Administrativos/Ato Administrativo Declaratório.md",
+    "Concursos/Direito/05 - Direito Administrativo/06 - Atos Administrativos/Ato Administrativo Enunciativo.md",
+    "Concursos/Direito/05 - Direito Administrativo/06 - Atos Administrativos/Ato Administrativo Composto.md",
+    "Concursos/Direito/05 - Direito Administrativo/06 - Atos Administrativos/Requisitos dos Atos Administrativos.md",
+    "Concursos/Direito/05 - Direito Administrativo/06 - Atos Administrativos/Ato Administrativo Complexo.md",
+    "Concursos/Direito/05 - Direito Administrativo/06 - Atos Administrativos/Ato Administrativo Simples.md",
+    "Concursos/Direito/05 - Direito Administrativo/06 - Atos Administrativos/Ato Administrativo Discricionário.md",
+    "Concursos/Direito/05 - Direito Administrativo/06 - Atos Administrativos/Ato Administrativo Vinculado.md",
+    "Concursos/Economia/01 - Conceitos Fundamentais/Bens Inferiores.md",
     "Media/Pasted image 20260722160125.png",
-    "Concursos/Direito/05 - Direito Administrativo/04 - Organização Administrativa/Serviço Social Autônomo.md",
-    "Concursos/Direito/05 - Direito Administrativo/04 - Organização Administrativa/Organizações Sociais (OS).md",
-    "Concursos/Direito/05 - Direito Administrativo/04 - Organização Administrativa/Organizações da Sociedade Civil de Interesse Público (OSCIP).md",
-    "Concursos/Direito/05 - Direito Administrativo/04 - Organização Administrativa/Entidades de Apoio.md",
     "Media/Pasted image 20260722155833.png",
-    "Media/Pasted image 20260722155813.png",
-    "Media/Pasted image 20260722155743.png",
-    "Media/Pasted image 20260722155727.png",
-    "Concursos/Direito/05 - Direito Administrativo/04 - Organização Administrativa/MOC — Organização Administrativa.md",
-    "Media/Pasted image 20260722113301.png",
-    "Concursos/Direito/05 - Direito Administrativo/04 - Organização Administrativa/Entidades Políticas e Administrativas.md",
     "Concursos/Economia/04 - Elasticidades/Elasticidade - Preço da Demanda.md",
-    "Media/Pasted image 20260720165451.jpg",
-    "Concursos/Economia/04 - Elasticidades/Elasticidade - Renda da Demanda.md",
+    "Media/Pasted image 20260720215718.jpg",
+    "Concursos/Economia/01 - Conceitos Fundamentais/Bens de Giffen.md",
+    "Concursos/Economia/04 - Elasticidades/Elasticidade - Cruzada.md",
+    "Concursos/Economia/04 - Elasticidades/MOC — Elasticidades.md",
     "Concursos/Economia/04 - Elasticidades/Elasticidade - Preço da Oferta.md",
+    "Media/Pasted image 20260720213250.png",
+    "Media/Pasted image 20260720165451.jpg",
     "Media/Pasted image 20260720165048.jpg",
     "Media/Pasted image 20260720162932.jpg",
     "Media/Pasted image 20260720162203.jpg",
+    "Media/Pasted image 20260720160511.jpg",
     "Concursos/Economia/04 - Elasticidades",
     "Concursos/Direito/12 - Direito Empresarial/03 - Dos Institutos Complementares",
+    "Media/Pasted image 20260719214232.png",
     "Concursos/Direito/06 - Direito Civil/99 - Jurisprudência e Precedentes",
     "Concursos/Direito/06 - Direito Civil/02 - Das Pessoas Naturais",
     "Concursos/Direito/06 - Direito Civil/01 - Origem e Princípios",

@@ -8,9 +8,13 @@ updated: 2026-01-08T06:01:00
 ## Conceito
 
 > [!note] Ato Normativo
-> Trata-se de hipóteses normativas que são aplicadas às pessoas de um modo geral e às diversas situações fáticas.
+> Atos gerais e abstratos para fiel execução da lei (ex: Decretos, Regimentos)
 
-#direito/administrativo/ato_normativo
+Exemplos
+- Decretos
+- Regulamentos
+- Instruções Normativas
+- Resoluções
 
 ---
 ## Características
@@ -46,4 +50,7 @@ updated: 2026-01-08T06:01:00
 ---
 ## Tópicos Relacionados
 
-- [[Atos Administrativos]]
+- [[Ato Ordinário]]
+- [[Ato Negocial]]
+- [[Ato Enunciativo]]
+- [[Ato Punitivo]]

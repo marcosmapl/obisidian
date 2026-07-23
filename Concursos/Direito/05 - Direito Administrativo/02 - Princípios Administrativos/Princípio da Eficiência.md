@@ -58,6 +58,6 @@ updated: 2026-01-04T01:00:00
 
 - [[Princípio da Legalidade Administrativa]]
 - [[Princípio da Economicidade]]
-- [[Atos Administrativos]]
+- [[Ato Administrativo]]
 - [[Controle da Administração Pública]]
 - [[Servidores Públicos]]

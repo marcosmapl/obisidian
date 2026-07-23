@@ -70,4 +70,4 @@ updated: 2026-06-08T09:05:00
 
 - [[Princípio do Estado Democrático de Direito]]
 - [[Princípio do Pecúnia Non Olet]]
-- [[Atos Administrativos Vinculados]]
+- [[Ato Administrativo Vinculado]]

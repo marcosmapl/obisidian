@@ -49,7 +49,7 @@ updated: 2026-01-03T22:40:00
 
 - [[Princípio da Autotutela]]
 - [[Princípio da Reserva Legal]]
-- [[Atos Administrativos]]
+- [[Ato Administrativo]]
 - [[Controle da Administração Pública]]
 - [[Princípio da Supremacia do Interesse Público]]
 

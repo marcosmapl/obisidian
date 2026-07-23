@@ -59,7 +59,7 @@ Impõe que os atos da Administração Pública sejam **divulgados ao conheciment
 
 - [[Princípio da Impessoalidade]]
 - [[Princípio da Transparência]]
-- [[Atos Administrativos]]
+- [[Ato Administrativo]]
 - [[Controle da Administração Pública]]
 - [[Lei de Acesso à Informação]]
 

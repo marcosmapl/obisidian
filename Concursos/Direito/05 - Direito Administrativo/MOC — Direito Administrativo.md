@@ -72,7 +72,7 @@ updated: 2026-06-23T11:09:49
 ---
 ## MOC — Atos Administrativos
 
-- [[Atos Administrativos Vinculados]]
+- [[Ato Administrativo Vinculado]]
 - [[Requisitos dos Atos Administrativos]]
 - [[Atributos dos Atos Administrativos]]
 - [[Classificação dos Atos Administrativos]]

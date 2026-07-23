@@ -7,13 +7,9 @@ updated: 2026-01-17T10:25:00
 
 ## Índice
 
-- [[Ato Normativo — Conceito]]
-- [[Ato Concreto — Conceito]]
-- [[Atos Administrativos Vinculados]]
-- [[Atos Administrativos Discricionários]]
+- [[Ato Administrativo]]
+- [[Classificação dos Atos Administrativos]]
 - [[Requisitos dos Atos Administrativos]]
 - [[Atributos dos Atos Administrativos]]
-- [[Classificação dos Atos Administrativos]]
-- [[Motivação do Ato Administrativo]]
-- [[Revogação dos Atos Administrativos]]
-- [[Invalidação dos Atos Administrativos]]
+- [[Extinção dos Atos Administrativos]]
+
