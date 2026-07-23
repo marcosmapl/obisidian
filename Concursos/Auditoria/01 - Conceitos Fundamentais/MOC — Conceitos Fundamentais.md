@@ -7,8 +7,6 @@ updated: 2026-04-28T08:45:00
 
 ## Conceitos Fundamentais
 
-- [[Auditoria — Conceito]]
-- [[Estrutura Conceitual para Trabalhos de Asseguração]]
 - [[Objetivos da Auditoria]]
 - [[MOC — Classificação da Auditoria]]
 - [[Auditoria Privada — Conceito]]
