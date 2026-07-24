@@ -21,6 +21,8 @@ updated: 2026-06-23T22:35:00
 > [!tip] Perdas Cíclicas
 > Segundo o Manual de Contabilidade Societária - FIPECAFI, as reservas para contingências são constituídas para fazer frente a **perdas cíclicas**
 
+![[Pasted image 20260724113934.png]]
+
 ---
 ## Reservas para Contingências x Provisões
 

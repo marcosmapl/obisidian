@@ -41,3 +41,25 @@ updated: 2026-07-03T00:00:00
 ### 12. [[Concursos/Contabilidade Geral/12 - Demonstração do Valor Adicionado (DVA)/MOC — Demonstração do Valor Adicionado (DVA)]]
 
 ### 13. [[Concursos/Contabilidade Geral/13 - Princípios Contábeis/MOC — Princípios Contábeis]]
+
+---
+## Obrigatoriedade das DCs
+
+### Lei 6.404/76
+
+> [!note] Art. 176
+> - BP
+> - DRE
+> - DFC
+> - DVA, se cia. aberta
+> - DLPA
+
+> [!note] CPC 26
+> - BP
+> - DRE
+> - DRA
+> - DFC
+> - DVA, se cia. aberta
+> - DMPL
+> - Notas Explicativas
+

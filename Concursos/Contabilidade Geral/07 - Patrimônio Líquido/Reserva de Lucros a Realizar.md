@@ -24,6 +24,9 @@ updated: 2026-06-24T09:15:00
 
 > [!important] À medida que os lucros a realizar forem sendo recebidos, a reserva deverá ser proporcionalmente revertida
 
+![[Pasted image 20260724114200.png]]
+
+
 ---
 ## Tópicos Relacionados
 

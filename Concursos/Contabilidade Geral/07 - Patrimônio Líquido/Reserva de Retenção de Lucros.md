@@ -13,13 +13,15 @@ updated: 2026-06-23T22:55:00
 > - § 2º O orçamento poderá ser aprovado pela assembleia-geral ordinária que deliberar sobre o balanço do exercício e revisado anualmente, quando tiver duração superior a um exercício social. (Redação dada pela Lei n. 10.303, de 2001)
 
 > [!tip] Finalidade
-> Reter lucros para aplicação em projeto de investimento.
+> Reter lucros para aplicação em **projeto de investimento** de **crescimento futuro**.
 
 > [!important] Reversão
 > Conforme os investimentos forem sendo executados, a reserva de retenção de lucros deverá ser revertida para a conta Lucros Acumulados
 
 > [!important] Dividendos Obrigatórios
 > Não é considerada na base de cálculo dos dividendos obrigatórios.
+
+![[Pasted image 20260724114343.png]]
 
 ---
 ## Tópicos Relacionados

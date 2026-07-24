@@ -16,6 +16,8 @@ updated: 2026-06-23T22:30:00
 > [!tip] Dividendos Obrigatórios
 > ==Sua constituição não poderá restringir o pagamento de DIVIDENDOS OBRIGATÓRIOS==
 
+![[Pasted image 20260724113809.png]]
+
 ---
 ## Tópicos Relacionados
 

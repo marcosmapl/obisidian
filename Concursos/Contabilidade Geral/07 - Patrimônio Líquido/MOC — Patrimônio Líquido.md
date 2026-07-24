@@ -23,18 +23,11 @@ updated: 2026-07-03T00:00:00
 - [[Patrimônio Líquido]]
 - [[Capital Social]]
 - [[Reservas de Capital]]
+- [[Reservas de Lucros]]
 - [[Ajustes de Avaliação Patrimonial]]
 - [[Ajustes de Exercícios Anteriores]]
-- [[Reservas de Lucros]]
 - [[Ações em Tesouraria]]
 - [[Prejuízos Acumulados]]
-
-
----
-## Composição do PL
-
-> [!info] Lei 6.404/1976 - Art. 178 e 182
-> O **Patrimônio Líquido** representa os recursos próprios da entidade, sendo a diferença entre o Ativo e o Passivo Exigível.
 
 ### Estrutura básica
 
@@ -94,14 +87,6 @@ $$\text{PL} = \text{Ativo} - \text{Passivo Exigível}$$
 
 - [[Ajustes de Avaliação Patrimonial]]
 - [[Prejuízos Acumulados]]
-
----
-## Roteiro rápido de revisão
-
-1. Fixar a fórmula do PL: $PL = Ativo - Passivo Exigível$.
-2. Separar a estrutura entre capital, reservas, ajustes e contas redutoras.
-3. Revisar a diferença entre [[Reservas de Capital]] e [[Reservas de Lucros]].
-4. Fechar as reservas de lucros pelas espécies mais cobradas em prova.
 
 ---
 ## Tópicos relacionados

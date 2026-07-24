@@ -9,8 +9,9 @@ updated: 2026-07-04T10:00:00
 
 > [!note] Lei nº 6.404, Art. 186
 > A demonstração de lucros ou prejuízos acumulados discriminará:
-> - Saldo inicial
+> - Saldo inicial (Lucro ou Prejuízo Acumulado)
 > - Ajustes de exercícios anteriores
+> - Correções monetárias
 > - Reversões de reservas
 > - Lucro líquido do exercício (DRE)
 > - Destinações para reservas, dividendos e incorporação ao capital
@@ -22,11 +23,10 @@ updated: 2026-07-04T10:00:00
 ---
 ## Ajustes de Exercícios Anteriores
 
-São as correções de erros ou mudanças de práticas contábeis que afetam resultados passados. Podem afetar positiva ou negativamente o saldo de LPA;
-- Receita/Despesa esquecida de ser contabilizada ou reconhecida
+Somente ajustes decorrentes de efeitos da **mudança de critérios contábeis**, ou **retificação de erro imputável a exercício anterior que não possa ser atribuído a fato subsequente**
 
-> [!important] Lei nº 6.404/1976
-> Os ajustes de exercícios anteriores **devem ser evidenciados na demonstração de lucros ou prejuízos acumulados** quando motivados por **mudança de critério contábil ou por retificação de erro atribuível a um exercício anterior**, e ==não puderem ser atribuídos a fatos subsequentes==.
+Exemplo:
+- Receita/Despesa esquecida de ser contabilizada ou reconhecida
 
 ---
 ## Reversão de Reservas de Lucros

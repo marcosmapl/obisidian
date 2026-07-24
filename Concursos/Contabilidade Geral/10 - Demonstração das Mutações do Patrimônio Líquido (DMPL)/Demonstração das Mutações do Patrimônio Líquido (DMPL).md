@@ -10,11 +10,6 @@ updated: 2026-07-06T00:00:00
 > [!info] CPC 26 (R1)
 > A **DMPL** evidencia as mudanças no patrimônio líquido da entidade durante um período, incluindo **transações com os proprietários**, **distribuições a eles efetuadas** e **movimentações internas** do patrimônio líquido.
 
-É a demonstração **mais ampla** do PL — enquanto a [[Demonstração de Lucros ou Prejuízos Acumulados (DLPA)]] mostra apenas a variação da conta de lucros/prejuízos acumulados, a DMPL mostra a variação de **todas as contas** do PL.
-
-> [!tip] Relação com a DLPA
-> A coluna "Lucros ou Prejuízos Acumulados" da DMPL é equivalente à DLPA. Por isso, quando a companhia elabora e publica a DMPL, **não é obrigada a elaborar a DLPA separadamente** (art. 186, § 2º, Lei nº 6.404/76).
-
 ---
 ## Obrigatoriedade
 
