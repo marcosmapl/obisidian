@@ -21,8 +21,6 @@ updated: 2026-05-18T08:49:15
 - [[Princípio da Supremacia do Interesse Público]]
 - [[Princípio da Indisponibilidade do Interesse Público]]
 
-#direito/principios
-
 ---
 ## Natureza dos Princípios
 

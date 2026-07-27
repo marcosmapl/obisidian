@@ -10,7 +10,7 @@ updated: 2026-07-03T00:00:00
 > [!note] DVA
 > Evidencia a **riqueza gerada** pela entidade e a forma como essa riqueza foi **distribuída** entre empregados, governo, financiadores, sócios e a própria entidade.
 
-> [!important] A DVA é obrigatória somente para companhias abertas.
+> [!important] A DVA é **obrigatória** somente para **companhias abertas**.
 
 > [!important] A DVA representa a parcela de contribuição da entidade no **PIB**
 
@@ -32,71 +32,82 @@ $$ Riqueza_c = Vendas - Insumos - Depreciação $$
 
 ## Estrutura essencial
 
-O cálculo segue uma ordem lógica para chegar ao valor total a distribuir:
+![[Pasted image 20260726213323.jpg]]
 
-### 1. Receitas
+---
+## 1 – RECEITAS
 
-- Vendas de mercadorias, produtos e serviços
-- Outras Receitas
-- Receitas relativas à construção de ativos próprios
-- Perdas Estimadas Créd. Liquidação Duvidas
+- 1.1) Vendas de **mercadorias**, **produtos** e **serviços**
+- 1.2) Receitas relativas à **construção de ativos próprios**
+- 1.3) **PCLD** – (==reversão ou constituição==)
+- 1.4) Outras receitas: ==lucros ou prejuízos com venda de imobilizado==
 
 > [!important] Vendas de mercadorias, produtos e serviços inclui valores dos tributos incidentes sobre essas receitas (ICMS, IPI, PIS e COFINS)
-### 2. Insumos Adquiridos de Terceiros
 
-- Custos dos Produtos, das Mercadorias e dos Serviços Vendidos
-- Materiais, energia, serviços de terceiros e outros
-- Perda / Recuperação de valores ativos
-- Outras
+---
+## 2 - INSUMOS ADQUIRIDOS DE TERCEIROS
 
-> [!important] Inclui os valores dos impostos - ICMS, IPI, PIS e COFINS
+- 2.1) **CPV ou CMV** 
+- 2.2) Materiais, energia, serviços de terceiros e outros (==despesa com seguros==)
+- 2.3) Perda / Recuperação de valores ativos
+- 2.4) Outras (especificar)
 
-### Valor Adicionado Bruto
+> [!important] Inclui os valores dos tributos recuperáveis - ICMS, IPI, PIS e COFINS
 
-- Diferença entre Receitas (1) e Insumos (2).
+---
+## 3 - VALOR ADICIONADO BRUTO (1-2)
 
-### Retenções
+---
+## 4 - RETENÇÕES
 
-- Aqui entram **Depreciação, Amortização e Exaustão**.
+- 4.1) DEPRECIAÇÃO
+- 4.2) AMORTIZAÇÃO
+- 4.3) EXAUSTÃO
 
-### Valor Adicionado Líquido Produzido pela Entidade
+---
+## 5 - VALOR ADICIONADO LÍQUIDO PRODUZIDO PELA ENTIDADE (3-4)
 
-- É o Valor Bruto (3) menos as Retenções (4).
+---
+## 6 - VALOR ADICIONADO RECEBIDO EM TRANSFERÊNCIA
 
-### Valor Adicionado Recebido em Transferência
+- 6.1) **Resultado de equivalência patrimonial**
+- 6.2) **Receitas financeiras** (==juros ativos==)
+- 6.3) Outras (==Receita de Aluguel, Dividendos, Doações, Subvenções, Royalties==)
 
-- Resultado de Equivalência Patrimonial (MEP)
-- Receitas Financeiras
-- Dividendos e Aluguéis recebidos.
-- Outras
+---
+## 7 - VALOR ADICIONADO TOTAL A DISTRIBUIR (5+6)
 
-### VALOR ADICIONADO TOTAL A DISTRIBUIR
+---
+## 8 - Distribuição do Valor Adicionado
 
-- Soma do Valor Líquido (5) com o Recebido em Transferência (6).
+> [!tip] Riqueza de Exercícios Anteriores 
+> A DVA considera apenas a distribuição da riqueza do exercício, desconsiderando os resultados de exercícios anteriores, conforme CPC 09
 
-![[Pasted image 20260723161030.png]]
+> [!important] Lei nº 6.404/76, Art. 188, II
+> A **DVA** deverá mostrar o **valor da riqueza gerada pela companhia**, a sua distribuição entre os elementos que contribuíram para a geração dessa riqueza, tais como **empregados**, **financiadores**, **acionistas**, **governo** e outros, bem como a **parcela da riqueza não distribuída**.     
+### 8.1 Pessoal
 
-Deve-se detalhar como o montante do item 7 foi repartido:
-
-### Pessoal
-
-- Remuneração direta: Salários, 13º, férias, honorários da administração, 
-- Benefícios
+- **Remuneração direta** (==Salários, 13º, férias, INSS do Empregado, honorários da administração==) 
+- **Benefícios**
 - **FGTS**.
-### Impostos, Taxas e Contribuições (Governo)
+### 8.2 Impostos, Taxas e Contribuições (Governo)
 
-- Tributos federais, estaduais e municipais.
+- **Federais** (==INSS pago pelo empregador==)
+- **Estaduais**
+- **Municipais**
+
+Tributos federais, estaduais e municipais.
     - _Regra de Cálculo:_ Tributos sobre vendas (deduzidos os créditos) + INSS Patronal + IR/CSLL.
-### Remuneração de Capitais de Terceiros
+### 8.3 Remuneração de Capitais de Terceiros
 
-- Juros (despesas financeiras)
-- Aluguéis pagos
+- **Juros** (==juros passivos, despesas financeiras, variações cambiais passivas==)
+- **Aluguéis pagos**
 - Outras
-### Remuneração de Capitais Próprios
+### 8.4 Remuneração de Capitais Próprios
 
-- Dividendos
-- Juros sobre Capital Próprio (JCP)
-- Lucros Retidos/Prejuízos
+- **Juros sobre Capital Próprio (JCP)**
+- **Dividendos**
+- **Lucros Retidos/Prejuízos**
 - Participação dos não-controladores nos lucros retidos
     - _Cuidado:_ Apenas dividendos relativos ao **resultado do próprio exercício** entram na DVA. Dividendos de anos anteriores não constam.
 

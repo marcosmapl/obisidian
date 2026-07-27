@@ -12,5 +12,9 @@ updated: 2025-12-23T00:00:00
 - [[Limites e Eficácia dos Direitos Fundamentais]]
 - [[Direitos e Garantias Fundamentais]]
 - [[Direitos Individuais e Coletivos]]
-- [[Direitos Sociais]]
 - [[Remédios Constitucionais (HC, MS, MI, HD, AP)]]
+- [[Direitos Sociais]]
+- [[Direitos de Nacionalidade]]
+- [[Direitos Políticos]]
+- [[Partidos Políticos]]
+

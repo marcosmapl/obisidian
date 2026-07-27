@@ -21,8 +21,12 @@ updated: 2026-06-21T11:25:00
 
 > [!note] Função da Oferta
 > $$
-> Qo = x.P + y
+> Q_o = a + b.P
 > $$
+
+> [!note] Coeficientes
+> - a: **quantidade mínima de oferta** (quando o preço é zero).
+> - b: **inclinação da curva de oferta**.
 
 > [!tip] A quantidade ofertada é função do preço da oferta.
 

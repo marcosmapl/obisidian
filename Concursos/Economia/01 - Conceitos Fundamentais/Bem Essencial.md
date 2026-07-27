@@ -15,8 +15,8 @@ Exemplos:
 ---
 ## Tópicos Relacionados
 
-- [[Bens Normais]]
-- [[Bens Inferiores]]
-- [[Bens Substitutos]]
-- [[Bens Complementares]]
-- [[Bens de Giffen]]
+- [[Bem Normal]]
+- [[Bem Inferior]]
+- [[Bem Substituto]]
+- [[Bem Complementar]]
+- [[Bem de Giffen]]

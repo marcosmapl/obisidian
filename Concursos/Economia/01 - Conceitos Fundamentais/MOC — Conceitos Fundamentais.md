@@ -7,33 +7,28 @@ updated: 2026-05-28T22:20:00
 
 ## Índice
 
+- [[Microeconomia]]
+- [[Macroeconomia]]
 - [[Problema Econômico Fundamental]]
+- [[Custo de Oportunidade]]
 - [[Formas de Organização da Atividade Econômica]]
-<<<<<<< HEAD
 - [[Demanda]]
 - [[Oferta]]
 
 ---
-## Bens
+## Classificação dos Bens
 
 ### Analisando a Variação de Renda
 
-- [[Bens Normais]]
-- [[Bens Inferiores]]
+- [[Bem Normal]]
+- [[Bem Inferior]]
 
 ### Quando a Variação nos Preços
 
-- [[Bens Comuns]]
-- [[Bens de Giffen]]
-=======
-- [[Preço e Quantidade de Equilíbrio]]
-- [[Bens de Giffen]]
-- [[Bens Inferiores]]
-- [[Bens Substitutos]]
-- [[Bens Complementares]]
+- [[Bem de Giffen]]
+- [[Bem Inferior]]
+- [[Bem Substituto]]
+- [[Bem Complementar]]
 
->>>>>>> ebddb88f45de079ad65dbc9ca272cb94f40393c1
-
-
-
-
+---
+#

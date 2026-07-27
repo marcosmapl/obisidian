@@ -16,14 +16,6 @@ updated: 2026-07-03T00:00:00
 
 - [[Demonstração do Valor Adicionado (DVA)]]
 
-## Essencial para revisão
-
-- Valor adicionado bruto
-- Retenções
-- Valor adicionado líquido
-- Valor adicionado recebido em transferência
-- Distribuição do valor adicionado
-
 ---
 ## Tópicos relacionados
 

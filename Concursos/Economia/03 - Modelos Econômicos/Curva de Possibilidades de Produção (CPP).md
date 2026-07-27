@@ -11,11 +11,18 @@ updated: 2026-05-28T23:30:00
 
 ![[Pasted image 20260528232515.png]]
 
-Isso nos leva à importante conclusão de que os pontos situados sobre a fronteira, ou seja, **exatamente em cima da curva** (como A e B) **são quantidades eficientes do ponto de vista da produção**.
+- **Pontos na CPP**:
+    - **SOBRE** a curva têm alocação **EFICIENTE** (pontos A e B);
+    - **DENTRO** da fronteira da curva demonstram alocação **INEFICIENTE ;** (ponto D)
+        - Capacidade ociosa
+        - Ineficiência de insumos ou tecnologia.
+    - **Fora** da fronteira representam alocações **alocações impossíveis** sem melhora nos fatores de produção (ponto C). 
+        - Inexistência de Tecnologia
 
 Seu **formato côncavo** (arredondado para cima) decorre da **especialização** que mencionamos
 
-### Fatores de Deslocamento
+---
+## Fatores de Deslocamento
 
 **Deslocamento da curva pra fora**: Melhora na tecnologia, legislação, eficiência do uso dos fatores produtivos dentre outros.
 

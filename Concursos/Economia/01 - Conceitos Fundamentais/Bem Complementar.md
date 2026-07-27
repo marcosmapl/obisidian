@@ -10,6 +10,7 @@ updated: 2026-06-21T11:10:00
 > [!note] Bem Complementar
 > Os bens complementares, de um bem qualquer, são aqueles bens relacionados que geralmente são consumidos em conjunto.
 
+> [!tip] **Bens Complementares:** Preço de Y ↑ → Demanda de X ↓
 
 Exemplos:
 - **Arroz** e **Feijão**
@@ -24,8 +25,8 @@ Exemplos:
 ---
 ## Tópicos Relacionados
 
-- [[Bens Normais]]
-- [[Bens Essenciais]]
-- [[Bens Inferiores]]
-- [[Bens Substitutos]]
-- [[Bens de Giffen]]
+- [[Bem Normal]]
+- [[Bem Essencial]]
+- [[Bem Inferior]]
+- [[Bem Substituto]]
+- [[Bem de Giffen]]

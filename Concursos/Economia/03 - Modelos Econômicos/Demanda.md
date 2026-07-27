@@ -39,8 +39,12 @@ A curva da demanda é a **demonstração gráfica** de qual **quantidade os cons
 
 > [!note] Função da Demanda
 > $$
-> Qd = x.P + y
+> Qd = a - b \cdot P
 > $$
+
+> [!note] Coeficientes
+> - **a**: **quantidade máxima que os consumidores** estariam dispostos a adquirir (quando o preço é zero)
+> - **b**: coeficiente de **inclinação da curva**.
 
 > [!tip] A quantidade demandada é função do preço.
 

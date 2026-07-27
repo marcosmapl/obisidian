@@ -23,3 +23,6 @@ updated: 2026-05-29T11:35:00
 - [[Princípio da Reserva Legal]]
 - [[Princípio da Taxatividade da Lei Penal]]
 
+> [!note] São expressos na CF/88
+> Legalidade, Irretroatividade, Responsabilidade Pessoal, Presunção de Inocência, Individualização da Pena
+

@@ -10,6 +10,8 @@ updated: 2026-06-21T11:15:00
 > [!tip] Bens Substitutos
 > Os bens substitutos são aqueles que **cumprem as mesmas funções**. Isso significa que, para o consumidor, tanto faz consumir um ou outro, de forma que, se o preço de um aumentar, a demanda do outro é que aumenta.
 
+> [!tip] **Bens Substitutos:** Preço de Y ↑ → Demanda de X ↑
+
 Exemplos:
 - **Etanol** e **Gasolina**
 
@@ -21,8 +23,8 @@ Exemplos:
 ---
 ## Tópicos Relacionados
 
-- [[Bens Normais]]
-- [[Bens Essenciais]]
-- [[Bens Inferiores]]
-- [[Bens Complementares]]
-- [[Bens de Giffen]]
+- [[Bem Normal]]
+- [[Bem Essencial]]
+- [[Bem Inferior]]
+- [[Bem Complementar]]
+- [[Bem de Giffen]]
