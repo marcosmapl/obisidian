@@ -5,10 +5,12 @@ created: 2026-07-19T21:35:00
 updated: 2026-07-19T21:40:00
 ---
 
-O artigo 21 da Lei Complementar 214/25 define quem são os contribuintes do IBS e da CBS. Em termos gerais, considera-se contribuinte aquele que realiza operações tributáveis no contexto de uma atividade econômica. Isso inclui:
-- Fornecedores que atuam de forma habitual, profissional ou em volume significativo, independentemente de a profissão ser regulamentada.
-- Adquirentes de bens apreendidos ou adquiridos em leilões judiciais, mesmo que não sejam fornecedores habituais.
-- Importadores, independentemente da finalidade da importação e de habitualidade ou volume.
+## Contribuintes
+
+É considerado contribuinte do IBS e da CBS:
+- **Fornecedores:** Que realizem operações no desenvolvimento de atividade econômica, de **modo habitual** ou em **volume que a caracterize, ou de forma profissional**.
+- **Importadores:** ==Independentemente== de habitualidade ou finalidade.
+- **Adquirentes em Licitação/Leilão:** Na aquisição de **bens apreendidos ou abandonados**.
 - Outros sujeitos previstos expressamente na Lei Complementar.
 
 > [!note] Contribuintes
@@ -29,6 +31,8 @@ O artigo 21 da Lei Complementar 214/25 define quem são os contribuintes do IBS 
 
 ---
 ## Não são Contribuintes
+
+Estão excluídos dessa condição os **condomínios edilícios, consórcios**, **sociedades em conta de participação**, **nanoempreendedores** e a maioria dos **fundos de investimento**, embora muitos possam **optar voluntariamente pelo regime regular**
 
 > [!note] Art. 26. Não são contribuintes do IBS e da CBS, ressalvado o disposto no inciso II do § 1º do art. 156-A da Constituição Federal:
 > I - **condomínio edilício**;
@@ -64,7 +68,13 @@ I - os **Fundos de Investimento Imobiliário (FII)** e os **Fundos de Investimen
 	3. cotistas pessoas jurídicas que, isoladamente ou em conjunto com cotistas que sejam seu sócio controlador ou suas controladas e coligadas, detenham mais de 50% (cinquenta por cento) das cotas do fundo, exceto quando o cotista for entidade fechada de previdência;
 
 ---
-## Responsáveis
+## Plataformas Digitais
+
+As **plataformas digitais atuam como intermediárias** que controlam elementos essenciais da operação, como cobrança, pagamento ou entrega.
+- **Responsabilidade**: São responsáveis pelo pagamento do IBS e CBS nas operações realizadas por seu intermédio.
+- **Fornecedor no exterior**: A plataforma é responsável solidária com o adquirente e substituta do fornecedor.
+- **Fornecedor no Brasil**: A responsabilidade é solidária se a plataforma não fornecer informações ao fisco ou se o fornecedor não emitir documento fiscal eletrônico.
+- **Facilidades**: Com anuência do fornecedor, a plataforma pode optar por emitir documentos fiscais e pagar o imposto centralizadamente, atuando como substituta tributária.
 
 Art. 22. As plataformas digitais, ainda que domiciliadas no exterior, são responsáveis pelo pagamento do IBS e da CBS relativos às operações e importações realizadas por seu intermédio, nas seguintes hipóteses:
 I - **solidariamente com o adquirente ou destinatário e em substituição ao fornecedor**, caso este seja r**esidente ou domiciliado no exterior**; e
@@ -94,3 +104,15 @@ II - apurar o IBS e a CBS decorrentes das mencionadas operações de acordo com 
 § 14. Na hipótese da alínea “b” do inciso II do caput deste artigo, caso a plataforma emita o documento fiscal no prazo de 30 (trinta) dias contado da data em que o fornecedor deveria tê-lo emitido e pague o IBS e a CBS conforme regulamento, com base no valor e nas demais informações da operação por ela intermediada, os acréscimos de que trata o § 2º do art. 29 desta Lei Complementar e a penalidade por falta de emissão do documento fiscal serão exigidos exclusivamente do fornecedor.
 
 Art. 23. A plataforma digital, inclusive a domiciliada no exterior, deverá se inscrever no cadastro do IBS e da CBS no regime regular para fins de cumprimento do disposto no art. 22.
+
+---
+## Responsáveis Solidários
+
+Além das plataformas digitais, a lei estabelece outros agentes como responsáveis solidários:
+
+- **Pessoas e entidades:** Que adquiram ou mantenham bens/serviços **sem documentação fiscal**.
+- **Transportadores:** Em relação a **bens sem documento fiscal idôneo** ou **entregues em local divergente do indicado**.
+- **Leiloeiros:** Pelos **tributos devidos nas operações realizadas em leilão**.
+- **Desenvolvedores de Software:** Que criem programas com funções destinadas a **descumprir a legislação tributária**.
+- **Pessoas que concorram para a fraude:** Incluindo ocultação de valores ou abuso da personalidade jurídica.
+- **Rerrefinadores e coletores:** Na aquisição de óleo lubrificante usado de contribuintes do regime regular

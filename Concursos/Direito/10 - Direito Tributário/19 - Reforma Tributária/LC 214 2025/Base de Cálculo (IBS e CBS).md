@@ -33,8 +33,8 @@ updated: 2026-07-04T11:05:00
 > II - o montante do **Imposto sobre Produtos Industrializados (IPI)**;
 > III - os **descontos incondicionais**;
 > IV - os **reembolsos ou ressarcimentos recebidos** por valores pagos relativos a operações por conta e ordem ou em nome de terceiros, desde que a documentação fiscal relativa a essas operações seja emitida em nome do terceiro; e
-> V - o montante incidente na operação dos tributos (ICMS, ISS e PIS/COFINS);
-> VI - a COSIP.
+> V - o montante incidente na operação dos tributos (**ICMS**, **ISS** e **PIS**/**COFINS**);
+> VI - a **COSIP**.
 
 > [!important] Desconto Incondicional
 > A LC 214/25 o define como a **parcela redutora do preço da operação** que conste do respectivo documento fiscal e **não dependa de evento posterior**, inclusive se realizado por meio de programa de fidelidade concedido de forma não onerosa pelo próprio fornecedor.

@@ -9,42 +9,29 @@ updated: 2026-06-25T09:15:00
 
 - Foco agora é na **tributação no destino**, o que aumenta a arrecadação em lugares de alto consumo.
 
-> [!note] Adquirente não for residente no Brasil
+> [!note] Adquirente NÃO  Residente no Brasil
 > Local da operação passa a ser o **domicílio do destinatário residente no país**.
 
 ---
-## Bens
+## Bens Móveis
 ### Bens Móveis Materiais
 
-- **Local da entrega ou disponibilização** do bem ao destinatário
-#### Operação Realizada de Forma não Presencial
-
- Considera-se local da entrega ou disponibilização do bem ao destinatário o **destino final** indicado pelo adquirente:
+Em regra, é o **local da entrega ou disponibilização** ao destinatário. No caso de **operações não presenciais** (como compras pela internet), considera-se o **destino final indicado pelo adquirente**:
   - **ao fornecedor** ou **ao terceiro responsável pelo transporte**
-#### Veiculo Automotor (Terrestre, Aquático ou Aéreo)
 
-- Domicílio Principal do **destinatário**
-#### Casos Especiais
+> [!tip] Veiculo Automotor (Terrestre, Aquático ou Aéreo)
+> Domicílio Principal do **destinatário**
 
-Considera-se ocorrida a operação no local onde se **encontra o bem móvel material**:
-- **Leilão Judicial**
-- **Licitação Pública de bens apreendidos ou abandonados**
-- **Falta de documentação fiscal ou inidônea**
+> [!tip] Casos especiais
+> Considera-se ocorrida a operação no local onde se **encontra o bem móvel material**:
+> - **Leilão Judicial**
+> - **Licitação Pública de bens apreendidos ou abandonados**
+> - **Falta de documentação fiscal ou inidônea**
 
 > [!tip] Constatação de Irregularidades nas Informações
 > Caso a administração tributária constate que as **informações prestadas pelo adquirente** estejam incorretas e resultem em pagamento a menor do IBS e CBS, a **diferença será exigida do adquirente, com acréscimos legais**
 
 ![[Pasted image 20260624234822.png]]
-
-### Bem Imóvel, Bem Móvel Imaterial e Serviço sobre Bem Imóvel
-
-- **Local onde o imóvel estiver situado**
-
-> [!important] Bem Móvel Imaterial e Serviço Sobre bem Imóvel
-> Aplica-se apenas quando houver vínculo direto a um imóvel.
-
-> [!important] Bem Imóvel situado em mais de um Município
-> Considera-se o local do imóvel o Município onde está situada a **maior parte da sua área**.
 
 ### Bens Móveis Imateriais
 
@@ -70,6 +57,20 @@ Exemplos:
 #### Operação Não Onerosa
 1. Local do **domicílio do destinatário**
 
+---
+## Bens Imóveis
+
+### Bem Imóvel, Bem Móvel Imaterial e Serviço sobre Bem Imóvel
+
+A tributação ocorre no **local onde o imóvel estiver situado**.
+
+> [!important] Bem Móvel Imaterial e Serviço Sobre bem Imóvel
+> Aplica-se apenas quando houver vínculo direto a um imóvel.
+
+> [!important] Bem Imóvel situado em mais de um Município
+> Considera-se o local do imóvel o Município onde está situada a **maior parte da sua área**.
+
+
 ![[Pasted image 20260624234931.png]]
 
 ![[Pasted image 20260624235002.png]]
@@ -77,12 +78,14 @@ Exemplos:
 ---
 ## Serviços
 
-- Prestado por **pessoa física (presencialmente)**, o local da **prestação do serviço**.
+**Regra geral**: **Domicílio principal do adquirente** (==operações onerosas no país==) ou **do destinatário** (==operações não onerosas ou com adquirente no exterior==)
+
+- Serviços **presenciais**: Local da **prestação física**.
 - Serviço de **eventos (planejamento, organização, etc)**, o local do **evento**.
 - Serviço de **transporte de passageiros**, o local de **início do transporte**.
 - Serviço de **transporte de cargas**, o local da **entrega ou disponibilização**.
 - Serviço de **exploração de via**, proporcional a **extensão da via explorada em cada Município e Estado**.
-- **Telefonia fixa e serviços de comunicação** via cabos, fibras e similares, o IBS é devido no local de **instalação do terminal**
+- **Comunicação e Telefonia**: Local de **instalação do terminal de uso**.
 
 > [!tip] Contração de Forma Centralizada
 > Será considerado o domicílio principal do adquirente. Exemplo: Empresa com múltiplas filiais, contrata de forma centralizada serviço de telefonia fixa para cada uma de suas filiais, o IBS será devido no local da matriz.
