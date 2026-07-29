@@ -5,21 +5,20 @@ created: 2026-05-28T23:25:00
 updated: 2026-05-28T23:30:00
 ---
 
-É um gráfico que demonstra as combinações de bens que uma economia pode produzir, dados os fatores de produção e a tecnologia de produção disponíveis.
+**Conceito**: Gráfico que mostra as **combinações máximas de dois bens que uma economia pode produzir com os recursos e tecnologia atuais**.
 
 > [!tip] Também chamado fronteira de possibilidade de produção (FPP)
 
 ![[Pasted image 20260528232515.png]]
 
-- **Pontos na CPP**:
-    - **SOBRE** a curva têm alocação **EFICIENTE** (pontos A e B);
-    - **DENTRO** da fronteira da curva demonstram alocação **INEFICIENTE ;** (ponto D)
-        - Capacidade ociosa
-        - Ineficiência de insumos ou tecnologia.
-    - **Fora** da fronteira representam alocações **alocações impossíveis** sem melhora nos fatores de produção (ponto C). 
-        - Inexistência de Tecnologia
+**Eficiência:**
+- **Sobre a curva (A e B):** Eficiência produtiva (pleno emprego dos fatores).
+- **Abaixo da curva (D):** Ineficiência (desemprego ou recursos ociosos).
+- **Acima da curva (C):** Inatingível no curto prazo com os recursos disponíveis.
 
-Seu **formato côncavo** (arredondado para cima) decorre da **especialização** que mencionamos
+**Deslocamentos:** A curva inteira se move para a **direita** com avanços tecnológicos ou aumento de fatores de produção. Guerras ou desastres a deslocam para a **esquerda**
+
+**🚨 Pegadinha:** A CPP é **côncava** (arredondada para fora) devido ao **Princípio da Especialização** dos fatores, e não apenas pela escassez de recursos
 
 ---
 ## Fatores de Deslocamento

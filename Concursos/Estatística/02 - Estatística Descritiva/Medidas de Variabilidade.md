@@ -24,4 +24,3 @@ As medidas de dispersão (ou variabilidade) são justamente métricas que mostra
 
 - [[Coeficiente de Variação]]
 - [[Variância Relativa]]
-- 

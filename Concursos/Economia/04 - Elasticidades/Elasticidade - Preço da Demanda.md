@@ -7,7 +7,7 @@ updated: 2026-07-20T16:00:00
 
 
 > [!note] Elasticidade Preço da Demanda (EPD)
-> Mede quão sensíveis são os **consumidores a uma mudança no preço**.
+> Mede a **sensibilidade** da **quantidade demandada** a **mudanças no preço**.
 
 $$ Ed = \frac{ \% \Delta Q}{ \% \Delta P} $$
 

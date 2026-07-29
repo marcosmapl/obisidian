@@ -18,17 +18,14 @@ updated: 2026-05-28T22:20:00
 ---
 ## Classificação dos Bens
 
-### Analisando a Variação de Renda
+### Quanto à Renda
 
-- [[Bem Normal]]
-- [[Bem Inferior]]
+- [[Bem Normal]]: **Renda ↑** → **Demanda ↑** (Elasticidade-renda **positiva**)
+- [[Bem Inferior]]: **Renda ↑** → ==Demanda ↓== (Elasticidade-renda ==negativa==)
+- [[Bem de Giffen]]: Caso especial de bem inferior onde a **demanda aumenta quando o preço aumenta** (==exceção à Lei da Demanda==).
 
 ### Quando a Variação nos Preços
 
-- [[Bem de Giffen]]
-- [[Bem Inferior]]
-- [[Bem Substituto]]
-- [[Bem Complementar]]
+- [[Bem Substituto]]: **Preço de Y ↑** → **Demanda de X ↑** (Ex: Coca e Pepsi). Elasticidade **positiva**.
+- [[Bem Complementar]]: **Preço de Y ↑** → ==Demanda de X ↓== (Ex: Carro e Gasolina). Elasticidade ==negativa==
 
----
-#

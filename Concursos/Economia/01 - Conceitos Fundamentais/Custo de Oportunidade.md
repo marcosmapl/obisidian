@@ -6,9 +6,14 @@ updated: 2026-07-27T14:51:00
 ---
 
 > [!note] Custo de Oportunidade
-> Trata-se do **valor que se deixa de ganhar ao tomar uma decisão**. É decorrência direta da escassez.
+> É o benefício da melhor alternativa não escolhida ao se tomar uma decisão (**valor**).
+> Decorre da escassez de recursos (como o tempo) e da necessidade de escolhas (tradeoffs
 
 ==Não se deve confundir o custo de oportunidade com a soma de todas as alternativas desistidas==. A definição precisa é o **benefício que seria obtido pela melhor alternativa não escolhida** (a segunda melhor opção)
+
+Natureza: Diferente da contabilidade, a economia **inclui custos implícitos** (subjetivos). O custo de oportunidade **varia de pessoa para pessoa**.
+
+
 
 ---
 ## Lucro Econômico

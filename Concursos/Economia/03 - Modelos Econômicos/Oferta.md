@@ -30,6 +30,8 @@ updated: 2026-06-21T11:25:00
 
 > [!tip] A quantidade ofertada é função do preço da oferta.
 
+**Atenção**: Um aumento nos **impostos** (tributação indireta) desloca a **curva de oferta para a esquerda (retração)**, pois aumenta o custo do produto.
+
 ---
 ## Fatores que afetam a Oferta
 

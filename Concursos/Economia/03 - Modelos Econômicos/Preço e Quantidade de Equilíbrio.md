@@ -19,13 +19,13 @@ No exemplo:
 
 ### Excesso
 
-**Excesso de Oferta:** Preço acima do equilíbrio
+**Preço acima do equilíbrio:** Gera **excesso de oferta** (excedente de produto)
 
 ![[Pasted image 20260621121034.png]]
 
 ### Escassez
 
-**Excesso de Demanda (Escassez):** Preço abaixo do equilíbrio
+**Preço abaixo do equilíbrio:** Gera **excesso de demanda** (escassez/falta de produto
 
 ![[Pasted image 20260621121106.png]]
 
@@ -36,6 +36,10 @@ No exemplo:
 ### Piso de Preço
 
 **Piso de Preço**: Fixado **acima do equilíbrio** (ex: salário mínimo). Gera **excesso de oferta** (desemprego, no caso do trabalho)
+
+**💡 Macete de Prova:**
+- Se Preço e Quantidade de equilíbrio variam na **mesma direção**, houve alteração na **Demanda**.
+- Se variam em **direções opostas**, houve alteração na **Oferta**
 
 ---
 ## Excedente de Demanda
