@@ -10,6 +10,7 @@ updated: 2026-06-08T10:40:00
 > [!note] Emenda Constitucional nº 132/2023
 > Art. 156-A - Imposto sobre Bens e Serviços (IBS) é de competência compartilhada entre Estados, Distrito Federal e Municípios
 
+
 ---
 ## Índice
 

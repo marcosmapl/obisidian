@@ -12,6 +12,8 @@ updated: 2026-07-01T15:40:00
 
 > [!tip] São **redutores** da Receita de Vendas
 
+> [!note] Desconto Financeiro
+
 ---
 ## Tópicos Relacionados
 

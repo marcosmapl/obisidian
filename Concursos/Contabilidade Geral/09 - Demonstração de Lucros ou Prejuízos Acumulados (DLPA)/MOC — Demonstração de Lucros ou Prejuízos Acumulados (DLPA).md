@@ -20,7 +20,6 @@ updated: 2026-07-03T00:00:00
 - [[Destinação do Resultado do Exercício]]
 - [[Estrutura da DLPA]]
 
-
 ---
 ## Tópicos relacionados
 

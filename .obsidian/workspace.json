@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Estatística/02 - Estatística Descritiva/Medidas de Variabilidade.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Medidas de Variabilidade"
+              "title": "README"
             }
           }
         ],
@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 443.51103591918945
+    "width": 464.5110321044922
   },
   "right": {
     "id": "4ab4bb61d64fd956",
@@ -400,6 +400,26 @@
             "id": "8bf3fb6dfbd72d1f",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "4584ec6b7620282e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "58465e6fed6cb22d",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -407,7 +427,7 @@
             }
           }
         ],
-        "currentTab": 28
+        "currentTab": 30
       }
     ],
     "direction": "horizontal",
@@ -429,8 +449,20 @@
   },
   "active": "88ff6ffc2d62f148",
   "lastOpenFiles": [
-    "Concursos/Estatística/02 - Estatística Descritiva/Variância.md",
+    "Concursos/Contabilidade Geral/08 - Demonstração do Resultado do Exercício (DRE)/Demonstração do Resultado do Exercício (DRE).md",
+    "Concursos/Contabilidade Geral/09 - Demonstração de Lucros ou Prejuízos Acumulados (DLPA)/MOC — Demonstração de Lucros ou Prejuízos Acumulados (DLPA).md",
+    "Media/Pasted image 20260730101747.png",
+    "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/Desconto Incondicional.md",
+    "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/Desconto Condicional.md",
+    "Media/20260730-quadro-nfc-nota-nacional.xlsx",
+    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 214 2025/MOC — Lei Complementar nº 214 de 2025.md",
+    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/Lei Complementar nº 227 de 2026.md",
+    "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/MOC — Impostos por Competência Constitucional.md",
+    "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/MOC — Impostos de Competência Compartilhada.md",
+    "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/Imposto sobre Bens e Serviços (IBS).md",
+    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/MOC — Reforma Tributária.md",
     "Concursos/Estatística/02 - Estatística Descritiva/Medidas de Variabilidade.md",
+    "Concursos/Estatística/02 - Estatística Descritiva/Variância.md",
     "Concursos/Estatística/02 - Estatística Descritiva/MOC — Estatística Descritiva.md",
     "Concursos/Estatística/02 - Estatística Descritiva/Desvio Médio.md",
     "Concursos/Economia/04 - Elasticidades/Elasticidade - Preço da Demanda.md",
@@ -444,18 +476,8 @@
     "Concursos/Direito/12 - Direito Empresarial/01 - Direito de Empresa/Escrituração.md",
     "Concursos/Direito/12 - Direito Empresarial/01 - Direito de Empresa/MOC — Direito de Empresa.md",
     "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 214 2025/Sujeição Passiva (IBS e CBS).md",
-    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 214 2025/MOC — Lei Complementar nº 214 de 2025.md",
     "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 214 2025/Disposições Preliminares.md",
-    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 214 2025/Base de Cálculo (IBS e CBS).md",
-    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 214 2025/Local da Operação (IBS e CBS).md",
-    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/MOC — Reforma Tributária.md",
-    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/Lei Complementar nº 227 de 2026.md",
-    "Concursos/Direito/04 - Direito Constitucional/03 - Direitos e Garantias Fundamentais/Direitos Sociais.md",
-    "Concursos/Contabilidade Geral/12 - Demonstração do Valor Adicionado (DVA)/Demonstração do Valor Adicionado (DVA).md",
     "Media/Pasted image 20260726213323.jpg",
-    "Concursos/Direito/04 - Direito Constitucional/03 - Princípios Gerais do Direito/MOC — Princípios Gerais do Direito.md",
-    "Concursos/Direito/04 - Direito Constitucional/02 - Princípios Fundamentais/MOC — Princípios Fundamentais.md",
-    "Concursos/Direito/04 - Direito Constitucional/03 - Direitos e Garantias Fundamentais/MOC — Direitos e Garantias Fundamentais.md",
     "Media/Pasted image 20260725233556.jpg",
     "Media/Pasted image 20260725161654.jpg",
     "Media/Pasted image 20260725161448.jpg",
@@ -464,7 +486,6 @@
     "Media/Pasted image 20260724114200.png",
     "Media/Pasted image 20260724113934.png",
     "Media/Pasted image 20260724113809.png",
-    "Media/Pasted image 20260724113536.png",
     "Concursos/Economia/04 - Elasticidades",
     "Concursos/Direito/12 - Direito Empresarial/03 - Dos Institutos Complementares",
     "Concursos/Direito/06 - Direito Civil/99 - Jurisprudência e Precedentes",
@@ -473,7 +494,6 @@
     "Concursos/Direito/10 - Direito Tributário/18 - Jurisprudência/RE 1.253.706",
     "Concursos/Auditoria/14 - Processamento Eletrônico de Dados (PED)",
     "Concursos/Auditoria/13 - Contingências e Estimativas Contábeis",
-    "Concursos/Contabilidade Geral/13 - Princípios Contábeis",
-    "Concursos/Contabilidade Geral/12 - Demonstração do Valor Adicionado (DVA)"
+    "Concursos/Contabilidade Geral/13 - Princípios Contábeis"
   ]
 }

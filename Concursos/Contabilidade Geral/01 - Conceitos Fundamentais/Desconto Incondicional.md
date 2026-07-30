@@ -12,6 +12,8 @@ updated: 2026-07-01T15:40:00
 
 > [!tip] São **redutores** do CMV
 
+> [!note] Desconto Comercial
+
 ---
 ## Tópicos Relacionados
 

@@ -20,5 +20,17 @@ updated: 2026-05-27T15:30:00
 - [[Alíquotas (IBS e CBS)]]
 - [[Sujeição Passiva (IBS e CBS)]]
 
+--- 
+
+## Quadro Comparativo: IBS vs. CBS
+
+|Característica|IBS (Art. 156-A)|CBS (Art. 195, V)|
+|---|---|---|
+|**Tipo de Tributo**|Imposto|Contribuição Social|
+|**Sujeito Ativo**|Estados, DF e Municípios|União|
+|**Legislação**|Única e Nacional (LC)|Única e Nacional (Lei)|
+|**Fato Gerador**|Idêntico ao da CBS|Idêntico ao do IBS|
+|**Imunidade Art. 150, VI**|Sim (Titular original)|Sim (Por extensão do Art. 149-B)|
+|**Imunidade Art. 195, § 7º**|Não se aplica|**Não** se aplica|
 
 ---

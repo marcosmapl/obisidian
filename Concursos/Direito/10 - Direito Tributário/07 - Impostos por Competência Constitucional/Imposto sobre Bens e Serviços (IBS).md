@@ -6,10 +6,14 @@ updated: 2026-06-18T16:25:00
 ---
 
 > [!note] EC 132/2023
-> Determina que o IBS e CBC fossem **criados por LC nacional única**, garantindo **uniformidade na tributação sobre consumo**.
+> Determina que o IBS e CBS fossem **criados por LC nacional única**, garantindo **uniformidade na tributação sobre consumo**.
 
 > [!note] LC 214/2025
 > Instituiu o **IBS (Imposto sobre Bens e Serviços)**, a **CBS (Contribuição Social sobre Bens e Serviços)** e o **IS (Imposto Seletivo)**.
+
+**Competência Compartilhada (IBS):** O IBS (Art. 156-A) possui competência **compartilhada** entre Estados, Distrito Federal e Municípios.
+
+**IVA Dual:** Temos o IBS (Estados/Municípios) e a CBS (União), que formam o modelo de Imposto sobre Valor Agregado dual.
 
 ---
 ## Incidência
@@ -34,32 +38,28 @@ O IBS e a CBS incidem sobre operações com **bens materiais**, **bens imateriai
 ---
 ## Não Incidência
 
-Art. 6º, LC 214/25
-
-Não incidência ocorre quando determinado fato encontra-se fora do campo de incidência do tributo. Difere da imunidade (limitação constitucional) e da isenção (dispensa legal).
-
 O IBS e a CBS não incidem sobre:
 
-- Fornecimento de serviços por pessoas físicas em decorrência de relação de emprego ou de sua atuação como administradores ou membros de conselhos de administração e fiscal e comitês de assessoramento do conselho de administração do contribuinte previstos em lei
-- Transferências de bens entre estabelecimentos do mesmo contribuinte
-- Operações societárias: baixa, liquidação e transmissão de participações; fusão, cisão e incorporação; integralização e devolução de capital
-	- Exceção: transferências de bens adquiridos com crédito a sócios não contribuintes regulares (norma antielisiva)
-- Rendimentos financeiros (exceto quando incluídos no regime específico de serviços financeiros ou na regra de juros, multas, acréscimos e encargos)
-- Recebimento de dividendos e de juros sobre capital próprio, de juros ou remuneração ao capital pagos pelas cooperativas e os resultados de avaliação de participações societárias (exceto transmissão com crédito)
-- Demais operações com (TVM) títulos ou valores mobiliários (exceto regime específico de serviços financeiros e previsões expressas na LC 214)
-- Transferências de recursos públicos e demais bens públicos para organizações da sociedade civil sem fins lucrativos
-- Destinação de recursos por sociedade cooperativa para os fundos previstos em lei e reversão dos recursos dessas reservas
-- Repasses da cooperativa para os seus associados e distribuição em dinheiro das sobras apuradas em demonstração de resultado
+- **Fornecimento de serviços por pessoas físicas em decorrência de relação de emprego** ou de sua **atuação como administradores ou membros de conselhos de administração e fiscal e comitês de assessoramento do conselho de administração do contribuinte previstos em lei**.
+- **Transferências de bens entre estabelecimentos do mesmo contribuinte**
+- **Operações societárias**: baixa, liquidação e transmissão de participações; fusão, cisão e incorporação; integralização e devolução de capital
+	- ==Exceção: transferências de bens adquiridos com crédito a sócios não contribuintes regulares (norma antielisiva)==
+- **Rendimentos financeiros** (exceto quando incluídos no regime específico de serviços financeiros ou na regra de juros, multas, acréscimos e encargos)
+- **Recebimento de dividendos e de juros sobre capital próprio**, de juros ou remuneração ao capital pagos pelas cooperativas e os resultados de avaliação de participações societárias (exceto transmissão com crédito)
+- **Demais operações com (TVM) títulos ou valores mobiliários** (exceto regime específico de serviços financeiros e previsões expressas na LC 214)
+- **Transferências de recursos públicos e demais bens públicos para organizações da sociedade civil sem fins lucrativos**
+- **Destinação de recursos por sociedade cooperativa** para os fundos previstos em lei e reversão dos recursos dessas reservas
+- **Repasses da cooperativa para os seus associados** e distribuição em dinheiro das sobras apuradas em demonstração de resultado
+
+**Comunicação Gratuita**: Não incide sobre radiodifusão sonora e de sons e imagens de recepção livre e gratuita (TV e rádio aberta).
 
 ---
 ## Imunidades
 
 Arts. 8º e 9º, LC 214/25
 
-Imunidades são vedações constitucionais expressas que impedem a instituição de tributos. Apesar de ser contribuição, a CBS observa as mesmas imunidades dos impostos (art. 150, VI, CF), não das contribuições (art. 195, §7º, CF).
-
 São imunes ao IBS e CBS:
-- Exportações de bens e serviços — não há estorno dos créditos das etapas anteriores
+- **Exportações de bens e serviços** — não há estorno dos créditos das etapas anteriores
 - Entes federativos (inclusive autarquias, fundações públicas e empresa pública prestadora de serviço postal): apenas operações relacionadas às finalidades essenciais; não cobre atividades econômicas com contraprestação; não exonera promitente comprador de imóvel
 - Entidades religiosas e templos de qualquer culto, inclusive suas organizações assistenciais e beneficentes (pessoa jurídica de direito privado sem fins lucrativos que professa a fé religiosa; organização assistencial vinculada que fornece bens e serviços na área de assistência social sem discriminação)
 - Partidos políticos, sindicatos dos trabalhadores, instituições de educação e de assistência social sem fins lucrativos — restrita a pessoas jurídicas sem fins lucrativos que não distribuam patrimônio ou rendas, apliquem recursos no país e mantenham escrituração regular
@@ -68,15 +68,26 @@ São imunes ao IBS e CBS:
 - Serviços de radiodifusão sonora e de sons e imagens de recepção livre e gratuita
 - Ouro definido em lei como ativo financeiro ou instrumento cambial
 
+> [!tip] Imunidade para entidades beneficentes de assistência social
+> Definida no Art. 195, § 7º, que se aplica às demais **contribuições sociais**, ==NÃO se aplica nem ao IBS nem à CBS==.
+
 ---
 ## Não Cumulatividade
 
-A não-cumulatividade plena **garante que todo tributo incidente nas operações anteriores gere crédito ao adquirente**, com exceção de bens e serviços de uso e consumo pessoal.
+O IBS é um imposto **plurifásico** e segue o método de débitos e créditos (valor agregado).
+
+- **Regra Geral:** O contribuinte compensa o imposto devido com o montante cobrado sobre **todas as operações** nas quais seja adquirente de bens ou serviços.
+- **Exceções ao Crédito (Vedação):** Só não gera crédito o que for para **uso ou consumo pessoal** (conforme definido em LC) e as hipóteses previstas na CF.
+- **Exportações:** Embora imunes, é assegurada a **manutenção e o aproveitamento dos créditos** das etapas anteriores ao exportador
 
 ---
-## Princípio do Destino
+## Efeito da Isenção e Imunidade no Crédito
 
-Com a adoção do **princípio do destino**, o **IBS é devido no local do consumo**, ==não mais na origem==. Isso busca dar fim à Guerra Fiscal entre as Unidades Federativas.
+Como regra geral, se uma operação é isenta ou imune:
+
+1. **Não gera crédito** para as etapas seguintes.
+2. Acarreta a **anulação do crédito** das etapas anteriores.
+3. **Ressalva:** A Lei Complementar pode autorizar a manutenção do crédito em casos de imunidade.
 
 ---
 ## Fato Gerador
