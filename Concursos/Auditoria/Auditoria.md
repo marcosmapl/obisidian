@@ -48,10 +48,13 @@ updated: 2026-07-03T00:00:00
 
 - [[MOC — Processamento Eletrônico de Dados (PED)]]
 
-#### 1.7 Normas Brasileiras de Auditoria (CFC)
-
-- [[MOC — Normas Brasileiras de Auditoria]]
 #### 1.7 Contingências e Estimativas Contábeis
 
 - [[MOC — Contingências e Estimativas Contábeis]]
+
+#### 1.8 Normas Brasileiras de Auditoria (CFC)
+
+- [[MOC — Normas Brasileiras de Auditoria]]
+
+
 

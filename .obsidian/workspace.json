@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Concursos/Auditoria/16 - Transações e Eventos Subsequentes/MOC — Transações e Eventos Subsequentes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "MOC — Transações e Eventos Subsequentes"
             }
           }
         ],
@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 464.5110321044922
+    "width": 402.51103591918945
   },
   "right": {
     "id": "4ab4bb61d64fd956",
@@ -407,17 +407,7 @@
             }
           },
           {
-            "id": "4584ec6b7620282e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "58465e6fed6cb22d",
+            "id": "0a8f02c0ef7db911",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -427,7 +417,7 @@
             }
           }
         ],
-        "currentTab": 30
+        "currentTab": 29
       }
     ],
     "direction": "horizontal",
@@ -449,18 +439,24 @@
   },
   "active": "88ff6ffc2d62f148",
   "lastOpenFiles": [
-    "Concursos/Contabilidade Geral/08 - Demonstração do Resultado do Exercício (DRE)/Demonstração do Resultado do Exercício (DRE).md",
-    "Concursos/Contabilidade Geral/09 - Demonstração de Lucros ou Prejuízos Acumulados (DLPA)/MOC — Demonstração de Lucros ou Prejuízos Acumulados (DLPA).md",
+    "Media/Guia_Visual_de_Eventos_Subsequentes.png",
+    "Concursos/Auditoria/16 - Transações e Eventos Subsequentes/Representação Formal (NBC TA 580).md",
+    "Concursos/Auditoria/16 - Transações e Eventos Subsequentes/Procedimentos de Auditoria para Eventos Subsequentes.md",
+    "Concursos/Auditoria/16 - Transações e Eventos Subsequentes/Período 1 — Ocorrência até a Data do Relatório.md",
+    "Concursos/Auditoria/16 - Transações e Eventos Subsequentes/MOC — Transações e Eventos Subsequentes.md",
+    "Concursos/Auditoria/16 - Transações e Eventos Subsequentes/Modificações e Novo Relatório.md",
+    "Concursos/Auditoria/16 - Transações e Eventos Subsequentes/Parágrafo de Ênfase e Outros Assuntos em Eventos Subsequentes.md",
+    "Concursos/Auditoria/16 - Transações e Eventos Subsequentes/Período 3 — Após a Divulgação das Demonstrações.md",
+    "Concursos/Auditoria/16 - Transações e Eventos Subsequentes/Período 2 — Data do Relatório até a Divulgação.md",
+    "Período 3.md",
+    "Concursos/Auditoria/16 - Transações e Eventos Subsequentes/Dupla Data (Double Dating).md",
+    "Concursos/Auditoria/16 - Transações e Eventos Subsequentes/Marcos Temporais e Datas Críticas.md",
+    "Concursos/Auditoria/16 - Transações e Eventos Subsequentes/Eventos Subsequentes.md",
+    "Concursos/Auditoria/15 - Normas Brasileiras de Auditoria (CFC)/MOC — Normas Brasileiras de Auditoria.md",
+    "Concursos/Auditoria/Auditoria.md",
+    "Concursos/Auditoria/16 - Transações e Eventos Subsequentes",
+    "Concursos/Contabilidade Geral/04 - Balanço Patrimonial (BP)/MOC — Balanço Patrimonial.md",
     "Media/Pasted image 20260730101747.png",
-    "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/Desconto Incondicional.md",
-    "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/Desconto Condicional.md",
-    "Media/20260730-quadro-nfc-nota-nacional.xlsx",
-    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 214 2025/MOC — Lei Complementar nº 214 de 2025.md",
-    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/Lei Complementar nº 227 de 2026.md",
-    "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/MOC — Impostos por Competência Constitucional.md",
-    "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/MOC — Impostos de Competência Compartilhada.md",
-    "Concursos/Direito/10 - Direito Tributário/07 - Impostos por Competência Constitucional/Imposto sobre Bens e Serviços (IBS).md",
-    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/MOC — Reforma Tributária.md",
     "Concursos/Estatística/02 - Estatística Descritiva/Medidas de Variabilidade.md",
     "Concursos/Estatística/02 - Estatística Descritiva/Variância.md",
     "Concursos/Estatística/02 - Estatística Descritiva/MOC — Estatística Descritiva.md",
@@ -471,12 +467,6 @@
     "Concursos/Economia/03 - Modelos Econômicos/Preço e Quantidade de Equilíbrio.md",
     "Concursos/Economia/03 - Modelos Econômicos/Oferta.md",
     "Concursos/Economia/03 - Modelos Econômicos/Demanda.md",
-    "Concursos/Economia/03 - Modelos Econômicos/Curva de Possibilidades de Produção (CPP).md",
-    "Concursos/Economia/01 - Conceitos Fundamentais/Custo de Oportunidade.md",
-    "Concursos/Direito/12 - Direito Empresarial/01 - Direito de Empresa/Escrituração.md",
-    "Concursos/Direito/12 - Direito Empresarial/01 - Direito de Empresa/MOC — Direito de Empresa.md",
-    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 214 2025/Sujeição Passiva (IBS e CBS).md",
-    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 214 2025/Disposições Preliminares.md",
     "Media/Pasted image 20260726213323.jpg",
     "Media/Pasted image 20260725233556.jpg",
     "Media/Pasted image 20260725161654.jpg",
