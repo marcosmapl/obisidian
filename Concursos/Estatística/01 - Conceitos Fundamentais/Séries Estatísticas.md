@@ -7,70 +7,62 @@ updated: 2026-02-23T21:10:00
 
 ## Conceito
 
-- Série estatística é a **organização de dados em uma sequência lógica**, com base em um critério específico.
-- Permite **analisar, interpretar e comparar informações** de forma estruturada.
+> [!note] Série Estatística
+> Uma série estatística consiste em um conjunto de dados organizados com base em uma característica comum ou em uma mesma variável. O objetivo principal da série é sintetizar os dados observados para torná-los mais compreensíveis, sendo geralmente apresentada por meio de tabelas ou gráficos.
 
 ---
-## Elementos
+## Formas de Representação
 
-- **Tempo**
-- **Espaço (local)**
-- **Espécie (fato)**
-
----
-## Tipos de Séries
-
-### Série Temporal (ou Cronológica)
-
-- Dados organizados ao longo do **tempo**.
-- **Espaço (local) e espécie (fato) permanecem constantes**
-
-📍 **Exemplo:**
-
-- Vendas de uma empresa por mês.
-- População de uma cidade ao longo dos anos.
+- **Tabela:** Um quadro que resume observações, composto por elementos essenciais como título, cabeçalho, corpo (linhas e colunas), coluna indicadora, células e fonte.
+- **Gráfico:** Uma forma clara e objetiva de visualização que deve ser simples (sem detalhes inúteis), clara (permitir interpretação correta) e verossímil (transmitir a verdade sobre o fenômeno)
 
 ---
-### Série Geográfica (ou Territorial)
+## Elementos das Séries
 
-- Dados organizados conforme o **Espaço (local)**.
-- **Tempo e espécie (fato) permanecem constantes***
+Toda série estatística é composta por três elementos fundamentais:
 
-📍 **Exemplo:**
-
-- População por estado.
-- Número de casos por região.
+1. **Tempo** (Época de ocorrência).
+2. **Espaço** (Localidade de ocorrência).
+3. **Espécie** (O fato ou modalidade investigada).
 
 ---
-### Série Específica (ou Categórica)
+## Classificação das Séries
 
-- É a série cujos dados são dispostos segundo a **modalidade de ocorrência**.
-- Isto é, **enquanto o fato varia**, a **época e o local permanecem constantes**.
+Conforme o elemento que varia, as séries são classificadas em:
 
-📍 **Exemplo:**
+### Séries Temporais (Cronológicas, Históricas ou Evolutivas)
 
-- Número de alunos por curso.
-- Funcionários por nível de escolaridade.
+Neste tipo de série, o **tempo é o fator variável**, enquanto o fato (espécie) e o local permanecem constantes.
+
+- _Exemplo:_ População residente no Brasil variando de década em década (1970 a 2010).
+
+### Séries Geográficas (Territoriais, Espaciais ou de Localização)
+
+Aqui, o **local de ocorrência varia**, enquanto o fato e a época permanecem constantes.
+
+- _Exemplo:_ Quantidade de população urbana residente em cada região do Brasil em um ano específico.
+
+### Séries Específicas (Categóricas)
+
+Nestas séries, a **modalidade ou fato investigado varia**, mantendo-se constantes a época e o local.
+
+- _Exemplo:_ Divisão da população entre urbana e rural em um determinado ano e local.
+
+### Séries Mistas (ou Compostas)
+
+Ocorrem quando há a combinação de duas ou mais séries em uma única **tabela de dupla entrada**. A nomenclatura deve refletir os elementos variáveis:
+
+- **Série Específico-Temporal:** Variam o fato e o tempo.
+- **Série Geográfica-Temporal:** Variam o local e o tempo
 
 ---
-### Série Mista
-
-- Combina **dois ou mais critérios** (tempo, espaço, categoria).
-
-📍 **Exemplo:**
-
-- Vendas por estado ao longo dos anos.
-
----
-## Pegadinha de banca
-
-- A banca pode trocar os nomes:
-    - **Temporal = cronológica**
-    - **Geográfica = territorial**
-    - **Específica = categórica**
-
----
-
 ## Resumo de Alta Performance
 
 ![[Pasted image 20260323213022.png]]
+
+---
+## Tópicos Relacionados
+
+- [[Dados Estatísticos]]
+- [[Variáveis Estatísticas]]
+- [[Representação Gráfica]]
