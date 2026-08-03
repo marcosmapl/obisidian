@@ -19,6 +19,7 @@ updated: 2026-05-27T15:30:00
 - [[Base de Cálculo (IBS e CBS)]]
 - [[Alíquotas (IBS e CBS)]]
 - [[Sujeição Passiva (IBS e CBS)]]
+- [[Devoluções e Cashback]]
 
 --- 
 

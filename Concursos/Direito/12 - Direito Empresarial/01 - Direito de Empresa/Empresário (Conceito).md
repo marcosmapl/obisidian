@@ -17,10 +17,16 @@ A doutrina entende e já consolidou esse entendimento na Jornada de Direito Civi
 ---
 ## Não Empresário
 
+### Profissionais Liberais
 > [!note] Código Civil, Art. 966 Parágrafo único. 
 > Não se considera empresário quem exerce **profissão intelectual**, de **natureza científica**, **literária** ou **artística**, **ainda com o concurso de auxiliares ou colaboradores**, ==salvo se o exercício da profissão constituir elemento de empresa==.
 
 ![[Pasted image 20260528215439.png]]
+
+### Sociedades Cooperativas
+
+- **Sociedade Cooperativa**: sempre simples
+- **Sociedade por ações**: sempre empresária
 
 ---
 ## Aplicação do Conceito
@@ -37,6 +43,12 @@ A doutrina entende e já consolidou esse entendimento na Jornada de Direito Civi
 > Código Civil Art. 968 - § 3º Caso venha a admitir sócios, o empresário individual poderá solicitar ao Registro Público de Empresas Mercantis a transformação de seu registro de empresário para registro de sociedade empresária, observado, no que couber, o disposto nos Arts. 1.113 a 1.115 deste Código.
 
 ![[Pasted image 20260528220230.png]]
+
+### Sociedade Empresária
+
+- **Pessoa Jurídica**
+- A pessoa jurídica responde pelos **direitos e obrigações**
+- Possui **patrimônio próprio**, distinto dos sócios.
 
 ---
 ## Capacidade e Impedimento Legal
@@ -87,8 +99,3 @@ Cônjuge ==NÃO pode ser sócio um do outro== quando forem casados no regime da 
 
 ![[Pasted image 20260605222029.png]]
 
----
-## Filiais
-
-A regra é simples, instituiu filial deve se **INSCREVER lá no Estado da**
-**filial** e **AVERBAR no Estado da sede**. 

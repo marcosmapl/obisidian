@@ -24,4 +24,5 @@ updated: 2026-05-29T08:22:48
 - [[Nome Empresarial]]
 - [[Prepostos]]
 - [[Escrituração]]
-- 
+- [[Estabelecimento]]
+

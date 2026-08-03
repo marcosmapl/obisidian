@@ -12,7 +12,7 @@ updated: 2026-05-25T08:45:00
 
 ### 1. [[MOC — Introdução ao Direito Civil]]
 
-### 2. [[MOC — Das Pessoas Naturais]]
+### 2. [[MOC — Das Pessoas Naturais e Jurídicas]]
 
 ### 3. [[MOC — Jurisprudência e Precedentes em Direito Civil]]
 

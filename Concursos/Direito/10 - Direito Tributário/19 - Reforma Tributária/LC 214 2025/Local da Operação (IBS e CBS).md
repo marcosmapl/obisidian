@@ -101,9 +101,9 @@ A tributação ocorre no **local onde o imóvel estiver situado**.
 
 ![[Pasted image 20260625110343.png]]
 
-No Abastecimento de **água**, **gás canalizado** e **energia elétrica**, destinado ao **consumo** considera-se o **local da entrega ou disponibilização**
+No Abastecimento de **água**, **gás canalizado** e **energia elétrica**, destinado ao **consumo** considera-se o **local da entrega ou disponibilização**.
 
-Nas demais operações (transmissão, geração e comercialização de energia elétrica), considera-se o **local do estabelecimento principal do adquirente**
+Nas demais operações (transmissão, geração e comercialização de energia elétrica), considera-se o **local do estabelecimento principal do adquirente**.
 
 ![[Pasted image 20260625110310.png]]
 

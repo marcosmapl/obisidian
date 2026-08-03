@@ -24,7 +24,13 @@ updated: 2026-07-12T18:40:00
 ### Ausência de Lei Específica
 
 > [!note] Art. 14 § 3º 
-> Na ausência de lei específica que estabeleça a alíquota do ente federativo, será aplicada a alíquota de referência da respectiva esfera federativa.
+> Na **ausência de lei específica** que estabeleça a alíquota do ente federativo, **será aplicada a alíquota de referência da respectiva esfera federativa**.
+---
+## Aplicação
+
+**Unformidade**: No caso de importação de bens materiais, as **alíquotas são as mesmas** incidentes sobre a aquisição do respectivo bem no País.
+
+**Devoluções**: A alíquota aplicada para fins de devolução ou cancelamento **deve ser a mesma cobrada na operação original**.
 
 ---
 ## Alíquota Padrão
@@ -38,3 +44,13 @@ updated: 2026-07-12T18:40:00
 > 
 > Parágrafo único. Para fins do disposto neste artigo, o destino da operação é o local da ocorrência da operação, definido nos termos do art. 11 desta Lei Complementar.
  
+---
+## Ajustes decorrentes de alterações legislativas (Art. 19)
+
+Sempre que uma nova lei federal reduzir ou elevar a arrecadação do IBS ou da CBS, as alíquotas de referência devem ser ajustadas seguindo este rito:
+
+- **Envio ao TCU:** O **Comitê Gestor (para o IBS) ou o Executivo Federal (para a CBS)** devem enviar os cálculos e a metodologia ao TCU no prazo de **60 dias** após a **promulgação da lei**.
+- **Solicitação de ajustes pelo TCU:** O TCU tem até **60 dias**, após o recebimento, para solicitar ajustes na metodologia ou nos cálculos.
+- **Ajuste pelos órgãos proponentes:** Após a solicitação do TCU, o Comitê Gestor e o Poder Executivo têm **30 dias** para realizar as **correções**.
+- **Decisão definitiva do TCU:** O TCU deve decidir de forma definitiva sobre os cálculos e encaminhá-los ao Senado Federal no prazo de **30 dias**.
+- **Fixação pelo Senado:** O Senado Federal estabelecerá o ajuste das alíquotas de referência, por meio de resolução, no prazo de **30 dias**.

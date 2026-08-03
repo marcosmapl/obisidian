@@ -21,8 +21,6 @@ updated: 2026-02-05T20:45:00
 
 ### 07. [[Concursos/Língua Portuguesa/07 - Regência/MOC — Regência|MOC — Regência]]
 
-### 08. [[Concursos/Língua Portuguesa/08 - Crase/MOC — Crase|MOC — Crase]]
-
 ### 09. [[Concursos/Língua Portuguesa/09 - Colocação Pronominal/MOC — Colocação Pronominal|MOC — Colocação Pronominal]]
 
 ### 10. [[Concursos/Língua Portuguesa/10 - Semântica/MOC — Semântica|MOC — Semântica]]

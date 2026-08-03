@@ -7,5 +7,8 @@ updated: 2026-07-17T21:35:00
 
 ## Índice
 
-- [[Pessoas Naturais e Jurídicas]]
+- [[Pessoas Naturais]]
+- [[Ausência das Pessoas Naturais]]
+- [[Pessoas Jurídicas]]
 - [[Direitos de Personalidade]]
+- [[Domicílio das Pessoas Naturais e Jurídicas]]
