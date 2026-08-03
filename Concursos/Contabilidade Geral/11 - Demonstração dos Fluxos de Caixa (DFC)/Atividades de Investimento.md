@@ -38,10 +38,5 @@ São **Pagamentos ou recebimentos** em caixa referentes a operações com:
 ## Tópicos Relacionados
 
 - [[MOC — Demonstração dos Fluxos de Caixa (DFC)]]
-<<<<<<<< HEAD:Concursos/Contabilidade Geral/11 - Demonstração dos Fluxos de Caixa (DFC)/Atividades de Investimento.md
 - [[Atividades Operacionais]]
 - [[Atividades de Financiamento]]
-========
-- [[Fluxo de Caixa das Atividades Operacionais]]
-- [[Fluxo de Caixa das Atividades de Financiamento]]
->>>>>>>> 1573e6860e04b538178111278c46c7445df31d6b:Concursos/Contabilidade Geral/11 - Demonstração dos Fluxos de Caixa (DFC)/Fluxo de Caixa das Atividades de Investimento.md
