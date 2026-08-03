@@ -11,13 +11,13 @@ updated: 2026-06-08T09:02:00
 
 - [[Tributo — Conceito]]
 - [[Fato Gerador da Obrigação Tributária]]
-- [[Preço Público — Conceito|Preço Público — Conceito]]
+- [[Preço Público|Preço Público — Conceito]]
 ### Receitas
 
-- [[Receita Pública — Conceito]]
-- [[Receita Tributária — Conceito]]
-- [[Receita Não Tributária — Conceito]]
+- [[Receita Pública]]
+- [[Receita Tributária]]
+- [[Receita Não Tributária]]
 ### Capacidade Tributária
 
-- [[Capacidade Tributária Ativa  — Conceito]]
-- [[Capacidade Tributária Passiva  — Conceito]]
+- [[Capacidade Tributária Ativa]]
+- [[Capacidade Tributária Passiva]]

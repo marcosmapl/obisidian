@@ -86,5 +86,5 @@ O contribuinte ==não poderá fazer opção por não receber determinada presta�
 ---
 ## Tópicos Relacionados
 
-- [[Preço Público — Conceito]]
+- [[Preço Público]]
 - [[Imposto — Conceito]]

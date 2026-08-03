@@ -17,17 +17,19 @@ $$ \sigma^2 = \frac{\sum_{i=1}^n (x_i - \mu)^2}{n} $$
 
 ### Simplificação
 
-$$ \sigma^2 = \bar{x^2} - (\bar{x})^2 $$
+$$ \sigma^2 = \bar{\mu^2} - (\bar{\mu})^2 $$
 
 ---
 ## Variância Amostral
 
+Nesse caso, precisamos corrigir as fórmulas pelo fator de correção Bessel
 
-$$ s^2 = \frac{\sum_{i=1}^n (x_i - \bar{x})^2}{n - 1} $$
+
+$$ s^2 = \frac{\sum_{i=1}^n (x_i - \bar{x})^2}{n} \cdot \frac{n}{n - 1} $$
 
 ### Simplificação
 
-$$ s^2 = [ \bar{x^2} - (\bar{x})^2 ] \times (\frac{n}{n - 1}) $$
+$$ s^2 = [ \bar{x^2} - (\bar{x})^2 ] \cdot \frac{n}{n - 1} $$
 
 > [!tip] Amostras Grandes
 > Em amostras grandes (n > 30), **não há diferença significativa** entre os resultados proporcionados pela **utilização de qualquer dos dois divisores**, **n ou (n-1)**
@@ -45,4 +47,4 @@ $$ s^2 = \sigma^2 \times \frac{n}{n-1} $$
 $$ \sigma^2 = \frac{\sum_{i=1}^m (x_i - \mu)^2 \times f_i}{n} $$
 ### Variância Amostral
 
-$$ s^2 = \frac{\sum_{i=1}^n (x_i - \bar{x})^2 \times f_i}{n - 1} $$
+$$ s^2 = \frac{\sum_{i=1}^n (x_i - \bar{x})^2 \cdot f_i}{n} \cdot \frac{n}{n - 1} $$

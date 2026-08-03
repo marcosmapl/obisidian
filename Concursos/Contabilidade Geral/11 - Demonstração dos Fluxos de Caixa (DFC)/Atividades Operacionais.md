@@ -47,10 +47,5 @@ Segundo o CPC 03:
 ## Tópicos Relacionados
 
 - [[MOC — Demonstração dos Fluxos de Caixa (DFC)]]
-<<<<<<<< HEAD:Concursos/Contabilidade Geral/11 - Demonstração dos Fluxos de Caixa (DFC)/Atividades Operacionais.md
 - [[Atividades de Investimento]]
 - [[Atividades de Financiamento]]
-========
-- [[Fluxo de Caixa das Atividades de Investimento]]
-- [[Fluxo de Caixa das Atividades de Financiamento]]
->>>>>>>> 1573e6860e04b538178111278c46c7445df31d6b:Concursos/Contabilidade Geral/11 - Demonstração dos Fluxos de Caixa (DFC)/Fluxo de Caixa das Atividades Operacionais.md

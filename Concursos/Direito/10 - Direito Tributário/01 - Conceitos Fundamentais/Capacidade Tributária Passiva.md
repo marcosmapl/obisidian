@@ -10,9 +10,7 @@ updated: 2026-01-05T06:05:00
 > [!note] Capacidade Tributária Passiva
 > É a **aptidão jurídica para figurar no polo passivo da obrigação tributária**, na condição de **contribuinte ou responsável**, sujeitando-se ao cumprimento das prestações tributárias.
 
-> [!tip] Refere-se a **quem pode ser obrigado a pagar o tributo**, independentemente de possuir personalidade jurídica plena.
-
-#direito/tributario/capacidade_tributaria_passiva
+> [!tip] Toda e qualquer pessoa, física ou jurídica, inclusive as sociedades de fato, tem capacidade passiva.
 
 ---
 ## Fundamento Legal
@@ -51,14 +49,12 @@ updated: 2026-01-05T06:05:00
 
 📌 A incapacidade civil **não afasta** a sujeição tributária.
 
----
-## Pontos de Prova
 
-- Ente despersonalizado pode ser sujeito passivo;
-- Menores e incapazes **podem ser tributados**;
-- Conceito frequentemente confundido com:
-  - competência tributária;
-  - capacidade tributária ativa.
+> [!note] CTN, Art. 126
+> A capacidade tributária passiva independe:
+> - I - da **capacidade civil** das pessoas naturais;
+> - II - de achar-se a pessoa natural sujeita a medidas que importem privação ou limitação do **exercício de atividades civis**, **comerciais** ou **profissionais**, ou da **administração direta de seus bens ou negócios**;
+> - III - de estar a **pessoa jurídica regularmente constituída**, bastando que configure uma **unidade econômica ou profissional**.
 
 ---
 ## Tópicos Relacionados
@@ -66,5 +62,5 @@ updated: 2026-01-05T06:05:00
 - [[Obrigação Tributária]]
 - [[Sujeito Passivo]]
 - [[Contribuinte]]
-- [[Responsável Tributário]]
+- [[Responsabilidade Tributária]]
 - [[Fato Gerador da Obrigação Tributária]]

@@ -30,7 +30,7 @@ updated: 2025-12-23T00:00:00
 ## Tópicos Relacionados
 
 - [[Fato Gerador da Obrigação Tributária]]
-- [[Receitas Derivadas — Conceito]]
+- [[Receitas Derivadas]]
 - [[Taxa — Conceito]]
 - [[Contribuições de Melhoria]]
 - [[Empréstimos Compulsórios]]

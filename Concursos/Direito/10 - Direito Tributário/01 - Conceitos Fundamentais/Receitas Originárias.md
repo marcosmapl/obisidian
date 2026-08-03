@@ -10,8 +10,6 @@ updated: 2026-01-03T16:44:00
 > [!NOTE] Receita Originária
 > Receita obtida pela **exploração do patrimônio do Estado** ou de **atividade econômica**.
 
-#direito/tributario/receita_originaria
-
 ---
 ## Exemplos
 
@@ -45,5 +43,5 @@ updated: 2026-01-03T16:44:00
 ---
 ## Tópicos Relacionados
 
-- [[Receitas Derivadas — Conceito]]
+- [[Receitas Derivadas]]
 - [[Direito Privado]]

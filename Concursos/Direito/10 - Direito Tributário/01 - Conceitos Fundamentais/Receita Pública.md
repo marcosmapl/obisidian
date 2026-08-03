@@ -10,14 +10,12 @@ updated: 2026-01-06T09:57:50
 > [!note] Receita Pública
 > **Receita pública** é o **ingresso de recursos financeiros** nos cofres do Estado, de forma **definitiva**, destinado ao **custeio das despesas públicas** e à consecução das **finalidades estatais**.
 
-#direito/tributario/receita_publica
-
 ---
 ## Classificações
 
 Há duas formas de o Estado conseguir o dinheiro. São as chamadas
-- [[Receitas Originárias — Conceito]]
-- [[Receitas Derivadas — Conceito]]
+- [[Receitas Originárias]]
+- [[Receitas Derivadas]]
 
 ---
 ## Elementos essenciais

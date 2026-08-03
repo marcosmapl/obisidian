@@ -10,8 +10,6 @@ updated: 2026-01-03T17:45:00
 > [!note] Receita Não Tributária
 > Receita pública que **não decorre da cobrança de tributos**.
 
-#direito/tributario/receita_nao_tributaria
-
 ---
 ## Origem
 
@@ -36,5 +34,5 @@ updated: 2026-01-03T17:45:00
 ## Tópicos Relacionados
 
 - [[Direito Público]]
-- [[Receita Pública — Conceito]]
-- [[Receita Tributária — Conceito]]
+- [[Receita Pública]]
+- [[Receita Tributária]]

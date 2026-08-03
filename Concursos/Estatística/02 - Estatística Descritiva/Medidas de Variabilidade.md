@@ -18,7 +18,7 @@ As medidas de dispersão (ou variabilidade) são justamente métricas que mostra
 - [[Amplitude Interquartílica]]
 - [[Desvio Médio]]
 - [[Variância]]
-- [[Desvio-Padrão]]
+- [[Desvio Padrão]]
 
 ### Medidas de Dispersão Relativa
 
