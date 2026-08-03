@@ -16,8 +16,10 @@ updated: 2026-06-24T12:15:00
 - [[Direito de Associação]]
 - [[Direito à Propriedade]]
 - [[Sigilo da Correspondência de Comunicações Telegráficas]]
+- [[Sigilo Bancário]]
 - [[Direito de Informação]]
-- [[Direito de Petição e de Obtenção de Certidões]]
+- [[Direito de Petição]]
 - [[Direito à Defesa do Consumidor]]
 - [[Direito a Herança]]
-
+- [[Direito à Propriedade]]
+- [[Extradição]]

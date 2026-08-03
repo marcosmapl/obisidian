@@ -1,6 +1,6 @@
 ---
 disciplina: Direito Constitucional
-tópico: Direitos e Garantias Fundamentais
+tópico: Direitos Fundamentais
 created: 2026-05-31T15:25:00
 updated: 2026-05-31T15:30:00
 ---

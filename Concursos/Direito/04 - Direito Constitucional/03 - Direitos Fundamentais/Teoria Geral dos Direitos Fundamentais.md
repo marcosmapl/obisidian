@@ -1,13 +1,13 @@
 ---
 disciplina: Direito Constitucional
-tópico: Direitos e Garantias Fundamentais
+tópico: Direitos Fundamentais
 created: 2026-05-31T14:45:00
 updated: 2026-05-31T14:55:00
 ---
 
 ## Gerações
 
-### Primeira Geração
+### 1ª Geração
 
 - Buscam **restringir a ação do Estado sobre o indivíduo**, impedindo que aquele se intrometa de forma abusiva na vida privada deste.
 - Também chamados **liberdades negativas**.
@@ -19,7 +19,7 @@ updated: 2026-05-31T14:55:00
 	- **Associação**
 	- **Reunião**
 
-### Segunda Geração
+### 2ª Geração
 
 - Envolvem **prestações positivas do Estado aos indivíduos** (políticas e serviços públicos)
 - Caracterizam-se por serem **normas programáticas**
@@ -30,7 +30,7 @@ updated: 2026-05-31T14:55:00
 	- **Saúde**
 	- **Trabalho**
 
-### Terceira Geração
+### 3º Geração
 
 - Que ==não protegem interesses individuais==, mas que transcendem a órbita dos indivíduos para alcançar a **coletividade**.
 - Direitos **transindividuais** ou **supraindividuais**.

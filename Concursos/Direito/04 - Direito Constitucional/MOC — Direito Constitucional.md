@@ -15,7 +15,7 @@ updated: 2026-05-15T15:45:00
 
 1. [[MOC — Teoria Geral da Constituição|MOC — Teoria Geral da Constituição]]
 2. [[MOC — Princípios Fundamentais|MOC — Princípios Fundamentais]]
-3. [[MOC — Direitos e Garantias Fundamentais]]
+3. [[MOC — Direitos Fundamentais]]
 4. [[MOC — Nacionalidade, Direitos Políticos e Partidos]]
 5. [[MOC — Organização do Estado]]
 6. [[MOC — Administração Pública (CF)]]

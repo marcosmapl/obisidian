@@ -5,12 +5,16 @@ created: 2026-06-24T13:15:00
 updated: 2026-06-24T13:20:00
 ---
 
+## Desapropriação
+
 Se a propriedade estiver cumprindo sua função social, só poderá haver a **desapropriação** com base na tutela do interesse público, em três hipóteses:
 - Necessidade pública
 - Utilidade pública
 - Interesse social.
 
-## Indenização por desapropriação
+![[Pasted image 20260803120438.png]]
+
+### Indenização por desapropriação
 
 > [!note] Art. 5º XXIV
 > A lei estabelecerá o procedimento para desapropriação por necessidade ou utilidade pública, ou por interesse social, mediante justa e prévia indenização em dinheiro, ressalvados os casos previstos nesta Constituição;

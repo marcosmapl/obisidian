@@ -1,6 +1,6 @@
 ---
 disciplina: Direito Constitucional
-tópico: Direitos e Garantias Fundamentais
+tópico: Direitos Fundamentais
 created: 2026-05-31T15:00:00
 updated: 2026-05-31T15:10:00
 ---
@@ -36,7 +36,7 @@ Os direitos fundamentais **não se perdem com o tempo**, sendo sempre exigíveis
 O titular dos direitos fundamentais **não pode deles dispor**, embora
 possa deixar de exercê-los.
 
-### Relatividade ou limitabilidade
+### Relatividade ou Limitabilidade
 
 ==Não há direitos fundamentais absolutos==. Trata-se de **direitos relativos, limitáveis, no caso concreto, por outros direitos fundamentais**. 
 
