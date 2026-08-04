@@ -16,7 +16,15 @@ updated: 2026-08-04T05:44:00
 - Teoria da **Produção**
 - Teoria dos **Custos**
 
+---
+## Teoria da Produção
 
 - [[Fatores de Produção]]
 - [[Tecnologia]]
-- [[Curto e Longo Prazo]]
+- [[Curto Prazo]]
+- [[Curvas de Produção]]
+- [[Função de Produção]]
+- [[Longo Prazo]]
+
+---
+## Teoria dos Custos

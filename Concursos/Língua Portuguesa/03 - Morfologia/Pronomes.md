@@ -101,3 +101,13 @@ Os pronomes de tratamento mais comuns incluem:
 - **Vossa Santidade (V. S.)**: usado para o Papa.
 
 ---
+## Palavras que atraem Pronomes
+
+- **Negativa** (palavra)
+- **Advérbio**
+- **Relativo** (pronome)
+- **Indefinido / interrogativo** (pronome)
+- **Subordinativa** (conjunção)
+
+> [!tip] Mnemônico: **NARIS**
+

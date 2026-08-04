@@ -26,3 +26,14 @@ updated: 2026-05-28T23:30:00
 **Deslocamento da curva pra fora**: Melhora na tecnologia, legislação, eficiência do uso dos fatores produtivos dentre outros.
 
 **Deslocamento para dentro**: Piora na tecnologia, restrições legais, ineficiência do uso dos fatores produtivos.
+
+#### Curva de Produto Marginal
+
+![[Pasted image 20260804104341.png]]
+
+> [!note] Produto Total Máximo
+> Quando o produto marginal é zero.
+
+> [!tip] Produto Médio Decrescente
+> Após cruzar com o produto marginal.
+
