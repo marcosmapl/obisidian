@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Direito/04 - Direito Constitucional/03 - Direitos Fundamentais/Ação Popular.md",
+                "file": "Concursos/Economia/05 - Teoria da Firma/Curto e Longo Prazo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ação Popular"
+              "title": "Curto e Longo Prazo"
             }
           }
         ],
@@ -42,9 +42,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de arquivos"
@@ -442,6 +440,16 @@
             "id": "ba8b4bb2ba3c38f0",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "d6dee0bbab457049",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -449,7 +457,7 @@
             }
           }
         ],
-        "currentTab": 32
+        "currentTab": 33
       }
     ],
     "direction": "horizontal",
@@ -471,11 +479,24 @@
   },
   "active": "88ff6ffc2d62f148",
   "lastOpenFiles": [
+    "Concursos/Economia/05 - Teoria da Firma/MOC — Teoria da Firma.md",
+    "Concursos/Economia/05 - Teoria da Firma/Tecnologia.md",
+    "Concursos/Economia/05 - Teoria da Firma/Fatores de Produção.md",
+    "Concursos/Economia/05 - Teoria da Firma/Curto e Longo Prazo.md",
+    "Direitos Individuais e Coletivos.md",
+    "Concursos/Economia/04 - Elasticidades/MOC — Elasticidades.md",
+    "Concursos/Economia/Economia.md",
+    "Concursos/Economia/04 - Elasticidades/Elasticidade - Renda da Demanda.md",
+    "Concursos/Economia/05 - Teoria da Firma",
+    "Concursos/Economia/04 - Elasticidades/Elasticidade - Cruzada.md",
+    "Concursos/Contabilidade Geral/07 - Patrimônio Líquido/Patrimônio Líquido.md",
+    "Concursos/Economia/04 - Elasticidades/Elasticidade - Preço da Demanda.md",
+    "Concursos/Economia/04 - Elasticidades/Elasticidade - Preço da Oferta.md",
+    "Concursos/Direito/04 - Direito Constitucional/03 - Direitos Fundamentais/Ação Popular.md",
     "Concursos/Direito/04 - Direito Constitucional/03 - Direitos Fundamentais/Mandado de Injunção.md",
     "Concursos/Direito/04 - Direito Constitucional/03 - Direitos Fundamentais/Mandado de Segurança.md",
     "Concursos/Direito/04 - Direito Constitucional/03 - Direitos Fundamentais/Habeas Data.md",
     "Concursos/Direito/04 - Direito Constitucional/03 - Direitos Fundamentais/Habeas Corpus.md",
-    "Concursos/Direito/04 - Direito Constitucional/03 - Direitos Fundamentais/Ação Popular.md",
     "Concursos/Direito/04 - Direito Constitucional/03 - Direitos Fundamentais/MOC — Direitos Fundamentais.md",
     "Concursos/Direito/04 - Direito Constitucional/03 - Direitos Fundamentais/Extradição.md",
     "Concursos/Direito/04 - Direito Constitucional/03 - Direitos Fundamentais/Direitos Individuais e Coletivos.md",
@@ -486,19 +507,7 @@
     "Concursos/Direito/04 - Direito Constitucional/03 - Direitos Fundamentais/Direito de Petição.md",
     "Concursos/Direito/04 - Direito Constitucional/03 - Direitos Fundamentais/Direito de Informação.md",
     "Media/Pasted image 20260803144203.png",
-    "Concursos/Direito/04 - Direito Constitucional/03 - Direitos Fundamentais/Direitos Fundamentais CF.md",
-    "Concursos/Direito/04 - Direito Constitucional/03 - Direitos Fundamentais/Direito à Propriedade.md",
     "Media/Pasted image 20260803120438.png",
-    "Concursos/Direito/04 - Direito Constitucional/03 - Direitos Fundamentais/Direitos Sociais.md",
-    "Concursos/Direito/04 - Direito Constitucional/03 - Direitos Fundamentais/Sigilo da Correspondência de Comunicações Telegráficas.md",
-    "Concursos/Direito/04 - Direito Constitucional/03 - Direitos Fundamentais/Direito à Vida.md",
-    "Concursos/Direito/04 - Direito Constitucional/03 - Direitos Fundamentais/Direito à Privacidade.md",
-    "Concursos/Direito/04 - Direito Constitucional/03 - Direitos Fundamentais/Sigilo Bancário.md",
-    "Concursos/Direito/04 - Direito Constitucional/03 - Direitos Fundamentais/Direito à Igualdade.md",
-    "Concursos/Direito/12 - Direito Empresarial/01 - Direito de Empresa/Estabelecimento.md",
-    "Concursos/Direito/04 - Direito Constitucional/03 - Direitos Fundamentais/Limites e Eficácia dos Direitos Fundamentais.md",
-    "Concursos/Direito/04 - Direito Constitucional/03 - Direitos Fundamentais/Características dos Direitos Fundamentais.md",
-    "Concursos/Direito/04 - Direito Constitucional/03 - Direitos Fundamentais/Teoria Geral dos Direitos Fundamentais.md",
     "Media/Pasted image 20260802220547.png",
     "Media/Pasted image 20260802215524.png",
     "Media/Guia_Visual_de_Eventos_Subsequentes.png",
@@ -515,7 +524,6 @@
     "Concursos/Direito/06 - Direito Civil/01 - Origem e Princípios",
     "Concursos/Direito/10 - Direito Tributário/18 - Jurisprudência/RE 1.253.706",
     "Concursos/Auditoria/14 - Processamento Eletrônico de Dados (PED)",
-    "Concursos/Auditoria/13 - Contingências e Estimativas Contábeis",
-    "Concursos/Contabilidade Geral/13 - Princípios Contábeis"
+    "Concursos/Auditoria/13 - Contingências e Estimativas Contábeis"
   ]
 }

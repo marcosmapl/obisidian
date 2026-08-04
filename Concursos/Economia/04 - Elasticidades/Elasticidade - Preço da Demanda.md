@@ -9,11 +9,15 @@ updated: 2026-07-20T16:00:00
 > [!note] Elasticidade Preço da Demanda (EPD)
 > Mede a **sensibilidade** da **quantidade demandada** a **mudanças no preço**.
 
-$$ Ed = \frac{ \% \Delta Q}{ \% \Delta P} $$
+$$ E_{pd} = \frac{ \% \Delta Q}{ \% \Delta P} $$
 
-- Se |Ed| > 1: **demanda elástica – esse bem é sensível à variação do preço**: caso o preço do bem aumente, o consumidor diminuirá a quantidade demandada pelo bem.
-- Se |Ed| < 1: **demanda inelástica – esse bem é insensível à variação do preço**: mesmo aumentando o preço, o consumidor do bem y mudará bem pouco o seu comportamento com relação a ele, pois na maioria das vezes continuará demandando o bem.
-- Se |Ed| = 1: **elasticidade unitária – o percentual de variação na quantidade demandada é igual ao percentual de variação no preço** (preço e demanda aumentam ou diminuem na mesmíssima proporção)
+| Valor da Epd | Tipo                             |
+| ------------ | -------------------------------- |
+| Epd = 0      | Demanda Perfeitamente Inelástica |
+| Epd < 1      | Demanda Inelástica               |
+| Epd = 1      | Demanda Unitária                 |
+| Epd > 1      | Demanda Elástica                 |
+| Epd = ∞      | Demanda Perfeitamente Elástica   |
 
 ---
 ## Exemplo
@@ -27,13 +31,13 @@ $$ Ed = \frac{ \% \Delta Q}{ \% \Delta P} $$
 
 
 ---
-## Determinantes da Elasticidade - Preço da Demanda
+## Fatores Determinantes da EPD
 
 Temos 4 principais fatores que determinam a elasticidade da demanda, são eles:
-- **se um determinado bem for supérfluo, ao invés de necessário**
-- **se o bem tiver importância muito grande nos orçamentos dos consumidores**
-- **se o bem tem substitutos**
-- **se estivermos considerando a curva de demanda de longo prazo, em vez da de curto prazo.**
+- **Essencialidade do Bem**
+- **Participação no orçamento do consumidor**
+- **Existência de Bem Substitutos**
+- **Tempo: curto, médio ou longo prazo**
 
 ![[Pasted image 20260720165451.jpg]]
 

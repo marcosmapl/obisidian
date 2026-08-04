@@ -11,23 +11,19 @@ updated: 2026-07-20T16:40:00
 
 > [!tip] Trata dos bens **substitutos** e **complementares**.
 
-> [!important] A **ECPD** para **bens substitutos** é positiva. Enquanto que para **bens complementares** é **negativa**.
+> [!important] A **EPCD** para **bens substitutos** é positiva. Enquanto que para **bens complementares** é **negativa**.
 
 ---
 ## Equação
 
-$$ E_{pcd} = \frac{ \% \Delta QA }{ \% \Delta QB } $$
+$$ E_{pcd} = \frac{ \% \Delta Q_a }{ \% \Delta P_b } $$
 
----
-## Resumo
-
-
-| Valor da EPCD        | Tipo de Bem             |
-| -------------------- | ----------------------- |
-| Epc > 0 (Elástica)   | Bens **substitutos**    |
-| Epc = 0 (Nula)       | Bens **complementares** |
-| Epc < 0 (Inelástica) | Bens **independentes**  |
-
+| Valor da Epcd | Tipo de Bem             | Elasticidade   | Exemplo              |
+| ------------- | ----------------------- | -------------- | -------------------- |
+| Epcd > 0      | Bens **substitutos**    | **Elástica**   | Coca-cola e Pepsi    |
+| Epcd = 0      | Bens **independentes**  | **Nula**       | -                    |
+| Epcd < 0      | Bens **complementares** | **Inelástica** | Automóvel e Gasolina |
+ 
 ---
 ## Tópicos Relacionados
 
