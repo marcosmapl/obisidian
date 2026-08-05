@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Economia/05 - Teoria da Firma/Longo Prazo.md",
+                "file": "Concursos/Estatística/03 - Análise Combinatória/Arranjo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Longo Prazo"
+              "title": "Arranjo"
             }
           }
         ],
@@ -462,6 +462,16 @@
             "id": "27c05d931fbb7773",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "ccbff193ae6443db",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -469,7 +479,7 @@
             }
           }
         ],
-        "currentTab": 34
+        "currentTab": 35
       }
     ],
     "direction": "horizontal",
@@ -489,12 +499,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "88ff6ffc2d62f148",
+  "active": "cc5fcfdafdde85fe",
   "lastOpenFiles": [
+    "Concursos/Estatística/03 - Análise Combinatória/MOC — Análise Combinatória.md",
+    "Concursos/Estatística/03 - Análise Combinatória/Arranjo.md",
+    "Concursos/Estatística/03 - Análise Combinatória/Combinação.md",
+    "Concursos/Estatística/03 - Análise Combinatória/Permutação.md",
+    "Concursos/Estatística/11 - Análise Combinatória/MOC — Análise Combinatória.md",
+    "Concursos/Estatística/03 - Análise Combinatória/Princípio da Casa dos Pombos.md",
+    "Concursos/Estatística/03 - Análise Combinatória/Princípios Fundamentais da Contagem.md",
+    "Concursos/Estatística/03 - Probabilidade/MOC — Probabilidade.md",
+    "Concursos/Estatística/03 - Análise Combinatória",
+    "Concursos/Estatística/02 - Estatística Descritiva/MOC — Estatística Descritiva.md",
+    "Concursos/Estatística/02 - Estatística Descritiva/Medidas de Curtose.md",
+    "Concursos/Estatística/02 - Estatística Descritiva/Medidas de Assimetria.md",
+    "Media/Pasted image 20260804203001.png",
+    "Media/Pasted image 20260804201432.png",
+    "Media/Pasted image 20260804200917.png",
+    "Media/Pasted image 20260804194730.png",
+    "Concursos/Economia/05 - Teoria da Firma/Longo Prazo.md",
     "Media/Pasted image 20260804155012.png",
     "Media/Pasted image 20260804154907.png",
     "Concursos/Economia/05 - Teoria da Firma/MOC — Teoria da Firma.md",
-    "Concursos/Economia/05 - Teoria da Firma/Longo Prazo.md",
     "Concursos/Economia/05 - Teoria da Firma/Função de Produção.md",
     "Concursos/Economia/05 - Teoria da Firma/Curto Prazo.md",
     "Concursos/Economia/05 - Teoria da Firma/Curvas de Produção.md",
@@ -503,11 +529,6 @@
     "Media/Pasted image 20260804143337.png",
     "Media/Pasted image 20260804142723.png",
     "Concursos/Língua Portuguesa/03 - Morfologia/Pronomes.md",
-    "Media/Pasted image 20260804111026.png",
-    "Media/Pasted image 20260804110815.png",
-    "Media/Pasted image 20260804110723.png",
-    "Media/Pasted image 20260804110633.png",
-    "Media/Pasted image 20260804104341.png",
     "Concursos/Economia/05 - Teoria da Firma/Fatores de Produção.md",
     "Concursos/Economia/05 - Teoria da Firma/Tecnologia.md",
     "Direitos Individuais e Coletivos.md",
@@ -518,16 +539,6 @@
     "Concursos/Economia/04 - Elasticidades/Elasticidade - Cruzada.md",
     "Concursos/Contabilidade Geral/07 - Patrimônio Líquido/Patrimônio Líquido.md",
     "Concursos/Economia/04 - Elasticidades/Elasticidade - Preço da Demanda.md",
-    "Concursos/Economia/04 - Elasticidades/Elasticidade - Preço da Oferta.md",
-    "Concursos/Direito/04 - Direito Constitucional/03 - Direitos Fundamentais/Ação Popular.md",
-    "Concursos/Direito/04 - Direito Constitucional/03 - Direitos Fundamentais/Mandado de Injunção.md",
-    "Concursos/Direito/04 - Direito Constitucional/03 - Direitos Fundamentais/Mandado de Segurança.md",
-    "Concursos/Direito/04 - Direito Constitucional/03 - Direitos Fundamentais/Habeas Data.md",
-    "Concursos/Direito/04 - Direito Constitucional/03 - Direitos Fundamentais/Habeas Corpus.md",
-    "Concursos/Direito/04 - Direito Constitucional/03 - Direitos Fundamentais/MOC — Direitos Fundamentais.md",
-    "Concursos/Direito/04 - Direito Constitucional/03 - Direitos Fundamentais/Extradição.md",
-    "Concursos/Direito/04 - Direito Constitucional/03 - Direitos Fundamentais/Direitos Individuais e Coletivos.md",
-    "Concursos/Direito/08 - Direito Penal/02 - Conceitos Fundamentais/MOC — Conceitos Fundamentais.md",
     "Concursos/Auditoria/16 - Transações e Eventos Subsequentes",
     "Concursos/Economia/04 - Elasticidades",
     "Concursos/Direito/12 - Direito Empresarial/03 - Dos Institutos Complementares",
@@ -535,7 +546,6 @@
     "Concursos/Direito/06 - Direito Civil/02 - Das Pessoas Naturais e Jurídicas",
     "Concursos/Direito/06 - Direito Civil/01 - Origem e Princípios",
     "Concursos/Direito/10 - Direito Tributário/18 - Jurisprudência/RE 1.253.706",
-    "Concursos/Auditoria/14 - Processamento Eletrônico de Dados (PED)",
-    "Concursos/Auditoria/13 - Contingências e Estimativas Contábeis"
+    "Concursos/Auditoria/14 - Processamento Eletrônico de Dados (PED)"
   ]
 }

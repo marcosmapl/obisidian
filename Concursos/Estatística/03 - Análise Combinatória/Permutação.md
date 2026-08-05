@@ -14,7 +14,14 @@ updated: 2026-06-03T09:30:00
 
 $$P_n = n!$$
 
+### Permutação Simples Com Restrição
+
+$$ P_{n-p} = (n - p)! $$
+
 ### Permutação com Repetição
 
-$$P_n = \frac{n!}{K! \times L! \times M! \dots } $$
+$$P_n^{K,L,M,...} = \frac{n!}{K! \times L! \times M! \dots } $$
 
+### Permutação Circular
+
+$$ PC_n = (n - 1)! $$

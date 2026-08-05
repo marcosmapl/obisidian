@@ -19,6 +19,7 @@ updated: 2026-05-31T17:05:00
 ![[Pasted image 20260608044811.png]]
 
 ### Medidas de Forma
+
 - [[Medidas de Assimetria]]
 - [[Medidas de Curtose]]
 

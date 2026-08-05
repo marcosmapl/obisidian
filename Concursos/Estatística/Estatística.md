@@ -47,7 +47,7 @@ População, amostra, tipos de variáveis e dados estatísticos.
 ### 02 — [[Concursos/Estatística/02 - Estatística Descritiva/MOC — Estatística Descritiva|MOC — Estatística Descritiva]]
 Tabelas, gráficos, medidas de posição, variabilidade e forma.
 
-### 03 — [[MOC — Análise Combinatória]]
+### 03 — [[Concursos/Estatística/11 - Análise Combinatória/MOC — Análise Combinatória]]
 
 
 ### 03 — [[Concursos/Estatística/03 - Probabilidade/MOC — Probabilidade|MOC — Probabilidade]]
