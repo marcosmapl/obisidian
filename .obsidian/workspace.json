@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Estatística/03 - Análise Combinatória/Arranjo.md",
+                "file": "Concursos/Legislação Tributária Municipal/Lei Orgânica do Município de Manaus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arranjo"
+              "title": "Lei Orgânica do Município de Manaus"
             }
           }
         ],
@@ -472,6 +472,26 @@
             "id": "ccbff193ae6443db",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "eaf0de1c52f0fafc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "343c54eb503072cd",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -479,7 +499,7 @@
             }
           }
         ],
-        "currentTab": 35
+        "currentTab": 37
       }
     ],
     "direction": "horizontal",
@@ -499,10 +519,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cc5fcfdafdde85fe",
+  "active": "88ff6ffc2d62f148",
   "lastOpenFiles": [
-    "Concursos/Estatística/03 - Análise Combinatória/MOC — Análise Combinatória.md",
+    "Concursos/Contabilidade Geral/08 - Demonstração do Resultado do Exercício (DRE)/Demonstração do Resultado do Exercício (DRE).md",
+    "Concursos/Legislação Tributária Municipal/Lei Orgânica do Município de Manaus.md",
+    "Concursos/Legislação Tributária Municipal/Legislação Tributária Municipal.md",
+    "Concursos/Tecnologia da Informação/Tecnologia da Informação.md",
+    "Concursos/Direito/10 - Direito Tributário/13 - Administração Tributária/Fiscalização Tributária.md",
+    "Concursos/Direito/10 - Direito Tributário/18 - Jurisprudência/Súmula Vinculante 323 (STF).md",
+    "Concursos/Direito/10 - Direito Tributário/18 - Jurisprudência/Súmula Vinculante 439 (STF).md",
+    "Concursos/Direito/10 - Direito Tributário/18 - Jurisprudência/Súmula Vinculante 668 (STF).md",
+    "Concursos/Direito/10 - Direito Tributário/18 - Jurisprudência/Súmula Vinculante 539 (STF).md",
+    "Concursos/Direito/10 - Direito Tributário/13 - Administração Tributária/MOC — Administração Tributária.md",
     "Concursos/Estatística/03 - Análise Combinatória/Arranjo.md",
+    "Concursos/Estatística/03 - Análise Combinatória/MOC — Análise Combinatória.md",
     "Concursos/Estatística/03 - Análise Combinatória/Combinação.md",
     "Concursos/Estatística/03 - Análise Combinatória/Permutação.md",
     "Concursos/Estatística/11 - Análise Combinatória/MOC — Análise Combinatória.md",
@@ -528,17 +558,7 @@
     "Media/Pasted image 20260804143633.png",
     "Media/Pasted image 20260804143337.png",
     "Media/Pasted image 20260804142723.png",
-    "Concursos/Língua Portuguesa/03 - Morfologia/Pronomes.md",
-    "Concursos/Economia/05 - Teoria da Firma/Fatores de Produção.md",
-    "Concursos/Economia/05 - Teoria da Firma/Tecnologia.md",
-    "Direitos Individuais e Coletivos.md",
-    "Concursos/Economia/04 - Elasticidades/MOC — Elasticidades.md",
-    "Concursos/Economia/Economia.md",
-    "Concursos/Economia/04 - Elasticidades/Elasticidade - Renda da Demanda.md",
     "Concursos/Economia/05 - Teoria da Firma",
-    "Concursos/Economia/04 - Elasticidades/Elasticidade - Cruzada.md",
-    "Concursos/Contabilidade Geral/07 - Patrimônio Líquido/Patrimônio Líquido.md",
-    "Concursos/Economia/04 - Elasticidades/Elasticidade - Preço da Demanda.md",
     "Concursos/Auditoria/16 - Transações e Eventos Subsequentes",
     "Concursos/Economia/04 - Elasticidades",
     "Concursos/Direito/12 - Direito Empresarial/03 - Dos Institutos Complementares",

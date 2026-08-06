@@ -20,7 +20,7 @@ updated: 2026-01-05T21:40:00
 
 - [[Súmula Vinculante 656 (STF)]] (**ITBI**)
 - [[Súmula 160 (STJ)]] (Atualização da **BC do IPTU**)
-- [[Súmula  Vinculante 539 (STF)]] (Redução IPTU único imóvel)
+- [[Súmula Vinculante 539 (STF)]] (Redução IPTU único imóvel)
 
 ### Contribuições de Melhoria
 

@@ -51,9 +51,9 @@ updated: 2026-04-03T19:47:00
 
 - [[Súmula Vinculante 52 (STF)]]
 - [[Súmula 160 (STJ)]]
-- [[Súmula  Vinculante 539 (STF)]]
+- [[Súmula Vinculante 539 (STF)]]
 - [[Súmula 614 STJ]]
-- [[Súmula 668 STF]]
+- [[Súmula Vinculante 668 (STF)]]
 - [[RE 602347 STF]]
 - **Decreto Lei 57/66** -  ainda que o imóvel fique localizado em área urbana, se for **utilizado em exploração extrativa vegetal, agrícola, pecuária ou agro-industrial**, ==não incidirá IPTU== e sim **ITR** e demais tributos com o mesmo cobrados.
 
