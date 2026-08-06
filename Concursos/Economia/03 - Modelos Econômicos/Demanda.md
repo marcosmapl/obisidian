@@ -11,7 +11,7 @@ updated: 2026-06-12T10:45:00
 > Quantidade de determinado bem que os consumidores **desejam adquirir**.
 
 > [!tip] Capacidade de Adquirir
-> Demanda não é a concretização da transação comercial (compra ou venda), mas sim o desejo do consumidor e sua capacidade de adquirir determinado bem.
+> Demanda ==não é a concretização da transação comercial== (compra ou venda), mas sim o **desejo do consumidor e sua capacidade de adquirir determinado bem**.
 
 > [!tip] Demanda de Mercado
 > A **demanda de mercado** é a soma das **demandas individuais**,  ou seja, das demandas dos indivíduos.
@@ -51,14 +51,14 @@ A curva da demanda é a **demonstração gráfica** de qual **quantidade os cons
 ---
 ## Fatores que Afetam a Demanda
 
-#### Preço
+### Preço
 
 - Variável **endógena**
 - Deslocamento ocorre **na curva** ou **sobre a cuva**
 
 ![[Pasted image 20260612111805.png]]
 
-#### Renda
+### Renda
 
 - Variável **exógena**
 - Deslocamento **da curva**

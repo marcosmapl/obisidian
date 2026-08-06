@@ -16,8 +16,6 @@ Um sistema econômico pode ser definido como sendo a **forma política, social e
 
 ## Organização do Sistema Econômico
 
-A atividade econômica (ou sistema econômico) pode ser organizada por meio de uma **economia de mercado**, por meio de uma **economia planificada** ou por meio de uma **economia mista**. 
-
 ### Economia de mercado
 
 - Economias **capitalistas**
@@ -25,6 +23,7 @@ A atividade econômica (ou sistema econômico) pode ser organizada por meio de u
 - Propriedade **privada**
 - **Objetiva o Lucro**
 - **Concorrência**
+- **Sistema de preços automático**
 
 ### Economia Planificada Centralmente
 
