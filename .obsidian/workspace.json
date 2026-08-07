@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 227 2026/Comitê Gestor do IBS (CGIBS).md",
+                "file": "Concursos/Estatística/02 - Estatística Descritiva/Desvio Padrão.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Comitê Gestor do IBS (CGIBS)"
+              "title": "Desvio Padrão"
             }
           }
         ],
@@ -502,6 +502,16 @@
             "id": "b7c8fea4072192f7",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "4841c23611ec1b01",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -509,7 +519,7 @@
             }
           }
         ],
-        "currentTab": 38
+        "currentTab": 39
       }
     ],
     "direction": "horizontal",
@@ -531,8 +541,17 @@
   },
   "active": "88ff6ffc2d62f148",
   "lastOpenFiles": [
-    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 227 2026/MOC — LC 227 de 2026.md",
+    "Concursos/Estatística/02 - Estatística Descritiva/Desvio Médio.md",
+    "Concursos/Estatística/02 - Estatística Descritiva/Desvio Padrão.md",
+    "Concursos/Estatística/02 - Estatística Descritiva/Média Harmônica.md",
+    "Concursos/Estatística/02 - Estatística Descritiva/Média Ponderada.md",
+    "Concursos/Estatística/02 - Estatística Descritiva/Média Geométrica.md",
+    "Concursos/Estatística/02 - Estatística Descritiva/Média Aritmética.md",
+    "Concursos/Estatística/02 - Estatística Descritiva/Moda.md",
+    "Concursos/Estatística/02 - Estatística Descritiva/Medidas de Posição.md",
+    "Concursos/Estatística/02 - Estatística Descritiva/MOC — Estatística Descritiva.md",
     "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 227 2026/Comitê Gestor do IBS (CGIBS).md",
+    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 227 2026/MOC — LC 227 de 2026.md",
     "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 214 2025/MOC — LC 214 de 2025.md",
     "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/MOC — Reforma Tributária.md",
     "Concursos/Legislação Tributária Municipal/Código Tributário do Município (Lei 1.697 de 1983).md",
@@ -549,15 +568,6 @@
     "Concursos/Legislação Tributária Municipal/Lei Orgânica do Município de Manaus.md",
     "Concursos/Contabilidade Geral/08 - Demonstração do Resultado do Exercício (DRE)/Demonstração do Resultado do Exercício (DRE).md",
     "Concursos/Tecnologia da Informação/Tecnologia da Informação.md",
-    "Concursos/Direito/10 - Direito Tributário/13 - Administração Tributária/Fiscalização Tributária.md",
-    "Concursos/Direito/10 - Direito Tributário/18 - Jurisprudência/Súmula Vinculante 323 (STF).md",
-    "Concursos/Direito/10 - Direito Tributário/18 - Jurisprudência/Súmula Vinculante 439 (STF).md",
-    "Concursos/Direito/10 - Direito Tributário/18 - Jurisprudência/Súmula Vinculante 668 (STF).md",
-    "Concursos/Direito/10 - Direito Tributário/18 - Jurisprudência/Súmula Vinculante 539 (STF).md",
-    "Concursos/Direito/10 - Direito Tributário/13 - Administração Tributária/MOC — Administração Tributária.md",
-    "Concursos/Estatística/03 - Análise Combinatória/Arranjo.md",
-    "Concursos/Estatística/03 - Análise Combinatória/MOC — Análise Combinatória.md",
-    "Concursos/Estatística/03 - Análise Combinatória/Combinação.md",
     "Concursos/Estatística/03 - Análise Combinatória",
     "Media/Pasted image 20260804203001.png",
     "Media/Pasted image 20260804201432.png",

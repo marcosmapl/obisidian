@@ -18,20 +18,17 @@ $$ \sigma = \sqrt{\frac{\sum_{i=1}^n (x_i - \mu)^2}{n}} $$
 ---
 ## Desvio Padrão Amostral
 
-
-
 $$ s = \sqrt{\frac{\sum_{i=1}^n (x_i - \bar{x})^2}{n} \cdot \frac{n}{n - 1}} $$
-
 
 ---
 ## Dados Agrupados
 
 ### Desvio Padrão Populacional
 
-$$ \sigma = \sqrt{\frac{\sum_{i=1}^m (x_i - \mu)^2 \times f_i}{n}} $$
+$$ \sigma = \sqrt{\frac{\sum_{i=1}^m (x_i - \mu)^2 \times f_i}{ \sum{f_i} }} $$
 ### Desvio Padrão Amostral
 
-$$ s = \sqrt{\frac{\sum_{i=1}^n (x_i - \bar{x})^2 \cdot f_i}{n} \cdot \frac{n}{n - 1}} $$
+$$ s = \sqrt{\frac{\sum_{i=1}^n (x_i - \bar{x})^2 \cdot f_i}{ \sum{f_i} } \cdot \frac{n}{n - 1}} $$
 
 ---
 ## Tópicos Relacionados
