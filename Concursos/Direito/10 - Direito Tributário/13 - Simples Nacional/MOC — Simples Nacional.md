@@ -7,7 +7,6 @@ updated: 2026-01-05T21:30:00
 
 ## Índice
 
-- [[Simples Nacional — Conceito]]
-- [[Lei Complementar nº 123/2006]]
+- [[Lei Complementar nº 123 de 2006]]
 - [[Hipóteses de Enquadramento]]
 - [[Hipóteses de Exclusão]]

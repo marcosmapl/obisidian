@@ -9,6 +9,8 @@ updated: 2026-06-08T09:01:40
 > $$ \bar{x}_{p} = \frac{\sum_{i=1}^{n} x_i \times p_i}{\sum_{i=1}^{n} p_i} $$
 > Pode ser utilizada para calcular a média para valores agrupados.
 
+> [!info] Os **pesos** funcionam como **frequências**.
+
 ---
 ## Tópicos Relacionados
 

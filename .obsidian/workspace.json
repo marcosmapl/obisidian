@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Estatística/02 - Estatística Descritiva/Desvio Padrão.md",
+                "file": "Concursos/Direito/10 - Direito Tributário/13 - Simples Nacional/Lei Complementar nº 123 de 2006.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Desvio Padrão"
+              "title": "Lei Complementar nº 123 de 2006"
             }
           }
         ],
@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 424.17066955566406
+    "width": 378.9507026672363
   },
   "right": {
     "id": "4ab4bb61d64fd956",
@@ -512,6 +512,16 @@
             "id": "4841c23611ec1b01",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "be7cf19b610a6c6f",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -519,7 +529,7 @@
             }
           }
         ],
-        "currentTab": 39
+        "currentTab": 40
       }
     ],
     "direction": "horizontal",
@@ -541,44 +551,44 @@
   },
   "active": "88ff6ffc2d62f148",
   "lastOpenFiles": [
-    "Concursos/Estatística/02 - Estatística Descritiva/Desvio Médio.md",
-    "Concursos/Estatística/02 - Estatística Descritiva/Desvio Padrão.md",
+    "Media/Pasted image 20260808180736.png",
+    "Media/Pasted image 20260808170345.png",
+    "Media/Pasted image 20260808163525.png",
+    "Concursos/Direito/10 - Direito Tributário/13 - Simples Nacional/MOC — Simples Nacional.md",
+    "Concursos/Direito/10 - Direito Tributário/13 - Simples Nacional/Lei Complementar nº 123 de 2006.md",
+    "Concursos/Economia/01 - Conceitos Fundamentais/Macroeconomia.md",
+    "Concursos/Direito/10 - Direito Tributário/09 - Código Tributário Nacional — CTN/MOC — Código Tributário Nacional — CTN.md",
+    "Media/Pasted image 20260808145111.png",
+    "Media/Pasted image 20260808142844.png",
+    "Media/Pasted image 20260808141814.png",
+    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/LC 227 2026/Comitê Gestor do IBS (CGIBS).md",
+    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/LC 227 2026/MOC — LC 227 de 2026.md",
+    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/Regra Matriz de Incidência Tributária (RMIT).md",
     "Concursos/Estatística/02 - Estatística Descritiva/Média Harmônica.md",
-    "Concursos/Estatística/02 - Estatística Descritiva/Média Ponderada.md",
+    "Concursos/Estatística/02 - Estatística Descritiva/Variância.md",
+    "Concursos/Estatística/02 - Estatística Descritiva/Desvio Médio.md",
+    "Concursos/Estatística/02 - Estatística Descritiva/Amplitude Total.md",
+    "Concursos/Estatística/02 - Estatística Descritiva/Mediana.md",
     "Concursos/Estatística/02 - Estatística Descritiva/Média Geométrica.md",
+    "Concursos/Estatística/02 - Estatística Descritiva/Média Ponderada.md",
     "Concursos/Estatística/02 - Estatística Descritiva/Média Aritmética.md",
+    "Concursos/Estatística/02 - Estatística Descritiva/Desvio Padrão.md",
     "Concursos/Estatística/02 - Estatística Descritiva/Moda.md",
     "Concursos/Estatística/02 - Estatística Descritiva/Medidas de Posição.md",
     "Concursos/Estatística/02 - Estatística Descritiva/MOC — Estatística Descritiva.md",
-    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 227 2026/Comitê Gestor do IBS (CGIBS).md",
-    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 227 2026/MOC — LC 227 de 2026.md",
-    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 214 2025/MOC — LC 214 de 2025.md",
-    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/MOC — Reforma Tributária.md",
+    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/LC 214 2025/MOC — LC 214 de 2025.md",
+    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/MOC — Reforma Tributária.md",
     "Concursos/Legislação Tributária Municipal/Código Tributário do Município (Lei 1.697 de 1983).md",
-    "Concursos/Direito/10 - Direito Tributário/19 - Reforma Tributária/LC 227 2026",
+    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/LC 227 2026",
     "Concursos/Legislação Tributária Municipal/Legislação Tributária Municipal.md",
     "Concursos/Economia/01 - Conceitos Fundamentais/Custo de Oportunidade.md",
     "Concursos/Economia/01 - Conceitos Fundamentais/Microeconomia.md",
-    "Concursos/Economia/03 - Modelos Econômicos/Demanda.md",
-    "Concursos/Economia/03 - Modelos Econômicos/Curva de Possibilidades de Produção (CPP).md",
-    "Concursos/Economia/03 - Modelos Econômicos/MOC — Modelos Econômicos.md",
-    "Concursos/Economia/02 - Princípios Econômicos/MOC — Princípios econômicos.md",
-    "Concursos/Economia/01 - Conceitos Fundamentais/Formas de Organização da Atividade Econômica.md",
-    "Concursos/Economia/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais.md",
-    "Concursos/Legislação Tributária Municipal/Lei Orgânica do Município de Manaus.md",
-    "Concursos/Contabilidade Geral/08 - Demonstração do Resultado do Exercício (DRE)/Demonstração do Resultado do Exercício (DRE).md",
-    "Concursos/Tecnologia da Informação/Tecnologia da Informação.md",
     "Concursos/Estatística/03 - Análise Combinatória",
     "Media/Pasted image 20260804203001.png",
     "Media/Pasted image 20260804201432.png",
     "Media/Pasted image 20260804200917.png",
     "Media/Pasted image 20260804194730.png",
     "Media/Pasted image 20260804155012.png",
-    "Media/Pasted image 20260804154907.png",
-    "Media/Pasted image 20260804145050.png",
-    "Media/Pasted image 20260804143633.png",
-    "Media/Pasted image 20260804143337.png",
-    "Media/Pasted image 20260804142723.png",
     "Concursos/Economia/05 - Teoria da Firma",
     "Concursos/Auditoria/16 - Transações e Eventos Subsequentes",
     "Concursos/Economia/04 - Elasticidades",
