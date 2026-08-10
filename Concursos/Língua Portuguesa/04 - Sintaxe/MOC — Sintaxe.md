@@ -19,3 +19,15 @@ updated: 2026-04-03T18:35:00
 - [[Funções do SE]]
 - [[Funções do QUE]]
 
+---
+## Figuras de Sintaxe
+
+- [[Hibérbato]]
+- [[Pleonasmo]]
+- [[Anacoluto]]
+- [[Elipse]]
+- [[Zeugma]]
+- [[Assíndeto]]
+- [[Polissíndeto]]
+- [[Anáfora]]
+

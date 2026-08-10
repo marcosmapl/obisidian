@@ -14,7 +14,6 @@ updated: 2026-01-06T21:35:00
 
 > [!tip] As tipologias são limitadas e relativamente estáveis, diferentemente dos **gêneros textuais**, que são variados e socialmente situados.
 
-#portugues/tipologia_textual
 
 ---
 ## Tipo Textual x Gênero Textual

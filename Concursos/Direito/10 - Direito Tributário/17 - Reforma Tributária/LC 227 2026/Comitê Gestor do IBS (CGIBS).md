@@ -29,6 +29,8 @@ Os **estados**, **distrito federal** e **municípios**, ==exclusivamente== por m
 - Decidir sobre o **contencioso administrativo**
 - Criar **obrigações acessórias**
 
+![[Pasted image 20260809163936.png]]
+
 > [!info] Reter e distribuir o montante dos Municípios (25%):
 > - I - 80% na **proporção da população**
 > - II - 10% com base em **indicadores de melhoria socioeconômicos**

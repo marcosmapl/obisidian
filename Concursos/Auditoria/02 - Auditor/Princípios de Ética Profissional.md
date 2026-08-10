@@ -9,13 +9,13 @@ updated: 2026-01-14T10:00:00
 
 Os princípios éticos fundamentais relevantes para o auditor são:
 
-1. **Integridade**  
-2. **Objetividade**  
-3. **Competência e Zelo Profissional**  
-4. **Confidencialidade**  
-5. **Comportamento (conduta) profissional**
+1. **Competência e Zelo Profissional**  
+2. **Confidencialidade**  
+3. **Comportamento (conduta) profissional**
+4. **Integridade**  
+5. **Objetividade**  
 
-> [!important] Mnemônico: **ZICCCO**
+> [!important] Mnemônico: **3 CO IN OB**
 
 ![[Pasted image 20260119215323.png]]
 

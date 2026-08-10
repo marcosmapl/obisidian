@@ -10,8 +10,7 @@ updated: 2025-12-23T14:52:09
 
 - [[Sinonímia e Antonímia]]
 - [[Polissemia]]
-- [[Homonímia]]
-- [[Paronímia]]
+- [[Homonímia e Paronímia]]
 - [[Hiperonímia e Hiponímia]]
 - [[Denotação e Conotação]]
 - [[Ambiguidade]]

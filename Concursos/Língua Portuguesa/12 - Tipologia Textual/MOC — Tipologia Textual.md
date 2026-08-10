@@ -13,8 +13,7 @@ updated: 2026-01-07T22:21:00
 - [[Texto Dissertativo]]
 - [[Texto Injuntivo]]
 - [[Gêneros Textuais]]
-
-#portugues/tipologia
+- [[Tipos de Discurso]]
 
 ---
 ## Tipologia Textual vs Gênero Textual

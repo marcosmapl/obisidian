@@ -1,6 +1,7 @@
 
 - [[Lei Orgânica do Município de Manaus]]
 - [[Código Tributário do Município (Lei 1.697 de 1983)]]
+- [[Legislação Tributária ZFM]]
 - Lei 2.833/2021 (ISS) + Dec. 5.962/2024 (ISS);
 - Lei 1.628/2011 (IPTU) + Decreto 3.748/2017 (IPTU);
 - Lei 459/1998 (ITBI) + Decreto 4.818/2000 (ITBI);
