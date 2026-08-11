@@ -7,11 +7,14 @@ updated: 2026-08-03T16:55:00
 
 ## Aspectos Gerais
 
-Visa **anula ato lesivo** a:
-- **Patrimônio público** ou entidade que o estado participe
-- **Moralidade administrativa**
-- **Meio ambiente**
-- **Patrimônio histórico e cultural**
+> [!info] Art. 5º - LXXIII
+> Qualquer cidadão é parte legítima para propor **ação popular** que vise a anular ato lesivo ao patrimônio público ou de entidade de que o Estado participe, à moralidade administrativa, ao meio ambiente e ao patrimônio histórico e cultural, ficando o autor, salvo comprovada má-fé, isento de custas judiciais e do ônus da sucumbência;
+
+- - **Finalidades** da ação popular, anular ato lesivo que ofenda:
+	- ao **patrimônio público** (administração direta ou indireta);
+	- à **moralidade administrativa**;
+	- ao **meio ambiente**; e
+	- ao **patrimônio histórico e cultural**.**
 
 O autor fica **isento** de **custas judiciais** e do **ônus da sucumbência**
 
@@ -29,6 +32,11 @@ O autor fica **isento** de **custas judiciais** e do **ônus da sucumbência**
 - **PJ** em nome das quais o ato ou contrato lesivo foi ou seria praticado
 - **Autoridades e agentes** públicos que participaram ou se omitiram
 - **Beneficiários** diretos do ato ou contrato
+
+---
+## Jurisprudência
+
+STF - ==não há a necessidade de dano pecuniário== para que possa haver a impetração de ação popular, basta que haja o dano decorrente do ato lesivo.
 
 ---
 ## Tópicos Relacionados

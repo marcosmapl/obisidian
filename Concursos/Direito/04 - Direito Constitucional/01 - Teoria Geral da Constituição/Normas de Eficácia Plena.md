@@ -8,22 +8,12 @@ updated: 2026-05-17T15:50:00
 ## Conceito
 
 - São aquelas normas que **ao entrar em vigor**, **produzem ou têm possibilidade de produzir**, **todos os efeitos** que o legislador quis regular.
+- **Autoaplicáveis** e **NÃO** restringível;
+- Aplicabilidade **Direta, Imediata e Integral**;
+- **Eficácia Plena (IDI) => Imediata, Direta e Integral**.
 
 > [!tip] Art. 14, § 4º
-> São inelegíveis os inalistáveis e os analfabetos.
-
----
-## Características
-
-- **Autoaplicáveis**: não dependem de lei posterior regulamentadora
-- **Não restringíveis**: Leis que tratem da norma de eficácia plena, não poderão limitar sua aplicação
-
----
-## Aplicabilidade
-
-- **Direta**: não dependem de norma regulamentadora para produzir efeitos
-- **Imediata**: aptas a produzir efeitos desde sua promulgação
-- **Integral**: não podem sofrer limitações ou restrições em sua aplicação.
+> São inelegíveis os inalistáveis e os analfabetos.- Produzem ou têm possibilidade de produzir **TODOS** os efeitos que o legislador constituinte quis regular;
 
 ---
 ## Tópicos Relacionados

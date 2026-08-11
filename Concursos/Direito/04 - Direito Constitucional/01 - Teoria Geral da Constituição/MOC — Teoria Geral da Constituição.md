@@ -46,6 +46,18 @@ updated: 2026-01-08T16:40:00
 
 ![[Pasted image 20260528110504.png]]
 
+**IMPORTANTE!**
+
+- - Normas de eficácia limitada de **princípio institutivo** dispõem sobre: **organização dos entes, estruturação, criação**. 
+    - Normas de eficácia limitada de **princípio programático** dispõem sobre: **diretrizes, princípios e programas a serem cumpridos.**
+    - Normalmente constam os seguintes dizeres: "**conforme dispuser a lei**", "**nos termos da lei**", e outros. Percebam que a **Lei ainda vai ser criada**, por isso a sua eficácia é **limitada**.
+
+
+**✅Já as normas de eficácia contida, aparecem as seguintes redações: "conforme previsão em lei", "salvo disposição em lei", "nos termos da lei", percebam que há uma certa restrição.**
+- **Ex: art. 5˚, XIII, da CF/88 -** "é livre o exercício de qualquer trabalho, ofício ou profissão, atendidas as qualificações profissionais **que a lei estabelecer.**
+
+**🚨Vale reforçar que uma Norma Constitucional pode ter mais de uma aplicabilidade:**
+- **Ex: art. 5˚, XLII, da CF/88 -** "a prática do racismo constitui crime inafiançável e imprescritível **(eficácia plena)** sujeito à pena de reclusão, nos termos da lei **(eficácia limitada de. princípio programático)**
 
 ---
 ## Hierarquia das Normas

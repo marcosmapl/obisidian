@@ -5,21 +5,23 @@ created: 2025-12-14T21:40:00
 updated: 2026-01-09T15:31:00
 ---
 
-## Definição
 
-> [!note] Teoria Geral da Constituição
-> É o ramo do [[MOC — Direito Constitucional|Direito Constitucional]] que estuda os **conceitos fundamentais**, os **princípios**, as **características** e as **classificações** das constituições, analisando a **essência** e os **sentidos** do constitucionalismo moderno.
-
----
-## Conceitos-Chave
+## Conceito de Constituição
 
 ### O que é Constituição?
 
-Uma Constituição é o **conjunto de normas jurídicas** que:
-- Organizam o **Estado**
-- Estabelecem a **estrutura do poder**
-- Definem os **direitos e deveres** dos cidadãos
-- Prescrevem os **procedimentos** de funcionamento estatal
+- A **Constituição** é a **lei fundamental e suprema** de um Estado.
+- Criada pela **vontade soberana do povo**.
+- Determina a **organização político-jurídica** do Estado:
+    - Forma de Estado e de Governo.
+    - Estrutura e funcionamento dos órgãos estatais.
+    - Definição das competências dos Poderes.
+
+---
+## Funções a Constituição
+
+- **Estabelece limitações ao poder do Estado.**
+- **Garante e enumera direitos e liberdades fundamentais.**
 
 ---
 ## Classificações da Constituição
@@ -48,7 +50,7 @@ Uma Constituição é o **conjunto de normas jurídicas** que:
 - Disposições **transitórias**
 
 ---
-## Elementos das Consituições
+## Elementos das Constituições
 
 - **Elementos orgânicos**: compreendem as normas que regulam a estrutura do Estado e do Poder. Exemplos: Título III (Da Organização do Estado) e IV (Da Organização dos Poderes e do Sistema de Governo).
 - **Elementos limitativos**: compreendem as normas que compõem os **direitos e as garantias fundamentais**, limitando a atuação do poder estatal.

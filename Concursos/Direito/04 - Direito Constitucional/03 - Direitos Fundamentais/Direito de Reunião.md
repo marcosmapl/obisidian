@@ -5,13 +5,8 @@ created: 2026-06-24T13:05:00
 updated: 2026-06-24T13:10:00
 ---
 
-- Sem autorização prévia, apenas prévio aviso à autoridade competente.
-- Sem armas
-- Deve ser **pacífica**
-- ==Não pode frustrar outra reunião== anteriormente convocada para o mesmo local.
-- Em locais públicos e abertos ao público
-- Elementos
-	- **Pluralidade**
-	- **Tempo** (duração finita)
-	- **Finalidade**
-	- **Lugar**
+- **Pluralidade de Participantes:** ação coletiva.
+- **Tempo:** deve ser **temporária**, com duração limitada.
+- **Finalidade:** objetivo **determinado, lícito, pacífico e sem armas**.
+- ⚠️ **Atenção:** Se alguém estiver armado durante a reunião, isso **não justifica sua dissolução**. A solução é **retirar a pessoa armada**.
+- **Lugar:** deve ocorrer em **local determinado**, podendo ter **percurso móvel** (ex.: passeatas, comícios).

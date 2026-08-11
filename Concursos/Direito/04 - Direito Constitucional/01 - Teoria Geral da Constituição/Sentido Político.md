@@ -7,11 +7,12 @@ updated: 2026-05-17T14:55:00
 
 ## Conceito
 
-- **Carl Schmitt**
-- A Constituição nasce da **vontade do povo**, titular do **Poder Constituinte**.
-- Por isso, a teoria é chamada de:
-  - **Decisionista**
-  - **Voluntarista**
+- A Constituição é **decisão política fundamental**, fruto da vontade do povo (poder constituinte).
+- Não importa se a Constituição reflete ou não a realidade social — o que vale é a **decisão do titular do poder constituinte**.
+- Distingue-se:
+    - **Constituição**: Trata de matérias essenciais (ex.: organização do Estado).
+    - **Leis constitucionais**: Normas de menor relevância, ainda que inseridas no texto constitucional.
+- Teoria considerada **decisionista/voluntarista**.
 
 📌 **Palavra-chave:** *Decisão Política* 
 

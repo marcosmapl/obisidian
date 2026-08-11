@@ -7,23 +7,13 @@ updated: 2026-05-17T16:15:00
 
 ## Conceito
 
-- São aquelas normas que<mark style="background:#b1ffff"> ao entrar em vigor, estão aptas a produzir todos os seus efeitos</mark> mas que <mark style="background:#b1ffff">podem ser restringidas</mark> pelo poder público.
+- São aquelas normas que ao entrar em vigor, estão aptas a produzir **TODOS** os seus efeitos, mas **PODEM SER RESTRINGIDAS** pelo poder público;
+- Autoaplicáveis e restringíveis por **Leis, Normas Constitucionais e Conceitos Éticos-Jurídicos Indeterminados**;
+- Aplicabilidade **Direta, Imediata e Possivelmente não integral**;
+- **Eficácia Contida (IDNI) => Imediata, Direta e Não Integral**.
 
 > [!tip] Art. 5, XIII
 > É **livre o exercício de qualquer trabalho, ofício ou profissão**, atendidas as **qualificações profissionais que a lei estabelecer**; (exemplo OAB)
-
----
-## Características
-
-- **Autoaplicáveis**: não dependem de lei posterior regulamentadora
-- **Restringíveis**: estão sujeitas a limitações ou restrições
-
----
-## Aplicabilidade
-
-- **Direta**: não dependem de norma regulamentadora para produzir efeitos
-- **Imediata**: aptas a produzir efeitos desde sua promulgação
-- **Possivelmente não integral**: podem sofrer limitações ou restrições em sua aplicação.
 
 ---
 ## Tópicos Relacionados

@@ -7,7 +7,6 @@ updated: 2026-06-22T15:20:00
 
 ## Índice
 
-- [[Harmonia e Independência dos Poderes]]
 - [[Fundamentos da República]]
 - [[Objetivos Fundamentais da República]]
 - [[Princípios nas Relações Internacionais]]

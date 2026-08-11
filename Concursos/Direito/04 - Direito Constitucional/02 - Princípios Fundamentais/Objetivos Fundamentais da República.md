@@ -14,3 +14,5 @@ updated: 2026-06-22T16:20:00
 
 > [!tip] CON GA ERRA PRO
 
+> [!important] **Atenção** já houve questão de prova trocando a frase acima, afirmando que um dos objetivos é ==erradicar as desigualdades==. Questão ERRADA
+

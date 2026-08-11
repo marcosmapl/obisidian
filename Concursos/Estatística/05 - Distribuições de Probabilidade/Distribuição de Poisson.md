@@ -3,7 +3,7 @@ Essa distribuição é bem distinta, dados os elementos da sua fórmula na qual 
 
 ## Função de Densidade de Probabilidade
 
-$$ P(x=k) = \frac{e^{(−\lambda)} \cdot \lambda^k}{k!} $$
+$$ P(x=k) = \frac{e^{−\lambda} \cdot \lambda^k}{k!} $$
 
 ## Esperança​
 

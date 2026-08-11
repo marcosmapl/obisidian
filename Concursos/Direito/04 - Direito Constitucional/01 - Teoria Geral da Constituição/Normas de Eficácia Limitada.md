@@ -7,21 +7,13 @@ updated: 2026-05-17T16:20:00
 
 ## Conceito
 
-- São aquelas normas que **ao entrar em vigor, não estão aptas a produzir todos os seus efeitos**, dependendo de **regulamentação**.
+- **Dependem de regulamentação** futura para produzirem todos os seus efeitos;
+- **NÃO** autoaplicáveis;
+- São divididas em Normas Declaratórias de: **Princípios Institutivos e Princípios Programáticos**;
+- Aplicabilidade **Indireta, Mediata e Reduzida.**
+- **Eficácia Limitada (RIM) => Reduzida, Indireta e Mediata.**
 
 > [!tip] Mandanto de Injunção ou Ação Direta por Omissão (ADO)
-
----
-## Características
-
-- **Não Autoaplicáveis**: dependem de lei posterior regulamentadora
-
----
-## Aplicabilidade
-
-- **Indireta**: dependem de norma regulamentadora para produzir efeitos
-- **Mediata**: não aptas a produzir efeitos desde sua promulgação
-- **Reduzida**: grau de eficácia restrito
 
 > [!important] Possuem **eficácia jurídica mínima**.
 

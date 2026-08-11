@@ -8,10 +8,11 @@ updated: 2026-08-03T16:49:00
 
 ## Aspectos Gerais
 
-- Natureza **civil** e **rito sumário**
-- Assegurar o conhecimento de informações **relativas à pessoa do impetrante**
-- **Retificar dados**
-- É uma **ação personalíssima**
+- para assegurar o conhecimento de **informações relativas à pessoa do impetrante**, constantes de registros ou bancos de dados de entidades governamentais ou de caráter público;
+- para a **retificação de dados**, quando não se prefira fazê-lo por processo sigiloso, judicial ou administrativo;
+- Finalidade: **conhecimento de informações ou retificação de dados** relativas à pessoa do impetrante, constante de banco de dados público ou de caráter público (instituições privadas que sejam detentoras de bancos de dados públicos);
+- Tem **natureza civil;**
+- **É gratuito;**
 
 > [!tip] Requer assistência de advogado.
 
@@ -36,6 +37,13 @@ updated: 2026-08-03T16:49:00
 
 - Para ter acesso aos **autos de processo administrativo**
 - Para obter dados relativos a **terceiros**
+
+---
+## Jurisprudência
+
+**STF** - **cônjuge** sobrevivente poderá impetrar _habeas data_ em prol do cônjuge falecido.
+
+**STF** - o contribuinte poderá impetrar _habeas data_ para obter informações acerca do **pagamento de tributos.** ⚠️💣
 
 ---
 ## Tópicos Relacionados

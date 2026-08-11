@@ -9,7 +9,7 @@ Art. 4º A República Federativa do Brasil rege-se nas suas relações internaci
 - I - **independência nacional**;
 - II - **prevalência dos direitos humanos**;
 - III - autodeterminação dos povos;
-- IV - não-intervenção;
+- IV - ==NÃO== intervenção;
 - V - igualdade entre os Estados;
 - VI - **defesa da paz**;
 - VII - solução pacífica dos conflitos;
@@ -21,3 +21,4 @@ Art. 4º A República Federativa do Brasil rege-se nas suas relações internaci
 ## Integração
 
 A República Federativa Brasileira buscará a integração **Econômica**, **Política**, **Social** e **Cultural** dos povos da **América Latina**.
+

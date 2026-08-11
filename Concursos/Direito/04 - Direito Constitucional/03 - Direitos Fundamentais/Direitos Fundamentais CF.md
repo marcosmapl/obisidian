@@ -29,7 +29,5 @@ Art. 5º Todos são iguais perante a lei, sem distinção de qualquer natureza, 
 - [[Direitos Sociais]]
 - [[Direitos de Nacionalidade]]
 - [[Direitos Políticos]]
-- [[Direitos Relacionados à Existência, Dignidade e Segurança]]
-
 
 

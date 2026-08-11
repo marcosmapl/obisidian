@@ -8,14 +8,12 @@ updated: 2026-05-17T14:50:00
 ## Conceito
 
 - **Ferdinand Lassalle** (**Século XIX**).
-- Constituição é um **fato social**, e não uma norma jurídica.
-- Foco no caráter **material** (essência) e não no caráter **formal** (como foi criada).
-- A **constituição real** é a soma dos **fatores reais de poder** que vigoram na sociedade.
-- Esses fatores decorrem do embate entre forças:
-  - Econômicas  
-  - Sociais  
-  - Políticas  
-  - Religiosas  
+- A Constituição é **um fato social**, não apenas um texto jurídico.
+- Importa o que a Constituição **“realmente é”** na prática, e não como foi criada.
+- Existem duas Constituições:
+    - **Real/Efetiva**: Reflete a soma dos fatores reais de poder (econômicos, sociais, políticos, religiosos).
+    - **Escrita (jurídica)**: Pode ser apenas uma “folha de papel” se não representar a realidade social.
+- Só haverá **eficácia e estabilidade** se a Constituição escrita corresponder aos fatores reais de poder.
 
 📌 A Constituição é o **espelho das relações de poder do Estado**.
 
