@@ -6,17 +6,18 @@ updated: 2026-06-03T09:23:11
   - estatistica/distribuicoes
 ---
 
-## 🔸 Distribuições de Probabilidade
+## Índice
 
 ### Distribuições Discretas
+
 - [[Distribuições de Probabilidade]]
 - [[Distribuição de Bernoulli]]
 - [[Distribuição Binomial]]
 - [[Distribuição de Poisson]]
 - [[Distribuição Geométrica]]
-- [[Distribuição Hipergeométrica]]
 
 ### Distribuições Contínuas
+
 - [[Distribuição Normal]]
 - [[Distribuição Normal Padrão]]
 - [[Distribuição Exponencial]]
@@ -25,10 +26,8 @@ updated: 2026-06-03T09:23:11
 - [[Distribuição t de Student]]
 - [[Distribuição F de Fisher-Snedecor]]
 
-#estatistica/distribuicoes
-
 ---
-## 🔸 Principais Distribuições
+## Principais Distribuições
 
 > [!info] Distribuições Importantes
 > As distribuições de probabilidade modelam comportamentos de variáveis aleatórias em diversos contextos práticos.
