@@ -73,6 +73,13 @@ updated: 2026-07-03T00:00:00
 > A Contabilidade possui a finalidade de controlar o patrimônio administrado.
 
 ---
+## Estrutura conceitual
+
+![[Pasted image 20260812090451.png]]
+
+
+
+---
 ## Tópicos Relacionados
 
 - [[MOC — Contas Contábeis]]
