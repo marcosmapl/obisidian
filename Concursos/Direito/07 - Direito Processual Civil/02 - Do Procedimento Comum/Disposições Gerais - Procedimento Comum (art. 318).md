@@ -100,6 +100,13 @@ Art. 324. O **pedido deve ser determinado**.
 - Pedido Alternativo Vários pedidos formulados sem ordem de preferência. 
 - Pedido Subsidiário Pede-se o acolhimento do pedido subsidiário na hipótese de não ser acolhido o principal.
 
+Art. 327. É lícita a cumulação, em um único processo, contra o mesmo réu, de vários pedidos, **ainda que entre eles não haja conexão**.
+
+Art. 329. O autor poderá:
+- I - **até a citação, aditar ou alterar o pedido ou a causa de pedir, independentemente de consentimento do réu**;
+- II - **até o saneamento do processo**, aditar ou alterar o pedido e a causa de pedir, **com consentimento do réu**, assegurado o contraditório mediante a possibilidade de manifestação deste no prazo mínimo de 15 (quinze) dias, facultado o requerimento de prova suplementar.l
+Parágrafo único. Aplica-se o disposto neste artigo à reconvenção e à respectiva causa de pedir.
+
 ---
 ## Admissibilidade da Ação
 
@@ -110,6 +117,43 @@ Art. 324. O **pedido deve ser determinado**.
 ![[Pasted image 20260811170048.png]]
 
 ---
+## Indeferimento da Petição Inicial
+
+Art. 330. A petição inicial será indeferida quando:
+- I - for inepta;
+§ 1º Considera-se inepta a petição inicial quando:
+- II - o pedido for indeterminado, **ressalvadas as hipóteses legais em que se permite o pedido genérico**;
+
+Art. 331. **Indeferida a petição inicial**, o autor poderá apelar, **facultado ao juiz**, no prazo de **5 (cinco) dias, retratar-se**.
+
+§ 1º ==Se não houver retratação==, o juiz mandará *citar* o réu para responder ao recurso.
+
+§ 2º Sendo a **sentença reformada pelo tribunal**, o **prazo para a contestação** começará a correr da **intimação do retorno dos autos**, observado o disposto no art. 334.
+
+---
 ## Audiência de conciliação e de mediação
 
-O art. 334, do CPC, prevê que, se a petição inicial não for indeferida e se eventualmente não for caso de improcedência liminar, o juiz designará audiência de conciliação e mediação com antecedência mínima de 30 dias, devendo ser citado o réu com, pelo menos, 20 dias de antecedência.
+Art. 334. Se a petição inicial **preencher os requisitos essenciais** e ==não for o caso de improcedência liminar do pedido==, o juiz designará **audiência de conciliação ou de mediação** com **antecedência mínima de 30 (trinta) dias**, devendo ser **citado o réu com pelo menos 20 (vinte) dias de antecedência**.
+
+### Matérias Preliminares
+
+Art. 337. Incumbe ao réu, antes de discutir o mérito, alegar:
+- I - inexistência ou nulidade da citação;
+- II - **incompetência** absoluta e **relativa**;
+- III - incorreção do valor da causa;
+- IV - inépcia da petição inicial;
+- V - perempção;
+- VI - litispendência;
+- VII - **coisa julgada**;
+- VIII - conexão;
+- IX - incapacidade da parte, defeito de representação ou falta de autorização;
+- X - convenção de arbitragem;
+- XI - ausência de legitimidade ou de interesse processual;
+- XII - falta de caução ou de outra prestação que a lei exige como preliminar;
+- XIII - indevida concessão do benefício de gratuidade de justiça.
+
+### Mérito
+
+Art. 487. **Haverá resolução de mérito quando o juiz**:
+- I - acolher ou rejeitar o pedido formulado na ação ou na reconvenção;
+- II - **decidir, de ofício ou a requerimento, sobre a ocorrência de decadência ou prescrição**;
