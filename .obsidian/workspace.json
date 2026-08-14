@@ -4,21 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "aa215d3d7fc65bd0",
+        "id": "5bf621c8bee49287",
         "type": "tabs",
         "children": [
           {
-            "id": "88ff6ffc2d62f148",
+            "id": "5318a99ae46c2589",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Concursos/Economia/05 - Teoria da Firma/Curvas de Produção.md",
+=======
+                "file": "Concursos/Economia/06 - Macroeconômia/Identidades Macroeconômicas Fundamentais.md",
+>>>>>>> b731814534f81461b9e085475881a81442430336
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "Curvas de Produção"
+=======
+              "title": "Identidades Macroeconômicas Fundamentais"
+>>>>>>> b731814534f81461b9e085475881a81442430336
             }
           }
         ],
@@ -559,6 +567,7 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "f2122a8b1b63b84f",
             "type": "leaf",
             "state": {
@@ -570,6 +579,9 @@
           },
           {
             "id": "26b65f911f9cfa68",
+=======
+            "id": "b0f481feb9cb363e",
+>>>>>>> b731814534f81461b9e085475881a81442430336
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -579,7 +591,11 @@
             }
           }
         ],
+<<<<<<< HEAD
         "currentTab": 45
+=======
+        "currentTab": 44
+>>>>>>> b731814534f81461b9e085475881a81442430336
       }
     ],
     "direction": "horizontal",
@@ -599,8 +615,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "88ff6ffc2d62f148",
+  "active": "5318a99ae46c2589",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Concursos/Economia/03 - Modelos Econômicos/Curva de Possibilidades de Produção (CPP).md",
     "Concursos/Economia/04 - Elasticidades/MOC — Elasticidades.md",
     "Concursos/Economia/04 - Elasticidades/Elasticidade - Preço da Oferta.md",
@@ -647,5 +664,53 @@
     "Concursos/Direito/07 - Direito Processual Civil/02 - Do Procedimento Comum",
     "Concursos/Direito/04 - Direito Constitucional/Sem título",
     "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/LC 227 2026"
+=======
+    "Concursos/Economia/06 - Macroeconômia/MOC — Macroeconômia.md",
+    "Concursos/Economia/06 - Macroeconômia/Produto Interno Bruto (PIB).md",
+    "Concursos/Economia/06 - Macroeconômia/Identidades Macroeconômicas Fundamentais.md",
+    "Concursos/Economia/Economia.md",
+    "Media/Pasted image 20260813222116.png",
+    "Concursos/Economia/04 - Elasticidades/MOC — Elasticidades.md",
+    "Concursos/Economia/01 - Conceitos Fundamentais/Macroeconomia.md",
+    "Concursos/Economia/06 - Macroeconômia",
+    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/LC 227 2026/Da Diretoria Executiva.md",
+    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/LC 227 2026/Da Corregedoria.md",
+    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/LC 227 2026/Da Auditoria Interna.md",
+    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/LC 227 2026/Da Secretaria-Geral.md",
+    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/LC 227 2026/Da Presidência e da Vice-Presidência.md",
+    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/LC 227 2026/Da Assessoria de Relações Institucionais e Interfederativas.md",
+    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/LC 227 2026/Comitê Gestor do IBS (CGIBS).md",
+    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/LC 227 2026/MOC — LC 227 de 2026.md",
+    "Concursos/Mat. Financeira/02 - Juros Compostos/Taxas Equivalentes.md",
+    "Concursos/Mat. Financeira/02 - Juros Compostos/MOC — Juros Composto.md",
+    "Concursos/Mat. Financeira/02 - Juros Compostos/Taxa Efetiva e Nominal.md",
+    "Concursos/Mat. Financeira/02 - Juros Compostos/Regime de Capitalização Composta.md",
+    "Concursos/Mat. Financeira/01 - Juros Simples/Regime de Capitalização Simples.md",
+    "Concursos/Mat. Financeira/01 - Juros Simples/MOC — Juros Simples.md",
+    "Concursos/Mat. Financeira/01 - Juros Simples/Juros Simples.md",
+    "Concursos/Mat. Financeira/02 - Juros Compostos/Montante Simples x Montante Composto.md",
+    "Concursos/Mat. Financeira/01 - Juros Simples/Elementos de uma Operação com Juros.md",
+    "Concursos/Mat. Financeira/02 - Juros Compostos/Juros Compostos.md",
+    "Concursos/Mat. Financeira/01 - Juros Simples/Juros Comerciais e Juros Exatos.md",
+    "Concursos/Mat. Financeira/01 - Juros Simples/Taxas Proporcionais.md",
+    "Media/Pasted image 20260811211305.png",
+    "Media/Pasted image 20260811211150.png",
+    "Media/Pasted image 20260811210741.png",
+    "Concursos/Mat. Financeira/02 - Juros Compostos",
+    "Concursos/Mat. Financeira/01 - Juros Simples",
+    "Concursos/Mat. Financeira",
+    "Media/Pasted image 20260811170048.png",
+    "Media/Pasted image 20260811164749.png",
+    "Media/Pasted image 20260811161956.png",
+    "Media/Pasted image 20260811161545.png",
+    "Concursos/Direito/07 - Direito Processual Civil/01 - Da Formação, Suspensão e Extinção do Processo",
+    "Concursos/Direito/07 - Direito Processual Civil/02 - Do Procedimento Comum",
+    "Concursos/Direito/04 - Direito Constitucional/Sem título",
+    "Media/Pasted image 20260810211844.png",
+    "Media/Pasted image 20260810211714.png",
+    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/LC 227 2026",
+    "Concursos/Estatística/03 - Análise Combinatória",
+    "Concursos/Economia/05 - Teoria da Firma"
+>>>>>>> b731814534f81461b9e085475881a81442430336
   ]
 }
