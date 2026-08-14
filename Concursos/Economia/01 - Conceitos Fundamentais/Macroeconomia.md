@@ -104,7 +104,7 @@ Parte da **renda** que ==não é destinada ao consumo==.
 > [!note] Poupança
 > $$ S = Y - C $$
 
-### Investimento
+### Investimento (I)
 
 Acréscimo do estoque físico de capital, incluindo a **formação bruta de capital físico (FBKF)** mais a **variação dos estoques**.
 
@@ -120,7 +120,7 @@ Acréscimo do estoque físico de capital, incluindo a **formação bruta de capi
 > [!note] Investimento Líquido
 > $$ I_L = I - Depreciação $$
 
-### Absorção Interna
+### Absorção Interna (Ab)
 
 É aquilo que a sociedade absorve em bens e serviços para consumo ou para aumento do estoque de capital.
 
@@ -129,14 +129,14 @@ Acréscimo do estoque físico de capital, incluindo a **formação bruta de capi
 > $$ Ab = C + G + I $$
 > $$ Ab = C + G + FBKF + \Delta E $$
 
-### Despesa
+### Despesa (D)
 
 Também chamada de **demanda** ou **dispêndio**, consiste na mensuração dos gastos dos **agentes econômicos**.
 
 
 |     Agente     |                Despesa                 |
 | :------------: | :------------------------------------: |
-|    Famílais    |              C - Consumo               |
+|    Famílias    |              C - Consumo               |
 |    Empresas    |            I - Investimento            |
 |    Governo     |         G - Gastos do governo          |
 | Resto do Mundo | X - Exportações<br>(-) M - Importações |
