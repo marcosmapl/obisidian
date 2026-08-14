@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Contabilidade Geral/16 - CPC 12 (Ajuste a Valor Presente)/MOC — CPC 12.md",
+                "file": "Concursos/Economia/05 - Teoria da Firma/Curvas de Produção.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MOC — CPC 12"
+              "title": "Curvas de Produção"
             }
           }
         ],
@@ -562,6 +562,16 @@
             "id": "f2122a8b1b63b84f",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "26b65f911f9cfa68",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -569,7 +579,7 @@
             }
           }
         ],
-        "currentTab": 44
+        "currentTab": 45
       }
     ],
     "direction": "horizontal",
@@ -591,8 +601,21 @@
   },
   "active": "88ff6ffc2d62f148",
   "lastOpenFiles": [
-    "Concursos/Contabilidade Geral/15 - CPC 16 (Estoques)/MOC — CPC 16.md",
+    "Concursos/Economia/03 - Modelos Econômicos/Curva de Possibilidades de Produção (CPP).md",
+    "Concursos/Economia/04 - Elasticidades/MOC — Elasticidades.md",
+    "Concursos/Economia/04 - Elasticidades/Elasticidade - Preço da Oferta.md",
+    "Concursos/Economia/04 - Elasticidades/Elasticidade - Cruzada.md",
+    "Concursos/Economia/04 - Elasticidades/Elasticidade - Renda da Demanda.md",
+    "Concursos/Economia/04 - Elasticidades/Elasticidade - Preço da Demanda.md",
+    "Concursos/Auditoria/11 - Controle Interno e Externo/Controle Interno.md",
+    "Concursos/Auditoria/12 - Laudo e Parecer Pericial Contábil/Perícia Contábil.md",
+    "Concursos/Auditoria/12 - Laudo e Parecer Pericial Contábil/Parecer Pericial Contábil.md",
+    "Concursos/Auditoria/12 - Laudo e Parecer Pericial Contábil/Laudo Pericial Contábil.md",
+    "Concursos/Auditoria/11 - Controle Interno e Externo/MOC — Controle Interno e Externo.md",
+    "Concursos/Auditoria/11 - Controle Interno e Externo/Conceito de Controle Interno.md",
+    "Concursos/Auditoria/01 - Conceitos Fundamentais/Auditoria Interna — Conceito.md",
     "Concursos/Contabilidade Geral/16 - CPC 12 (Ajuste a Valor Presente)/MOC — CPC 12.md",
+    "Concursos/Contabilidade Geral/15 - CPC 16 (Estoques)/MOC — CPC 16.md",
     "Concursos/Contabilidade Geral/16 - CPC 12 (Ajuste a Valor Presente)",
     "Concursos/Contabilidade Geral/15 - CPC 16 (Estoques)/Critérios de Avaliação de Estoques.md",
     "Concursos/Contabilidade Geral/15 - CPC 16 (Estoques)/Mensuração de Estoques.md",
@@ -615,21 +638,8 @@
     "Concursos/Contabilidade Geral/14 - CPC 00 (Estrutura Conceitual Básica da Contabilidade)",
     "Media/Pasted image 20260812090451.png",
     "Concursos/Mat. Financeira/02 - Juros Compostos/Taxas Equivalentes.md",
-    "Concursos/Mat. Financeira/02 - Juros Compostos/MOC — Juros Composto.md",
-    "Concursos/Mat. Financeira/02 - Juros Compostos/Taxa Efetiva e Nominal.md",
-    "Concursos/Mat. Financeira/02 - Juros Compostos/Regime de Capitalização Composta.md",
-    "Concursos/Mat. Financeira/01 - Juros Simples/Regime de Capitalização Simples.md",
-    "Concursos/Mat. Financeira/01 - Juros Simples/MOC — Juros Simples.md",
-    "Concursos/Mat. Financeira/01 - Juros Simples/Juros Simples.md",
-    "Concursos/Mat. Financeira/02 - Juros Compostos/Montante Simples x Montante Composto.md",
-    "Concursos/Mat. Financeira/01 - Juros Simples/Elementos de uma Operação com Juros.md",
-    "Concursos/Mat. Financeira/02 - Juros Compostos/Juros Compostos.md",
-    "Concursos/Mat. Financeira/01 - Juros Simples/Juros Comerciais e Juros Exatos.md",
-    "Concursos/Mat. Financeira/01 - Juros Simples/Taxas Proporcionais.md",
     "Media/Pasted image 20260811211305.png",
     "Media/Pasted image 20260811211150.png",
-    "Concursos/Mat. Financeira/Matemática Financeira.md",
-    "Concursos/Língua Portuguesa/01 - Ortografia e Acentuação/MOC — Ortografia e Acentuação.md",
     "Concursos/Mat. Financeira/02 - Juros Compostos",
     "Concursos/Mat. Financeira/01 - Juros Simples",
     "Concursos/Mat. Financeira",

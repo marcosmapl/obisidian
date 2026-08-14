@@ -27,5 +27,5 @@ updated: 2026-07-03T00:00:00
 
 - [[Normas do Auditor Independente]]
 - [[Normas Complementares do Auditor Independente]]
-- [[Perícia Contábil — Conceito]]
+- [[Perícia Contábil]]
 - [[Auditoria Interna — Aspectos Gerais, NBC TI 01, IIA e Diferenças]]

@@ -23,6 +23,6 @@ updated: 2026-07-03T00:00:00
 ---
 ## Tópicos Relacionados
 
-- [[Perícia Contábil — Conceito]]
-- [[Laudo Pericial Contábil — Conceito]]
+- [[Perícia Contábil]]
+- [[Laudo Pericial Contábil]]
 - [[MOC — Laudo e Parecer Pericial]]

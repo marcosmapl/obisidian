@@ -12,7 +12,7 @@ updated: 2026-07-20T16:45:00
 ---
 ## Equação
 
-$$ E_{ps} = \frac{ \% \Delta Q_o }{ \% \Delta P } $$
+$$ E_{po} = \frac{ \% \Delta Q_o }{ \% \Delta P } $$
 
 ---
 ## Fatores

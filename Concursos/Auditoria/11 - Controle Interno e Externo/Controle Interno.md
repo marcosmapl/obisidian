@@ -8,7 +8,7 @@ updated: 2026-06-15T09:45:00
 ## Conceito
 
 > [!note] Controle Interno
-> Processo conduzido pela **estrutura de governança**, **administração** e **outros profissionais da entidade**, e desenvolvido para **proporcionar segurança razoável** com respeito à realização dos **objetivos relacionados a operações, divulgação e conformidade**.
+> Processo integrado efetuado pela direção e corpo de funcionários, estruturado para enfrentar os riscos e fornecer razoável segurança de que na consecução da missão da entidade serão alcançados objetivos, como cumprimento das leis/regulamentos.
 
 - **Atingir objetivos**
 - Tarefas e atividades **contínuas**
@@ -19,7 +19,7 @@ updated: 2026-06-15T09:45:00
 ---
 ## Objetivo
 
-É objetivo do auditor definir e executar procedimentos de auditoria que permitam conseguir evidência apropriada e suficiente que lhe possibilitem obter conclusões razoáveis para fundamentar a sua opinião. 
+É objetivo do auditor **definir e executar procedimentos de auditoria** que permitam conseguir **evidência apropriada e suficiente** que lhe possibilitem obter conclusões razoáveis para fundamentar a sua opinião. 
 
 Para atingir esse objetivo, dentre outras coisas, o auditor realiza um **estudo e avaliação do sistema contábil e de controles internos da entidade auditada**, com intuito de ter uma visão mais detalhada de seu negócio.
 

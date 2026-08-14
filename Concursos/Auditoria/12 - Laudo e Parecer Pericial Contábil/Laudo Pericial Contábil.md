@@ -25,6 +25,6 @@ updated: 2026-01-10T10:20:00
 ---
 ## Tópicos Relacionados
 
-- [[Perícia Contábil — Conceito]]
-- [[Parecer Pericial Contábil — Conceito]]
+- [[Perícia Contábil]]
+- [[Parecer Pericial Contábil]]
 - [[MOC — Laudo e Parecer Pericial]]

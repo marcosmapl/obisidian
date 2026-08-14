@@ -7,9 +7,9 @@ updated: 2026-01-10T08:35:00
 
 ## Laudo e Parecer Pericial Contábil
 
-- [[Perícia Contábil — Conceito]]
-- [[Laudo Pericial Contábil — Conceito]]
-- [[Parecer Pericial Contábil — Conceito]]
+- [[Perícia Contábil]]
+- [[Laudo Pericial Contábil]]
+- [[Parecer Pericial Contábil]]
 
 ---
 ## Normas Relacionadas
@@ -21,4 +21,4 @@ updated: 2026-01-10T08:35:00
 ## Tópicos Relacionados
 
 - [[Concursos/Auditoria/15 - Normas Brasileiras de Auditoria (CFC)/MOC — Normas Brasileiras de Auditoria]]
-- [[Perícia Contábil — Conceito]]
+- [[Perícia Contábil]]
