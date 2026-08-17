@@ -1,0 +1,2 @@
+
+É **direito do defensor**, no **interesse do representado**, ter **acesso amplo aos elementos de prova que, já documentados em procedimento investigatório realizado** por órgão com competência de polícia judiciária, digam respeito ao exercício do direito de defesa.

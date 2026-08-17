@@ -1,54 +1,4 @@
----
-disciplina: Economia
-tópico: Economia
-created: 2026-07-25T16:15:00
-updated: 2026-07-25T16:20:00
----
 
-> [!info] Macroeconomia
-> É o estudo dos **agregados econômicos**, tais como **PIB, juros, câmbio, inflação, moeda, investimento, crescimento, carga tributária, balança comercial, taxa de desemprego, renda, desenvolvimento, IDH, despesas, políticas econômicas**.
-
-> **Consumo** e a **produção** de um **país inteiro**.
-
-![[Pasted image 20260725161654.jpg]]
-
----
-## Objetivos da Macroeconomia
-
-- **Estabilidade de preços**: controle da inflação;
-- **Alto nível de emprego**: fatores de produção na economia;
-- **Crescimento e desenvolvimento econômico**: produção e consumo de bens;
-- **Distribuição de renda**: Brasil tem um dos maiores PIBs do planeta, porém essa renda é mal distribuída, concentrando-se nas mãos de poucos.
-
-![[Pasted image 20260808141814.png]]
-
----
-## Contas Sociais
-
-### Contas Nacionais
-
-- Mensuram a **produção**, **renda** e **despesas** agregados.
-- **IBGE** é o responsável
-
-### Balanço de Pagamentos
-
-- Registra as **transações de um país com os demais países**.
-- **Banco Central** é o responsável
-
-### Contas do Sistema Monetário
-
-- Controle da **moeda em circulação**.
-- **Banco Central** é o responsável
-
-### Contabilidades Fiscal
-
-- Evidencia as **contas do governo**, com foco no impacto do governo na atividade econômica, e na **dívida pública**.
-- **Banco Central** e o **Tesouro Nacional** apuram essas contas.
-
-![[Pasted image 20260808142844.png]]
-
----
-## Contas Nacionais
 
 Os sete conceitos básicos:
 - **Produto**
@@ -59,12 +9,13 @@ Os sete conceitos básicos:
 - **Absorção**
 - **Despesa**
 
-### Produto (P)
+## Produto (P)
 
 - **Total da produção** em determinando período
 - Medido em **valores monetários**
 - Soma do valor de **Bens e serviços finais** ou **Valor adicionado**
 - Variável do tipo **fluxo**
+- ==NÃO CONSIDERA VALOR DE INSUMOS OU BENS INTERMEDIÁRIOS==
 
 > [!info] Variáveis do tipo Fluxo
 > São mensuradas em relação a determinado **período de tempo**.
@@ -72,21 +23,46 @@ Os sete conceitos básicos:
 > [!info] Variáveis do tipo Estoque
 > São mensuradas em certo **instante de tempo**.
 
-### Renda (Y)
+---
+## Renda (R)
 
-A empresa precisa **remunerar** os **fatores de produção**.
+Total de **pagamentos** que as firmas **fazem aos indivíduos** pelo uso dos **fatores de produção**.
 
 | Fator de Produção     | Remuneração  |
 | --------------------- | ------------ |
-| Trabalho              | Salários - s |
+| Trabalho              | Salários - w |
 | Capital de Empréstimo | Juros - j    |
 | Capital de Risco      | Lucros - l   |
 | Capital Físico        | Aluguéis - a |
 
 > [!note] 1ª Identidade Macroeconômica
-> $$ Y = s + j + l + a $$
+> $$ R = w + j + l + a $$
 
-### Consumo (C)
+### Renda Nacional Bruta (RNB)
+
+É a renda **gerada pelos fatores nacionais**, a custo de fatores, em termos brutos.
+
+$$ RNB = PIB - RLEE - (II - Subsidios) $$
+
+$$ RNB = PIB - (RRE - REE) - (II - Subsidios) $$
+
+### Renda Nacional Líquida:
+
+Aqui **descontamos a depreciação** para obtermos a renda líquida. Obs.: Algumas bancas trazem a RNL somente como **Renda Nacional (RN)**
+
+$$ RNL = RNB - Depreciacao $$
+
+### Renda Nacional Disponível
+
+Entenda como renda que a **NAÇÃO** **(não só o governo )** tem para gastar. Assim você vai **pegar a RNL** (Renda Nacional Líquida) **e somar** com o que a nação **ganhou dos outros** (transferências  correntes líquidas do exterior)
+
+$$ RND = RNL + Transferencias $$
+
+|Remda
+
+
+---
+## Consumo (C)
 
 Valor de **bens e serviços adquiridos pelos indivíduos**
 
@@ -97,14 +73,19 @@ Classificação
 > [!note] Consumo Total
 > $$ C_{total} = C + G $$
 
-### Poupança (S)
+---
+## Poupança (S)
 
 Parte da **renda** que ==não é destinada ao consumo==.
 
 > [!note] Poupança
-> $$ S = Y - C $$
+> $$ S = R - C $$
 
-### Investimento (I)
+> [!info] Ótica da Renda
+> $$ R = S + C $$
+
+---
+## Investimento (I)
 
 Acréscimo do estoque físico de capital, incluindo a **formação bruta de capital físico (FBKF)** mais a **variação dos estoques**.
 
@@ -117,10 +98,14 @@ Acréscimo do estoque físico de capital, incluindo a **formação bruta de capi
 > [!note] Investimento
 > $$ I = FBKF + \Delta E $$
 
+> [!note] Formação Bruta Capital Fixo
+> $$ FBKF = FLKF + Depreciacao $$
+
 > [!note] Investimento Líquido
 > $$ I_L = I - Depreciação $$
 
-### Absorção Interna (Ab)
+---
+## Absorção Interna (Ab)
 
 É aquilo que a sociedade absorve em bens e serviços para consumo ou para aumento do estoque de capital.
 
@@ -129,21 +114,20 @@ Acréscimo do estoque físico de capital, incluindo a **formação bruta de capi
 > $$ Ab = C + G + I $$
 > $$ Ab = C + G + FBKF + \Delta E $$
 
-### Despesa (D)
+---
+## Despesa (D)
 
 Também chamada de **demanda** ou **dispêndio**, consiste na mensuração dos gastos dos **agentes econômicos**.
 
-
-|     Agente     |                Despesa                 |
-| :------------: | :------------------------------------: |
-|    Famílias    |              C - Consumo               |
-|    Empresas    |            I - Investimento            |
-|    Governo     |         G - Gastos do governo          |
-| Resto do Mundo | X - Exportações<br>(-) M - Importações |
+|        Agente        |                    Despesa                     |
+| :------------------: | :--------------------------------------------: |
+|       Famílias       |                **C** - Consumo                 |
+|       Empresas       |              **I** - Investimento              |
+|       Governo        |           **G** - Gastos do governo            |
+| Exportações Líquidas | **X** - Exportações<br>(-) **M** - Importações |
 
 > [!note] Despesa
-> $$ D = C + I + G + X - M $$
-
+> $$ D = C + G + I + (X - M) $$
 
 ---
 ## Forma de cobrança FCC
@@ -152,8 +136,3 @@ Também chamada de **demanda** ou **dispêndio**, consiste na mensuração dos g
 - **Modelo Keynesiano e IS-LM**: efeito do multiplicador de gastos e deslocamentos das curvas.
 - **Balanço de Pagamento**: diferenciação entre Transações Correntes e Conta Financeira.
 - **Índices de Preços**: características específicas do IPCA, INPC e IGPs
-
----
-## Tópicos Relacionados
-
-- [[Microeconomia]]

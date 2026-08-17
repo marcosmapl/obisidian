@@ -36,7 +36,7 @@ Lembrando que:
 	- (+) Resultado com Equivalência Patrimonial
 	- (=) Lucro Líquido Ajustado
 - **Passo3**: Ajustar também as **variações das contas operacionais**.
-	- 
+
 
 > [!tip] Ativo
 > **Aumento** do ativo, **diminui** o caixa. **Diminuição** do ativo, **aumenta** o caixa. (relação **inversa**)

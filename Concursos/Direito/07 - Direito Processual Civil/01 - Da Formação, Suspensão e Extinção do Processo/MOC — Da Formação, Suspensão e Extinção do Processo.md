@@ -8,7 +8,8 @@
 - Ocorre com o **protocolo da Petição Inicial**;
 - **Iniciativa da parte**;
 
-> [!info] É possível o **indeferimento** (Art. 330) ou a **improcedência liminar do pedido**  (Art. 332) antes mesmo da citação do reu.
+> [!info] **Indeferimento (Art. 330):*
+> Gera extinção **sem resolução de mérito** (coisa julgada formal). Cabe apelação, com juízo de retratação do juiz em 5 dias. É possível o **indeferimento** (Art. 330) ou a **improcedência liminar do pedido**  (Art. 332) antes mesmo da citação do reu.
 
 ---
 ## Suspensão

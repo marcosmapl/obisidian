@@ -1,50 +1,41 @@
 {
   "main": {
-    "id": "f7eacf46308ea733",
+    "id": "9cfc1187f138285a",
     "type": "split",
     "children": [
       {
-        "id": "5bf621c8bee49287",
+        "id": "0642c28906347e6b",
         "type": "tabs",
         "children": [
           {
-            "id": "5318a99ae46c2589",
+            "id": "ecc9e3da50778b02",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "Concursos/Economia/05 - Teoria da Firma/Curvas de Produção.md",
-=======
-                "file": "Concursos/Economia/06 - Macroeconômia/Identidades Macroeconômicas Fundamentais.md",
->>>>>>> b731814534f81461b9e085475881a81442430336
+                "file": "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/LC 227 2026/Do Controle Externo do CGIBS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-<<<<<<< HEAD
-              "title": "Curvas de Produção"
-=======
-              "title": "Identidades Macroeconômicas Fundamentais"
->>>>>>> b731814534f81461b9e085475881a81442430336
+              "title": "Do Controle Externo do CGIBS"
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "4b80630fc61188b9",
+    "id": "d8060ac0f7d9ca35",
     "type": "split",
     "children": [
       {
-        "id": "c524c4983fde3c61",
+        "id": "420b22ca22bc3916",
         "type": "tabs",
         "children": [
           {
-            "id": "cc5fcfdafdde85fe",
+            "id": "5ffe0c98325b273f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -59,12 +50,12 @@
             }
           },
           {
-            "id": "1de5d1933ed46d25",
+            "id": "f94d038188226016",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "Tribunal",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,11 +67,14 @@
             }
           },
           {
-            "id": "8b38ea50ebdb6fe2",
+            "id": "2a0368a764bf5f82",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Marcadores"
             }
@@ -89,23 +83,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 406.64353942871094
+    "width": 412.5026054382324
   },
   "right": {
-    "id": "4ab4bb61d64fd956",
+    "id": "36b906953263c637",
     "type": "split",
     "children": [
       {
-        "id": "4f78a9e76abc9f41",
+        "id": "f3a28bbfd3fb0d3d",
         "type": "tabs",
         "children": [
           {
-            "id": "1bae60e0f909eb2d",
+            "id": "2c7fde6dd8508d9c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concursos/Contabilidade Geral/11 - Demonstração dos Fluxos de Caixa (DFC)/Método Indireto (DFC).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,25 +108,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Método Indireto (DFC)"
+              "title": "Links inversos"
             }
           },
           {
-            "id": "a572a07fa0e86b18",
+            "id": "4aad59fb9b866d07",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concursos/Estatística/02 - Estatística Descritiva/Variância.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Variância"
+              "title": "Links de saída"
             }
           },
           {
-            "id": "a1ef10c331f35dec",
+            "id": "333d6ba89d4334cc",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -148,7 +140,7 @@
             }
           },
           {
-            "id": "2343dbb6deb8a218",
+            "id": "4bbd613215751e1d",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -162,22 +154,21 @@
             }
           },
           {
-            "id": "afcee9c47b9d3af7",
+            "id": "b08577f6a1280787",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concursos/Estatística/02 - Estatística Descritiva/Variância.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Variância"
+              "title": "Sumário"
             }
           },
           {
-            "id": "fc3ae27567ec80f0",
+            "id": "cd6c105427a3a778",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -187,401 +178,7 @@
             }
           },
           {
-            "id": "993cddbad1184fd2",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "8c29e6f13159ed48",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "58f1bb2b62133dcc",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "b219bcf9bf8537be",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "423fc98386d32094",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "2b3cfb709497afbc",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "1552aa52c62501df",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "f87d81905515a569",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "8cf8e38dcadeed3c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "b00f24717982bd98",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "0ac3682a23f73870",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "61fd75cf0c862e79",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "9a66193a6c97489f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "656e816743ff1f5f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "e2531c2b8c6824cb",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "93f77928ced1739b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "5bd7008d0da1d0f2",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "d6f09079238daf00",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "bb7428afabf975ba",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "ff38bc0e8a57f5a9",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "d03bd77da9c21083",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "35e44973da824e93",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "8bf3fb6dfbd72d1f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "0a8f02c0ef7db911",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "9c74ee776eb6d04b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "19efa594dba0cd53",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "ba8b4bb2ba3c38f0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "d6dee0bbab457049",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "27c05d931fbb7773",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "ccbff193ae6443db",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "eaf0de1c52f0fafc",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "343c54eb503072cd",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "b7c8fea4072192f7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "4841c23611ec1b01",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "be7cf19b610a6c6f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "eb147d7f908b6332",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "88e2516911466b76",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "e46005cf2bd2d221",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-<<<<<<< HEAD
-            "id": "f2122a8b1b63b84f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "26b65f911f9cfa68",
-=======
-            "id": "b0f481feb9cb363e",
->>>>>>> b731814534f81461b9e085475881a81442430336
+            "id": "d717809c7d4d242a",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -591,15 +188,11 @@
             }
           }
         ],
-<<<<<<< HEAD
-        "currentTab": 45
-=======
-        "currentTab": 44
->>>>>>> b731814534f81461b9e085475881a81442430336
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -610,107 +203,50 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": false,
       "markdown-importer:Abrir importador Markdown": false,
+      "bases:Criar nova base": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5318a99ae46c2589",
+  "active": "ecc9e3da50778b02",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "Concursos/Economia/03 - Modelos Econômicos/Curva de Possibilidades de Produção (CPP).md",
-    "Concursos/Economia/04 - Elasticidades/MOC — Elasticidades.md",
-    "Concursos/Economia/04 - Elasticidades/Elasticidade - Preço da Oferta.md",
-    "Concursos/Economia/04 - Elasticidades/Elasticidade - Cruzada.md",
-    "Concursos/Economia/04 - Elasticidades/Elasticidade - Renda da Demanda.md",
-    "Concursos/Economia/04 - Elasticidades/Elasticidade - Preço da Demanda.md",
-    "Concursos/Auditoria/11 - Controle Interno e Externo/Controle Interno.md",
-    "Concursos/Auditoria/12 - Laudo e Parecer Pericial Contábil/Perícia Contábil.md",
-    "Concursos/Auditoria/12 - Laudo e Parecer Pericial Contábil/Parecer Pericial Contábil.md",
-    "Concursos/Auditoria/12 - Laudo e Parecer Pericial Contábil/Laudo Pericial Contábil.md",
-    "Concursos/Auditoria/11 - Controle Interno e Externo/MOC — Controle Interno e Externo.md",
-    "Concursos/Auditoria/11 - Controle Interno e Externo/Conceito de Controle Interno.md",
-    "Concursos/Auditoria/01 - Conceitos Fundamentais/Auditoria Interna — Conceito.md",
-    "Concursos/Contabilidade Geral/16 - CPC 12 (Ajuste a Valor Presente)/MOC — CPC 12.md",
-    "Concursos/Contabilidade Geral/15 - CPC 16 (Estoques)/MOC — CPC 16.md",
-    "Concursos/Contabilidade Geral/16 - CPC 12 (Ajuste a Valor Presente)",
-    "Concursos/Contabilidade Geral/15 - CPC 16 (Estoques)/Critérios de Avaliação de Estoques.md",
-    "Concursos/Contabilidade Geral/15 - CPC 16 (Estoques)/Mensuração de Estoques.md",
-    "Concursos/Contabilidade Geral/15 - CPC 16 (Estoques)/Receita com venda de mercadorias.md",
-    "Concursos/Contabilidade Geral/14 - CPC 00 (Estrutura Conceitual Básica da Contabilidade)/MOC — CPC 00.md",
-    "Concursos/Contabilidade Geral/15 - CPC 16 (Estoques)",
-    "Concursos/Contabilidade Geral/14 - CPC 00 (Estrutura Conceitual Básica da Contabilidade)/Bases de Mensuração.md",
-    "Media/Pasted image 20260812162232.png",
-    "Concursos/Contabilidade Geral/14 - CPC 00 (Estrutura Conceitual Básica da Contabilidade)/Elementos das Demonstrações Contábeis.md",
-    "Media/Pasted image 20260812162134.png",
-    "Media/Pasted image 20260812162130.png",
-    "Media/Pasted image 20260812162106.png",
-    "Media/Pasted image 20260812162100.png",
-    "Concursos/Contabilidade Geral/14 - CPC 00 (Estrutura Conceitual Básica da Contabilidade)/Características Qualitativas.md",
-    "Media/Pasted image 20260812161307.jpg",
-    "Media/Pasted image 20260812161232.jpg",
-    "Concursos/Contabilidade Geral/13 - Princípios Contábeis/MOC — Princípios Contábeis.md",
-    "Concursos/Contabilidade Geral/Contabilidade Geral.md",
-    "Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais.md",
-    "Concursos/Contabilidade Geral/14 - CPC 00 (Estrutura Conceitual Básica da Contabilidade)",
-    "Media/Pasted image 20260812090451.png",
-    "Concursos/Mat. Financeira/02 - Juros Compostos/Taxas Equivalentes.md",
-    "Media/Pasted image 20260811211305.png",
-    "Media/Pasted image 20260811211150.png",
-    "Concursos/Mat. Financeira/02 - Juros Compostos",
-    "Concursos/Mat. Financeira/01 - Juros Simples",
-    "Concursos/Mat. Financeira",
-    "Concursos/Direito/07 - Direito Processual Civil/01 - Da Formação, Suspensão e Extinção do Processo",
-    "Concursos/Direito/07 - Direito Processual Civil/02 - Do Procedimento Comum",
-    "Concursos/Direito/04 - Direito Constitucional/Sem título",
-    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/LC 227 2026"
-=======
-    "Concursos/Economia/06 - Macroeconômia/MOC — Macroeconômia.md",
-    "Concursos/Economia/06 - Macroeconômia/Produto Interno Bruto (PIB).md",
-    "Concursos/Economia/06 - Macroeconômia/Identidades Macroeconômicas Fundamentais.md",
-    "Concursos/Economia/Economia.md",
-    "Media/Pasted image 20260813222116.png",
-    "Concursos/Economia/04 - Elasticidades/MOC — Elasticidades.md",
-    "Concursos/Economia/01 - Conceitos Fundamentais/Macroeconomia.md",
-    "Concursos/Economia/06 - Macroeconômia",
-    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/LC 227 2026/Da Diretoria Executiva.md",
-    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/LC 227 2026/Da Corregedoria.md",
-    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/LC 227 2026/Da Auditoria Interna.md",
-    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/LC 227 2026/Da Secretaria-Geral.md",
-    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/LC 227 2026/Da Presidência e da Vice-Presidência.md",
-    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/LC 227 2026/Da Assessoria de Relações Institucionais e Interfederativas.md",
-    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/LC 227 2026/Comitê Gestor do IBS (CGIBS).md",
+    "Media/Pasted image 20260816163415.png",
+    "Media/Pasted image 20260816163257.png",
+    "Media/Pasted image 20260816162822.png",
     "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/LC 227 2026/MOC — LC 227 de 2026.md",
-    "Concursos/Mat. Financeira/02 - Juros Compostos/Taxas Equivalentes.md",
-    "Concursos/Mat. Financeira/02 - Juros Compostos/MOC — Juros Composto.md",
-    "Concursos/Mat. Financeira/02 - Juros Compostos/Taxa Efetiva e Nominal.md",
-    "Concursos/Mat. Financeira/02 - Juros Compostos/Regime de Capitalização Composta.md",
-    "Concursos/Mat. Financeira/01 - Juros Simples/Regime de Capitalização Simples.md",
-    "Concursos/Mat. Financeira/01 - Juros Simples/MOC — Juros Simples.md",
-    "Concursos/Mat. Financeira/01 - Juros Simples/Juros Simples.md",
-    "Concursos/Mat. Financeira/02 - Juros Compostos/Montante Simples x Montante Composto.md",
-    "Concursos/Mat. Financeira/01 - Juros Simples/Elementos de uma Operação com Juros.md",
-    "Concursos/Mat. Financeira/02 - Juros Compostos/Juros Compostos.md",
-    "Concursos/Mat. Financeira/01 - Juros Simples/Juros Comerciais e Juros Exatos.md",
-    "Concursos/Mat. Financeira/01 - Juros Simples/Taxas Proporcionais.md",
-    "Media/Pasted image 20260811211305.png",
-    "Media/Pasted image 20260811211150.png",
-    "Media/Pasted image 20260811210741.png",
-    "Concursos/Mat. Financeira/02 - Juros Compostos",
-    "Concursos/Mat. Financeira/01 - Juros Simples",
-    "Concursos/Mat. Financeira",
-    "Media/Pasted image 20260811170048.png",
-    "Media/Pasted image 20260811164749.png",
-    "Media/Pasted image 20260811161956.png",
-    "Media/Pasted image 20260811161545.png",
-    "Concursos/Direito/07 - Direito Processual Civil/01 - Da Formação, Suspensão e Extinção do Processo",
-    "Concursos/Direito/07 - Direito Processual Civil/02 - Do Procedimento Comum",
-    "Concursos/Direito/04 - Direito Constitucional/Sem título",
-    "Media/Pasted image 20260810211844.png",
-    "Media/Pasted image 20260810211714.png",
-    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/LC 227 2026",
-    "Concursos/Estatística/03 - Análise Combinatória",
-    "Concursos/Economia/05 - Teoria da Firma"
->>>>>>> b731814534f81461b9e085475881a81442430336
+    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/LC 227 2026/Do Controle Externo do CGIBS.md",
+    "Concursos/Direito/10 - Direito Tributário/13 - Simples Nacional/Resolução CGSN n140 2018.md",
+    "Concursos/Direito/10 - Direito Tributário/13 - Simples Nacional/MOC — Simples Nacional.md",
+    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/MOC — Reforma Tributária.md",
+    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/MOC — EC 132 de 2023.md",
+    "Concursos/Economia/06 - Macroeconômia/Produto Interno Bruto (PIB).md",
+    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/Resolução CGSN 140 2018",
+    "Concursos/Economia/06 - Macroeconômia/Identidades Macroeconômicas Fundamentais.md",
+    "Concursos/Economia/06 - Macroeconômia/Contas Nacionais.md",
+    "Concursos/Economia/06 - Macroeconômia/Fluxo Circular da Riqueza.md",
+    "Concursos/Economia/06 - Macroeconômia/MOC — Macroeconômia.md",
+    "Concursos/Economia/06 - Macroeconômia/Tipos de Mercado.md",
+    "Concursos/Economia/06 - Macroeconômia/Macroeconomia.md",
+    "Concursos/Economia/06 - Macroeconômia/Economia com Governo.md",
+    "Concursos/Economia/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais.md",
+    "Concursos/Economia/01 - Conceitos Fundamentais/Microeconomia.md",
+    "Concursos/Economia/06 - Macroeconômia/Contas Sociais.md",
+    "Concursos/Contabilidade Geral/11 - Demonstração dos Fluxos de Caixa (DFC)/Método Indireto (DFC).md",
+    "Concursos/Contabilidade Geral/12 - Demonstração do Valor Adicionado (DVA)/Demonstração do Valor Adicionado (DVA).md",
+    "Concursos/Contabilidade Geral/11 - Demonstração dos Fluxos de Caixa (DFC)/Demonstração dos Fluxos de Caixa (DFC).md",
+    "Concursos/Direito/07 - Direito Processual Civil/03 - Da Tutela Provisória/MOC — Da Tutela Provisória.md",
+    "Concursos/Direito/07 - Direito Processual Civil/03 - Da Tutela Provisória/Características da Tutela Provisória.md",
+    "Concursos/Direito/07 - Direito Processual Civil/03 - Da Tutela Provisória/Tutela de Evidência.md",
+    "Concursos/Direito/07 - Direito Processual Civil/03 - Da Tutela Provisória/Espécies de Tutela Provisória.md",
+    "Concursos/Direito/07 - Direito Processual Civil/03 - Da Tutela Provisória/Tutela de Evidência 1.md",
+    "Media/Pasted image 20260815170753.png",
+    "Media/Pasted image 20260815164616.png",
+    "Media/Pasted image 20260815163004.png",
+    "Media/Pasted image 20260815162507.png",
+    "Concursos/Direito/07 - Direito Processual Civil/03 - Da Tutela Provisória",
+    "Media/Pasted image 20260815133312.png",
+    "Media/Pasted image 20260815115250.png",
+    "Concursos/Direito/09 - Direito Processual Penal/99 - Jurisprudências",
+    "Concursos/Direito/09 - Direito Processual Penal/01 - Inquérito Policial"
   ]
 }
