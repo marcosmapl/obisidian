@@ -13,52 +13,49 @@ updated: 2026-07-01T15:30:00
 ---
 ## Estrutura essencial
 
-```
-Receita Operacional Bruta (ROB, retirada da DRE)
-(-) Devoluções de vendas e cancelamentos
-(-) Descontos Incondicionais Concedidos
-(-) Abatimentos Concedidos
-(-) Tributos Indiretos (ICMS, ISS, PIS/PASEP, COFINS)
 
-(=) Receita Operacional Líquida (ROL)
-(-) Custo das Mercadorias Vendidas (CMV)
-(-) Custo dos Produtos Vendidos (CPV)
-(-) Custo dos Serviços Prestados (CSV)
+| **Receita Operacional Bruta** (**ROB**, retirada da DRE)            |
+| ------------------------------------------------------------------- |
+| (-) **DE**voluções de vendas e cancelamentos                        |
+| (-) **D**escontos Incondicionais Concedidos                         |
+| (-) **I**mpostos (Tributos Indiretos: ICMS, ISS, PIS/PASEP, COFINS) |
+| (-) **A**batimentos Concedidos                                      |
+| (=) **Receita Operacional Líquida** (**ROL**)                       |
 
-(=) Lucro Operacional Bruto (LOB)
-(-) Despesas Operacioais
-	(-) Despesas com Vendas
-	(-) Despesas Administrativas
-	(-) Despesas Gerais
-	(-) Despesas Financeiras
-	(-) Outras Despesas
-(+) Receitas Operacionais
-	(+) Receitas Financeiras
-	(+) Resultado positivo de equivalência patrimonial
-	(+) Variações monetárias ativas
-	(+) Dividendos recebidos (investimentos avaliados pelo custo)
-	(+) Outras Receitas
+| **Receita Operacional Líquida** (**ROL**)    |
+| -------------------------------------------- |
+| (-) Custo das Mercadorias Vendidas (**CMV**) |
+| (-) Custo dos Produtos Vendidos (**CPV**)    |
+| (-) Custo dos Serviços Prestados (**CSV**)   |
+| (=) **Lucro Operacional Bruto** (**LOB**)    |
 
-(=) Resultado Antes do IR e CSLL (RAIR)
-(-) IRPJ a pagar
-(-) CSLL a pagar
+| **Lucro Operacional Bruto** (**LOB**)           |                                                                                                                                                                                                                               |
+| ----------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| (-) **Despesas Operacioais**                    | (-) Despesas com **Vendas**(fretes, comissões, PECLD)<br>(-) Despesas **Administrativas**<br>(-) Despesas **Gerais**<br>(-) Despesas **Financeiras**<br>(-) **Outras Despesas**                                               |
+| (+) **Receitas Operacionais**                   | (+) Receitas **Financeiras**<br>(+) Resultado Positivo de **Equivalência Patrimonial**<br>(+) **Variações Monetárias Ativas**<br>(+) **Dividendos recebidos** (investimentos avaliados pelo custo)<br>(+) **Outras Receitas** |
+| (=) **Resultado Antes do IR e CSLL** (**RAIR**) |                                                                                                                                                                                                                               |
 
-(=) Resultado Antes das Participações (RAP)
-(-) Debentures
-(-) Empregados
-(-) Administradores
-(-) Partes Beneficiárias
-(-) Fundos de Assistência e Previdência para Empregados
+| **Resultado Antes do IR e CSLL** (**RAIR**)         |
+| --------------------------------------------------- |
+| (-) IRPJ a pagar                                    |
+| (-) CSLL a pagar                                    |
+| (=) **Resultado Antes das Participações** (**RAP**) |
 
-(=) Lucro Líquido do Exercício
-```
-
+| **Resultado Antes das Participações** (**RAP**)             |
+| ----------------------------------------------------------- |
+| (-) **D**ebentures                                          |
+| (-) **E**mpregados                                          |
+| (-) **A**dministradores                                     |
+| (-) **P**artes Beneficiárias                                |
+| (-) **F**undos de Assistência e Previdência para Empregados |
+| (=) **Lucro Líquido do Exercício** (**LLE**)                |
+****
 > [!tip] Sequência de Elaboração
-> ROB (DRE) - DEDIA = ROL
-> ROL - Custos = LOB
-> LOB  - Despesas + Receitas = RAIR
-> RAIR - IR - CSLL = RAP
-> RAP - DEAPF = LLE
+> **ROB** (DRE) - **DEDIA** = **ROL**
+> **ROL** - **Custos** = **LOB**
+> **LOB**  - **Despesas** + **Receitas** = **RAIR**
+> **RAIR** - **IR** - **CSLL** = **RAP**
+> **RAP** - **DEAPF** = **LLE**
 
 ![[Pasted image 20260715150413.png]]
 

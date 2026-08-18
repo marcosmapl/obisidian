@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Direito/06 - Direito Civil/02 - Das Pessoas Naturais e Jurídicas/Pessoas Jurídicas.md",
+                "file": "Concursos/Direito/06 - Direito Civil/07 - Negócios Jurídicos/Prescrição.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pessoas Jurídicas"
+              "title": "Prescrição"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 470.1793670654297
+    "width": 420.8843231201172
   },
   "right": {
     "id": "36b906953263c637",
@@ -228,11 +228,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5152594ccca175cc",
+  "active": "5ffe0c98325b273f",
   "lastOpenFiles": [
+    "Concursos/Direito/06 - Direito Civil/07 - Negócios Jurídicos/MOC — Negócios Jurídicos.md",
+    "Concursos/Direito/06 - Direito Civil/07 - Negócios Jurídicos/Prescrição.md",
+    "Concursos/Direito/06 - Direito Civil/07 - Negócios Jurídicos/Invalidez do Negócio Jurídico.md",
+    "Concursos/Direito/06 - Direito Civil/07 - Negócios Jurídicos/Da Condição, Do Termo e Do Encargo.md",
+    "Concursos/Direito/06 - Direito Civil/07 - Negócios Jurídicos/Interpretação dos Negócios Jurídicos.md",
+    "Concursos/Direito/06 - Direito Civil/07 - Negócios Jurídicos/Elementos Constitutivos do Negócios Jurídico.md",
+    "Concursos/Direito/06 - Direito Civil/MOC — Direito Civil.md",
+    "Concursos/Contabilidade Geral/08 - Demonstração do Resultado do Exercício (DRE)/Demonstração do Resultado do Exercício (DRE).md",
+    "Concursos/Direito/06 - Direito Civil/07 - Negócios Jurídicos",
+    "Concursos/Contabilidade Geral/14 - CPC 00 (Estrutura Conceitual Básica da Contabilidade)/MOC — CPC 00.md",
+    "Concursos/Contabilidade Geral/14 - CPC 00 (Estrutura Conceitual Básica da Contabilidade)/Características Qualitativas.md",
+    "Concursos/Direito/06 - Direito Civil/02 - Das Pessoas Naturais e Jurídicas/Pessoas Jurídicas.md",
     "Concursos/Direito/06 - Direito Civil/02 - Das Pessoas Naturais e Jurídicas/Pessoas Naturais.md",
     "Concursos/Direito/06 - Direito Civil/02 - Das Pessoas Naturais e Jurídicas/MOC — Das Pessoas Naturais e Jurídicas.md",
-    "Concursos/Direito/06 - Direito Civil/MOC — Direito Civil.md",
     "Concursos/Direito/06 - Direito Civil/02 - Das Pessoas Naturais e Jurídicas/Capacidade Civil.md",
     "Concursos/Mat. Financeira/03 - Desconto Simples e Composto/Desconto Simples.md",
     "Concursos/Mat. Financeira/03 - Desconto Simples e Composto/Valor Nominal.md",
@@ -247,18 +258,8 @@
     "Concursos/Língua Portuguesa/09 - Colocação Pronominal/Ênclise.md",
     "Concursos/Língua Portuguesa/09 - Colocação Pronominal/Próclise.md",
     "Concursos/Língua Portuguesa/06 - Concordância/MOC — Concordância.md",
-    "Concursos/Língua Portuguesa/06 - Concordância/Concordância Palavra Nenhuma.md",
-    "Concursos/Língua Portuguesa/06 - Concordância/Concordância Partícula Se.md",
-    "Concursos/Língua Portuguesa/06 - Concordância/Concordância do Verbo Haver.md",
-    "Concursos/Direito/06 - Direito Civil/02 - Das Pessoas Naturais e Jurídicas/Pessoas Jurídicas.md",
-    "Concursos/Direito/07 - Direito Processual Civil/MOC — Direito Processual Civil.md",
-    "Concursos/Direito/09 - Direito Processual Penal/02 - Ação Penal/MOC — Ação Penal.md",
-    "Concursos/Direito/09 - Direito Processual Penal/99 - Jurisprudências/MOC — Jurisprudência.md",
-    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/LC 214 2025/Sujeição Passiva (IBS e CBS).md",
     "Concursos/Direito/09 - Direito Processual Penal/02 - Ação Penal",
     "Media/Pasted image 20260817193755.png",
-    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/LC 214 2025/MOC — LC 214 de 2025.md",
-    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/LC 214 2025/Disposições Preliminares.md",
     "Media/Pasted image 20260816163415.png",
     "Media/Pasted image 20260816163257.png",
     "Media/Pasted image 20260816162822.png",

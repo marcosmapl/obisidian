@@ -8,11 +8,16 @@ Item 2.4 **Se informações financeiras devem ser úteis**, **elas devem ser 
 
 ### Qualitativas Fundamentais
 
-**Relevância**: capaz de fazer diferença na tomada de decisões se tiverem valor preditivo, valor confirmatório, ou ambos.
-- **Valor Preditivo**: Ajuda os usuários a fazer suas próprias previsões sobre resultados futuros. Atenção: A informação não precisa ser uma previsão em si, mas sim um dado de entrada para a análise do usuário.
+#### Relevantes
+
+> 2.7 Informações financeiras são capazes de fazer diferença (**relevantes**) em decisões se tiverem valor **preditivo** ou valor **confirmatório**, ou **ambos**.
+
+ - **Valor Preditivo**: Ajuda os usuários a fazer suas próprias previsões sobre resultados futuros. Atenção: A informação não precisa ser uma previsão em si, mas sim um dado de entrada para a análise do usuário.
 - **Valor Confirmatório**: Fornece um feedback, confirmando ou alterando avaliações que o usuário fez no passado.
 
-**Representação Fidedigna** (**Confiabilidade**): fornecer informações que sejam representações fiéis da essência dos fenômenos econômicos que elas se propõem a representar.
+#### Representação Fidedigna
+
+**Confiabilidade**: fornecer informações que sejam representações fiéis da essência dos fenômenos econômicos que elas se propõem a representar.
 - **Completa**: **Inclui todas as informações necessárias** para que o usuário compreenda o fenômeno, incluindo descrições e explicações. Omitir informações sobre transações complexas, fere a representação fidedigna, pois torna o relatório incompleto.
 - **Neutra**: **A informação não é tendenciosa, parcial ou manipulada** para influenciar a decisão do usuário de forma favorável ou desfavorável. Prudência é necessária na Neutralidade
 - **Isenta de Erros**: Não significa "perfeitamente precisa em todos os aspectos". Significa que **não há erros ou omissões na descrição do fenômeno e que o processo para produzir a informação foi aplicado corretamente**. O uso de estimativas razoáveis é permitido e não viola esse atributo.
@@ -27,7 +32,7 @@ Item 2.4 **Se informações financeiras devem ser úteis**, **elas devem ser 
 
 **Verificabilidade** (suportabilidade): Ajuda a assegurar aos usuários que a informação contida nas demonstrações contábeis representa fielmente os fenômenos econômicos ou de outra natureza que se propõe a representar. 
   
-> Mnemônico: ReRe é fundamental, mas com + T e com + v é melhor.
+> Mnemônico: Re ReFi é fundamental, mas COM + TE e COM + VE é melhor.
 
 ![[Pasted image 20260812161307.jpg]]
 
