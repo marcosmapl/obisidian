@@ -32,53 +32,76 @@ $$ Riqueza_c = Vendas - Insumos - Depreciação $$
 
 ## Estrutura essencial
 
-![[Pasted image 20260726213323.jpg]]
 
----
-## 1 – RECEITAS
-
-- 1.1) Vendas de **mercadorias**, **produtos** e **serviços**
-- 1.2) Receitas relativas à **construção de ativos próprios**
-- 1.3) **PCLD** – (==reversão ou constituição==)
-- 1.4) Outras receitas: ==lucros ou prejuízos com venda de imobilizado==
+| 1 - RECEITAS                                                | Exemplo                                    |
+| ----------------------------------------------------------- | ------------------------------------------ |
+| 1.1) Vendas de **mercadorias**, **produtos** e **serviços** | Receita Bruta (DRE)                        |
+| 1.2) Outras receitas                                        | Lucro ou prejuízo com venda de Imobilizado |
+| 1.3) Receitas relativas à construção de **ativos próprios** |                                            |
+| 1.4) PCLD                                                   | Reversão / (Constituição)                  |
 
 > [!important] Vendas de mercadorias, produtos e serviços inclui valores dos tributos incidentes sobre essas receitas (ICMS, IPI, PIS e COFINS)
 
----
-## 2 - INSUMOS ADQUIRIDOS DE TERCEIROS
-
-- 2.1) **CPV ou CMV** 
-- 2.2) Materiais, energia, serviços de terceiros e outros (==despesa com seguros==)
-- 2.3) Perda / Recuperação de valores ativos
-- 2.4) Outras (especificar)
+| 2 - Insumos Adquiridos de Terceiros                                           | Exemplo                                                       |
+| ----------------------------------------------------------------------------- | ------------------------------------------------------------- |
+| 2.1) Custos dos **produtos**, das **mercadorias** e dos **serviços** vendidos | ==NÃO exclui tributos recuperáveis (ICMS, IPI, PIS, COFINS)== |
+| 2.2) **Materiais**, **energia**, **serviços de terceiros** e outros           | Despesa com seguros                                           |
+| 2.3) **Perda** / **Recuperação** de **valores ativos**                        |                                                               |
+| 2.4) Outras (especificar)                                                     |                                                               |
 
 > [!important] Inclui os valores dos tributos recuperáveis - ICMS, IPI, PIS e COFINS
 
----
-## 3 - VALOR ADICIONADO BRUTO (1-2)
+| 3 - Valor Adicionado Bruto (1-2) |
+| -------------------------------- |
 
----
-## 4 - RETENÇÕES
+| 4 - Retenções    |
+| ---------------- |
+| 4.1) Depreciação |
+| 4.2) Amortização |
+| 4.3) Exaustão    |
 
-- 4.1) DEPRECIAÇÃO
-- 4.2) AMORTIZAÇÃO
-- 4.3) EXAUSTÃO
+| 5 - Valor Adicionado Líquido Produzido pela Entidade (3 - 4) |
+| ------------------------------------------------------------ |
 
----
-## 5 - VALOR ADICIONADO LÍQUIDO PRODUZIDO PELA ENTIDADE (3-4)
+| 6 - Valor Adicionado Recebido em Transferência | Considerações                                                                            |
+| ---------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| 6.1) Resultado de equivalência patrimonial     | Somente o resultado, não computador dividendos pelo MEP                                  |
+| 6.2) Receitas financeiras                      | Juros Ativos                                                                             |
+| 6.3) Outras                                    | Receita de Aluguel<br>Dividendos (método de custo)<br>Doações<br>Subvenções<br>Royalties |
 
----
-## 6 - VALOR ADICIONADO RECEBIDO EM TRANSFERÊNCIA
+| 7 - Valor Adicionado Total a Distribuir (5 + 6) |
+| ----------------------------------------------- |
 
-- 6.1) **Resultado de equivalência patrimonial**
-- 6.2) **Receitas financeiras** (==juros ativos==)
-- 6.3) Outras (==Receita de Aluguel, Dividendos, Doações, Subvenções, Royalties==)
+| 8 - Distribuição do Valor Adicionado                                               |     |
+| ---------------------------------------------------------------------------------- | --- |
 
----
-## 7 - VALOR ADICIONADO TOTAL A DISTRIBUIR (5+6)
+| **8.1) Pessoal**           |
+| -------------------------- |
+| 8.1.1 – Remuneração direta |
+| 8.1.2 – Benefícios         |
+| 8.1.3 – F.G.T.S            |
 
----
-## 8 - Distribuição do Valor Adicionado
+| **8.2) Impostos, taxas e contribuições** |
+| ---------------------------------------- |
+| 8.2.1 – Federais                         |
+| 8.2.2 – Estaduais                        |
+| 8.2.3 – Municipais                       |
+
+| **8.3) Remuneração de capitais de terceiros** |
+| --------------------------------------------- |
+| 8.3.1 – Juros                                 |
+| 8.3.2 – Aluguéis                              |
+| 8.3.3 – Outras                                |
+
+| **8.4) Remuneração de Capitais Próprios**                                          |
+| ---------------------------------------------------------------------------------- |
+| 8.4.1 – Juros sobre o Capital Próprio                                              |
+| 8.4.2 – Dividendos                                                                 |
+| 8.4.3 – Lucros retidos / Prejuízo do exercício                                     |
+| 8.4.4 – Participação dos não-controladores nos lucros retidos (só p/ consolidação) |
+
+
+
 
 > [!tip] Riqueza de Exercícios Anteriores 
 > A DVA considera apenas a distribuição da riqueza do exercício, desconsiderando os resultados de exercícios anteriores, conforme CPC 09

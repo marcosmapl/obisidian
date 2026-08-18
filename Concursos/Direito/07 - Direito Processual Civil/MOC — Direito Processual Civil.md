@@ -7,15 +7,11 @@ updated: 2025-12-23T00:00:00
   - moc
 ---
 
-## Definição
-
-> **Direito Processual Civil** é o ramo do [[Direito Processual]] que estuda as **normas**, os **princípios** e os **procedimentos** que regulam o **processo civil**, aplicando-se aos conflitos de interesses de natureza não-penal perante a [[jurisdição|Jurisdição]] estatal.
-
----
 ## Índice
 
 ### 1. [[MOC — Do Procedimento Comum]]
 
+### 2. [[MOC — Da Tutela Provisória]]
 
 
 ---

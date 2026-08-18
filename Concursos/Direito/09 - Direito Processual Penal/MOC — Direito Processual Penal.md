@@ -10,8 +10,6 @@ updated: 2026-01-08T16:49:00
 > [!note] Direito Processual Penal
 > É o ramo do Direito Processual que regulamenta a aplicação do direito penal material, estabelecendo as normas e procedimentos para apuração de infrações penais e aplicação de sanções.
 
-#direito/processual #direito/penal
-
 ---
 ## Princípios Fundamentais
 
@@ -28,14 +26,13 @@ updated: 2026-01-08T16:49:00
 
 - [[Inquérito Policial — Conceito]]
 - [[Características do Inquérito]]
-- [[Autoridade Policial]]
-- [[Indiciamento]]
-- [[Arquivamento do Inquérito]]
+- [[Tramitação do Inquérito Policial]]
+- [[Notitia Criminis]]
 
 ---
 ## Ação Penal
 
-- [[Ação Penal — Conceito]]
+- [[Ação Penal — Conceito][]]
 - [[Ação Penal Pública]]
 - [[Ação Penal Privada]]
 - [[Denúncia]]

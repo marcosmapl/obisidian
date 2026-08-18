@@ -2,6 +2,8 @@
 
 É uma medida de todos os **bens e serviços finais gerados** dentro das **fronteiras do país**, em **determinado período de tempo**, e **avaliados a preço de mercado**. 
 
+## PIB medido pela despesa
+
 $$ PIB = C + I + G + (X - M) $$
 
 > [!note] São desconsiderados os **bens intermediários**.
@@ -10,13 +12,21 @@ $$ PIB = C + I + G + (X - M) $$
 
 > [!note] São contabilizados no **PIB** o que a empresa investiu em **estoques**.
 
-### PIB Líquido (PIL)
+---
+## PIB pelo redimento
 
-> [!info] É o PIB bruto subtraído da **depreciação**.
+Nesta ótica se consideram os rendimentos que foram gerados e distribuídos aos agentes da economia durante o período
 
-$$ PIL = PIB - Depreciação $$
+$$ PIB = R_{salarios} + R_{arredamentos} + R_{lucros} + R_{juros} + R_{amortizacoes} +  (Tributos - Subisidios) $$
 
-### Produto Nacional Bruto (PNB)
+---
+## PIB pela produção
+
+
+$$ PIB = \sum{VAB} + (Impostos - Subsidios) $$
+
+---
+## Produto Nacional Bruto (PNB)
 
 > [!info] Considera as **rendas** dos residentes e das empresas domésticas auferidas no **exterior** e ==exclui as rendas de empresas e residentes estrangeiros que atuam no país==.
 
@@ -24,10 +34,18 @@ $$ PIL = PIB - Depreciação $$
 
 $$ PNB = PIB + RRE - REE $$
 
+---
+## PIB  Nacional Líquido (PNL)
+
+> [!info] É o **PNB** subtraído da **depreciação**.
+
+$$ PIL = PNB - Depreciação $$
+
+> [!tip] Depreciação pode ser chamada de **Consumo de Capital Fixo**
 
 ### PIB Nominal
 
-Soma dos **preços vigentes e correntes** de toda produção gerada em determinado período de tempo, dentro das fronteiras do país.
+O PIB a preços correntes representa o **PIB nominal**
 
 > [!info] Inclui a **inflação**
 
@@ -38,6 +56,8 @@ Pode cresce por dois motivis:
 ### PIB real
 
 > [!info] É o PIB subtraído do índice de **inflação**
+
+> [!tip] Usar o preço do **ano base** multiplicado pela **quantidade produzida** no **ano corrente**.
 
 #### Deflator Implícito do PIB
 

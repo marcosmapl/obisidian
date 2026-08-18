@@ -7,112 +7,150 @@ updated: 2026-07-19T21:40:00
 
 ## Contribuintes
 
-É considerado contribuinte do IBS e da CBS:
-- **Fornecedores:** Que realizem operações no desenvolvimento de atividade econômica, de **modo habitual** ou em **volume que a caracterize, ou de forma profissional**.
-- **Importadores:** ==Independentemente== de habitualidade ou finalidade.
-- **Adquirentes em Licitação/Leilão:** Na aquisição de **bens apreendidos ou abandonados**.
-- Outros sujeitos previstos expressamente na Lei Complementar.
-
-> [!note] Contribuintes
-> Art. 21. É contribuinte do IBS e da CBS:
-> I - o **fornecedor** que realizar operações:
-> a) no desenvolvimento de atividade econômica;
-> b) de modo habitual ou em volume que caracterize atividade econômica; ou
-> c) de forma profissional, ainda que a profissão não seja regulamentada;
-> II - o **adquirente**, ainda que não enquadrado no inciso I deste caput, na aquisição de bem:
-> a) apreendido ou abandonado, em licitação promovida pelo poder público; ou
-> b) em leilão judicial; 
-> III - o **importador**; 
-> IV - aquele **previsto expressamente em outras hipóteses nesta Lei Complementar**.
-
-> [!important] § 1º O contribuinte de que trata o caput deste artigo é obrigado a se inscrever nos cadastros relativos ao IBS e à CBS.
+**É contribuinte do IBS e da CBS:**
+- **Fornecedor** que realizar operações:
+    - No desenvolvimento de **atividade econômica**, OU
+    - De modo **habitual ou em volume** que caracterize atividade econômica, OU
+    - De forma **profissional**, ainda que a profissão não seja regulamentada
+- O **adquirente** (ainda que não enquadrado no item anterior), na aquisição de bem:
+    - Apreendido ou abandonado, em **licitação promovida pelo poder público**, OU
+    - Em **leilão judicial**
+- O **importador**
+- Aquele previsto expressamente em outras hipóteses na LC 214/25, tal como os **Fundos de Investimento em Direitos Creditórios (FIDC)** e os demais fundos que **liquidem antecipadamente recebíveis**, não caracterizados como entidade de investimento
 
 ![[Pasted image 20260719214232.png]]
 
----
-## Não são Contribuintes
+### Aspectos da Obrigação Cadastral
 
-Estão excluídos dessa condição os **condomínios edilícios, consórcios**, **sociedades em conta de participação**, **nanoempreendedores** e a maioria dos **fundos de investimento**, embora muitos possam **optar voluntariamente pelo regime regular**
-
-> [!note] Art. 26. Não são contribuintes do IBS e da CBS, ressalvado o disposto no inciso II do § 1º do art. 156-A da Constituição Federal:
-> I - **condomínio edilício**;
-> II - **consórcio** de que trata o art. 278 da Lei nº 6.404, de 15 de dezembro de 1976;
-> III - **sociedade em conta de participação**;
-> IV - **nanoempreendedor**, assim entendido a pessoa física que tenha auferido **receita bruta inferior a 50% (cinquenta por cento) do limite estabelecido para adesão ao regime do MEI** (...), e não tenha aderido a esse regime; e
-> V - **fundos de investimento**, observado o disposto nos §§ 5º-A a 8º-A deste artigo;
-> VI - **produtor rural** de que trata o art. 164 desta Lei Complementar;
-> VII - **transportador autônomo de carga** de que trata o art. 169 desta Lei Complementar;
-> VIII - **entidade ou unidade de natureza econômico-contábil**, sem fins lucrativos que presta serviços de planos de assistência à saúde sob a modalidade de autogestão;
-> IX - **entidades de previdência complementar fechada**, constituídas de acordo com a Lei Complementar nº 109, de 29 de maio de 2001; e
-> X - **fundos patrimoniais** instituídos nos termos da Lei nº 13.800, de 4 de janeiro de 2019.
-
-> [!note] Nanoempreendedor
-> § 10. Para fins de enquadramento como **nanoempreendedor** nos termos do inciso IV do caput deste artigo, **será considerada como receita bruta da pessoa física prestadora de serviço de transporte privado individual de passageiros ou de entrega de bens**, inclusive na hipótese em que houver intermediação por plataformas digitais, 2**5% (vinte e cinco por cento) do valor bruto mensal recebido**.
-
-### Condomínio Edilício
-
-- Se optar pelo regime regular os **IBS e CBS incidirão sobre todas as taxas e demais valores cobrados**.
-- Se ==NÃO== optar pelo regime regular e desde que as **taxas e demais valores cobrados representem menos de 80% da receita total do condomínio**;
-	- a) ficará sujeito à incidência do IBS e da CBS sobre as operações com bens e com serviços que realizar
-	- b) apropriará créditos na proporção da receita decorrente das operações tributadas
-
-### Fundos de Investimento
-
-Não são contribuintes do IBS e da CBS:
-
-I - os **Fundos de Investimento Imobiliário (FII)** e os **Fundos de Investimento nas Cadeias Produtivas do Agronegócio (Fiagro)**, **que realizem operações com bens imóveis**, inclusive operações com direitos reais sobre bens imóveis, e que, cumulativamente:
-- a) tenham suas cotas admitidas à negociação exclusivamente em bolsas de valores ou mercado de balcão organizado e possuam, no mínimo, 100 (cem) cotistas;
-- b) não possuam: 
-	1. cotista pessoa física titular de cotas que representem 20% (vinte por cento) ou mais da totalidade das cotas emitidas pelos FII ou pelos Fiagro, ou ainda cujas cotas lhe derem direito ao recebimento de rendimento superior a 20% (vinte por cento) do total de rendimentos; 
-	2. conjunto de cotistas pessoas físicas ligadas, assim entendidos os parentes até segundo grau, titulares de cotas que representem 40% (quarenta por cento) ou mais da totalidade das cotas emitidas pelos FII ou pelos Fiagro, ou ainda cujas cotas lhes deem direito ao recebimento de rendimento superior a 40% (quarenta por cento) do total de rendimentos auferidos pelo fundo; 
-	3. cotistas pessoas jurídicas que, isoladamente ou em conjunto com cotistas que sejam seu sócio controlador ou suas controladas e coligadas, detenham mais de 50% (cinquenta por cento) das cotas do fundo, exceto quando o cotista for entidade fechada de previdência;
+> [!important] § 1º O contribuinte de que trata o caput deste artigo é obrigado a se inscrever nos cadastros relativos ao IBS e à CBS.
 
 ---
 ## Plataformas Digitais
 
-As **plataformas digitais atuam como intermediárias** que controlam elementos essenciais da operação, como cobrança, pagamento ou entrega.
-- **Responsabilidade**: São responsáveis pelo pagamento do IBS e CBS nas operações realizadas por seu intermédio.
-- **Fornecedor no exterior**: A plataforma é responsável solidária com o adquirente e substituta do fornecedor.
-- **Fornecedor no Brasil**: A responsabilidade é solidária se a plataforma não fornecer informações ao fisco ou se o fornecedor não emitir documento fiscal eletrônico.
-- **Facilidades**: Com anuência do fornecedor, a plataforma pode optar por emitir documentos fiscais e pagar o imposto centralizadamente, atuando como substituta tributária.
+São **responsáveis** pelo pagamento do IBS e CBS nas **operações realizadas por seu intermédio**.
 
-Art. 22. As plataformas digitais, ainda que domiciliadas no exterior, são responsáveis pelo pagamento do IBS e da CBS relativos às operações e importações realizadas por seu intermédio, nas seguintes hipóteses:
-I - **solidariamente com o adquirente ou destinatário e em substituição ao fornecedor**, caso este seja r**esidente ou domiciliado no exterior**; e
-II - **solidariamente com o fornecedor residente e domiciliado no País**, caso:
-- a) a plataforma digital não forneça as informações previstas no § 5º deste artigo; ou
-- b) o fornecedor:
-	1. seja contribuinte, ainda que não inscrito nos termos do § 1º do art. 21 desta Lei Complementar; e 
-	2. não emita documento fiscal eletrônico no valor da operação realizada por meio da plataforma.
+### Fornecedor no exterior
+
+- **responsável solidária** com o **adquirente**
+- **responsável substituta** do **fornecedor**.
+
+### Fornecedor no Brasil
+
+- **responsabilidade é solidária** se a plataforma ==não fornecer informações ao fisco== ou ==se o fornecedor não emitir documento fiscal eletrônico==.
+
+> 🚨 O fornecedor estrangeiro que opera **exclusivamente** por meio de **plataforma digital inscrita** no regime regular fica dispensado de inscrição própria.
+
+> 🚨 Mesmo **plataformas digitais estrangeiras** qualificadas pela lei, atuando em importações de bens e serviços, ficam sujeitas às obrigações tributárias previstas na LC 214/25.
 
 > [!note] Plataforma Digital
-> § 2º Não é considerada plataforma digital aquela que executa somente uma das seguintes atividades:
-> - I - fornecimento de acesso à internet;
-> - II -serviços de pagamentos prestados por instituições autorizadas a funcionar pelo Banco Central do Brasil;
-> - III - publicidade; ou
-> - IV - busca ou comparação de fornecedores, desde que não cobre pelo serviço com base nas vendas realizadas.
+> § 2º ==Não é considerada plataforma digital== aquela que executa somente uma das seguintes atividades:
+> - I - **fornecimento de acesso à internet**;
+> - II - **serviços de pagamentos** prestados por instituições autorizadas a funcionar pelo Banco Central do Brasil;
+> - III - **publicidade**; ou
+> - IV - **busca ou comparação** de fornecedores, ==desde que não cobre pelo serviço== com base nas vendas realizadas.
 
-§ 7º A plataforma digital ==não será responsável pelo pagamento de eventuais diferenças entre os valores de IBS e CBS recolhidos e aqueles devidos na operação pelo fornecedor residente e domiciliado no País caso==:
-- I - **seja possível realizar o split payment** na liquidação financeira da operação e a plataforma digital apresente as informações de que trata o § 6º deste artigo; e
-- II - a plataforma digital **apresente as informações de que trata o § 5º** deste artigo.
+### Afastamento da Responsabilidade das Plataformas
 
-§ 12. A plataforma digital poderá optar, com anuência do fornecedor residente ou domiciliado no País, observados os critérios estabelecidos no regulamento: I - por emitir documentos fiscais eletrônicos em nome do fornecedor, inclusive de forma consolidada; e II - por pagar o IBS e a CBS, com base no valor e nas demais informações da operação intermediada pela plataforma, mantida a obrigação do fornecedor em relação a eventuais diferenças. 
+| Hipótese                                          | Condições                                                                                                    | Efeito                                                                                                                       |
+| ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- |
+| **Ausência de controle dos elementos essenciais** | Apresentar as informações do §5º **e** as informações para segregação e recolhimento via split payment (§6º) | Não responde por eventuais diferenças entre os valores recolhidos e os devidos pelo fornecedor residente/domiciliado no País |
+| **Ausência de controle dos elementos essenciais** | Plataforma não controla nenhum dos elementos listados no §1º, inciso II                                      | Não há responsabilidade tributária (§11)                                                                                     |
 
-§ 13. A plataforma digital poderá optar, com anuência do fornecedor, na forma estabelecida em regulamento, por ser substituta tributária em relação às operações que intermediar de fornecedor residente ou domiciliado no País, hipótese na qual deverá: 
-I - emitir documentos fiscais eletrônicos relativos às operações do fornecedor substituído, inclusive de forma consolidada;
-II - apurar o IBS e a CBS decorrentes das mencionadas operações de acordo com o disposto nos incisos I ou II do § 10 deste artigo, conforme o caso; e III - pagar o IBS e a CBS com base no valor e nas demais informações da operação intermediada pela plataforma, mantida a obrigação do fornecedor em relação a eventuais diferenças. 
+### Substituição Tributária pelas Plataformas Digitais
 
-§ 14. Na hipótese da alínea “b” do inciso II do caput deste artigo, caso a plataforma emita o documento fiscal no prazo de 30 (trinta) dias contado da data em que o fornecedor deveria tê-lo emitido e pague o IBS e a CBS conforme regulamento, com base no valor e nas demais informações da operação por ela intermediada, os acréscimos de que trata o § 2º do art. 29 desta Lei Complementar e a penalidade por falta de emissão do documento fiscal serão exigidos exclusivamente do fornecedor.
+> 🚨 Com anuência do fornecedor, a plataforma pode optar por **emitir documentos fiscais e pagar o imposto centralizadamente**, atuando como substituta tributária.
 
-Art. 23. A plataforma digital, inclusive a domiciliada no exterior, deverá se inscrever no cadastro do IBS e da CBS no regime regular para fins de cumprimento do disposto no art. 22.
+Quando a plataforma for **solidariamente responsável** por ter o fornecedor nacional contribuinte deixado de emitir o documento fiscal (art. 22, II, ‘b’), poderá se ==exonerar dos acréscimos e da penalidade por falta de emissão== se **ela própria emitir o documento fiscal no prazo de 30 dias e pagar os tributos** — encargos esses que serão então exigidos exclusivamente do fornecedor.
 
 ---
 ## Responsáveis Solidários
 
-Além das plataformas digitais, a lei estabelece outros agentes como responsáveis solidários:
+São **solidariamente responsáveis** pelo pagamento do IBS e da CBS:
 
-- **Pessoas e entidades:** Que adquiram ou mantenham bens/serviços **sem documentação fiscal**.
-- **Transportadores:** Em relação a **bens sem documento fiscal idôneo** ou **entregues em local divergente do indicado**.
-- **Leiloeiros:** Pelos **tributos devidos nas operações realizadas em leilão**.
-- **Desenvolvedores de Software:** Que criem programas com funções destinadas a **descumprir a legislação tributária**.
-- **Pessoas que concorram para a fraude:** Incluindo ocultação de valores ou abuso da personalidade jurídica.
-- **Rerrefinadores e coletores:** Na aquisição de óleo lubrificante usado de contribuintes do regime regular
+- A pessoa ou entidade sem personalidade jurídica que adquire, importa, recebe, dá entrada ou saída ou mantém em depósito bem, ou toma serviço, **não acobertado por documento fiscal idôneo**;
+    
+- O **transportador** (inclusive empresa de serviço postal ou entrega expressa) em relação a:
+    - Bem transportado **desacobertado** de documento fiscal idôneo;
+    - Entrega de bem em **local distinto** daquele indicado no documento fiscal;
+        
+- O **leiloeiro**, pelo IBS e pela CBS devidos na operação realizada em leilão;
+    
+- Os **desenvolvedores ou fornecedores de programas ou aplicativos** utilizados para registro de operações com bens ou com serviços que contenham funções ou comandos inseridos com a finalidade de descumprir a legislação tributária;
+    
+- Qualquer pessoa física, jurídica ou entidade sem personalidade jurídica que **concorra por atos ou omissões para o descumprimento de obrigações tributárias**, por meio de:
+    - **Ocultação** da ocorrência ou do valor da operação; ou
+    - **Abuso da personalidade jurídica**, caracterizado pelo desvio de finalidade ou pela confusão patrimonial;
+        
+- O **entreposto aduaneiro**, recinto alfandegado ou estabelecimento a ele equiparado, o depositário ou o despachante, em relação ao bem:
+    - **Destinado para o exterior** ==sem documentação fiscal== correspondente;
+    - **Recebido para exportação** e ==não exportado==;
+    - **Destinado** a **pessoa diversa** daquela que o tiver importado ou arrematado;
+    - **Importado** e ==entregue sem a devida autorização== das administrações tributárias competentes;
+        
+- Os **rerrefinadores ou coletores autorizados pela ANP**, na aquisição de óleo lubrificante usado ou contaminado de contribuinte sujeito ao regime regular. Nesses casos, a emissão do documento fiscal eletrônico relativo à operação será efetuada pelos rerrefinadores ou coletores, podendo ocorrer de forma periódica.
+
+---
+## Não são Contribuintes
+
+
+
+| Não Contribuinte                              | Opção pelo Regime Regular    | Contribuinte se descumprir Art. 14 do CTN |
+| --------------------------------------------- | ---------------------------- | ----------------------------------------- |
+| **Condomínio edilício**                       | ✅ Sim                        | -                                         |
+| **Consórcio**                                 | ✅ Sim                        | -                                         |
+| **Sociedade em conta de participação (SCP)**  | ✅ Sim                        | -                                         |
+| **Nanoempreendedor**                          | ✅ Sim                        | -                                         |
+| **Produtor rural**                            | ✅ Sim                        | -                                         |
+| **Transportador autônomo de carga**           | ✅ Sim                        | -                                         |
+| **Fundos de investimento**                    | ⚠️ Irretratável (FII/Fiagro) | ❌ Não                                     |
+| **Fundos patrimoniais**                       | ❌ Não                        | ❌ Não                                     |
+| **Autogestão em saúde (sem fins lucrativos)** | ❌ Não                        | ✅ Sim                                     |
+| **Previdência complementar fechada**          | ❌ Não                        | ✅ Sim                                     |
+
+> [!note] Nanoempreendedor
+> Pessoa física com **receita bruta < 50% do limite do MEI** e que ==não tenha aderido a esse regime==.
+
+> 💡 **Art. 14 do CTN** — Requisitos cuja inobservância torna contribuintes as entidades dos incisos VIII e IX (**autogestão em saúde** e **previdência complementar fechada**):
+> - Não distribuir qualquer parcela de seu patrimônio ou rendas
+> - Aplicar integralmente no País os recursos na manutenção dos objetivos institucionais
+> - Manter escrituração de receitas e despesas em livros com formalidades que assegurem exatidão
+
+### Condomínio Edilício
+
+- **Com opção regime regular**: os **IBS e CBS incidirão sobre todas as taxas e demais valores cobrados**.
+- **Sem opção pelo regime regular e taxas condominiais < 80% da receita total**;
+	- a) Incidência sobre **operações com bens e serviços que realizar**
+	- b) Apropriação de **créditos** na **proporção da receita tributada** em relação à receita total
+
+### Fundos de Investimento
+
+| **Tipo de Fundo**                           | **Condição**                                                                          | **Resultado**                        |
+| :------------------------------------------ | :------------------------------------------------------------------------------------ | :----------------------------------- |
+| **FII / Fiagro com operações imobiliárias** | Atende aos requisitos de dispersão (Grupo A)                                          | **✅ Não contribuinte**               |
+| **FII / Fiagro com operações imobiliárias** | Não atende ao Grupo A, mas >95% das cotas detidas por cotistas qualificados (Grupo B) | **✅ Não contribuinte**               |
+| **FII / Fiagro com operações imobiliárias** | Não atende ao Grupo A nem ao Grupo B                                                  | **🚨 Contribuinte (regime regular)** |
+| **FII / Fiagro com operações imobiliárias** | Sujeito à tributação como PJ                                                          | **🚨 Contribuinte (regime regular)** |
+| **Demais fundos**                           | Patrimônio exclusivamente em ativos financeiros permitidos pela CVM                   | **✅ Não contribuinte**               |
+| **FIDC e demais fundos**                    | Liquidam antecipadamente recebíveis, sem ser entidade de investimento                 | **🚨 Contribuinte (regime regular)** |
+
+### Nanoempreendedor
+
+O **nanoempreendedor** é uma figura nova introduzida pela LC 214/25:
+- **Pessoa física**
+- **Receita bruta inferior a 50% do limite do MEI** (até R$ 40.500,00/ano)
+- Atividade **não vedada à configuração como MEI**
+
+**Regra Especial para Transporte e Entrega de Bens**
+
+Para fins de enquadramento como nanoempreendedor, será considerada como receita bruta da pessoa física **prestadora de serviço de transporte privado individual de passageiros ou de entrega de bens** — inclusive na hipótese em que houver **intermediação por plataformas digitais** — apenas **25% do valor bruto mensal recebido.**
+
+
+![[Pasted image 20260817193755.png]]
+
+
+### Produtor Rural e Transportador Autônomo de Carga
+
+O **produtor rural** e o **transportador autônomo de carga** podem fazer a opção pelo regime regular do IBS e da CBS.
+
+✅️ Se não fizerem a opção, a EC 132/23 autorizou a concessão de **crédito presumido ao contribuinte adquirente** de bens e serviços desses fornecedores.
+
