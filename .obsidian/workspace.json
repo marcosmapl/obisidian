@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0642c28906347e6b",
+        "id": "14e74621cc1a105d",
         "type": "tabs",
         "children": [
           {
-            "id": "ecc9e3da50778b02",
+            "id": "5152594ccca175cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/LC 227 2026/Do Controle Externo do CGIBS.md",
+                "file": "Concursos/Mat. Financeira/03 - Desconto Simples e Composto/Desconto Simples.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Do Controle Externo do CGIBS"
+              "title": "Desconto Simples"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 412.5026054382324
+    "width": 296.66926193237305
   },
   "right": {
     "id": "36b906953263c637",
@@ -181,6 +181,16 @@
             "id": "d717809c7d4d242a",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "32287c248470bd21",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -188,7 +198,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -208,37 +218,41 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ecc9e3da50778b02",
+  "active": "5152594ccca175cc",
   "lastOpenFiles": [
+    "Concursos/Mat. Financeira/03 - Desconto Simples e Composto/Valor Nominal.md",
+    "Concursos/Mat. Financeira/03 - Desconto Simples e Composto/Desconto Simples.md",
+    "Concursos/Mat. Financeira/03 - Desconto Simples e Composto/MOC — Desconto Simples e Composto.md",
+    "Concursos/Mat. Financeira/03 - Desconto Simples e Composto/Valor Atual.md",
+    "Concursos/Mat. Financeira/02 - Juros Compostos/MOC — Juros Composto.md",
+    "Concursos/Língua Portuguesa/09 - Colocação Pronominal/MOC — Colocação Pronominal.md",
+    "Concursos/Mat. Financeira/03 - Desconto Simples e Composto",
+    "Concursos/Língua Portuguesa/09 - Colocação Pronominal/Pronome Cuja.md",
+    "Concursos/Língua Portuguesa/09 - Colocação Pronominal/Pronome Lhes.md",
+    "Concursos/Língua Portuguesa/09 - Colocação Pronominal/Mesóclise.md",
+    "Concursos/Língua Portuguesa/09 - Colocação Pronominal/Ênclise.md",
+    "Concursos/Língua Portuguesa/09 - Colocação Pronominal/Próclise.md",
+    "Concursos/Língua Portuguesa/06 - Concordância/MOC — Concordância.md",
+    "Concursos/Língua Portuguesa/06 - Concordância/Concordância Palavra Nenhuma.md",
+    "Concursos/Língua Portuguesa/06 - Concordância/Concordância Partícula Se.md",
+    "Concursos/Língua Portuguesa/06 - Concordância/Concordância do Verbo Haver.md",
+    "Concursos/Direito/06 - Direito Civil/02 - Das Pessoas Naturais e Jurídicas/MOC — Das Pessoas Naturais e Jurídicas.md",
+    "Concursos/Direito/06 - Direito Civil/02 - Das Pessoas Naturais e Jurídicas/Pessoas Jurídicas.md",
+    "Concursos/Direito/06 - Direito Civil/MOC — Direito Civil.md",
+    "Concursos/Direito/07 - Direito Processual Civil/MOC — Direito Processual Civil.md",
+    "Concursos/Direito/09 - Direito Processual Penal/02 - Ação Penal/MOC — Ação Penal.md",
+    "Concursos/Direito/09 - Direito Processual Penal/99 - Jurisprudências/MOC — Jurisprudência.md",
+    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/LC 214 2025/Sujeição Passiva (IBS e CBS).md",
+    "Concursos/Direito/09 - Direito Processual Penal/02 - Ação Penal",
+    "Media/Pasted image 20260817193755.png",
+    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/LC 214 2025/MOC — LC 214 de 2025.md",
+    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/LC 214 2025/Disposições Preliminares.md",
+    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/LC 227 2026/Do Controle Externo do CGIBS.md",
     "Media/Pasted image 20260816163415.png",
     "Media/Pasted image 20260816163257.png",
     "Media/Pasted image 20260816162822.png",
     "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/LC 227 2026/MOC — LC 227 de 2026.md",
-    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/LC 227 2026/Do Controle Externo do CGIBS.md",
-    "Concursos/Direito/10 - Direito Tributário/13 - Simples Nacional/Resolução CGSN n140 2018.md",
-    "Concursos/Direito/10 - Direito Tributário/13 - Simples Nacional/MOC — Simples Nacional.md",
-    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/MOC — Reforma Tributária.md",
-    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/MOC — EC 132 de 2023.md",
-    "Concursos/Economia/06 - Macroeconômia/Produto Interno Bruto (PIB).md",
     "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/Resolução CGSN 140 2018",
-    "Concursos/Economia/06 - Macroeconômia/Identidades Macroeconômicas Fundamentais.md",
-    "Concursos/Economia/06 - Macroeconômia/Contas Nacionais.md",
-    "Concursos/Economia/06 - Macroeconômia/Fluxo Circular da Riqueza.md",
-    "Concursos/Economia/06 - Macroeconômia/MOC — Macroeconômia.md",
-    "Concursos/Economia/06 - Macroeconômia/Tipos de Mercado.md",
-    "Concursos/Economia/06 - Macroeconômia/Macroeconomia.md",
-    "Concursos/Economia/06 - Macroeconômia/Economia com Governo.md",
-    "Concursos/Economia/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais.md",
-    "Concursos/Economia/01 - Conceitos Fundamentais/Microeconomia.md",
-    "Concursos/Economia/06 - Macroeconômia/Contas Sociais.md",
-    "Concursos/Contabilidade Geral/11 - Demonstração dos Fluxos de Caixa (DFC)/Método Indireto (DFC).md",
-    "Concursos/Contabilidade Geral/12 - Demonstração do Valor Adicionado (DVA)/Demonstração do Valor Adicionado (DVA).md",
-    "Concursos/Contabilidade Geral/11 - Demonstração dos Fluxos de Caixa (DFC)/Demonstração dos Fluxos de Caixa (DFC).md",
-    "Concursos/Direito/07 - Direito Processual Civil/03 - Da Tutela Provisória/MOC — Da Tutela Provisória.md",
-    "Concursos/Direito/07 - Direito Processual Civil/03 - Da Tutela Provisória/Características da Tutela Provisória.md",
-    "Concursos/Direito/07 - Direito Processual Civil/03 - Da Tutela Provisória/Tutela de Evidência.md",
-    "Concursos/Direito/07 - Direito Processual Civil/03 - Da Tutela Provisória/Espécies de Tutela Provisória.md",
-    "Concursos/Direito/07 - Direito Processual Civil/03 - Da Tutela Provisória/Tutela de Evidência 1.md",
     "Media/Pasted image 20260815170753.png",
     "Media/Pasted image 20260815164616.png",
     "Media/Pasted image 20260815163004.png",

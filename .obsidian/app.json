@@ -2,9 +2,14 @@
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "Media",
   "promptDelete": false,
-  "readableLineLength": true,
+  "readableLineLength": false,
   "showLineNumber": false,
   "showIndentGuide": true,
   "foldIndent": true,
-  "propertiesInDocument": "visible"
+  "propertiesInDocument": "visible",
+  "rightToLeft": false,
+  "tabSize": 4,
+  "strictLineBreaks": false,
+  "showInlineTitle": false,
+  "foldHeading": true
 }

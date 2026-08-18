@@ -22,3 +22,4 @@ Para as de direito privado, começa com a **inscrição do ato constitutivo no r
 
 - Exige **abuso da personalidade**, caracterizado pelo **desvio de finalidade** (uso doloso para lesar credores/ilícitos) ou **confusão patrimonial** (ausência de separação de fato entre bens da empresa e sócios).
 - **Atenção:** A mera existência de grupo econômico ou a insolvência da pessoa jurídica **não autorizam**, por si só, a desconsideração.
+

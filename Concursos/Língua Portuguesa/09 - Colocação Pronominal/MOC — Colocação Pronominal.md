@@ -10,46 +10,67 @@ updated: 2026-02-12T15:30:00
 > [!info] Colocação Pronominal
 > Estuda a posição dos **pronomes oblíquos átonos** (me, te, se, o, a, lhe, nos, vos, os, as, lhes) em relação ao verbo.
 
+---
 ## Três Posições
 
-1. **Próclise**: pronome ANTES do verbo
+1. [[Próclise]]: pronome ANTES do verbo
    - Ex: Não **me** conte isso.
 
-2. **Ênclise**: pronome DEPOIS do verbo (hifenizado)
+1. [[Ênclise]]: pronome DEPOIS do verbo (hifenizado)
    - Ex: Contou**-me** tudo.
 
-3. **Mesóclise**: pronome NO MEIO do verbo (hifenizado)
+1. [[Mesóclise]]: pronome NO MEIO do verbo (hifenizado)
    - Ex: Contar**-me**-ia tudo.
-
----
-## Casos de Próclise (Fatores de Atração)
-
-1. Palavras negativas (não, nunca, jamais)
-2. Advérbios (sem vírgula)
-3. Pronomes relativos (que, qual, onde, etc.)
-4. Pronomes indefinidos (alguém, ninguém, tudo, etc.)
-5. Pronomes demonstrativos (isso, aquilo, etc.)
-6. Conjunções subordinativas (quando, se, embora, etc.)
-7. Orações exclamativas e optativas
-
-> [!tip] **CNA** da **PRII (Conjunções Subordinativas, Negativas, Pronomes Relativos, Indefinidos/Interrogativos)**
-
----
-## Casos de Ênclise
-
-1. Início de período (nunca próclise!)
-2. Após pausa (vírgula, ponto)
-3. Com verbo no imperativo afirmativo
-4. Com verbo no infinitivo não flexionado
-5. Com verbo no gerúndio (sem palavra atrativa)
-
----
-## Mesóclise
-
-- Obrigatória com futuro do presente e futuro do pretérito (sem palavra atrativa)
-- Ex: Far**-me**-ás feliz. / Fazer**-te**-ia feliz.
-
 
 > [!warning] Proibido!
 > NUNCA inicie frase com pronome oblíquo átono!
 
+- [[Pronome Lhes]]
+- [[Pronome Cuja]]
+
+---
+## 💡 BIZU FCC — Não escolha o pronome antes de descobrir a função!
+
+**Fera**, guarde esse passo a passo porque ele pode te salvar em muitas questões da FCC:
+
+### 1. Descubra a função do termo.
+
+Pergunte:
+
+> **Quem recebe?** → objeto indireto → **lhe/lhes**
+
+> **Quem sofre/recebe diretamente a ação?** → objeto direto → **o/a/os/as**
+
+Exemplo:
+
+> Entregou o documento **ao candidato**.
+
+- o documento → objeto direto → **o**
+- ao candidato → objeto indireto → **lhe**
+
+> Entregou-**lhe** o documento.
+
+### 2. Se houver ideia de posse, pense em **CUJO**
+
+> a vantagem **do método**
+
+⬇️
+
+> **cuja vantagem**
+
+🚨 E lembre:
+
+**CUJO concorda com a coisa possuída.**
+
+- método **cuja vantagem**
+- método **cujos benefícios**
+- teoria **cuja importância**
+- teorias **cujas aplicações**
+### 3. Se aparecer "que", "o qual", "onde", "quem" etc., procure o referente.
+
+Não escolha pelo "som bonito". Veja **o que o pronome está retomando**.
+
+- **onde** → lugar;
+- **quem** → pessoa;
+- **cujo** → relação de posse;
+- **que/o qual** → podem retomar coisas ou pessoas, conforme o contexto.
