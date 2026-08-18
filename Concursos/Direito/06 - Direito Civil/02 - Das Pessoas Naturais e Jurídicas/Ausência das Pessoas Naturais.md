@@ -4,20 +4,19 @@ tópico: Das Pessoas Naturais e Jurídicas
 created: 2026-08-02T09:34:00
 updated: 2026-08-02T09:35:00
 ---
-Procedimento de Ausência - casos em que não é possível presumir a morte da pessoa natural, que desaparece do seu domicílio
+
+Casos em que **não é possível presumir a morte da pessoa natural**, que desaparece do seu domicílio
 
 ## 1ª Fase - Curadoria dos bens do ausente
 
+Será declarada a ausência e nomeado curador pelo juiz:
+- **A requerimento de qualquer interessado ou do MP**, quando uma pessoa desaparecer do seu domicílio sem que dela haja notícia, sem deixar representante ou procurados a quem caiba administrar os bens;
+- Quando o ausente deixar mandatário que não queira ou não possa exercer ou continuar o mandado, ou se seus poderes forem insuficientes.
+
 ### Curador
-
-- será o **cônjuge do ausente**, desde que não esteja separado judicialmente, ou de fato por mais de 02 anos antes da declaração da ausência.
-- na falta do cônjuge - **pais ou descendentes (nesta ordem)**; entre os descendentes, os mais próximos têm preferência.
-- na falta das pessoas acima descritas, o **juiz escolhe**.
-
-- Será declarada a ausência e **nomeado curador pelo juiz**:
-    - **A requerimento de qualquer interessado ou do MP**, quando uma pessoa desaparecer do seu domicílio sem que dela haja notícia, sem deixar representante ou procurados a quem caiba administrar os bens;
-    - Quando o ausente deixar mandatário que não queira ou não possa exercer ou continuar o mandado, ou se seus poderes forem insuficientes.
-
+- será o **cônjuge** do ausente, desde que não esteja separado judicialmente, ou de fato por mais de 02 anos antes da declaração da ausência.
+- na falta do cônjuge - **pais ou descendentes** (nesta ordem); entre os **descendentes**, os **mais próximos têm preferência**
+- na falta das pessoas acima descritas, o **juiz escolhe**
 
 ---
 ## 2ª Fase - Sucessão Provisória
@@ -48,16 +47,6 @@ Procedimento de Ausência - casos em que não é possível presumir a morte da p
     - _os sub-rogados em seu lugar, ou_
     - _o preço que os herdeiros e demais interessados houverem recebido pelos bens alienados depois daquele tempo._
 
-### Sucessão Definitiva
 
-Após o trânsito em julgado da sentença que fez abertura da sucessão provisória, contam-se **dez anos**. Passado esse tempo, os **interessados podem requerer a abertura da sucessão definitiva** e, ao mesmo tempo, **podem requerer o levantamento daquelas garantias que foram feitas** por ocasião da etapa anterior.
-
-É exatamente nesse momento que o **ausente passa a ser presumidamente morto**.
-
-Se o **ausente sumiu quando já tinha mais de 80 anos**, essa contagem é encurtada para **cinco anos**.
-
-Depois de passado tanto tempo, ainda é possível que o ausente apareça. Se isso acontecer dentro de **dez anos após a abertura da sucessão definitiva**, **ele terá direito a pegar de volta os seus bens no estado em que se encontrarem**. Caso os bens não existam mais, o **ausente pode haver os bens substituídos ou o preço que os herdeiros porventura receberam pela venda dos bens**.
-
-Parágrafo único. Se, nos dez anos a que se refere este artigo, o ausente não regressar, e nenhum interessado promover a sucessão definitiva, os bens arrecadados passarão ao domínio do Município ou do Distrito Federal, se localizados nas respectivas circunscrições, incorporando-se ao domínio da União, quando situados em território federal.
 
 ![[Pasted image 20260719202633.png]]
