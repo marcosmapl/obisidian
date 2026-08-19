@@ -1,3 +1,5 @@
-## Fluxo Circular da Riqueza
+## Fluxo Circular da Renda
 
-![[Pasted image 20260813222116.png]]
+
+![[Pasted image 20260818194806.png]]
+
