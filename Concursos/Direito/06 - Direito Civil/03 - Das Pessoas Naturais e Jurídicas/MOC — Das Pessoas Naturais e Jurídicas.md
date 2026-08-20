@@ -12,3 +12,5 @@ updated: 2026-07-17T21:35:00
 - [[Pessoas Jurídicas]]
 - [[Domicílio das Pessoas Naturais e Jurídicas]]
 - [[Registro]]
+- [[Desconsideração da Personalidade]]
+

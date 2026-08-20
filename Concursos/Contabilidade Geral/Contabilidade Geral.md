@@ -24,23 +24,31 @@ updated: 2026-07-03T00:00:00
 
 ### 4. [[MOC — Balanço Patrimonial]]
 
-### 5. [[Concursos/Contabilidade Geral/05 - Ativo/MOC — Ativo]]
+### 5. [[MOC — Ativo]]
 
-### 6. [[Concursos/Contabilidade Geral/06 - Passivo/MOC — Passivo]]
+### 6. [[MOC — Passivo]]
 
-### 7. [[Concursos/Contabilidade Geral/07 - Patrimônio Líquido/MOC — Patrimônio Líquido]]
+### 7. [[MOC — Patrimônio Líquido]]
 
-### 8. [[Concursos/Contabilidade Geral/08 - Demonstração do Resultado do Exercício (DRE)/MOC — Demonstração do Resultado do Exercício (DRE)]]
+### 8. [[MOC — Demonstração do Resultado do Exercício (DRE)]]
 
-### 9. [[Concursos/Contabilidade Geral/09 - Demonstração de Lucros ou Prejuízos Acumulados (DLPA)/MOC — Demonstração de Lucros ou Prejuízos Acumulados (DLPA)]]
+### 9. [[MOC — Demonstração de Lucros ou Prejuízos Acumulados (DLPA)]]
 
-### 10. [[Concursos/Contabilidade Geral/10 - Demonstração das Mutações do Patrimônio Líquido (DMPL)/MOC — Demonstração das Mutações do Patrimônio Líquido (DMPL)]]
+### 10. [[MOC — Demonstração das Mutações do Patrimônio Líquido (DMPL)]]
 
-### 11. [[Concursos/Contabilidade Geral/11 - Demonstração dos Fluxos de Caixa (DFC)/MOC — Demonstração dos Fluxos de Caixa (DFC)]]
+### 11. [[MOC — Demonstração dos Fluxos de Caixa (DFC)]]
 
-### 12. [[Concursos/Contabilidade Geral/12 - Demonstração do Valor Adicionado (DVA)/MOC — Demonstração do Valor Adicionado (DVA)]]
+### 12. [[MOC — Demonstração do Valor Adicionado (DVA)]]
 
-### 13. [[Concursos/Contabilidade Geral/13 - Princípios Contábeis/MOC — Princípios Contábeis]]
+### 13. [[MOC — Princípios Contábeis]]
+
+### 14. [[MOC — CPC 00]]
+
+### 15. [[MOC — CPC 16]]
+
+### 16. [[MOC — CPC 12]]
+
+### 17. [[MOC — Análise das Demonstrações Contábeis]]
 
 ---
 ## Obrigatoriedade das DCs
