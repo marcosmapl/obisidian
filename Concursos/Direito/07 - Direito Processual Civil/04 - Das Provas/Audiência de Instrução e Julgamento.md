@@ -1,4 +1,14 @@
 
+## Eventos
+
+1. **Abertura**
+2. **Tentativa de Conciliação**
+3. **Instrução** (Partes e testemunhas)
+4. **Debates** (Advogados)
+5. **Decisão**
+6. **Documentação**
+
+---
 ## Ordem de Produção de Provas
 
 1. Colheitas de **provas periciais**
@@ -50,6 +60,11 @@ Art. 395. A confissão é, em regra, **indivisível**, não podendo a parte que 
 ## Debates
 
 Fase caracterizada pela **sustentação oral** das partes e dos interessados.
+1. **Parte autora**
+2. **Parte ré**
+3. **Ministério Público** (se houver)
+
+> **Prorrogação** por mais **10 minutos** se o juiz assim julgar necessário
 
 Art. 364. Finda a instrução, o juiz dará a **palavra ao advogado do autor e do réu**, bem como ao **membro do Ministério Público**, **se for o caso de sua intervenção**, **sucessivamente**, **pelo prazo de 20 (vinte) minutos para cada um**, **prorrogável por 10 (dez) minutos**, a **critério do juiz**.
 

@@ -4,7 +4,7 @@ A prova constitui um **instrumento para a formação do convencimento** do juiz 
 objeto da atuação jurisdicional.
 
 ---
-## PRINCÍPIO DA ATIPICIDADE DOS MEIOS DE PROVA
+## Princípio da Atipicidade dos Meios de Prova
 
 O princípio está insculpido no art. 369 do Código de Processo Civil e dispõe resumidamente que são admitidas todas as provas, desde que sejam legais e legítimas. Vejamos:
 
@@ -13,7 +13,7 @@ O princípio está insculpido no art. 369 do Código de Processo Civil e dispõe
 > Provas são abertas desde que sejam **legais** e **moralmente legítimas**
 
 ---
-## PODERES INSTRUTÓRIOS DO JUIZ
+## Poderes Instrutórios do Juiz
 
 O juiz tem o poder de determinar as provas que são necessárias ao julgamento do mérito, de ofício ou a requerimento.
 
@@ -32,6 +32,13 @@ _Art. 371. O juiz apreciará a prova constante dos autos, independentemente do s
 ## Princípio da comunhão da prova
 
 Entende-se que as **provas produzidas no processo são compartilhadas** entre as partes envolvidas
+
+---
+## Requisitos da Petição Inicial da Ação de Produção de Provas
+
+Art. 382, CPC:
+1. Indicação da **razão que justifica o pedido**.
+2. Indicação dos **fatos sobre os quais recairá a prova**.
 
 ---
 ## Provas Emprestadas
@@ -63,6 +70,8 @@ II - tornar **excessivamente difícil a uma parte o exercício do direito.**
 
 § 4º A convenção de que trata o § 3º **pode ser celebrada antes ou durante o processo.**
 
+![[Pasted image 20260825120656.png]]
+
 ---
 ## Fatos que não dependem de prova
 
@@ -74,16 +83,3 @@ II - **afirmados por uma parte** e **confessados pela parte contrária**;
 III - admitidos no processo como **incontroversos**;
 IV - em cujo favor milita **presunção legal de existência ou de veracidade**.
 
----
-## Produção Antecipada de Provas
-
-Art. 381. A produção antecipada da prova será **admitida** nos casos em que:
-I - haja fundado receio de que venha a tornar-se **impossível ou muito difícil** a verificação de certos fatos na pendência da ação;
-II - a prova a ser produzida seja **suscetível de viabilizar a autocomposição ou outro meio adequado de solução de conflito**;
-III - o prévio conhecimento dos fatos **possa justificar ou evitar o ajuizamento de ação**.
-
-§ 2º A produção antecipada da prova é da competência do juízo do **foro onde esta deva ser produzida** ou do **foro de domicílio do réu**.
-
-§ 3º A produção antecipada da prova ==não previne a competência do juízo== para a ação que venha a ser proposta.
-
-§ 4º Neste procedimento, ==não se admitirá defesa ou recurso==, salvo contra decisão que **indeferir totalmente a produção da prova pleiteada pelo requerente originário**.

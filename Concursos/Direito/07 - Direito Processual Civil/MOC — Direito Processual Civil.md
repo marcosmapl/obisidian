@@ -32,7 +32,7 @@ updated: 2025-12-23T00:00:00
 
 ### Fases do Processo Civil
 
-1. **Postulatória** — Apresentação das pretensões
+1. **Abertura** — Apresentação das pretensões
 2. **Instrução** — Produção de provas
 3. **Julgamento** — Decisão da causa
 4. **Execução** — Cumprimento da sentença
