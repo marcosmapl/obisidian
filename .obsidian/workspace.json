@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Direito/04 - Direito Constitucional/02 - Princípios Fundamentais/Objetivos Fundamentais da República.md",
+                "file": "Concursos/Estatística/02 - Estatística Descritiva/Variância.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Objetivos Fundamentais da República"
+              "title": "Variância"
             }
           }
         ]
@@ -221,6 +221,16 @@
             "id": "0e4d0b38bf40bc2b",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "1d57399649f8407f",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -228,7 +238,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "horizontal",
@@ -250,6 +260,8 @@
   },
   "active": "5152594ccca175cc",
   "lastOpenFiles": [
+    "Concursos/Contabilidade Geral/16 - CPC 12 (Ajuste a Valor Presente)/MOC — CPC 12.md",
+    "Concursos/Direito/04 - Direito Constitucional/02 - Princípios Fundamentais/Objetivos Fundamentais da República.md",
     "Concursos/Direito/04 - Direito Constitucional/02 - Princípios Fundamentais/Fundamentos da República.md",
     "Concursos/Direito/06 - Direito Civil/03 - Das Pessoas Naturais e Jurídicas/Desconsideração da Personalidade.md",
     "Concursos/Direito/06 - Direito Civil/03 - Das Pessoas Naturais e Jurídicas/MOC — Das Pessoas Naturais e Jurídicas.md",
@@ -269,7 +281,6 @@
     "Concursos/Contabilidade Geral/17 - Análise das Demonstrações Contábeis/Margem Líquida (ML).md",
     "Concursos/Contabilidade Geral/17 - Análise das Demonstrações Contábeis/Margem Operacional (MO).md",
     "Concursos/Contabilidade Geral/Contabilidade Geral.md",
-    "Concursos/Contabilidade Geral/16 - CPC 12 (Ajuste a Valor Presente)/MOC — CPC 12.md",
     "Concursos/Direito/07 - Direito Processual Civil/04 - Das Provas/Audiência de Instrução e Julgamento.md",
     "Concursos/Contabilidade Geral/17 - Análise das Demonstrações Contábeis",
     "Concursos/Sem título",
@@ -279,7 +290,6 @@
     "Concursos/Direito/07 - Direito Processual Civil/MOC — Direito Processual Civil.md",
     "Concursos/Direito/07 - Direito Processual Civil/04 - Das Provas",
     "Concursos/Direito/06 - Direito Civil/07 - Negócios Jurídicos/Prescrição.md",
-    "Concursos/Direito/06 - Direito Civil/07 - Negócios Jurídicos/MOC — Negócios Jurídicos.md",
     "Concursos/Direito/06 - Direito Civil/07 - Negócios Jurídicos",
     "Media/Pasted image 20260819163339.png",
     "Media/Pasted image 20260819163337.png",
