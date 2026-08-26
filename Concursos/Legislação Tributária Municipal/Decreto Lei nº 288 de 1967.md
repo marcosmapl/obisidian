@@ -5,39 +5,26 @@ created: 2026-08-08T20:41:00
 updated: 2026-08-08T20:41:00
 ---
 
-## Ato das Disposições Constitucionais Transitórias
 
-> [!note] CF88, Art. 40
-> É mantida a Zona Franca de Manaus, com suas **características de área livre de comércio, de exportação e importação, e de incentivos fiscais**, pelo prazo de **vinte e cinco anos** (2013), a partir da promulgação da Constituição.
-
-> [!note] CF88, Art. 92.
-> São acrescidos **dez anos ao prazo fixado no art. 40** (2023) deste Ato das Disposições Constitucionais Transitórias. (EC no  42/2003)
-
-> [!note] CF88, Art. 92-A. 
-> São acrescidos **50 (cinquenta) anos ao prazo fixado pelo art. 92** (2073) deste Ato das Disposições Constitucionais Transitórias. (EC no  83/2014)
-
-> [!note] CF88, Art. 126. 
-> III o imposto previsto no art. 153, IV:
-> - a) terá suas **alíquotas reduzidas a zero**, ==exceto em relação aos produtos que tenham industrialização incentivada na Zona Franca de Manaus==, conforme critérios estabelecidos em lei complementar; e
-
----
-## Decreto Lei nº 288 de 1967
-
-### Das Finalidades e Localização
+## Das Finalidades e Localização
 
 > [!note] Zona Franca de Manaus
 > Área de l**ivre comércio de importação e exportação** e de **incentivos fiscais especiais**, estabelecida com a **finalidade de criar no interior da Amazônia um centro industrial, comercial e agropecuário** dotado de condições econômicas que permitam seu **desenvolvimento**, em face dos fatores locais e da grande distância, a que se encontram, os centros consumidores de seus produtos.
 
-O **Poder Executivo** fará a demarcação:
-- **margem esquerda dos rios Negro e Amazonas**
-- área contínua com uma superfície mínima de **dez mil quilômetros quadrados** (**incluindo a cidade de Manaus e arredores**).
-- comprimento máximo de **50 quilômetros a juzante** de Manaus e **70 quilômetros a montante** desta cidade.
-- Faixa da superfície dos **rios adjacentes à ZFM**, nas **proximidades do pôrto ou portos** desta, considera-se nela integrada, na **extensão mínima de 300 metros a contar da margem**.
+![[Pasted image 20260825212600.png]]
 
 > [!info] Alteração na Área da ZFM
 > **Decreto do Poder Executivo**, mediante **proposta da Superintendência da Zona Franca**, **aprovada pelo Ministério do Interior**.
 
-### Dos Incentivos Fiscais
+- Criação de centro industrial, comercial e agropecuário
+- Desenvolvimento do Interior da Amazônia
+- Superfície mínima de 10 mil km2
+- Marquem esquerda dos rios Negro e Amazonas
+
+---
+## Dos Incentivos Fiscais
+
+### Importações
 
 Mercadorias Estrangeiras destinadas:
 - **Consumo interno** → produtos que serão consumidos dentro da Zona Franca;
@@ -51,10 +38,11 @@ Mercadorias Estrangeiras destinadas:
 
 > [!important] São **isentas** do **II** e do **IPI**
 
-#### 🚫 Produtos que ficam fora da isenção
+> Indústria Automobilística possui um acréscimo de 5% ao coeficiente de redução do Imposto de Importação
 
-A regra exclui:
+![[Pasted image 20260825213834.png]]
 
+🚫 Exceções
 1. **Armas e munições**
 2. **Fumo** (cigarros, tabaco etc.)
 3. **Bebidas alcoólicas**
@@ -65,18 +53,26 @@ A regra exclui:
 8. **Produtos de perfumaria e de toucador**
 9. **Preparados e preparações cosméticas**
 
-Portanto, se uma empresa importar, por exemplo, **bebida alcoólica estrangeira para a Zona Franca**, não pode simplesmente aplicar a isenção do caput.
+![[Pasted image 20260825213910.png]]
 
-#### Exportações
+### Exportações
 
 Exportação de **mercadorias de origem nacional** para **consumo** ou **industrialização** na ZFM, ou **reexportação** para estrangeiro, são **tratadas como exportação brasileira para o estrangeiro** (permite regras mais vantajosas de  tributação)
 
 > [!important] Exportação para o Estrangeiro
 > A **exportação de mercadorias da Zona Franca para o estrangeiro**, qualquer que seja sua origem, está isenta do **IE**.
 
-Mercadorias de **origem estrangeira estocadas na ZFM**, ao ==saírem== desta para a **comercialização em qualquer ponto do território nacional**, ficam sujeitas ao pagamento de todos os **impostos de uma importação do exterior**.
+---
+## Internamento de mercadorias estrangeiras estocadas
 
-**Coeficiente de Redução do Imposto**
+_Art. 6º_
+
+As **mercadorias de origem estrangeira estocadas** na ZFM, quando dela saírem para **comercialização em qualquer ponto do território nacional**, ficam sujeitas ao **pagamento de todos os impostos de uma importação do exterior**, salvo nos casos de **isenção prevista em legislação específica**.
+
+⚠️ A lógica é a do **território aduaneiro especial**: enquanto a mercadoria permanece na ZFM, o ingresso é desonerado; ao ser internada no restante do País, a tributação da importação é exigida como se a entrada ocorresse naquele momento.
+
+---
+## Coeficiente de Redução do II
 
 $$ CR_{imposto} = \frac{ Insumos_{nacionais} + MaoDeObra }{ Insumos_{nacionais} + Insumos_{estrangeiros} + MaoDeObra  } $$
 
@@ -85,8 +81,8 @@ O coeficiente representa, essencialmente, **quanto do processo produtivo é comp
 ==Exceções à redução==: Bens de **informática** e a **maioria dos veículos** (exceto motos, triciclos e quadriciclos) não gozam dessa redução baseada na fórmula.
 
 **Bônus**: 
-- Para **veículos terrestres** que não sejam motos, o **coeficiente de redução é acrescido de 5 pontos percentuais**.
-- Produtos de **tecnologia da informação e comunicação** com reconhecimento de **tecnologia desenvolvida no País**, o **coeficiente de redução é acrescido de 10 pontos percentuais**.
+- Para **veículos terrestres** que não sejam motos, o **coeficiente de redução é acrescido de 5% (cinco pontos percentuais)**.
+- Produtos de **tecnologia da informação e comunicação** com reconhecimento de **tecnologia desenvolvida no País**, o **coeficiente de redução é acrescido de 10% (dez pontos percentuais)**.
 
 #### Processo
 
@@ -95,7 +91,9 @@ O coeficiente representa, essencialmente, **quanto do processo produtivo é comp
 
 > [!important] Redução do **II** ==somente será deferida a produtos industrializados previstos em projetos aprovado== pelo Conselho de Administração da SUFRAMA (CONFRAMA)
 
-### Da Administração da Zona Franca
+
+---
+## Da Administração da Zona Franca
 
 #### 1. Natureza Jurídica e Sede
 
@@ -146,7 +144,8 @@ Este é um tópico frequente em provas devido aos detalhes de composição.
     - O **Superintendente** recebe **20% a mais** do que o maior salário pago aos servidores da autarquia.
     - O **Secretário Executivo** recebe **10% a mais** do que o maior salário pago aos servidores.
 
-### Dos recursos e regime financeiro e contábil
+---
+## Dos recursos e regime financeiro e contábil
 
 **1. Fontes de Recursos da SUFRAMA (Art. 20)**
 
@@ -184,7 +183,7 @@ Constituem receitas da autarquia:
 **6. Alienação de Bens e Dispensa de Licitação (Art. 29 e 30)**
 
 - **Alienação:** Bens móveis e imóveis podem ser vendidos mediante proposta do Superintendente e aprovação do Conselho, mas a venda de **imóveis** exige autorização do Ministro do Interior.
-- **Dispensa de Licitação (Ponto de Prova):** O Superintendente pode dispensar licitação e contrato formal para compras, serviços, obras ou locações até o valor de **500 vezes** o maior salário-mínimo do país.
+- **Dispensa de Licitação (Ponto de Prova):** O **Superintendente** pode **dispensar licitação e contrato formal** para compras, serviços, obras ou locações até o **valor de 500 vezes o maior salário-mínimo do país**.
 
 **7. Prerrogativas Jurídicas e Fiscais (Art. 32 e 33)**
 
@@ -195,7 +194,8 @@ A SUFRAMA goza dos mesmos privilégios da **Fazenda Pública**, o que inclui:
 - Uso de ações especiais, juros e custas processuais reduzidas.
 - **Isenção Tributária:** Possui todas as isenções tributárias conferidas aos órgãos e serviços da União
 
-### Das Disposições Gerais e Transitórias
+---
+## Das Disposições Gerais e Transitórias
 
 **1. Planejamento e Prioridade (Art. 36)**
 
