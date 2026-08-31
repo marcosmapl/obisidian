@@ -23,7 +23,7 @@ updated: 2026-05-15T15:45:00
 8. [[MOC — Poder Executivo]]
 9. [[MOC — Poder Judiciário]]
 10. [[MOC — Funções Essenciais à Justiça]]
-11. [[MOC — Controle de Constitucionalidade]]
+11. [[Concursos/Direito/02 - Teoria da Norma Jurídica/11 - Controle de Constitucionalidade/MOC — Controle de Constitucionalidade]]
 12. [[MOC — Intervenção Federal e Estadual]]
 13. [[MOC — Defesa do Estado e Instituições Democráticas]]
 14. [[MOC — Ordem Social]]

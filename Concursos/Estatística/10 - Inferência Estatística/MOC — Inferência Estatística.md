@@ -13,7 +13,7 @@ updated: 2026-06-03T09:23:20
 - [[Estimação de Parâmetros]]
 - [[Estimadores]]
 - [[Propriedades dos Estimadores]]
-- [[Intervalos de Confiança]]
+- [[Intervalos de Confiança para Média]]
 - [[Intervalo de Confiança para Média]]
 - [[Intervalo de Confiança para Proporção]]
 - [[Intervalo de Confiança para Variância]]

@@ -62,7 +62,7 @@ Distribuições discretas (Binomial, Poisson) e contínuas (Normal, t, χ², F).
 ### 06 — [[Concursos/Estatística/06 - Amostragem/MOC — Amostragem|MOC — Amostragem]]
 Técnicas de amostragem, distribuição amostral e teorema central do limite.
 
-### 07 — [[Concursos/Estatística/07 - Inferência Estatística/MOC — Inferência Estatística|MOC — Inferência Estatística]]
+### 07 — [[MOC — Inferência Estatística|MOC — Inferência Estatística]]
 Estimação de parâmetros, intervalos de confiança e testes de hipóteses.
 
 ### 08 — [[Concursos/Estatística/08 - Números-Índices/MOC — Números-Índices|MOC — Números-Índices]]
