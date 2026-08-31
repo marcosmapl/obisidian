@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "14e74621cc1a105d",
+        "id": "b1bf2e2d2f083ee8",
         "type": "tabs",
         "children": [
           {
-            "id": "5152594ccca175cc",
+            "id": "838f2c6de974d70d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concursos/Direito/07 - Direito Processual Civil/06 - Das Sentença e Da Coisa Julgada/Coisa Julgada.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Coisa Julgada"
+              "title": "Nova aba"
             }
           }
         ]
@@ -251,6 +247,16 @@
             "id": "573a5b6d9c5926aa",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "14991651940179f1",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -258,7 +264,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "horizontal",
@@ -278,20 +284,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5152594ccca175cc",
+  "active": "838f2c6de974d70d",
   "lastOpenFiles": [
-    "Concursos/Direito/07 - Direito Processual Civil/06 - Das Sentença e Da Coisa Julgada/Disposições Gerais - Sentença.md",
+    "Concursos/Direito/08 - Direito Penal/05 - Crimes contra as Finanças Públicas/MOC — Crimes contra as Finanças Públicas.md",
+    "Concursos/Direito/08 - Direito Penal/MOC — Direito Penal.md",
+    "Concursos/Direito/08 - Direito Penal/04 - Crimes contra a Fé Pública/Falsidade Documental.md",
+    "Concursos/Direito/08 - Direito Penal/05 - Crimes contra as Finanças Públicas",
+    "Concursos/Direito/08 - Direito Penal/04 - Crimes contra a Fé Pública/Falsidade de Títulos e outros Papéis Públicos.md",
+    "Concursos/Direito/08 - Direito Penal/04 - Crimes contra a Fé Pública/Moeda Falsa.md",
+    "Concursos/Direito/08 - Direito Penal/04 - Crime/MOC — Crime.md",
+    "Concursos/Direito/08 - Direito Penal/04 - Crime/Acordo de Não Persecução Penal (ANPP).md",
+    "Concursos/Direito/08 - Direito Penal/04 - Crime/Suspensão Condicional do Processo (SCP).md",
+    "Concursos/Direito/08 - Direito Penal/04 - Crime/Crime.md",
+    "Concursos/Direito/08 - Direito Penal/04 - Crime/Regime Semiaberto.md",
+    "Concursos/Direito/08 - Direito Penal/04 - Crime/Regime Aberto.md",
+    "Concursos/Direito/08 - Direito Penal/04 - Crime/Regime Fechado.md",
     "Concursos/Direito/07 - Direito Processual Civil/06 - Das Sentença e Da Coisa Julgada/Coisa Julgada.md",
+    "Concursos/Direito/07 - Direito Processual Civil/06 - Das Sentença e Da Coisa Julgada/Disposições Gerais - Sentença.md",
     "Concursos/Direito/07 - Direito Processual Civil/06 - Das Sentença e Da Coisa Julgada/MOC — Da Sentença e Da Coisa Julgada.md",
     "Concursos/Direito/07 - Direito Processual Civil/06 - Das Sentença e Da Coisa Julgada/Remessa Necessária.md",
     "Concursos/Direito/07 - Direito Processual Civil/06 - Das Sentença e Da Coisa Julgada/Elementos e efeitos da sentença.md",
     "Concursos/Direito/07 - Direito Processual Civil/06 - Das Sentença e Da Coisa Julgada/Alteração de Sentença.md",
     "Concursos/Direito/07 - Direito Processual Civil/04 - Das Provas/MOC — Das Provas.md",
-    "Concursos/Direito/08 - Direito Penal/04 - Crimes contra a Fé Pública/Falsidade Documental.md",
     "Concursos/Direito/07 - Direito Processual Civil/06 - Das Sentença e Da Coisa Julgada",
     "Concursos/Direito/08 - Direito Penal/04 - Crimes contra a Fé Pública/MOC — Dos Crimes contra a Fé Pública.md",
-    "Concursos/Direito/08 - Direito Penal/04 - Crimes contra a Fé Pública/Falsidade de Títulos e outros Papéis Públicos.md",
-    "Concursos/Direito/08 - Direito Penal/04 - Crimes contra a Fé Pública/Moeda Falsa.md",
     "Concursos/Direito/08 - Direito Penal/03 - Lei Penal/MOC — Lei Penal.md",
     "Concursos/Direito/04 - Direito Constitucional/17 - Controle de Constitucionalidade/Legitimidade contra Súmulas Vinculates.md",
     "Concursos/Direito/08 - Direito Penal/04 - Crimes contra a Fé Pública",
@@ -299,19 +315,10 @@
     "Concursos/Direito/04 - Direito Constitucional/17 - Controle de Constitucionalidade/Legitimidade para propor ADI e ADC.md",
     "Concursos/Direito/04 - Direito Constitucional/05 - Organização do Estado/Bens da União.md",
     "Concursos/Direito/04 - Direito Constitucional/05 - Organização do Estado/MOC — Organização do Estado.md",
-    "Concursos/Direito/04 - Direito Constitucional/05 - Organização do Estado/Organização Político-Administrativa.md",
     "Media/Pasted image 20260829211813.png",
     "Media/Pasted image 20260829211637.png",
-    "Concursos/Direito/04 - Direito Constitucional/MOC — Direito Constitucional.md",
     "Concursos/Direito/04 - Direito Constitucional/17 - Controle de Constitucionalidade",
-    "Concursos/Estatística/08 - Intervalos de Confiança/Intervalos de Confiança para Proporções.md",
-    "Concursos/Estatística/08 - Intervalos de Confiança/Intervalos de Confiança para Média.md",
-    "Concursos/Estatística/08 - Intervalos de Confiança/MOC — Intervalos de Confiança.md",
-    "Concursos/Estatística/07 - Estimadores/MOC — Estimadores.md",
     "Concursos/Estatística/08 - Intervalos de Confiança",
-    "Concursos/Estatística/07 - Estimadores/Distribuição Amostral da Variância.md",
-    "Concursos/Estatística/07 - Estimadores/Distribuição Amostral da Proporção.md",
-    "Concursos/Estatística/07 - Estimadores/Distribuição Amostral da Média.md",
     "Concursos/Estatística/07 - Estimadores",
     "Media/Pasted image 20260825213910.png",
     "Media/Pasted image 20260825213834.png",
@@ -324,7 +331,6 @@
     "Media/Pasted image 20260819163339.png",
     "Media/Pasted image 20260819163337.png",
     "Media/Pasted image 20260819162533.png",
-    "Media/Pasted image 20260819154828.png",
-    "Concursos/Direito/06 - Direito Civil/04 - Da Sociedade"
+    "Media/Pasted image 20260819154828.png"
   ]
 }

@@ -1,8 +1,8 @@
 
-- Dentre as condutas apontadas, estão as seguintes:
-    - **Falsificação de selo ou sinal público (art. 296):** Como **características**, **segue, basicamente, o que já vimos em diversas outras condutas:**
-        - **O sujeito ativo** pode ser qualquer pessoa e o **passivo**, a sociedade ou terceiro que se sinta lesado.
-        - O **tipo subjetivo** é doloso, **não admitindo forma culposa.**
+Dentre as condutas apontadas, estão as seguintes:
+- **Falsificação de selo ou sinal público (art. 296):** Como **características**, **segue, basicamente, o que já vimos em diversas outras condutas:**
+	- **O sujeito ativo** pode ser qualquer pessoa e o **passivo**, a sociedade ou terceiro que se sinta lesado.
+	- O **tipo subjetivo** é doloso, **não admitindo forma culposa.**
 
 ⇒ A observação a ser feita fica a cargo do § 2º que estabelece **aumento de pena de 1/6** quando quem pratica a conduta é **funcionário público.**
 
@@ -13,12 +13,6 @@
         - _**Ações de sociedade comercial;**_
         - _**Testamento particular**_
 
-🚨É importante dizer que esse **rol é TAXATIVO**. Nesse caso, **não se pode usar de analogia para ampliá-lo**, uma vez que **o crime de falsidade de documento público é mais grave**. Caso isso aconteça, será vedado no Direito Penal, **pois não admite analogia _in malam partem._**
-
-A doutrina faz a seguinte **distinção entre documento público:**
-
-- **SENTIDO FORMAL E MATERIAL - SUBSTANCIAL:** nesse caso, **tanto a forma, quanto o conteúdo são públicos**, isto é, emanado por Órgão Público com atos praticados pelo Poder Público.
-- **SENTIDO FORMAL (APENAS):** por sua vez, são atos cuja **forma é pública**, mas o **conteúdo é de dimensão particular. (Ex.: compra e venda de imóvel).**
 
 **🧐 Importante**: o **§ único,** que **equiparou ao documento particular o cartão de crédito ou débito.**
 

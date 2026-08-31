@@ -1,5 +1,18 @@
 
-- O **sujeito ativo** pode ser **qualquer pessoa**, ou seja, crime comum. **O sujeito passivo**, por sua vez, é a **coletividade** ou **aquele afetado** pela conduta.
+> [!info] Art. 293, CPP
+> Falsificar, fabricando-os ou alterando-os:
+> - I - **selo destinado a controle tributário**, **papel selado** ou **qualquer papel de emissão legal destinado à arrecadação de tributo**;
+> - II - **papel de crédito público** que ==não seja moeda de curso legal==; 
+> - III - **vale postal**; 
+> - IV - **cautela de penhor**, **caderneta de depósito** de caixa econômica ou de outro estabelecimento mantido por entidade de direito público; 
+> - V - **talão**, **recibo**, **guia**, **alvará** ou **qualquer outro documento relativo a arrecadação de rendas públicas** ou a **depósito** ou **caução** por que o poder público seja responsável; 
+> - VI - **bilhete**, **passe** ou **conhecimento de empresa de transporte administrada pela União, por Estado ou por Município**
+> 
+> Pena - **reclusão**, de **dois a oito anos**, e **multa**.
+
+
+- O **sujeito ativo** pode ser **qualquer pessoa**, ou seja, crime comum. 
+- **O sujeito passivo**, por sua vez, é a **coletividade** ou **aquele afetado** pela conduta.
 - Quanto ao **tipo subjetivo**, trata-se de crime **doloso**, não cabendo a forma **culposa**.
 - O citado artigo estabelece **penas distintas a depender da conduta**. Desse modo, veja como se dá a pena para cada tipo estabelecido:
     - **Falsificar**, fabricando-os ou alterando-os e incorre na mesma pena quem usa, guarda, detém, importa, exporta, adquire, vende, troca, fornece, assim como aquele que utiliza em proveito próprio ou alheio (art. 293 e § 1º do PC):

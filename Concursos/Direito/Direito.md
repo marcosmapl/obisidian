@@ -27,7 +27,7 @@ updated: 2025-12-29T19:51:00
 
 ### 7. [[MOC — Direito Processual Civil]]
 
-### 8. [[MOC — Direito Penal]]
+### 8. [[Concursos/Direito/08 - Direito Penal/MOC — Direito Penal]]
 
 ### 9. [[MOC — Direito Processual Penal]]
 
