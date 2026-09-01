@@ -11,10 +11,14 @@
             "id": "838f2c6de974d70d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Ação Penal Privada.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Ação Penal Privada"
             }
           }
         ]
@@ -257,6 +261,16 @@
             "id": "14991651940179f1",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "fce82de87c23b6f4",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -264,7 +278,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "horizontal",
@@ -286,6 +300,15 @@
   },
   "active": "838f2c6de974d70d",
   "lastOpenFiles": [
+    "Concursos/Direito/09 - Direito Processual Penal/02 - Ação Penal/MOC — Ação Penal.md",
+    "Ação Penal Privada.md",
+    "Concursos/Direito/09 - Direito Processual Penal/02 - Ação Penal/Ação Penal Pública.md",
+    "Ação Penal Pública Condicionada.md",
+    "Ação Penal Pública Incondicionada.md",
+    "Concursos/Direito/09 - Direito Processual Penal/02 - Ação Penal/Disposições Gerais.md",
+    "Concursos/Direito/09 - Direito Processual Penal/02 - Ação Penal/A Ordem de Vocação Hereditária (CADI).md",
+    "Concursos/Direito/09 - Direito Processual Penal/02 - Ação Penal/Espécies de Ação Penal.md",
+    "Media/Pasted image 20260901154535.png",
     "Concursos/Direito/08 - Direito Penal/05 - Crimes contra as Finanças Públicas/MOC — Crimes contra as Finanças Públicas.md",
     "Concursos/Direito/08 - Direito Penal/MOC — Direito Penal.md",
     "Concursos/Direito/08 - Direito Penal/04 - Crimes contra a Fé Pública/Falsidade Documental.md",
@@ -305,16 +328,8 @@
     "Concursos/Direito/07 - Direito Processual Civil/06 - Das Sentença e Da Coisa Julgada/Remessa Necessária.md",
     "Concursos/Direito/07 - Direito Processual Civil/06 - Das Sentença e Da Coisa Julgada/Elementos e efeitos da sentença.md",
     "Concursos/Direito/07 - Direito Processual Civil/06 - Das Sentença e Da Coisa Julgada/Alteração de Sentença.md",
-    "Concursos/Direito/07 - Direito Processual Civil/04 - Das Provas/MOC — Das Provas.md",
     "Concursos/Direito/07 - Direito Processual Civil/06 - Das Sentença e Da Coisa Julgada",
-    "Concursos/Direito/08 - Direito Penal/04 - Crimes contra a Fé Pública/MOC — Dos Crimes contra a Fé Pública.md",
-    "Concursos/Direito/08 - Direito Penal/03 - Lei Penal/MOC — Lei Penal.md",
-    "Concursos/Direito/04 - Direito Constitucional/17 - Controle de Constitucionalidade/Legitimidade contra Súmulas Vinculates.md",
     "Concursos/Direito/08 - Direito Penal/04 - Crimes contra a Fé Pública",
-    "Concursos/Direito/04 - Direito Constitucional/17 - Controle de Constitucionalidade/MOC — Controle de Constitucionalidade.md",
-    "Concursos/Direito/04 - Direito Constitucional/17 - Controle de Constitucionalidade/Legitimidade para propor ADI e ADC.md",
-    "Concursos/Direito/04 - Direito Constitucional/05 - Organização do Estado/Bens da União.md",
-    "Concursos/Direito/04 - Direito Constitucional/05 - Organização do Estado/MOC — Organização do Estado.md",
     "Media/Pasted image 20260829211813.png",
     "Media/Pasted image 20260829211637.png",
     "Concursos/Direito/04 - Direito Constitucional/17 - Controle de Constitucionalidade",
@@ -330,7 +345,6 @@
     "Concursos/Direito/06 - Direito Civil/07 - Negócios Jurídicos",
     "Media/Pasted image 20260819163339.png",
     "Media/Pasted image 20260819163337.png",
-    "Media/Pasted image 20260819162533.png",
-    "Media/Pasted image 20260819154828.png"
+    "Media/Pasted image 20260819162533.png"
   ]
 }
