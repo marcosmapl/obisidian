@@ -1,5 +1,5 @@
 
-Art. 1º - Ficam estendidos às **áreas pioneiras**, **zonas de fronteira** e outras localidades da **Amazônia Ocidental** **favores fiscais concedidos** pelo [[Decreto Lei nº 288 de 1967]] e seu regulamento, aos bens e mercadorias recebidos, oriundos, beneficiados ou fabricados na Zona Franca de Manaus, para utilização e consumo interno naquelas áreas.
+Art. 1º - Ficam estendidos às **áreas pioneiras**, **zonas de fronteira** e outras localidades da **Amazônia Ocidental** **favores fiscais concedidos** pelo [[Decreto Lei nº 288 de 1967 (ZFM)]] e seu regulamento, aos bens e mercadorias recebidos, oriundos, beneficiados ou fabricados na Zona Franca de Manaus, para utilização e consumo interno naquelas áreas.
 
 Com base no Art. 1º e seu § 1º, a **Amazônia Ocidental** é definida geograficamente pela união dos seguintes entes:
 - **Amazonas**

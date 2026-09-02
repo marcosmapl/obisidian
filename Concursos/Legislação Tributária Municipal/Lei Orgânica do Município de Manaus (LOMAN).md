@@ -49,11 +49,7 @@ Goza de autonomia:
 
 ### Competência
 
-Município poderá instituir:
-- Impostos
-- Taxas
-- Contribuição de Melhoria
-- Contribuição para Previdência e Assistência Social
+- O Município possui competência para instituir **impostos**, **taxas** (por poder de polícia ou prestação de serviços específicos e divisíveis), **contribuição de melhoria** (obras públicas) e **contribuição cobrada de seus servidores para custeio de previdência**.
 
 ### Administração Tributária
 

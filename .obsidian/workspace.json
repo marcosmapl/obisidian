@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ação Penal Privada.md",
+                "file": "Concursos/Legislação Tributária Municipal/Lei 2.833 de 2021 (ISS).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ação Penal Privada"
+              "title": "Lei 2.833 de 2021 (ISS)"
             }
           }
         ]
@@ -271,6 +271,16 @@
             "id": "fce82de87c23b6f4",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "983c88fb073b86c6",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -278,7 +288,7 @@
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "horizontal",
@@ -300,11 +310,30 @@
   },
   "active": "838f2c6de974d70d",
   "lastOpenFiles": [
+    "Concursos/Direito/10 - Direito Tributário/18 - Jurisprudência/Súmula Vinculante 31 (STF).md",
+    "Concursos/Legislação Tributária Municipal/Lei 2.833 de 2021 (ISS).md",
+    "Concursos/Legislação Tributária Municipal/MOC — Legislação Tributária Municipal.md",
+    "Concursos/Legislação Tributária Municipal/Lei 2.385 de 2018 (CARF-M).md",
+    "Media/Pasted image 20260902120129.png",
+    "Media/Pasted image 20260902120115.png",
+    "Media/Pasted image 20260902120025.png",
+    "Media/Pasted image 20260902114656.png",
+    "Media/Pasted image 20260902114640.png",
+    "Media/Pasted image 20260902114604.png",
+    "Concursos/Legislação Tributária Municipal/Decreto nº 6.759 de 2009.md",
+    "Concursos/Legislação Tributária Municipal/Decreto Lei nº 356 de 1968.md",
+    "Concursos/Legislação Tributária Municipal/Decreto nº 61.244 de 1967.md",
+    "Concursos/Legislação Tributária Municipal/Decreto Lei nº 288 de 1967 (ZFM).md",
+    "Concursos/Legislação Tributária Municipal/Lei nº1 .697 de 1983 (CTM).md",
+    "Concursos/Legislação Tributária Municipal/Lei Orgânica do Município de Manaus (LOMAN).md",
+    "Concursos/Legislação Tributária Municipal/Decreto 3.748 de 2017 (IPTU).md",
+    "Decreto 3.748",
+    "Concursos/Legislação Tributária Municipal/Decreto 4.818 de 2000 (ITBI).md",
+    "Concursos/Direito/09 - Direito Processual Penal/02 - Ação Penal/Ação Penal Privada.md",
     "Concursos/Direito/09 - Direito Processual Penal/02 - Ação Penal/MOC — Ação Penal.md",
-    "Ação Penal Privada.md",
     "Concursos/Direito/09 - Direito Processual Penal/02 - Ação Penal/Ação Penal Pública.md",
-    "Ação Penal Pública Condicionada.md",
-    "Ação Penal Pública Incondicionada.md",
+    "Concursos/Direito/09 - Direito Processual Penal/02 - Ação Penal/Ação Penal Pública Condicionada.md",
+    "Concursos/Direito/09 - Direito Processual Penal/02 - Ação Penal/Ação Penal Pública Incondicionada.md",
     "Concursos/Direito/09 - Direito Processual Penal/02 - Ação Penal/Disposições Gerais.md",
     "Concursos/Direito/09 - Direito Processual Penal/02 - Ação Penal/A Ordem de Vocação Hereditária (CADI).md",
     "Concursos/Direito/09 - Direito Processual Penal/02 - Ação Penal/Espécies de Ação Penal.md",
@@ -316,18 +345,6 @@
     "Concursos/Direito/08 - Direito Penal/04 - Crimes contra a Fé Pública/Falsidade de Títulos e outros Papéis Públicos.md",
     "Concursos/Direito/08 - Direito Penal/04 - Crimes contra a Fé Pública/Moeda Falsa.md",
     "Concursos/Direito/08 - Direito Penal/04 - Crime/MOC — Crime.md",
-    "Concursos/Direito/08 - Direito Penal/04 - Crime/Acordo de Não Persecução Penal (ANPP).md",
-    "Concursos/Direito/08 - Direito Penal/04 - Crime/Suspensão Condicional do Processo (SCP).md",
-    "Concursos/Direito/08 - Direito Penal/04 - Crime/Crime.md",
-    "Concursos/Direito/08 - Direito Penal/04 - Crime/Regime Semiaberto.md",
-    "Concursos/Direito/08 - Direito Penal/04 - Crime/Regime Aberto.md",
-    "Concursos/Direito/08 - Direito Penal/04 - Crime/Regime Fechado.md",
-    "Concursos/Direito/07 - Direito Processual Civil/06 - Das Sentença e Da Coisa Julgada/Coisa Julgada.md",
-    "Concursos/Direito/07 - Direito Processual Civil/06 - Das Sentença e Da Coisa Julgada/Disposições Gerais - Sentença.md",
-    "Concursos/Direito/07 - Direito Processual Civil/06 - Das Sentença e Da Coisa Julgada/MOC — Da Sentença e Da Coisa Julgada.md",
-    "Concursos/Direito/07 - Direito Processual Civil/06 - Das Sentença e Da Coisa Julgada/Remessa Necessária.md",
-    "Concursos/Direito/07 - Direito Processual Civil/06 - Das Sentença e Da Coisa Julgada/Elementos e efeitos da sentença.md",
-    "Concursos/Direito/07 - Direito Processual Civil/06 - Das Sentença e Da Coisa Julgada/Alteração de Sentença.md",
     "Concursos/Direito/07 - Direito Processual Civil/06 - Das Sentença e Da Coisa Julgada",
     "Concursos/Direito/08 - Direito Penal/04 - Crimes contra a Fé Pública",
     "Media/Pasted image 20260829211813.png",
@@ -336,15 +353,8 @@
     "Concursos/Estatística/08 - Intervalos de Confiança",
     "Concursos/Estatística/07 - Estimadores",
     "Media/Pasted image 20260825213910.png",
-    "Media/Pasted image 20260825213834.png",
-    "Media/Pasted image 20260825212600.png",
-    "Media/Pasted image 20260820112043.png",
     "Concursos/Contabilidade Geral/17 - Análise das Demonstrações Contábeis",
     "Concursos/Sem título",
-    "Concursos/Direito/07 - Direito Processual Civil/04 - Das Provas",
-    "Concursos/Direito/06 - Direito Civil/07 - Negócios Jurídicos",
-    "Media/Pasted image 20260819163339.png",
-    "Media/Pasted image 20260819163337.png",
-    "Media/Pasted image 20260819162533.png"
+    "Concursos/Direito/07 - Direito Processual Civil/04 - Das Provas"
   ]
 }
