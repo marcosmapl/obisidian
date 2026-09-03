@@ -39,3 +39,14 @@ Os principais índices para medir a rentabilidade de uma empresa são os seguint
 
 - [[Análise Horizontal]]
 - [[Análise Vertical]]
+
+---
+## Índices de Liquidez
+
+- [[Liquidez Imediata ou Instantânea]]
+- [[Liquidez Corrente ou Comum]]
+- [[Liquidez Seca ou Ácida]]
+- [[Liquidez Geral ou Total]]
+- [[Solvência Geral ou Margem de Garantia]]
+
+

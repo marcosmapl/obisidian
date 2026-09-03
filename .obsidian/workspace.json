@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Legislação Tributária Municipal/Lei 2.833 de 2021 (ISS).md",
+                "file": "Concursos/Contabilidade Geral/17 - Análise das Demonstrações Contábeis/Liquidez Seca ou Ácida.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lei 2.833 de 2021 (ISS)"
+              "title": "Liquidez Seca ou Ácida"
             }
           }
         ]
@@ -281,6 +281,26 @@
             "id": "983c88fb073b86c6",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "62f027006d157c9c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "21efde1fb294be12",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -288,7 +308,7 @@
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 18
       }
     ],
     "direction": "horizontal",
@@ -310,8 +330,14 @@
   },
   "active": "838f2c6de974d70d",
   "lastOpenFiles": [
-    "Concursos/Direito/10 - Direito Tributário/18 - Jurisprudência/Súmula Vinculante 31 (STF).md",
+    "Concursos/Contabilidade Geral/17 - Análise das Demonstrações Contábeis/Liquidez Geral ou Total.md",
+    "Concursos/Contabilidade Geral/17 - Análise das Demonstrações Contábeis/Liquidez Corrente ou Comum.md",
+    "Concursos/Contabilidade Geral/17 - Análise das Demonstrações Contábeis/Liquidez Imediata ou Instantânea.md",
+    "Concursos/Contabilidade Geral/17 - Análise das Demonstrações Contábeis/Solvência Geral ou Margem de Garantia.md",
+    "Concursos/Contabilidade Geral/17 - Análise das Demonstrações Contábeis/MOC — Análise das Demonstrações Contábeis.md",
+    "Concursos/Contabilidade Geral/17 - Análise das Demonstrações Contábeis/Liquidez Seca ou Ácida.md",
     "Concursos/Legislação Tributária Municipal/Lei 2.833 de 2021 (ISS).md",
+    "Concursos/Direito/10 - Direito Tributário/18 - Jurisprudência/Súmula Vinculante 31 (STF).md",
     "Concursos/Legislação Tributária Municipal/MOC — Legislação Tributária Municipal.md",
     "Concursos/Legislação Tributária Municipal/Lei 2.385 de 2018 (CARF-M).md",
     "Media/Pasted image 20260902120129.png",
@@ -338,13 +364,7 @@
     "Concursos/Direito/09 - Direito Processual Penal/02 - Ação Penal/A Ordem de Vocação Hereditária (CADI).md",
     "Concursos/Direito/09 - Direito Processual Penal/02 - Ação Penal/Espécies de Ação Penal.md",
     "Media/Pasted image 20260901154535.png",
-    "Concursos/Direito/08 - Direito Penal/05 - Crimes contra as Finanças Públicas/MOC — Crimes contra as Finanças Públicas.md",
-    "Concursos/Direito/08 - Direito Penal/MOC — Direito Penal.md",
-    "Concursos/Direito/08 - Direito Penal/04 - Crimes contra a Fé Pública/Falsidade Documental.md",
     "Concursos/Direito/08 - Direito Penal/05 - Crimes contra as Finanças Públicas",
-    "Concursos/Direito/08 - Direito Penal/04 - Crimes contra a Fé Pública/Falsidade de Títulos e outros Papéis Públicos.md",
-    "Concursos/Direito/08 - Direito Penal/04 - Crimes contra a Fé Pública/Moeda Falsa.md",
-    "Concursos/Direito/08 - Direito Penal/04 - Crime/MOC — Crime.md",
     "Concursos/Direito/07 - Direito Processual Civil/06 - Das Sentença e Da Coisa Julgada",
     "Concursos/Direito/08 - Direito Penal/04 - Crimes contra a Fé Pública",
     "Media/Pasted image 20260829211813.png",
