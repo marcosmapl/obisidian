@@ -130,10 +130,9 @@ Indicados pelos órgãos e entidades, sendo designados pelo **Ministro de Estado
 
 ### Não Exclui o Recolhimento
 
-- IOF
-- II
-- IE
-- ITR
+![[Pasted image 20260904104043.jpg]]
+
+- IOF, II, IE, ITR
 - IR
 	- Aplicações de **renda fixa ou variável**
 	- **Alienação** de **bens do ativo permanente**

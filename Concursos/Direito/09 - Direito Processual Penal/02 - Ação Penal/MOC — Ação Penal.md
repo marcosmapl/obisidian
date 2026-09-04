@@ -1,7 +1,7 @@
 
 ## Índice
 
-- [[Disposições Gerais]]
+- [[Disposições Gerais (Art. 1º)]]
 - [[Espécies de Ação Penal]]
 - [[Ação Penal Pública]]
 - [[Ação Penal Privada]]

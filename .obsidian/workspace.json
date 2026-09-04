@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Contabilidade Geral/17 - Análise das Demonstrações Contábeis/Liquidez Seca ou Ácida.md",
+                "file": "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/LC 227 2026/Do Conselho Superior do CGIBS (Art. 8º a 11).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Liquidez Seca ou Ácida"
+              "title": "Do Conselho Superior do CGIBS (Art. 8º a 11)"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 466.8930206298828
+    "width": 521.6652679443359
   },
   "right": {
     "id": "36b906953263c637",
@@ -301,6 +301,16 @@
             "id": "21efde1fb294be12",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "36d9833e2f4c06b5",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -308,7 +318,7 @@
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 19
       }
     ],
     "direction": "horizontal",
@@ -328,14 +338,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "838f2c6de974d70d",
+  "active": "5ffe0c98325b273f",
   "lastOpenFiles": [
+    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/LC 227 2026/MOC — LC 227 de 2026.md",
+    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/LC 227 2026/Do Conselho Superior do CGIBS (Art. 8º a 11).md",
+    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/LC 227 2026/Dos Órgãos do CGIBS (Art. 7º).md",
+    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/LC 227 2026/Das Competências do CGIBS (Art. 2º).md",
+    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/LC 227 2026/Das Diretrizes para a Fiscalização e a Cobrança Compartilhadas e Coordenadas do IBS (Art. 3º a 6º).md",
+    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/LC 227 2026/Disposições Gerais (Art. 1º).md",
+    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/LC 227 2026/Comitê Gestor do IBS (CGIBS).md",
+    "Concursos/Direito/10 - Direito Tributário/13 - Simples Nacional/Lei Complementar nº 123 de 2006.md",
+    "Media/Pasted image 20260904104043.jpg",
+    "Concursos/Direito/10 - Direito Tributário/13 - Simples Nacional/MOC — Simples Nacional.md",
+    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/MOC — EC 132 de 2023.md",
+    "Concursos/Contabilidade Geral/17 - Análise das Demonstrações Contábeis/Liquidez Seca ou Ácida.md",
     "Concursos/Contabilidade Geral/17 - Análise das Demonstrações Contábeis/Liquidez Geral ou Total.md",
     "Concursos/Contabilidade Geral/17 - Análise das Demonstrações Contábeis/Liquidez Corrente ou Comum.md",
     "Concursos/Contabilidade Geral/17 - Análise das Demonstrações Contábeis/Liquidez Imediata ou Instantânea.md",
     "Concursos/Contabilidade Geral/17 - Análise das Demonstrações Contábeis/Solvência Geral ou Margem de Garantia.md",
     "Concursos/Contabilidade Geral/17 - Análise das Demonstrações Contábeis/MOC — Análise das Demonstrações Contábeis.md",
-    "Concursos/Contabilidade Geral/17 - Análise das Demonstrações Contábeis/Liquidez Seca ou Ácida.md",
     "Concursos/Legislação Tributária Municipal/Lei 2.833 de 2021 (ISS).md",
     "Concursos/Direito/10 - Direito Tributário/18 - Jurisprudência/Súmula Vinculante 31 (STF).md",
     "Concursos/Legislação Tributária Municipal/MOC — Legislação Tributária Municipal.md",
@@ -352,17 +373,7 @@
     "Concursos/Legislação Tributária Municipal/Decreto Lei nº 288 de 1967 (ZFM).md",
     "Concursos/Legislação Tributária Municipal/Lei nº1 .697 de 1983 (CTM).md",
     "Concursos/Legislação Tributária Municipal/Lei Orgânica do Município de Manaus (LOMAN).md",
-    "Concursos/Legislação Tributária Municipal/Decreto 3.748 de 2017 (IPTU).md",
     "Decreto 3.748",
-    "Concursos/Legislação Tributária Municipal/Decreto 4.818 de 2000 (ITBI).md",
-    "Concursos/Direito/09 - Direito Processual Penal/02 - Ação Penal/Ação Penal Privada.md",
-    "Concursos/Direito/09 - Direito Processual Penal/02 - Ação Penal/MOC — Ação Penal.md",
-    "Concursos/Direito/09 - Direito Processual Penal/02 - Ação Penal/Ação Penal Pública.md",
-    "Concursos/Direito/09 - Direito Processual Penal/02 - Ação Penal/Ação Penal Pública Condicionada.md",
-    "Concursos/Direito/09 - Direito Processual Penal/02 - Ação Penal/Ação Penal Pública Incondicionada.md",
-    "Concursos/Direito/09 - Direito Processual Penal/02 - Ação Penal/Disposições Gerais.md",
-    "Concursos/Direito/09 - Direito Processual Penal/02 - Ação Penal/A Ordem de Vocação Hereditária (CADI).md",
-    "Concursos/Direito/09 - Direito Processual Penal/02 - Ação Penal/Espécies de Ação Penal.md",
     "Media/Pasted image 20260901154535.png",
     "Concursos/Direito/08 - Direito Penal/05 - Crimes contra as Finanças Públicas",
     "Concursos/Direito/07 - Direito Processual Civil/06 - Das Sentença e Da Coisa Julgada",
@@ -372,7 +383,6 @@
     "Concursos/Direito/04 - Direito Constitucional/17 - Controle de Constitucionalidade",
     "Concursos/Estatística/08 - Intervalos de Confiança",
     "Concursos/Estatística/07 - Estimadores",
-    "Media/Pasted image 20260825213910.png",
     "Concursos/Contabilidade Geral/17 - Análise das Demonstrações Contábeis",
     "Concursos/Sem título",
     "Concursos/Direito/07 - Direito Processual Civil/04 - Das Provas"

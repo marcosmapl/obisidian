@@ -105,6 +105,6 @@ updated: 2026-05-15T15:45:00
 ## 📂 MOC — Lei Orgânica do Município de Manaus
 
 - [[Lei Orgânica de Manaus — Estrutura]]
-- [[Disposições Gerais]]
+- [[Disposições Gerais (Art. 1º)]]
 - [[Disposições Transitórias]]
 
