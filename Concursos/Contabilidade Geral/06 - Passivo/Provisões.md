@@ -14,13 +14,12 @@ updated: 2026-07-03T00:00:00
 
 ## Ideia-chave para prova
 
-- Provisão não é sinônimo genérico de despesa estimada.
+- Provisão não é sinônimo genérico de **despesa estimada**.
 - Exige obrigação presente e probabilidade de saída de recursos.
 
 ---
 ## Exemplos
 
-- Provisão para contingências prováveis
 - Provisão para garantias
 - Provisões trabalhistas
 
