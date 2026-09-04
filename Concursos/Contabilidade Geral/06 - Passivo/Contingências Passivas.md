@@ -8,7 +8,7 @@ updated: 2026-07-03T00:00:00
 ## Definição
 
 > [!note] Contingências Passivas
-> Situações de incerteza que podem gerar obrigação para a entidade, normalmente ligadas a processos judiciais, administrativos ou contratuais.
+> É uma **obrigação presente** que **não será reconhecida** porque ==não é provável que haja saída de recursos== ou o **valor da obrigação** ==não pode ser mensurado com confiabilidade==.
 
 > [!important] Se a perda for **provável** e mensurável, pode haver reconhecimento de [[Provisões]].
 

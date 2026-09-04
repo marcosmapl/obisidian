@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b1bf2e2d2f083ee8",
+        "id": "3d19ea14fb9fc3f7",
         "type": "tabs",
         "children": [
           {
-            "id": "838f2c6de974d70d",
+            "id": "18bb57419621743a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/LC 227 2026/Do Conselho Superior do CGIBS (Art. 8º a 11).md",
+                "file": "Concursos/Contabilidade Geral/07 - Patrimônio Líquido/Reserva Legal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Do Conselho Superior do CGIBS (Art. 8º a 11)"
+              "title": "Reserva Legal"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 521.6652679443359
+    "width": 317.5026054382324
   },
   "right": {
     "id": "36b906953263c637",
@@ -308,7 +308,7 @@
             }
           },
           {
-            "id": "36d9833e2f4c06b5",
+            "id": "d7d7fde7ac8f2d67",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -338,25 +338,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5ffe0c98325b273f",
+  "active": "18bb57419621743a",
   "lastOpenFiles": [
-    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/LC 227 2026/MOC — LC 227 de 2026.md",
-    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/LC 227 2026/Do Conselho Superior do CGIBS (Art. 8º a 11).md",
-    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/LC 227 2026/Dos Órgãos do CGIBS (Art. 7º).md",
-    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/LC 227 2026/Das Competências do CGIBS (Art. 2º).md",
-    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/LC 227 2026/Das Diretrizes para a Fiscalização e a Cobrança Compartilhadas e Coordenadas do IBS (Art. 3º a 6º).md",
-    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/LC 227 2026/Disposições Gerais (Art. 1º).md",
-    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/LC 227 2026/Comitê Gestor do IBS (CGIBS).md",
-    "Concursos/Direito/10 - Direito Tributário/13 - Simples Nacional/Lei Complementar nº 123 de 2006.md",
-    "Media/Pasted image 20260904104043.jpg",
-    "Concursos/Direito/10 - Direito Tributário/13 - Simples Nacional/MOC — Simples Nacional.md",
-    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/MOC — EC 132 de 2023.md",
+    "Concursos/Contabilidade Geral/07 - Patrimônio Líquido/Reservas de Lucros.md",
+    "Concursos/Contabilidade Geral/07 - Patrimônio Líquido/Reservas de Capital.md",
+    "Concursos/Contabilidade Geral/07 - Patrimônio Líquido/Reserva Legal.md",
+    "Concursos/Contabilidade Geral/07 - Patrimônio Líquido/MOC — Patrimônio Líquido.md",
+    "Concursos/Contabilidade Geral/07 - Patrimônio Líquido/Dividendos.md",
+    "Concursos/Contabilidade Geral/07 - Patrimônio Líquido/Ações em Tesouraria.md",
+    "Concursos/Contabilidade Geral/07 - Patrimônio Líquido/Prejuízos Acumulados.md",
+    "Concursos/Contabilidade Geral/19 - CPC 32 (Tributos sobre Lucro)/MOC — CPC 32.md",
+    "Media/Pasted image 20260903222527.png",
+    "Media/Pasted image 20260903221819.png",
+    "Concursos/Contabilidade Geral/18 - CPC 25 (Provisões, Passivos Contingentes e Ativos Contingentes)/MOC — CPC 25.md",
+    "Concursos/Contabilidade Geral/19 - CPC 32 (Tributos sobre Lucro)",
+    "Media/Pasted image 20260903213001.png",
+    "Concursos/Contabilidade Geral/06 - Passivo/Contingências Passivas.md",
+    "Concursos/Contabilidade Geral/06 - Passivo/Contingências Passivas de Longo Prazo.md",
+    "Concursos/Contabilidade Geral/05 - Ativo/MOC — Ativo.md",
+    "Concursos/Contabilidade Geral/06 - Passivo/Provisões.md",
+    "Concursos/Contabilidade Geral/17 - Análise das Demonstrações Contábeis/MOC — Análise das Demonstrações Contábeis.md",
+    "Concursos/Contabilidade Geral/18 - CPC 25 (Provisões, Passivos Contingentes e Ativos Contingentes)",
+    "Concursos/Contabilidade Geral/06 - Passivo/MOC — Passivo.md",
+    "Concursos/Contabilidade Geral/06 - Passivo/Debêntures.md",
+    "Concursos/Contabilidade Geral/06 - Passivo/Empréstimos e Financiamentos.md",
     "Concursos/Contabilidade Geral/17 - Análise das Demonstrações Contábeis/Liquidez Seca ou Ácida.md",
     "Concursos/Contabilidade Geral/17 - Análise das Demonstrações Contábeis/Liquidez Geral ou Total.md",
     "Concursos/Contabilidade Geral/17 - Análise das Demonstrações Contábeis/Liquidez Corrente ou Comum.md",
     "Concursos/Contabilidade Geral/17 - Análise das Demonstrações Contábeis/Liquidez Imediata ou Instantânea.md",
     "Concursos/Contabilidade Geral/17 - Análise das Demonstrações Contábeis/Solvência Geral ou Margem de Garantia.md",
-    "Concursos/Contabilidade Geral/17 - Análise das Demonstrações Contábeis/MOC — Análise das Demonstrações Contábeis.md",
     "Concursos/Legislação Tributária Municipal/Lei 2.833 de 2021 (ISS).md",
     "Concursos/Direito/10 - Direito Tributário/18 - Jurisprudência/Súmula Vinculante 31 (STF).md",
     "Concursos/Legislação Tributária Municipal/MOC — Legislação Tributária Municipal.md",
@@ -367,24 +377,14 @@
     "Media/Pasted image 20260902114656.png",
     "Media/Pasted image 20260902114640.png",
     "Media/Pasted image 20260902114604.png",
-    "Concursos/Legislação Tributária Municipal/Decreto nº 6.759 de 2009.md",
-    "Concursos/Legislação Tributária Municipal/Decreto Lei nº 356 de 1968.md",
-    "Concursos/Legislação Tributária Municipal/Decreto nº 61.244 de 1967.md",
-    "Concursos/Legislação Tributária Municipal/Decreto Lei nº 288 de 1967 (ZFM).md",
-    "Concursos/Legislação Tributária Municipal/Lei nº1 .697 de 1983 (CTM).md",
-    "Concursos/Legislação Tributária Municipal/Lei Orgânica do Município de Manaus (LOMAN).md",
     "Decreto 3.748",
     "Media/Pasted image 20260901154535.png",
     "Concursos/Direito/08 - Direito Penal/05 - Crimes contra as Finanças Públicas",
     "Concursos/Direito/07 - Direito Processual Civil/06 - Das Sentença e Da Coisa Julgada",
     "Concursos/Direito/08 - Direito Penal/04 - Crimes contra a Fé Pública",
-    "Media/Pasted image 20260829211813.png",
-    "Media/Pasted image 20260829211637.png",
     "Concursos/Direito/04 - Direito Constitucional/17 - Controle de Constitucionalidade",
     "Concursos/Estatística/08 - Intervalos de Confiança",
     "Concursos/Estatística/07 - Estimadores",
-    "Concursos/Contabilidade Geral/17 - Análise das Demonstrações Contábeis",
-    "Concursos/Sem título",
-    "Concursos/Direito/07 - Direito Processual Civil/04 - Das Provas"
+    "Concursos/Contabilidade Geral/17 - Análise das Demonstrações Contábeis"
   ]
 }

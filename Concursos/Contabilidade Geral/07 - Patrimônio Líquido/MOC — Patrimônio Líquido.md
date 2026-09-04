@@ -28,6 +28,7 @@ updated: 2026-07-03T00:00:00
 - [[Ajustes de Exercícios Anteriores]]
 - [[Ações em Tesouraria]]
 - [[Prejuízos Acumulados]]
+- [[Dividendos]]
 
 ### Estrutura básica
 

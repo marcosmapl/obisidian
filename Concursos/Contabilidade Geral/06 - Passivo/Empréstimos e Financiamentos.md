@@ -12,11 +12,6 @@ updated: 2026-07-03T00:00:00
 
 > [!important] São contas típicas do **passivo financeiro**.
 
-## Ideia-chave para prova
-
-- **Empréstimo**: entrega de dinheiro para livre utilização.
-- **Financiamento**: recursos vinculados a uma finalidade específica, como aquisição de bens.
-
 ---
 ## Classificação
 
