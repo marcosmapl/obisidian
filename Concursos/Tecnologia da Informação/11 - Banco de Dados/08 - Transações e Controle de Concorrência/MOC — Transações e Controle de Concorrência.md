@@ -8,17 +8,12 @@ updated: 2026-01-06T16:15:00
 ## Índice
 
 - [[Transações — Conceito]]
-    
 - [[Propriedades ACID]]
-    
 - [[COMMIT]]
-    
 - [[ROLLBACK]]
-    
 - [[SAVEPOINT]]
-    
 - [[Controle de Concorrência]]
-    
 - [[Bloqueios (Locks)]]
-    
+- [[Níveis de Isolamento]]
 - [[Deadlock]]
+

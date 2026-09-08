@@ -4,7 +4,7 @@
 - [[Lei 1.628 de 2011 (IPTU)]]
 - [[Decreto 3.748 de 2017 (IPTU)]]
 - [[Lei 2.833 de 2021 (ISS)]]
-- [[Decreto 5.962 de 2024 (ISS)]]
+- [[Decreto 6.844 de 2026 (ISS)]]
 - [[Lei 459 de 1998 (ITBI)]]
 - [[Decreto 4.818 de 2000 (ITBI)]]
 - [[Lei 3.008 de 2023 (PAT)]]

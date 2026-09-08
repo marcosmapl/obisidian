@@ -8,5 +8,5 @@ updated: 2026-01-05T21:35:00
 ## Índice
 
 - [[Execução Fiscal — Conceito]]
-- [[Lei nº 6.830/1980]]
+- [[Lei nº 6.830 de 1980 (Cobrança Judicial da Dívida Ativa)]]
 - [[Procedimento da Execução Fiscal]]

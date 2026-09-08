@@ -14,7 +14,7 @@ updated: 2026-07-01T15:30:00
 ## Estrutura essencial
 
 
-| **Receita Operacional Bruta** (**ROB**, retirada da DRE)            |
+| **Receita Operacional Bruta** (**ROB**, retirada do BP)             |
 | ------------------------------------------------------------------- |
 | (-) **DE**voluções de vendas e cancelamentos                        |
 | (-) **D**escontos Incondicionais Concedidos                         |

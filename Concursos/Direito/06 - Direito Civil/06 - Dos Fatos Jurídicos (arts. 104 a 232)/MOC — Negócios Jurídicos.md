@@ -7,4 +7,3 @@
 
 
 > Dica de prova -->  defeitos do negócio jurídico, apenas 1 é **NULO: SIMULAÇÃO.** **Todos os outros são anuláveis**.
-
