@@ -11,6 +11,14 @@ updated: 2026-08-02T21:41:00
 > [!note] Estabelecimento
 > Todo complexo de bens **organizado**, para exercício da empresa, por empresário ou sociedade empresária.
 
+**Art. 1.142. Considera-se estabelecimento todo complexo de bens organizado, para exercício da empresa, por empresário, ou por sociedade empresária.**    
+
+§ 1º O estabelecimento não se confunde com o local onde se exerce a atividade empresarial, que poderá ser físico ou virtual.  
+
+§ 2º Quando o local onde se exerce a atividade empresarial for virtual, o endereço informado para fins de registro poderá ser, conforme o caso, o endereço do empresário individual ou o de um dos sócios da sociedade empresária.  
+
+§ 3º Quando o local onde se exerce a atividade empresarial for físico, a fixação do horário de funcionamento competirá ao Município, observada a regra geral prevista no inciso II do caput do art. 3º da Lei nº 13.874, de 20 de setembro de 2019.
+
 É elemento **indispensável** ao exercício da empresa.
 
 Inclui bens **corpóreos** (**tangíveis**) e **incorpóreos** (**intangíveis**).
@@ -81,10 +89,34 @@ A contagem do prazo de um ano é feita de duas maneiras diferentes:
 - **Débitos já vencidos**: um ano a partir do **dia da publicação**.
 - **Créditos que vencerem após**: um ano a partir da **data de vencimento**.
 
-
 Responsabilidade quanto aos débitos:
 - **Tributários**: 
 	- **Integralmente** se o alienante cessar a exploração do comércio, indústria ou atividade
 	- **Subsidiariamente** com o alienante, se este **prosseguir ou iniciar nova em até seis meses**
 - **Trabalhistas**: adquirente assume todos!
 - **Falência**: ficam como obrigações do falido!
+
+**EXCEÇÃO**:
+
+> Lei Complementar nº 123/2006, Art. 71. Os **empresários e as sociedades** de que trata esta Lei Complementar, nos termos da legislação civil, ficam **dispensados da publicação de qualquer ato societário**
+
+---
+## Art. 1.147 — Proibição de concorrência
+
+
+Art. 1.147. ==Não havendo autorização expressa==, o alienante do estabelecimento ==não pode fazer concorrência ao adquirente==, nos **cinco anos subsequentes** à transferência.
+
+Parágrafo único. No caso de arrendamento ou usufruto do estabelecimento, a proibição prevista neste artigo **persistirá durante o prazo do contrato**.
+
+Quando alguém **vende um estabelecimento empresarial**, o antigo proprietário (**alienante**) não pode **concorrer com o comprador** durante os **5 anos seguintes à transferência**, salvo se houver **autorização expressa**.
+
+Se não houver venda, mas **arrendamento ou usufruto** do estabelecimento, a proibição de concorrência permanece **durante todo o prazo do contrato**.
+
+### 🧠 Para prova
+
+|Situação|Proibição de concorrência|
+|---|---|
+|**Alienação (venda)**|**5 anos**|
+|**Arrendamento/usufruto**|**Durante o contrato**|
+
+⚠️ E atenção: na alienação, o prazo de 5 anos é **subsequente à transferência** e pode ser afastado por **autorização expressa**.

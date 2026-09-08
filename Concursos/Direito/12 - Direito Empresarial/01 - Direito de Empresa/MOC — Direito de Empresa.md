@@ -21,8 +21,10 @@ updated: 2026-05-29T08:22:48
 ### Dos Institutos Complementares (arts. 1.150 a 1.195 do CC)
 
 - [[Registro da Empresa]]
-- [[Nome Empresarial]]
-- [[Prepostos]]
-- [[Escrituração]]
-- [[Estabelecimento]]
+- [[Do Nome Empresarial (arts. 1.155 a 1.168)]]
+- [[Do Estabelecimento (arts. 1.142 a 1.149)]]
+- [[Do Registro (arts. 1.150 a 1.154)]]
+- [[Dos Prepostos (arts. 1.169 a 1.178)]]
+- [[Da Escrituração (arts. 1.179 a 1.195)]]
+
 

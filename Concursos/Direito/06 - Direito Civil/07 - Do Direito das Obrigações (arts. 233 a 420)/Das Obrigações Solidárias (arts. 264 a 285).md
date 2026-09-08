@@ -1,33 +1,7 @@
-## Obrigação de Dar Coisa
-
-Art. 233. A obrigação de dar coisa certa **abrange os acessórios dela** embora não mencionados, ==salvo se o contrário resultar do título ou das circunstâncias do caso==.
-
-A regra é:
-
-> **Quem deve entregar uma coisa certa deve entregar também seus acessórios**, mesmo que eles **não estejam expressamente mencionados**.
-
-**Exemplo:** João vende um carro a Pedro.
-
-➡️ A obrigação de entregar o carro inclui, em regra, seus **acessórios**, como chave, equipamentos que o integrem etc.
-
-### ⚠️ Exceção
-
-Os acessórios **não serão abrangidos** se:
-
-- o **título/contrato** determinar o contrário; ou
-- as **circunstâncias do caso** indicarem que não devem ser incluídos.
-
----
-## Obrigações Alternativas
-
-Art. 252. Nas obrigações alternativas, **a escolha cabe ao devedor**, se outra coisa não se estipulou.****
-
----
 ## Credores solidários
 
-_Art. 262. Se um dos credores remitir a dívida, a obrigação não ficará extinta para com os outros; mas estes só a poderão exigir, descontada a quota do credor remitente._
-
-_Parágrafo único. O mesmo critério se observará no caso de transação, novação, compensação ou confusão._
+Art. 262. Se um dos **credores remitir a dívida**, a **obrigação não ficará extinta para com os outros**; mas estes só a poderão exigir, descontada a quota do credor remitente.
+Parágrafo único. O mesmo critério se observará no caso de transação, novação, compensação ou confusão.
 
 **Remissão por um credor:**
 
@@ -58,25 +32,21 @@ E cuidado com uma pegadinha clássica:
 **Correto.**
 
 ---
-## Perda da indivisibilidade
+## Conceito de solidariedade
 
-Art. 263. **Perde a qualidade** de indivisível a obrigação que se resolver em perdas e danos.
+Art. 264. Há **solidariedade**, quando na mesma obrigação **concorre mais de um credor**, ou **mais de um devedor**, cada um com direito, ou obrigado, à dívida toda.
 
-Uma obrigação **indivisível** é aquela que, pela sua natureza ou por determinação jurídica, **não pode ser cumprida em partes**.
+---
+## Solidariedade não se presume
 
-O artigo diz que, se essa obrigação for convertida em **perdas e danos**, ela **deixa de ser indivisível**.
+A regra é simples:
 
-### Exemplo
+> **A solidariedade não é presumida.**
 
-João e Pedro devem entregar **um cavalo específico** a Carlos. O cavalo não pode ser entregue pela metade → obrigação indivisível.
+Ela somente existe quando houver:
 
-Se o cavalo é destruído por culpa dos devedores e a obrigação se transforma em **indenização em dinheiro**:
-
-➡️ o objeto passa a ser **dinheiro**, que é divisível.
-
-Portanto:
-
-> **Obrigação indivisível → perdas e danos → torna-se divisível.**
+1. **Previsão legal** → a própria lei determina a solidariedade; ou
+2. **Vontade das partes** → as partes estabelecem a solidariedade no negócio jurídico.
 
 ---
 ## Solidariedade com condições diferentes

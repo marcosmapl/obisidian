@@ -1,0 +1,3 @@
+
+- Abstenção
+- Extingue-se a obrigação de não fazer, desde que, sem culpa do devedor, se **lhe torne impossível abster-se do ato, que se obrigou a não praticar**. 

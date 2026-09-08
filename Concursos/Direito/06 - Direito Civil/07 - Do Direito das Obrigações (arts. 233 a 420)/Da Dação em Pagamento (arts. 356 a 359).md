@@ -1,0 +1,4 @@
+
+## Prestação diversa
+
+Art. 356. O credor **pode consentir em receber prestação diversa** da que lhe é devida.

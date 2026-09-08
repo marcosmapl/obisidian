@@ -1,9 +1,3 @@
----
-disciplina: Direito Empresarial
-tópico: Dos Institutos Complementares
-created: 2026-07-20T14:45:00
-updated: 2026-07-20T14:50:00
----
 
 As **pessoas que ajudam o empresário na sua atividade** são chamados de **prepostos**.
 
@@ -32,6 +26,9 @@ Então veja, o preponente sempre responde. Já o preposto tem a responsabilidade
 
 > [!note] Código Civil, Art. 1.177
 > Parágrafo único. No exercício de suas funções, **os prepostos são PESSOALMENTE responsáveis, perante os PREPONENTES**, pelos **atos CULPOSOS**; e, **perante TERCEIROS, SOLIDARIAMENTE com o preponente, pelos atos DOLOSOS**.
+
+1. Perante os **preponentes**, pelos **atos culposos**; e
+2. Perante **terceiros**, pelos **atos dolosos, solidariamente** com **o preponente**.
 
 ---
 ## Teoria da Aparência
@@ -90,4 +87,6 @@ Há casos em que uma determinada **empresa possui mais de um gerente**, nessas s
 > 
 > Parágrafo único. Para o mesmo efeito e com idêntica ressalva, deve a modificação ou revogação do mandato ser arquivada e averbada no Registro Público de Empresas Mercantis.
 
+---
 
+CC, Art. 1.178. Os preponentes são responsáveis pelos atos de quaisquer prepostos, praticados nos seus estabelecimentos e relativos à atividade da empresa, **ainda que** não autorizados por escrito.

@@ -10,14 +10,25 @@ updated: 2026-07-27T16:45:00
 
 O empresário e a sociedade empresária são **obrigados** a seguir um sistema de contabilidade uniforme e a levantar anualmente o **Balanço Patrimonial** e o de **Resultado Econômico**.
 
+Art. 226. Os livros e fichas dos empresários e sociedades **provam contra as pessoas a que pertencem**, e, **em seu favor, quando, escriturados sem vício extrínseco ou intrínseco**, forem **confirmados por outros subsídios**.
+
 ---
 ## Responsabilidade e Formalidades
 
 - **Responsável:** Contabilista habilitado (com registro no CRC), que é considerado um preposto.
+
+**Art. 1.181. Salvo disposição especial de lei, os livros obrigatórios e, se for o caso, as fichas, antes de postos em uso, devem ser autenticados no Registro Público de Empresas Mercantis.**
+Parágrafo único. A autenticação não se fará sem que esteja inscrito o empresário, ou a sociedade empresária, que poderá fazer autenticar livros não obrigatórios.
+
 - **Formalidades Extrínsecas (Aspecto Externo):**
     - Livros devem ser **encadernados** e ter folhas numeradas.
     - Devem conter **Termo de Abertura e Termo de Encerramento**.
     - **Autenticação:** Devem ser autenticados na Junta Comercial (RPEM) **antes** de postos em uso.
+
+
+Art. 1.183. A escrituração será feita em **idioma e moeda corrente nacionais** e em forma contábil, por **ordem cronológica** de dia, mês e ano, **sem intervalos em branco**, nem entrelinhas, borrões, rasuras, emendas ou transportes para as margens.
+**Parágrafo único. É permitido o uso de código de números ou de abreviaturas, que constem de livro próprio, regularmente autenticado.**
+
 - **Formalidades Intrínsecas (Conteúdo):**
     - Escrituração em **idioma e moeda nacional**.
     - **Ordem cronológica** de dia, mês e ano.
@@ -28,10 +39,22 @@ O empresário e a sociedade empresária são **obrigados** a seguir um sistema d
 ## Classificação dos Livros
 
 - **Livros Fiscais:** Sempre obrigatórios por lei tributária.
-- **Livros Comerciais/Empresariais:**
-    - **Obrigatórios:** O **Diário** é o único indispensável pelo Código Civil. Pode ser substituído por fichas em caso de escrituração mecanizada/eletrônica.
-    - **Facultativos:** Critério do empresário (Ex: Livro Caixa, exceto quando lei específica exigir).
-    - _Nota sobre o Livro Razão:_ Obrigatório para quem apura o IR pelo Lucro Real (exigência fiscal, não do CC).
+### Tipos de Livros (conforme o direito societário)¹:
+
+**Obrigatórios**: **apenas** o Diário
+
+**Facultativo**: Caixa, Estoque, Razão, Borrador (que funciona como rascunho do Diário), Conta corrente.
+
+**Específicos**:
+- Empresários que emitem **duplicatas mercantis**: livro **Registro de duplicatas**
+- **Sociedade Anônima** (art. 100, Lei 6.404): Registro de transferência de ações nominativas, Registro de atas da assembleia, entre outros
+- **Leiloeiros** e donos de armazém geral (art. 7º, Dec. 1.102/93): livro de entrada e saída de mercadorias
+
+ Art. 1.181. Salvo disposição especial de lei, os **livros obrigatórios** e, se for o caso, as **fichas**, **antes de postos em uso**, **devem ser autenticados no Registro Público de Empresas Mercantis**
+
+Art. 1.184 § 2o Serão **lançados no Diário** o **balanço patrimonial** e o de **resultado econômico**, devendo ambos ser assinados por **técnico em Ciências Contábeis legalmente habilitado** e pelo **empresário ou sociedade empresária**.
+
+Art. 1.185. O empresário ou sociedade empresária **que adotar o sistema de fichas de lançamentos** **poderá substituir** o livro **Diário pelo livro Balancetes Diários e Balanços**, observadas as mesmas formalidades extrínsecas exigidas para aquele.
 
 ---
 ## Regras Específicas do Livro Diário
@@ -44,12 +67,23 @@ O empresário e a sociedade empresária são **obrigados** a seguir um sistema d
 ## Sigilo e Exibição dos Livros
 
 - **Regra:** Sigilo absoluto contra autoridades, juízes e terceiros.
+
+Art. 1.190. Ressalvados os casos previstos em lei, n**enhuma autoridade, juiz ou tribunal, sob qualquer pretexto**, poderá fazer ou ordenar diligência para **verificar se o empresário ou a sociedade empresária observam, ou não, em seus livros e fichas**, as formalidades prescritas em lei.
+
+Art. 1.191. O juiz só poderá autorizar a **liminar** quando necessária para resolver questões relativas a sucessão, comunhão ou sociedade, administração ou gestão à conta de outrem, ou em caso de falência.
+
+§ 1o O juiz ou tribunal que conhecer de medida cautelar ou de ação *pode*, a *requerimento ou de ofício*, ordenar que os livros de qualquer das partes, ou de ambas, sejam examinados **na presença do empresário ou da sociedade empresária** a que pertencerem, ou de pessoas por estes nomeadas, para deles se **extrair o que interessar à questão**.
+
 - **Exceção (Exibição INTEGRAL):** Somente o Juiz pode ordenar para resolver questões de:
     1. Sucessão;
     2. Comunhão ou sociedade;
     3. Administração ou gestão à conta de outrem;
     4. Falência.
+
 - **Exceção (Exibição PARCIAL):** A requerimento da parte, para extrair apenas o que interessar ao litígio.
+
+Art. 1.193. As restrições estabelecidas neste Capítulo ao exame da escrituração, em parte ou por inteiro, ==não se aplicam às autoridades fazendárias==, no exercício da fiscalização do pagamento de impostos, nos termos estritos das respectivas leis especiais.
+
 - **Autoridades Fazendárias:** O sigilo **não se aplica** ao Fisco no exercício da fiscalização tributária (podem examinar livros sem ordem judicial).
 
 ---

@@ -25,6 +25,11 @@ Ou seja, se o devedor **sabe que o credor é incapaz** e mesmo assim realiza o p
 O pagamento será considerado válido se o devedor **provar que o valor efetivamente beneficiou o incapaz**.
 
 ---
+## Pagamento Diverso
+
+_Art. 313. O credor não é obrigado a receber prestação diversa da que lhe é devida, ainda que mais valiosa._
+
+---
 ## Pagamento em ouro ou moeda estrangeira
 
 **Art. 318.** São ==nulas== as **convenções de pagamento em ouro ou em moeda estrangeira**, bem como para compensar a diferença entre o valor desta e o da moeda nacional, excetuados os casos previstos na legislação especial.
