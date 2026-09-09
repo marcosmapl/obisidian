@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Auditoria/17 - Auditoria Governamental/MOC — Auditoria Governamental.md",
+                "file": "Instrumentos de Fiscalização (TCU).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MOC — Auditoria Governamental"
+              "title": "Instrumentos de Fiscalização (TCU)"
             }
           }
         ]
@@ -331,6 +331,16 @@
             "id": "9b21039cb3eeee6f",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "0793aba13a89d211",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -338,7 +348,7 @@
             }
           }
         ],
-        "currentTab": 21
+        "currentTab": 22
       }
     ],
     "direction": "horizontal",
@@ -360,9 +370,12 @@
   },
   "active": "18bb57419621743a",
   "lastOpenFiles": [
+    "Concursos/Auditoria/17 - Auditoria Governamental/MOC — Auditoria Governamental.md",
+    "Media/Pasted image 20260909082752.png",
+    "Media/Pasted image 20260909082635.jpg",
+    "Instrumentos de Fiscalização (TCU).md",
     "Media/Pasted image 20260908170322.png",
     "Concursos/Auditoria/17 - Auditoria Governamental/Auditoria Operacional (NBASP 300).md",
-    "Concursos/Auditoria/17 - Auditoria Governamental/MOC — Auditoria Governamental.md",
     "Concursos/Auditoria/17 - Auditoria Governamental/Auditoria de Conformidade (NBASP 400).md",
     "Concursos/Auditoria/17 - Auditoria Governamental/Auditoria Financeira (NBASP 200).md",
     "Concursos/Auditoria/17 - Auditoria Governamental/Auditoria no Setor Público (NBASP 100).md",
@@ -386,7 +399,6 @@
     "Concursos/Direito/06 - Direito Civil/07 - Do Direito das Obrigações (arts. 233 a 420)/Das Arras ou Sinal (arts. 417 a 420).md",
     "Concursos/Direito/06 - Direito Civil/07 - Do Direito das Obrigações (arts. 233 a 420)/Das Obrigações Solidárias (arts. 264 a 285).md",
     "Concursos/Direito/06 - Direito Civil/07 - Do Direito das Obrigações (arts. 233 a 420)/Das Obrigações Divisíveis e Indivisíveis (arts. 257 a 263).md",
-    "Concursos/Direito/06 - Direito Civil/07 - Do Direito das Obrigações (arts. 233 a 420)/Das Obrigações de Dar (arts. 233 a 246).md",
     "Concursos/Direito/06 - Direito Civil/09 - Dos Juros Legais (arts. 406 a 407)",
     "Concursos/Direito/06 - Direito Civil/08 - Da Mora (arts. 394 a 401)",
     "Concursos/Direito/06 - Direito Civil/07 - Do Direito das Obrigações (arts. 233 a 420)/Sem título",
@@ -402,9 +414,6 @@
     "Concursos/Contabilidade Geral/18 - CPC 25 (Provisões, Passivos Contingentes e Ativos Contingentes)",
     "Media/Pasted image 20260902120129.png",
     "Media/Pasted image 20260902120115.png",
-    "Media/Pasted image 20260902120025.png",
-    "Media/Pasted image 20260902114656.png",
-    "Media/Pasted image 20260902114640.png",
-    "Media/Pasted image 20260902114604.png"
+    "Media/Pasted image 20260902120025.png"
   ]
 }

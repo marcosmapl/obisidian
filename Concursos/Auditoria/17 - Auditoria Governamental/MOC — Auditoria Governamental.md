@@ -6,6 +6,8 @@
 - [[Auditoria Financeira (NBASP 200)]]
 - [[Auditoria Operacional (NBASP 300)]]
 - [[Auditoria de Conformidade (NBASP 400)]]
+- [[Instrumentos de Fiscalização (TCU)]]
+
 
 |                                | **Auditoria de Conformidade**<br>**(NBASP 400)**                                                                                                 | **Auditoria Operacional**<br>**(NBASP 300)**                                                                                 | **Auditoria Financeira**<br>**(NBASP 200)**                                                                                                         |
 | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -19,16 +21,31 @@
 | Participação do Auditado       | Pontual, principalmente para fornecimento de dados.                                                                                              | Colaboração contínua e construtiva ao longo de todo o processo.                                                              | Colaboração para esclarecimento de dados e documentos contábeis.                                                                                    |
 | Julgamento e responsabilização | Pode levar à responsabilização, aplicação de sanções e medidas legais.                                                                           | Foco em melhoria da gestão, sem caráter sancionador.                                                                         | Pode gerar alertas sobre irregularidades financeiras, mas sem aplicar sanções diretas.                                                              |
 
----
-## Instrumentos de Fiscalização (TCU)
+##  Fases do Processo de Auditoria Governamental
+
+### Planejamento da Auditoria
+
+Que significa determinar o **escopo da auditoria**, o **cronograma**, os **objetivos**, os **critérios**, a **metodologia** a ser usada e os recursos necessários para assegurar que a auditoria englobe as funções mais importantes da organização, assim como, os processos e os resultados;
+
+### Execução
+
+Envolve a **coleta**, o **exame** e **análise das evidências** adequadas em **qualidade e quantidade**, de acordo com os objetivos, critérios e metodologia da auditoria, desenvolvidos na fase de planejamento.
+
+Essa fase se processa mediante a aplicação de procedimentos de auditoria, com a finalidade de:
+- testar e avaliar os Controles Internos;
+- identificar os efeitos das variações em relação aos critérios e às principais causas;
+- desenvolver Conclusões e Recomendações.
+
+### Relatório
+
+Compreende a **comunicação dos resultados das auditorias** à **administração superior** da entidade em questão, ao **ministro respectivo**, ao **parlamento ou conselho de diretores**, dependendo da natureza da auditoria;
+
+## Monitoramento (follow-up)
+
+- a) uma **revisão sistemática das ações desenvolvidas pela administração**, a partir das recomendações ou observações de auditoria efetuadas pelo Escritório do Auditor Geral ou uma recomendação feita por uma comissão parlamentar;
+- b) uma **avaliação da eficácia das ações corretivas** tomadas face aos problemas que originaram as **Recomendações** ou as **Observações da Auditoria**;
+- c) um **relatório** sobre os **resultados das revisões de acompanhamento** apresentado à Câmara dos Comuns e/ou à administração, conforme o caso.
 
 
-| **Instrumento**    | Descrição                                                                                |
-| -------------- | ---------------------------------------------------------------------------------------- |
-| **Auditoria**      | Examinar atos e informações comparando com um critérios                                  |
-| **Levantamento**   | Conhecer a realidade e obter informações para subsidiar fiscalizações futuras.           |
-| **Inspeção**       | Verificação, in loco, situações ou fatos específicos, para suprir lacunas de informações |
-| **Monitoramento**  | Verificar o cumprimento do que foi recomendado/exigido                                   |
-| **Acompanhamento** | Examinar ao longo de um período                                                          |
+![[Pasted image 20260909082752.png]]
 
-![[Pasted image 20260908170322.png]]
