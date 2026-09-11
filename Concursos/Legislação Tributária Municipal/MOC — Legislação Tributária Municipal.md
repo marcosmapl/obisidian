@@ -1,19 +1,37 @@
 
+## Geral
+
 - [[Lei Orgânica do Município de Manaus (LOMAN)]]
 - [[Lei nº1 .697 de 1983 (CTM)]]
-- [[Lei 1.628 de 2011 (IPTU)]]
-- [[Decreto 3.748 de 2017 (IPTU)]]
-- [[Lei 2.833 de 2021 (ISS)]]
-- [[Decreto 6.844 de 2026 (ISS)]]
-- [[Lei 459 de 1998 (ITBI)]]
-- [[Decreto 4.818 de 2000 (ITBI)]]
 - [[Lei 3.008 de 2023 (PAT)]]
-- [[Lei 2.383 de 2018 (Taxas)]]
-- [[Decreto 5.273/2022 (Taxas)]]
-- [[Lei 2.181 de 2016]]
 - [[Decreto 5.956 de 2024 (DT-e)]]
 - [[Lei 2.385 de 2018 (CARF-M)]]
 - [[Decreto 4.726 de 2019 (CARF-M).]]
+
+---
+## IPTU
+
+- [[Lei 1.628 de 2011 (IPTU)]]
+- [[Decreto 3.748 de 2017 (IPTU)]]
+
+---
+## ISSQN
+
+- [[Lei 2.833 de 2021 (ISS)]]
+- [[Decreto 6.844 de 2026 (ISS)]]
+
+---
+## ITBI
+
+- [[Lei 459 de 1998 (ITBI)]]
+- [[Decreto 4.818 de 2000 (ITBI)]]
+
+---
+## Taxas
+
+- [[Lei 2.383 de 2018 (Taxas)]]
+- [[Decreto 5.273/2022 (Taxas)]]
+- [[Lei 2.181 de 2016]]
 
 ---
 ## ZFM e ALC

@@ -1,29 +1,87 @@
 
+## Sociedade Uniprofissional (SUP) — Conceito e Requisitos (Art. 58)
+
+- **Conceito**: Aquela cujos sócios (habilitados para a mesma atividade) prestam serviços pessoalmente em nome da sociedade, assumindo responsabilidade pessoal.
+- **Requisitos obrigatórios para o enquadramento**:
+    - Constituição como sociedade civil de trabalho, sem caráter empresarial ou "elemento de empresa".
+    - **Proibição de ser S/A ou em comandita por ações.**
+    - Não possuir pessoa jurídica como sócio, nem "sócio capitalista" (que atue apenas aportando capital ou administrando).
+    - Proibição de terceirizar ou repassar a terceiros os serviços da atividade-fim.
+    - Inexistência de sócios que exerçam atividades diferentes da principal.
+    - **Todos os sócios/profissionais devem possuir habilitação específica e registro ativo no conselho de classe**.
+- **Auxiliares**: Aplica-se o limite de **até** **2 auxiliares** (sem a mesma qualificação profissional) por profissional habilitado atuante na sociedade.
+- **Simples Nacional**: O regime especial fixo **não se aplica** **a optantes pelo Simples Nacional**, **exceto escritórios de contabilidade**. Demais sociedades que ingressarem no Simples devem pedir o desenquadramento prévio, sob pena de exclusão de ofício.
+
+### Base de Cálculo e Recolhimento Fixo (Art. 59)
+
+- **Valor do Imposto**: O ISSQN fixo mensal equivale a **1 UFM** **multiplicada pelo número de profissionais** habilitados (sócios, empregados ou não) que prestam serviços em nome da SUP.
+- **Alterações cadastrais**: Ocorrendo admissão ou saída de profissionais, a SUP deve comunicar o Fisco para o recálculo do tributo a contar do registro da alteração.
+
+### Solicitação de Enquadramento no Regime Fixo (Art. 60)
+
+- **Procedimento**: O pedido de enquadramento deve ser feito eletronicamente via Sistema SIGED.
+- **Cobrança**: O ISS fixo mensal é devido e lançado **a partir do mês da opção** (admitindo-se proporcionalidade).
+- **Cessação do ISS Fixo**: O imposto deixa de ser devido:
+    - no mês posterior ao da baixa (municipal, CNPJ ou distrato);
+    - no mês seguinte à opção pelo regime _ad valorem_; ou
+    - a partir do mês de desenquadramento de ofício.
+
+### Hipóteses de Tributação Ad Valorem (Art. 61)
+
+- A tributação dar-se-á pela **alíquota comum (****_ad valorem_****)** incidente sobre o preço do serviço **se a sociedade**:
+    - não solicitar o enquadramento;
+    - descumprir os requisitos;
+    - optar expressamente por esse regime;
+    - possuir sócio investidor;
+    - explorar mais de uma atividade profissional;
+    - terceirizar sua atividade-fim; ou
+    - caracterizar-se como empresária.
+- **A SUP não está dispensada de emitir documentos fiscais e cumprir obrigações acessórias municipais**.
+
+### Instrução Documental e Análise (Arts. 62 e 63)
+
+- O pedido de enquadramento deve ser instruído com: formulário on-line, declaração de profissionais habilitados e auxiliares, ID do solicitante, e-Social/RAIS dos últimos 5 anos, contratos de prestadores de serviços, IRPJ dos últimos 5 anos e contrato social consolidado.
+- A documentação é analisada pelo setor responsável pelo cadastro mobiliário da SEMEF para homologação.
+
+###  Desenquadramento de Ofício e Efeitos (Arts. 64 e 65)
+
+- **Causa**: Ocorre se a SUP descumprir qualquer requisito ou nas hipóteses legais, produzindo **efeitos retroativos** **a partir do momento da infração**.
+- **Sancionamento**: O **embaraço fiscal, omissão ou incorreções cadastrais** geram o desenquadramento de ofício. A partir desse marco, cobra-se o ISSQN _ad valorem_ com base em arbitramento e Auto de Infração.
+
+### Impugnação do Desenquadramento (Arts. 66 e 67)
+
+- **Prazo**: O contribuinte tem **30 dias** para impugnar conjuntamente o desenquadramento e o auto de infração.
+- **Efeito Suspensivo**: A defesa **suspende os efeitos do desenquadramento e da cobrança** até decisão final no Processo Administrativo Tributário (PAT).
+    - **_Compensação_**: Confirmado o desenquadramento, valores já pagos como ISS Fixo no período são deduzidos do ISS _ad valorem_ lançado.
+    - **_Reingresso_**: Permitido após o saneamento das pendências, gerando efeitos a partir do novo pedido.
+
+### Calendário de Pagamentos e Impugnação do Lançamento (Arts. 68 a 70)
+
+- **Vencimento**: O ISS fixo dos autônomos (anual, em 12 cotas) e o das sociedades uniprofissionais (mensal) vencem no **dia 10 de cada mês**. Prorroga-se para o primeiro dia útil se recair em dia não útil.
+- **Impugnação do Lançamento Ordinário**:
+    - **_Autônomos_**: Até o vencimento da primeira parcela.
+    - **_SUP_**: Até o vencimento de cada parcela mensal.
+
+### Apuração Complementar por Divergência (Art. 71)
+
+- Constatado quantitativo de profissionais superior ao declarado, a SEMEF realiza o lançamento complementar de ofício, cobrando a diferença histórica retroativa (limitada à decadência) com juros, correção e multas. O contribuinte tem **30 dias** para impugnar a divergência.
+
 ## CAPÍTULO XIX — OBRIGAÇÃO ACESSÓRIA PERIÓDICA
 
 ### 1. DMSU-e — Declaração Mensal das Sociedades Uniprofissionais
 
 **Art. 72 — Instituição**
-
 - Criada a **Declaração Mensal das Sociedades Uniprofissionais Eletrônica (DMSU-e)**.
-    
 - Finalidade: **atualização e alteração cadastral** dos dados da Sociedade Uniprofissional relativos a:
-    
     - profissionais habilitados;
-        
     - auxiliares.
-        
 
 ### Prazo — ⚠️ MUITO IMPORTANTE
 
 **Art. 73**
-
 - Entrega da DMSU-e: **mensalmente, até o dia 10 de cada mês**.
-    
 - As alterações/atualizações cadastrais declaradas produzem efeitos em relação ao **fato gerador do mês da declaração**.
-    
 - O vencimento ocorre no **dia 10 do mês subsequente**.
-    
 
 ### Exigência especial de novembro — ⚠️
 

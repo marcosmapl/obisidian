@@ -1,7 +1,11 @@
 
 
-A Diretoria Executiva, subordinada ao Conselho Superior do CGIBS, é o **órgão**
-**técnico e executivo do CGIBS**.
+## Art. 25 — Estrutura 
+
+A Diretoria Executiva, subordinada ao Conselho Superior do CGIBS, é o **órgão** **técnico e executivo do CGIBS**.
+
+---
+## Art. 26 — Organização
 
 Integram a Diretoria Executiva:
 - um **Diretor-Executivo**, que a chefiará; e 
@@ -11,12 +15,12 @@ Integram a Diretoria Executiva:
 
 § 2º Os **ocupantes dos cargos integrantes de diretoria** a que se refere o caput deste artigo devem ter **reputação ilibada e notório conhecimento nas respectivas áreas de atuação** e ser escolhidos dentre os **servidores**, com **dedicação exclusiva, das carreiras de administração tributária** e, conforme o caso, de **outras carreiras de administração pública ou das carreiras das procuradorias**.
 
-> [!note] Deve ser respeitada a **paridade** e **alternância**
+> [!note] § 3º Deve ser respeitada a **paridade** e **alternância**
 
-> [!note] Reserva de **30% das vagas para mulheres**
+> [!note] § 3º Reserva de **30% das vagas para mulheres**
 
 ---
-## Do Diretor-Executivo
+## Art. 28 - Do Diretor-Executivo
 
 Eleito pelo **Conselho Superior do CGIBS**
 
@@ -35,7 +39,6 @@ Integram a Diretoria Executiva, as diretorias:
 7. **Administrativa**;
 8. de **Procuradorias**;
 9. de **Tesouraria**.
-
 
 | **Diretoria**                 | **Competência**                                                                                                                                                                                                |
 | ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
