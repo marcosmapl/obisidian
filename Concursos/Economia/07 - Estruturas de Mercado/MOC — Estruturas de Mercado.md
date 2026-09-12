@@ -15,6 +15,9 @@
 ---
 ## Índice
 
-- [[Lucro Total]]
+- [[Lucro de Produção]]
+- [[Receita Total]]
+- [[Receita Média]]
+- [[Receita Marginal]]
 - [[Concorrência Perfeita]]
-- 
+
