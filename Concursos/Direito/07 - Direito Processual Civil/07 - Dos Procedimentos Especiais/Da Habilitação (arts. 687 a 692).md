@@ -1,0 +1,2 @@
+
+Art. 687. A **habilitação ocorre quando**, por ==falecimento== de qualquer das partes, os **interessados houverem de suceder-lhe no processo**.

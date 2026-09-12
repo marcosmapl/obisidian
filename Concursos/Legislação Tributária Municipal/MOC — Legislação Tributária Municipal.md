@@ -3,6 +3,8 @@
 - [[Lei nº1 .697 de 1983 (CTM)]]
 - [[Lei 1.628 de 2011 (IPTU)]]
 - [[Decreto 3.748 de 2017 (IPTU)]]
+- [[Lei Complementar nº 116 de 2003 (ISS)]]
+- [[Decreto Lei nº 406 de 1968]]
 - [[Lei 2.833 de 2021 (ISS)]]
 - [[Decreto 6.844 de 2026 (ISS)]]
 - [[Lei 459 de 1998 (ITBI)]]
