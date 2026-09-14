@@ -9,4 +9,14 @@
 - [[Acordo de Não Persecução Penal (ANPP)]]
 
 
+## Excludentes
+
+- [[Excludentes de Ilicitude]]
+- [[Excludentes de Culpabilidade]]
+- [[Excludentes de Tipicidade]]
+
+![[Pasted image 20260914090237.png]]
+
+
+
 
