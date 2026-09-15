@@ -49,4 +49,17 @@ Os principais índices para medir a rentabilidade de uma empresa são os seguint
 - [[Liquidez Geral ou Total]]
 - [[Solvência Geral ou Margem de Garantia]]
 
+---
+## Índices de Endividamento
+
+- [[Índices de Estrutura de Capital (Endividamento)]]
+- [[Endividamento Total (Debt Ratio)]]
+- [[Endividamento Oneroso]]
+- [[Grau de Endividamento (Garantia de Capital de Terceiros)]]
+- [[Garantia do Capital Próprio ao Capital de Terceiros]]
+- [[Composição do Endividamento (Relação entre Dívidas)]]
+- [[Imobilização do Capital Próprio (ICP)]]
+- [[Imobilização dos Recursos Não Correntes (IRNC)]]
+- [[Imobilização do Investimento Total (Imobilização do Ativo Total)]]
+
 
