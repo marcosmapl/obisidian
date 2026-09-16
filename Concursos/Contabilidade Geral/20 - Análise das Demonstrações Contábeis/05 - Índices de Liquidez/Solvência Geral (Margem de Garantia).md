@@ -6,4 +6,8 @@
 ---
 ## Fórmula
 
-$$ Solvencia_{geral} = \frac{A}{PE} $$
+$$ SG = \frac{A_t}{P_{exg}} $$
+
+
+- **At**: ativo total
+- **Pexg**: passivo exigível

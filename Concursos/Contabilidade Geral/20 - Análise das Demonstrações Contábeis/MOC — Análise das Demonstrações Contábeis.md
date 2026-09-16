@@ -9,57 +9,28 @@
 
 Os principais índices para medir a rentabilidade de uma empresa são os seguintes:
 
-## Índices de Lucratividade
+### 1. [[MOC — Índices de Lucratividade]]
 
-- [[Margem Operacional (MO)]]
-- [[Margem Líquida (ML)]]
-- [[Margem Bruta (MB)]]
+### 2. [[MOC — Índices de Rentabilidade]]
 
----
-## Índices de Rentabilidade
+### 3. [[MOC — Alavancagem Financeira]]
 
-- [[Retorno sobre Investimento (ROI)]]
-- [[Retorno sobre o Ativo (ROA)]]
-- [[Retorno sobre o Patrimônio Líquido (RPL)]]
+### 4. [[MOC — Análise Horizontal e Vertical]]
 
----
-## Alavancagem Financeira
+### 5. [[MOC — Índices de Liquidez]]
 
-- [[Grau de Alavancagem Financeira (GAF)]]
 
----
-## Outros Indicadores
-
-- [[Giro do Ativo]]
-- [[Economic Value Added – EVA (Valor Econômico Agregado)]]
-- [[EBITDA]]
-
---- 
-## Análise Horizontal e Vertical
-
-- [[Análise Horizontal]]
-- [[Análise Vertical]]
-
----
-## Índices de Liquidez
-
-- [[Liquidez Imediata ou Instantânea]]
-- [[Liquidez Corrente ou Comum]]
-- [[Liquidez Seca ou Ácida]]
-- [[Liquidez Geral ou Total]]
-- [[Solvência Geral ou Margem de Garantia]]
-
----
 ## Índices de Endividamento
 
-- [[Índices de Estrutura de Capital (Endividamento)]]
+Mensurar a proporção do **capital próprio** em relação ao **capital de terceiros**
+
 - [[Endividamento Total (Debt Ratio)]]
 - [[Endividamento Oneroso]]
-- [[Grau de Endividamento (Garantia de Capital de Terceiros)]]
-- [[Garantia do Capital Próprio ao Capital de Terceiros]]
+- [[Grau de Endividamento (GE)]]
 - [[Composição do Endividamento (Relação entre Dívidas)]]
 - [[Imobilização do Capital Próprio (ICP)]]
 - [[Imobilização dos Recursos Não Correntes (IRNC)]]
 - [[Imobilização do Investimento Total (Imobilização do Ativo Total)]]
+- [[Índice Composição do Endividamento]]
 
 

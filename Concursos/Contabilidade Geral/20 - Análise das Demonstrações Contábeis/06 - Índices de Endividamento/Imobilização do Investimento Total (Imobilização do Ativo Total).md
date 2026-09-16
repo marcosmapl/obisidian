@@ -1,4 +1,4 @@
-## Imobilização do Investimento Total (Imobilização do Ativo Total)
+## Imobilização do Investimento Total (IIT)
 
 $$ IAT = \frac{A_{permanente}}{A_{total}} = \frac{ANC - ARLP}{A_{total}} $$​
 

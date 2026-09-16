@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Contabilidade Geral/20 - Análise das Demonstrações Contábeis/MOC — Análise das Demonstrações Contábeis.md",
+                "file": "Concursos/Contabilidade Geral/20 - Análise das Demonstrações Contábeis/06 - Índices de Endividamento/Imobilização do Investimento Total (Imobilização do Ativo Total).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MOC — Análise das Demonstrações Contábeis"
+              "title": "Imobilização do Investimento Total (Imobilização do Ativo Total)"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 455.93858337402344
+    "width": 506.3290252685547
   },
   "right": {
     "id": "36b906953263c637",
@@ -391,6 +391,16 @@
             "id": "e7b7c03a24bf27d4",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "6cc427417200a8c2",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -398,7 +408,7 @@
             }
           }
         ],
-        "currentTab": 27
+        "currentTab": 28
       }
     ],
     "direction": "horizontal",
@@ -420,32 +430,39 @@
   },
   "active": "4a984178e0a64aa6",
   "lastOpenFiles": [
-    "Concursos/Contabilidade Geral/20 - Análise das Demonstrações Contábeis/Índices de Estrutura de Capital (Endividamento).md",
+    "Concursos/Contabilidade Geral/20 - Análise das Demonstrações Contábeis/06 - Índices de Endividamento/Imobilização dos Recursos Não Correntes (IRNC).md",
+    "Concursos/Contabilidade Geral/20 - Análise das Demonstrações Contábeis/06 - Índices de Endividamento/Imobilização do Investimento Total (Imobilização do Ativo Total).md",
+    "Concursos/Contabilidade Geral/20 - Análise das Demonstrações Contábeis/06 - Índices de Endividamento/Grau de Endividamento (GE).md",
+    "Concursos/Contabilidade Geral/20 - Análise das Demonstrações Contábeis/06 - Índices de Endividamento/Imobilização do Capital Próprio (ICP).md",
+    "Concursos/Contabilidade Geral/20 - Análise das Demonstrações Contábeis/Índice de Imobilização dos Recursos não Correntes.md",
     "Concursos/Contabilidade Geral/20 - Análise das Demonstrações Contábeis/MOC — Análise das Demonstrações Contábeis.md",
-    "Concursos/Contabilidade Geral/20 - Análise das Demonstrações Contábeis/Imobilização do Investimento Total (Imobilização do Ativo Total).md",
-    "Concursos/Contabilidade Geral/20 - Análise das Demonstrações Contábeis/Imobilização dos Recursos Não Correntes (IRNC).md",
-    "Concursos/Contabilidade Geral/20 - Análise das Demonstrações Contábeis/Imobilização do Capital Próprio (ICP).md",
-    "Concursos/Contabilidade Geral/20 - Análise das Demonstrações Contábeis/Composição do Endividamento (Relação entre Dívidas).md",
+    "Concursos/Contabilidade Geral/20 - Análise das Demonstrações Contábeis/06 - Índices de Endividamento/Índice Composição do Endividamento.md",
     "Concursos/Contabilidade Geral/20 - Análise das Demonstrações Contábeis/Garantia do Capital Próprio ao Capital de Terceiros.md",
-    "Concursos/Contabilidade Geral/20 - Análise das Demonstrações Contábeis/Grau de Endividamento (Garantia de Capital de Terceiros).md",
-    "Concursos/Contabilidade Geral/20 - Análise das Demonstrações Contábeis/Endividamento Oneroso.md",
-    "Concursos/Contabilidade Geral/20 - Análise das Demonstrações Contábeis/Endividamento Total (Debt Ratio).md",
+    "Concursos/Contabilidade Geral/20 - Análise das Demonstrações Contábeis/06 - Índices de Endividamento",
+    "Concursos/Contabilidade Geral/20 - Análise das Demonstrações Contábeis/05 - Índices de Liquidez/MOC — Índices de Liquidez.md",
+    "Concursos/Contabilidade Geral/20 - Análise das Demonstrações Contábeis/05 - Índices de Liquidez/Solvência Geral (Margem de Garantia).md",
+    "Concursos/Contabilidade Geral/20 - Análise das Demonstrações Contábeis/05 - Índices de Liquidez/Liquidez Seca (Ácida).md",
+    "Concursos/Contabilidade Geral/20 - Análise das Demonstrações Contábeis/05 - Índices de Liquidez/Capital Circulante Líquido.md",
+    "Concursos/Contabilidade Geral/20 - Análise das Demonstrações Contábeis/05 - Índices de Liquidez",
+    "Concursos/Contabilidade Geral/20 - Análise das Demonstrações Contábeis/04 - Análises Vertical e Horizontal/MOC — Análise Horizontal e Vertical.md",
+    "Concursos/Contabilidade Geral/20 - Análise das Demonstrações Contábeis/03 - Alavancagem Financeira/MOC — Alavancagem Financeira.md",
+    "Concursos/Contabilidade Geral/20 - Análise das Demonstrações Contábeis/03 - Alavancagem Financeira",
+    "Concursos/Contabilidade Geral/20 - Análise das Demonstrações Contábeis/02 - Índices de Rentabilidade/MOC — Índices de Rentabilidade.md",
+    "Concursos/Contabilidade Geral/20 - Análise das Demonstrações Contábeis/02 - Índices de Rentabilidade",
+    "Concursos/Contabilidade Geral/20 - Análise das Demonstrações Contábeis/01 - Índices de Lucratividade/MOC — Índices de Lucratividade.md",
+    "Concursos/Contabilidade Geral/20 - Análise das Demonstrações Contábeis/01 - Índices de Lucratividade",
+    "Concursos/Contabilidade Geral/20 - Análise das Demonstrações Contábeis/04 - Análises Vertical e Horizontal",
+    "Concursos/Contabilidade Geral/20 - Análise das Demonstrações Contábeis/Índices de Estrutura de Capital (Endividamento).md",
+    "Concursos/Contabilidade Geral/20 - Análise das Demonstrações Contábeis/06 - Índices de Endividamento/Endividamento Total (Debt Ratio).md",
+    "Media/Pasted image 20260916081410.png",
+    "Concursos/Contabilidade Geral/20 - Análise das Demonstrações Contábeis/06 - Índices de Endividamento/Composição do Endividamento (Relação entre Dívidas).md",
+    "Concursos/Contabilidade Geral/20 - Análise das Demonstrações Contábeis/06 - Índices de Endividamento/Endividamento Oneroso.md",
     "Concursos/Contabilidade Geral/20 - Análise das Demonstrações Contábeis/Garantia do Capital de Terceiros.md",
     "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/Lei Complementar nº 227 de 2026/Dos Órgãos de Julgamento (arts. 88 a 96).md",
     "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/Lei Complementar nº 227 de 2026/MOC — LC 227 de 2026.md",
     "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/Lei Complementar nº 227 de 2026/Das Espécies Recursais (arts. 75 a 79).md",
     "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/Lei Complementar nº 227 de 2026/Dos Órgãos do CGIBS (Art. 7º).md",
     "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/Lei Complementar nº 227 de 2026/Do Pedido de Retificação (art. 80).md",
-    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/Lei Complementar nº 227 de 2026/Do Incidente de Uniformização Relativo à Legislação Específica do IBS (arts. 81 a 87).md",
-    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/Lei Complementar nº 227 de 2026/Do Controle Externo do CGIBS (arts. 40 a 53).md",
-    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/Lei Complementar nº 227 de 2026/Do Controle Externo do CGIBS.md",
-    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/Lei Complementar nº 227 de 2026/Das Diretrizes para a Fiscalização e a Cobrança Compartilhadas e Coordenadas do IBS (Art. 3º a 6º).md",
-    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/Lei Complementar nº 227 de 2026/Da Secretaria-Geral (art. 18).md",
-    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/Lei Complementar nº 227 de 2026/Da Secretaria-Geral.md",
-    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/Lei Complementar nº 227 de 2026/Da Presidência e da Vice-Presidência (arts. 12 a 17).md",
-    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/Lei Complementar nº 227 de 2026/Da Presidência e da Vice-Presidência.md",
-    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/Lei Complementar nº 227 de 2026/Da Diretoria Executiva (arts. 25 a 39).md",
-    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/Lei Complementar nº 227 de 2026/Da Diretoria Executiva.md",
     "Concursos/Direito/09 - Direito Processual Penal/03 - Das Medidas Assecuratórias",
     "Media/Pasted image 20260914090237.png",
     "Media/Pasted image 20260911090125.png",
@@ -457,14 +474,7 @@
     "Concursos/Auditoria/17 - Auditoria Governamental",
     "Concursos/Direito/06 - Direito Civil/09 - Dos Juros Legais (arts. 406 a 407)",
     "Concursos/Direito/06 - Direito Civil/08 - Da Mora (arts. 394 a 401)",
-    "Concursos/Direito/06 - Direito Civil/07 - Do Direito das Obrigações (arts. 233 a 420)/Sem título",
-    "Concursos/Direito/06 - Direito Civil/07 - Do Direito das Obrigações (arts. 233 a 420)",
     "Media/Pasted image 20260906215510.png",
-    "Concursos/Direito/05 - Direito Administrativo/17 - Lei de Acesso à Informação",
-    "Concursos/Direito/07 - Direito Processual Civil/07 - Dos Procedimentos Especiais",
-    "Concursos/Economia/07 - Estruturas de Mercado",
-    "Media/Pasted image 20260903222527.png",
-    "Media/Pasted image 20260903221819.png",
-    "Concursos/Contabilidade Geral/18 - CPC 25 (Provisões, Passivos Contingentes e Ativos Contingentes)"
+    "Media/Pasted image 20260903222527.png"
   ]
 }

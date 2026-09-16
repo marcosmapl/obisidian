@@ -1,4 +1,3 @@
-## Grau de Endividamento (Garantia de Capital de Terceiros)
 
 
 $$ G_{endividamento} = \frac{P_{exigivel}}{PL} = \frac{PC + PNC}{PL} $$
