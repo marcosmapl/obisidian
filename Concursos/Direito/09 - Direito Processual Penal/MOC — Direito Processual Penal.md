@@ -5,39 +5,25 @@ created: 2025-12-23T00:00:00
 updated: 2026-01-08T16:49:00
 ---
 
-## Definição
 
-> [!note] Direito Processual Penal
-> É o ramo do Direito Processual que regulamenta a aplicação do direito penal material, estabelecendo as normas e procedimentos para apuração de infrações penais e aplicação de sanções.
+## 01 - [[MOC — Do Inquérito Policial]]
 
----
-## Princípios Fundamentais
-
-- [[Princípios do Processo Penal]]
-- [[Presunção de Inocência]]
-- [[Contraditório e Ampla Defesa]]
-- [[Juiz Natural]]
-- [[Devido Processo Legal]]
-- [[Vedação das Provas Ilícitas]]
-- [[Duplo Grau de Jurisdição]]
-
----
-## Inquérito Policial
-
-- [[Inquérito Policial — Conceito]]
+- [[Inquérito Penal (arts. 4º a 23)]]
 - [[Características do Inquérito]]
 - [[Tramitação do Inquérito Policial]]
 - [[Notitia Criminis]]
 
 ---
-## Ação Penal
+## 02 - [[MOC — Ação Penal]]
 
-- [[Ação Penal — Conceito][]]
+- [[Disposições Gerais]]
+- [[Espécies de Ação Penal]]
 - [[Ação Penal Pública]]
+- [[Ação Penal Pública Condicionada]]
+- [[Ação Penal Pública Incondicionada]]
 - [[Ação Penal Privada]]
-- [[Denúncia]]
-- [[Queixa-Crime]]
-- [[Condições da Ação Penal]]
+- [[Extinção da Punibilidade da Ação Penal Privada]]
+- [[A Ordem de Vocação Hereditária (CADI)]]
 
 ---
 ## Processo Penal
@@ -50,10 +36,6 @@ updated: 2026-01-08T16:49:00
 - [[Medidas Cautelares]]
 
 ---
-## Recursos
+## 03 - [[MOC — Das Medidas Assecuratórias]]
 
-- [[Recursos no Processo Penal]]
-- [[Apelação]]
-- [[Recurso em Sentido Estrito]]
-- [[Embargos]]
-- [[Revisão Criminal]]
+- [[Das Medidas Assecuratórias (arts. 125 a 144)]]

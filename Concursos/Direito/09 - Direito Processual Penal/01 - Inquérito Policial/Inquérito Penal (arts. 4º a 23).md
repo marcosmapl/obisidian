@@ -63,6 +63,10 @@ Varia de acordo com a natureza da **ação penal**:
 > - **10 dias**, se o **indiciado tiver sido preso em flagrante**, ou **estiver preso preventivamente**, contado o prazo, nesta hipótese, a **partir do dia em que se executar a ordem de prisão**
 > - **30 dias**, quando estiver **solto**, **mediante fiança ou sem ela**.
 
+Art. 51. O inquérito policial será concluído no prazo de **30 (trinta) dias, se o indiciado estiver preso**, e de **90 (noventa) dias, quando solto**.
+
+Parágrafo único. Os prazos a que se refere este artigo podem ser **duplicados pelo juiz**, ouvido o Ministério Público, mediante pedido justificado da autoridade de polícia judiciária.
+
 ---
 ## Estudar 
 

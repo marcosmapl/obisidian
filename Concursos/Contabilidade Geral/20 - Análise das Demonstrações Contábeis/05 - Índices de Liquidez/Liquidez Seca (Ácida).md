@@ -9,4 +9,10 @@
 ---
 ## Fórmula
 
-$$ Liquidez_{seca} = \frac{AC - Estoques - Despesas_{antecipadas}}{PC} $$
+$$ ILS = \frac{AC - E - D_{ant}}{PC} $$
+
+
+- **AC**: ativo circulante
+- **E**: estoques
+- **Dant**: despesas antecipadas
+- **PC**: passivo circulante

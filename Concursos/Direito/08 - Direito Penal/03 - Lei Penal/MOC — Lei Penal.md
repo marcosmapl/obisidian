@@ -8,4 +8,3 @@ updated: 2026-07-07T14:10:00
 ## Índice
 
 - [[Classificação da Lei Penal]]
-

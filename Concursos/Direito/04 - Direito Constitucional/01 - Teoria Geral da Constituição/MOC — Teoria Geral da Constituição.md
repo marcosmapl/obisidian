@@ -38,13 +38,13 @@ updated: 2026-01-08T16:40:00
 - [[Normas de Eficácia Contida]]
 - [[Normas de Eficácia Limitada]]
 
+| **Tipo de Noma** | **Direta** | **Imediata** | **Integral** | **Restringível** | **Reduzida** |
+| ---------------- | :--------: | :----------: | :----------: | :--------------: | :----------: |
+| Plena            |     ✅      |      ✅       |      ✅       |        ❌         |      ❌       |
+| Contida          |     ✅      |      ✅       |      ❌       |        ✅         |      ❌       |
+| Limitada         |     ❌      |      ❌       |      ❌       |        ✅         |      ✅       |
+
 ![[Pasted image 20260528104200.png]]
-### Carlos Ayres Britto e Celso Ribeiro Bastos
-
-![[Pasted image 20260528110402.png]]
-### Maria Helena Diniz
-
-![[Pasted image 20260528110504.png]]
 
 **IMPORTANTE!**
 

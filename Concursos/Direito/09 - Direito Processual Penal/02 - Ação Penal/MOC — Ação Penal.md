@@ -6,6 +6,9 @@
 - [[Ação Penal Pública]]
 - [[Ação Penal Privada]]
 - [[A Ordem de Vocação Hereditária (CADI)]]
+- [[Acordo de Não Persecução Penal (ANPP)]]
+- [[Extinção da Punibilidade da Ação Penal Privada]]
+
 
 ## Prazos Decadenciais e Processuais (Crucial para FCC)
 

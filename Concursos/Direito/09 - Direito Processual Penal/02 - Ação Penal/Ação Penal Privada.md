@@ -12,3 +12,5 @@
 > 
 > **§ 2º do Art. 38 do Código de Processo Penal (CPP)** estabelece que, nos crimes praticados no âmbito de violência doméstica e familiar contra a mulher, o prazo de decadência para o exercício do direito de queixa ou de representação é de **12 (doze) meses**
 
+
+Art. 45. **A queixa, ainda quando a ação penal for privativa do ofendido, poderá ser aditada pelo Ministério Público, a quem caberá intervir em todos os termos subseqüentes do processo**.
