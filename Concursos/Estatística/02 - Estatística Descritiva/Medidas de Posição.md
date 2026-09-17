@@ -14,7 +14,7 @@ As **medidas de posição** são estatísticas que caracterizam o **comportament
 #### Média
 
 - [[Média Aritmética]]
-- [[Média Ponderada]]
+- [[Concursos/Contabilidade Geral/15 - CPC 16 (Estoques)/Média Ponderada]]
 - [[Média Geométrica]]
 - [[Média Harmônica]]
 

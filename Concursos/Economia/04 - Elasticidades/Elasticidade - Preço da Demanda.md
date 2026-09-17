@@ -29,6 +29,31 @@ $$ E_{pd} = \frac{ \% \Delta Q}{ \% \Delta P} $$
 
 ![[Pasted image 20260720215718.jpg]]
 
+### Ponto A
+
+- **Preço** é elevado
+- **Quantidade** é baixa
+- **Elasticidade**: tende ao infinito
+
+### Entre A e B
+
+$$ E_{pd} \gt 1 $$
+
+### Ponto B
+
+- Elasticidade **unitária**
+
+$$ E_{pd} = 1, \Delta P = \Delta Q $$
+
+### Entre B e C
+
+$$ E_{pd} \lt 1 $$
+
+### Ponto C
+
+- **Preço** é muito baixo
+- **Quantidade** é elevada
+- **Elasticidade** tende a **zero**
 
 ---
 ## Fatores Determinantes da EPD

@@ -17,7 +17,7 @@ updated: 2026-06-08T09:01:40
 ---
 ## Tópicos Relacionados
 
-- [[Média Ponderada]]
+- [[Concursos/Contabilidade Geral/15 - CPC 16 (Estoques)/Média Ponderada]]
 - [[Média Geométrica]]
 - [[Média Harmônica]]
 

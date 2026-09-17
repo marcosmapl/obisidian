@@ -16,5 +16,5 @@ A média harmônica é muito utilizada quando precisamos trabalhar com **grandez
 ## Tópicos Relacionados
 
 - [[Média Aritmética]]
-- [[Média Ponderada]]
+- [[Concursos/Contabilidade Geral/15 - CPC 16 (Estoques)/Média Ponderada]]
 - [[Média Geométrica]]

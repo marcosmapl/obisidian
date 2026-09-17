@@ -156,29 +156,18 @@ Quando não for possível obter antecipadamente o contrato de utilização do lo
 Para contribuinte não estabelecido em Manaus:
 
 - informa essa condição no pedido da APE-e;
-    
 - será criada **de ofício inscrição tributária municipal temporária**;
-    
 - a inscrição servirá para lançamento do ISSQN e demais exigências tributárias relacionadas ao evento.
-    
-
-#### ISSQN antecipado — ⚠️
 
 A concessão da APE-e fica condicionada:
-
 1. ao envio/análise dos documentos; e
-    
 2. ao **pagamento antecipado do ISSQN**.
-    
 
 #### Cachê artístico
 
 Se o realizador:
-
 - **não for estabelecido em Manaus**; e
-    
 - **não for o próprio artista**,
-    
 
 o ISSQN sobre o cachê deverá ser recolhido **antecipadamente, até a realização do evento**.
 
@@ -191,34 +180,16 @@ Após a realização do evento:
 → o Auditor Fiscal exigirá o **borderô/relatório de faturamento final** em até **5 dias úteis**.
 
 Deve conter, entre outros:
-
 - vendas totais;
-    
 - vendas parceladas;
-    
 - número de parcelas;
-    
 - vendas canceladas e motivos;
-    
 - identificação de quem cancelou;
-    
 - quantidade de pagantes;
-    
 - quantidade de cortesias;
-    
 - informações dos agentes de venda;
-    
 - identificação do responsável;
-    
 - documentos fiscais dos serviços tomados, inclusive **cachê artístico**.
-    
-
-### Diferença entre ISSQN antecipado e efetivamente devido
-
-- Se houver **diferença a recolher** → cobrança por notificação de lançamento ou auto de infração.
-    
-- Se o **ISSQN antecipado for maior** que o devido → contribuinte pode pedir **restituição ou compensação**.
-    
 
 ### ⚠️ Consequência da falta de prestação de contas
 
@@ -227,7 +198,6 @@ Deve conter, entre outros:
 Além disso:
 
 **sem certidão negativa de débitos → nova APE-e fica condicionada ao pagamento do ISSQN antecipado.**
-
 
 ### Contribuintes habituais
 
@@ -244,26 +214,20 @@ Contribuintes habituais:
 Se houver **atrações de fora do Estado do Amazonas**:
 
 → deverá ser requerida **APE-e específica para o evento**, com detalhamento de:
-
 - preços dos ingressos;
-    
 - cachê artístico.
-    
 
 #### Cessão do espaço
 
 Se o contribuinte habitual ceder seu espaço, gratuitamente ou onerosamente:
-
 → deve **exigir a APE-e do cessionário**.
 
 Descumprimento:
-
 → **multa de 20 UFM**.
 
 ### Nota Fiscal — APE-e
 
 Na emissão da **NFS-e Padrão Nacional** relativa aos serviços abrangidos pela APE-e:
-
 → é obrigatório informar o **número da APE-e**.
 
 ### Cortesia
@@ -275,21 +239,16 @@ Na emissão da **NFS-e Padrão Nacional** relativa aos serviços abrangidos pela
 ### Acima de 5%
 
 A cortesia excedente será **desconsiderada** para fins tributários.
-
 → ISSQN será apurado e lançado por **auto de infração**.
 
 ---
 ## Declaração Especial de Serviços Eletrônica
 
 A **DES-e** registra informações relativas aos serviços:
-
 - **3.03** — exploração de espaços para eventos/negócios;
-    
 - **17.11** — organização de festas e recepções; bufê.
-    
 
 Declarante:
-
 → **prestador dos serviços**.
 
 ### Prazo — ⚠️ MUITO IMPORTANTE
@@ -313,13 +272,10 @@ Formato:
 #### Dentro do prazo normal
 
 A DES-e retificadora pode ser enviada:
-
 → **até o prazo normal de entrega**  
 → **sem autorização do Fisco**.
 
 #### Depois do prazo — ⚠️
-
-Após o prazo:
 
 → é necessária **autorização do Fisco Municipal**.
 
@@ -328,13 +284,11 @@ O pedido é realizado **no próprio programa da declaração**.
 #### Como funciona a retificação?
 
 A retificadora deve substituir:
-
 → somente as **linhas ou colunas alteradas**.
 
 Não é necessário preencher novamente todos os campos.
 
 Se a alteração repercutir em outros campos:
-
 → estes também deverão ser corrigidos.
 
 ### Mesmo sem evento, há obrigação!
@@ -342,7 +296,6 @@ Se a alteração repercutir em outros campos:
 **Art. 108 — ⚠️ PEGADINHA**
 
 Se **não houver realização de eventos**:
-
 → o contribuinte **AINDA DEVE enviar a DES-e**.
 
 Deve utilizar a expressão:
@@ -352,11 +305,8 @@ Deve utilizar a expressão:
 ### Penalidade da DES-e
 
 Não enviar a DES-e ou enviá-la com:
-
 - omissões; ou
-    
 - inexatidões
-    
 
 → **multa de 10 UFM por declaração**.
 

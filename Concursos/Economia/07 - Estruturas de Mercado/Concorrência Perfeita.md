@@ -5,6 +5,8 @@ Um mercado em concorrência perfeita é chamado de **mercado competitivo**, e as
 
 A principal característica desse tipo de mercado é que **tanto os consumidores quanto as firmas são tomadores de preços**.
 
+> [!info] **Condições de Entrada** são nulas (zero).
+
 ### Mercado atomizado
 
 **Muitos vendedores e compradores** nenhum deles influencia o mercado
@@ -43,11 +45,9 @@ $$ P \ge CMe $$
 - q: **quantidade**
 - CMe: **custo médio**
 
-
 ---
 ## Curva de Demanda
 
-![[Pasted image 20260911090125.png]]
 
 ---
 ## Prejuízos e Regra de Fechamento

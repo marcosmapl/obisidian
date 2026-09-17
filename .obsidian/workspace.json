@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "cfd6443409938bef",
+        "id": "70d0c50dcbbe5c4c",
         "type": "tabs",
         "children": [
           {
-            "id": "d22f4493f5378423",
+            "id": "4514393976bc3a0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Economia/07 - Estruturas de Mercado/Custo de Produção.md",
+                "file": "Concursos/Legislação Tributária Municipal/Lei nº 459 de 1998 (ITBI).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Custo de Produção"
+              "title": "Lei nº 459 de 1998 (ITBI)"
             }
           }
         ]
@@ -338,27 +338,7 @@
             }
           },
           {
-            "id": "4dd610cb2eae9dc7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "e61adda080fb7517",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "31068b1c459943f6",
+            "id": "ba92af23df9a60e7",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -368,7 +348,7 @@
             }
           }
         ],
-        "currentTab": 25
+        "currentTab": 22
       }
     ],
     "direction": "horizontal",
@@ -388,40 +368,39 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d22f4493f5378423",
+  "active": "4514393976bc3a0e",
   "lastOpenFiles": [
-    "Concursos/Economia/07 - Estruturas de Mercado/Concorrência Perfeita.md",
-    "Concursos/Economia/07 - Estruturas de Mercado/Custo de Produção.md",
-    "Concursos/Economia/07 - Estruturas de Mercado/Lucro de Produção.md",
-    "Concursos/Economia/01 - Conceitos Fundamentais/Custo de Oportunidade.md",
-    "Concursos/Economia/05 - Teoria da Firma/Curvas de Produção.md",
-    "Concursos/Economia/05 - Teoria da Firma/Curto Prazo.md",
-    "Concursos/Economia/05 - Teoria da Firma/Fatores de Produção.md",
-    "Concursos/Economia/05 - Teoria da Firma/Função de Produção.md",
-    "Concursos/Economia/05 - Teoria da Firma/Longo Prazo.md",
-    "Media/Pasted image 20260911090125.png",
-    "Concursos/Economia/07 - Estruturas de Mercado/MOC — Estruturas de Mercado.md",
-    "Concursos/Economia/07 - Estruturas de Mercado/Receita Total.md",
-    "Concursos/Economia/07 - Estruturas de Mercado/Receita Média.md",
-    "Concursos/Economia/07 - Estruturas de Mercado/Receita Marginal.md",
-    "Concursos/Economia/06 - Macroeconômia/Tipos de Mercado.md",
-    "Media/Pasted image 20260910165441.png",
-    "Media/Pasted image 20260910165003.png",
-    "Concursos/Economia/06 - Macroeconômia/Macroeconomia.md",
-    "Concursos/Legislação Tributária Municipal/Decreto 6.844 de 2026 (ISS).md",
     "Concursos/Legislação Tributária Municipal/MOC — Legislação Tributária Municipal.md",
-    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/LC 227 2026/Disposições Finais (arts. 98 a 102).md",
-    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/LC 227 2026/MOC — LC 227 de 2026.md",
-    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/LC 227 2026/Da Representação da Fazendo Pública (art. 97).md",
-    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/LC 227 2026/Dos Órgãos de Julgamento (arts. 88 a 96).md",
-    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/LC 227 2026/Do Incidente de Uniformização Relativo à Legislação Específica do IBS (arts. 81 a 87).md",
-    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/LC 227 2026/Do Pedido de Retificação (art. 80).md",
-    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/LC 227 2026/Das Espécies Recursais (arts. 75 a 79).md",
-    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/LC 227 2026/Do Contencioso Administrativo Tributário (arts. 67 a 74).md",
-    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/LC 227 2026/Das Normas Processuais (arts. 54 a 66).md",
-    "Media/Pasted image 20260909082752.png",
-    "Media/Pasted image 20260909082635.jpg",
-    "Media/Pasted image 20260908170322.png",
+    "Instrumentos de Fiscalização (TCU).md",
+    "Concursos/Legislação Tributária Municipal/Lei nº 459 de 1998 (ITBI).md",
+    "Concursos/Legislação Tributária Municipal/Lei nº 1 .697 de 1983 (CTM).md",
+    "Concursos/Legislação Tributária Municipal/Decreto Lei nº 406 de 1968.md",
+    "Concursos/Contabilidade Geral/15 - CPC 16 (Estoques)/Mensuração de Estoques.md",
+    "Concursos/Contabilidade Geral/15 - CPC 16 (Estoques)/Valor Realizável Líquido (VRL).md",
+    "Concursos/Contabilidade Geral/15 - CPC 16 (Estoques)/Critérios de Avaliação de Estoques.md",
+    "Concursos/Contabilidade Geral/15 - CPC 16 (Estoques)/Média Ponderada.md",
+    "Concursos/Contabilidade Geral/15 - CPC 16 (Estoques)/Último que Entra e Primeiro que Sai (UEPS).md",
+    "Concursos/Contabilidade Geral/15 - CPC 16 (Estoques)/Primeiro que Entra e o Primeiro que Sai (PEPS).md",
+    "Concursos/Contabilidade Geral/15 - CPC 16 (Estoques)/MOC — CPC 16.md",
+    "Concursos/Contabilidade Geral/15 - CPC 16 (Estoques)/Receita com venda de mercadorias.md",
+    "Concursos/Contabilidade Geral/05 - Ativo/Custos Mercadoria Vendida (CMV).md",
+    "Concursos/Legislação Tributária Municipal/Decreto 6.844 de 2026 (ISS).md",
+    "Concursos/Economia/04 - Elasticidades/Elasticidade - Preço da Demanda.md",
+    "Concursos/Economia/07 - Estruturas de Mercado/Concorrência Perfeita.md",
+    "Concursos/Legislação Tributária Municipal/Lei Complementar nº 116 de 2003 (ISS).md",
+    "Sem título.md",
+    "Lei Complementar nº 116/2003.md",
+    "Lei Complementar nº 116",
+    "Concursos/Direito/07 - Direito Processual Civil/07 - Dos Procedimentos Especiais/Ação Monitória (art. 700).md",
+    "Concursos/Direito/07 - Direito Processual Civil/07 - Dos Procedimentos Especiais/MOC — Dos Procedimentos Especiais.md",
+    "Concursos/Direito/07 - Direito Processual Civil/07 - Dos Procedimentos Especiais/Das Ações de Família (arts. 693 a 699-A).md",
+    "Concursos/Direito/07 - Direito Processual Civil/07 - Dos Procedimentos Especiais/Da Habilitação (arts. 687 a 692).md",
+    "Concursos/Direito/07 - Direito Processual Civil/07 - Dos Procedimentos Especiais/Da Oposição (arts. 682 a 686).md",
+    "Concursos/Direito/07 - Direito Processual Civil/07 - Dos Procedimentos Especiais/Embargos de terceiro (arts. 674 a 681).md",
+    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/Emenda Constitucional nº 132 de 2023",
+    "Media/Pasted image 20260909222229.png",
+    "Media/Pasted image 20260909222155.png",
+    "Media/Pasted image 20260909222151.png",
     "Concursos/Auditoria/17 - Auditoria Governamental",
     "Concursos/Direito/06 - Direito Civil/09 - Dos Juros Legais (arts. 406 a 407)",
     "Concursos/Direito/06 - Direito Civil/08 - Da Mora (arts. 394 a 401)",
@@ -434,6 +413,8 @@
     "Media/Pasted image 20260903222527.png",
     "Media/Pasted image 20260903221819.png",
     "Media/Pasted image 20260903213001.png",
-    "Concursos/Contabilidade Geral/18 - CPC 25 (Provisões, Passivos Contingentes e Ativos Contingentes)"
+    "Media/Pasted image 20260902120129.png",
+    "Media/Pasted image 20260902120115.png",
+    "Media/Pasted image 20260902120025.png"
   ]
 }

@@ -2,18 +2,11 @@
 ## Geral
 
 - [[Lei Orgânica do Município de Manaus (LOMAN)]]
-- [[Lei nº1 .697 de 1983 (CTM)]]
-<<<<<<< HEAD
-- [[Lei 1.628 de 2011 (IPTU)]]
-- [[Decreto 3.748 de 2017 (IPTU)]]
+- [[Lei nº 1 .697 de 1983 (CTM)]]
 - [[Lei Complementar nº 116 de 2003 (ISS)]]
 - [[Decreto Lei nº 406 de 1968]]
-- [[Lei 2.833 de 2021 (ISS)]]
-- [[Decreto 6.844 de 2026 (ISS)]]
-- [[Lei 459 de 1998 (ITBI)]]
+- [[Lei nº 459 de 1998 (ITBI)]]
 - [[Decreto 4.818 de 2000 (ITBI)]]
-=======
->>>>>>> 743b590602e4aa67e269d494fbd63a99481304a8
 - [[Lei 3.008 de 2023 (PAT)]]
 - [[Decreto 5.956 de 2024 (DT-e)]]
 - [[Lei 2.385 de 2018 (CARF-M)]]
@@ -34,7 +27,7 @@
 ---
 ## ITBI
 
-- [[Lei 459 de 1998 (ITBI)]]
+- [[Lei nº 459 de 1998 (ITBI)]]
 - [[Decreto 4.818 de 2000 (ITBI)]]
 
 ---

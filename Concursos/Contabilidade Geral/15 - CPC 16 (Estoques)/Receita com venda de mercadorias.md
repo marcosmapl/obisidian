@@ -1,15 +1,7 @@
-## Receita com venda de mercadorias
+## Receita com Venda de Mercadorias
 
 - **Receita Bruta** ⇒ **Faturamento Bruto – IPI**
-- **Lucro Bruto** ⇒ **Receita Líquida** **–** **Custo da Mercadoria Vendida (CMV)**
-
-$$ CMV = E_i + C_L - E_f $$
-
-Onde:
-- Ei: **estoque inicial**;
-- Ef: **estoque final**; e
-- CL: **compras líquidas**
-
+- **Lucro Bruto** ⇒ **Receita Líquida** **–** [[Custos Mercadoria Vendida (CMV)]]
 
 ⚠️ **Não confunda**
 
