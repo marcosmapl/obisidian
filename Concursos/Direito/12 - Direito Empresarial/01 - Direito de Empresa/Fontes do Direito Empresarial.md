@@ -11,12 +11,12 @@ updated: 2026-05-28T21:10:00
 - **Lei das Sociedades por Ações** (Lei nº 6.404 de 1976)
 - **Lei da Propriedade Industrial** (Lei nº 9.279 de 1996)
 - **Lei Uniforme de Genebra** (LUG);
-- **Lei do Cheque** (Lei 7.357 de 1985); 
-- **Lei das Duplicatas** (Lei 5.474 de 1968); 
+- **Lei do Cheque** (Lei nº 7.357 de 1985); 
+- **Lei das Duplicatas** (Lei nº 5.474 de 1968); 
 - **Código Civil**: Direito Cambiário dos Artigos 887 a 926
-- **Lei do Protesto** (Lei 9.492 de 1997)
-- **Lei de Recuperação de Empresas** ou também chamada de **Lei de Falências** (Lei 11.101 de 2005)
-- **Lei das ME e EPP** (Lei Complementar 123 de 2006)
+- **Lei do Protesto** (Lei nº 9.492 de 1997)
+- **Lei de Recuperação de Empresas** ou também chamada de **Lei de Falências** (Lei nº 11.101 de 2005)
+- **Lei das ME e EPP** (Lei Complementar  nº 123 de 2006)
 
 ---
 ## Fontes Secundárias
