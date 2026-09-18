@@ -27,7 +27,7 @@ Mensurar a proporção do **capital próprio** em relação ao **capital de terc
 - [[Endividamento Total (Debt Ratio)]]
 - [[Endividamento Oneroso]]
 - [[Grau de Endividamento (GE)]]
-- [[Composição do Endividamento (Relação entre Dívidas)]]
+- [[Índice de Composição do Endividamento (ICE)]]
 - [[Imobilização do Capital Próprio (ICP)]]
 - [[Imobilização dos Recursos Não Correntes (IRNC)]]
 - [[Imobilização do Investimento Total (Imobilização do Ativo Total)]]
