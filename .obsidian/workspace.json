@@ -361,6 +361,16 @@
             "id": "d0a604825d8c4e9c",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "d52d9620cda96abd",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -368,7 +378,7 @@
             }
           }
         ],
-        "currentTab": 24
+        "currentTab": 25
       }
     ],
     "direction": "horizontal",
@@ -388,7 +398,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4514393976bc3a0e",
+  "active": "d52d9620cda96abd",
   "lastOpenFiles": [
     "Concursos/Economia/06 - Macroeconômia/Moeda.md",
     "Media/Pasted image 20260920172116.png",
