@@ -59,9 +59,9 @@ Pode cresce por dois motivis:
 
 > [!tip] Usar o preço do **ano base** multiplicado pela **quantidade produzida** no **ano corrente**.
 
-#### Deflator Implícito do PIB
+#### Deflator do PIB
 
-$$ Deflator_{imp} = \frac{PIB_{nominal}}{PIB_{real}} $$
+$$ Deflator_{imp} = \frac{PIB_{nominal}}{PIB_{real}} \times 100 $$
 
 ### PIB a preço de mercado
 

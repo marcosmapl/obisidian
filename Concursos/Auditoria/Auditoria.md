@@ -11,14 +11,12 @@ updated: 2026-07-03T00:00:00
 ---
 ## Estrutura da Disciplina
 
-### 1. Auditoria Privada
-
-#### 1.1 Estrutura Conceitual para Trabalhos de Asseguração
+### 1. Estrutura Conceitual para Trabalhos de Asseguração
 
 - [[Concursos/Auditoria/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais|MOC — Conceitos Fundamentais]]
 - [[Concursos/Auditoria/01 - Conceitos Fundamentais/MOC — Classificação da Auditoria|MOC — Classificação da Auditoria]]
 
-#### 1.2 Auditoria Independente
+### 2. Auditoria Independente
 
 - [[Concursos/Auditoria/02 - Auditor/MOC — O Auditor|MOC — O Auditor]]
 - [[Concursos/Auditoria/03 - Processo de Auditoria/MOC — Processo de Auditoria|MOC — Processo de Auditoria]]

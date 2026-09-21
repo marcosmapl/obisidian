@@ -19,18 +19,7 @@ Os principais índices para medir a rentabilidade de uma empresa são os seguint
 
 ### 5. [[MOC — Índices de Liquidez]]
 
+### 6. [[MOC —  Índices de Endividamento]]
 
-## Índices de Endividamento
-
-Mensurar a proporção do **capital próprio** em relação ao **capital de terceiros**
-
-- [[Endividamento Total (Debt Ratio)]]
-- [[Endividamento Oneroso]]
-- [[Grau de Endividamento (GE)]]
-- [[Índice de Composição do Endividamento (ICE)]]
-- [[Imobilização do Capital Próprio (ICP)]]
-- [[Imobilização dos Recursos Não Correntes (IRNC)]]
-- [[Imobilização do Investimento Total (Imobilização do Ativo Total)]]
-- [[Índice Composição do Endividamento]]
-
+### 7. [[MOC — Índices de Atividade]]
 

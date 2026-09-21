@@ -23,7 +23,7 @@ updated: 2026-01-20T21:40:00
 - [[Procedimento de Confirmação Externa]]
 - [[Procedimento de Recálculo]]
 - [[Procedimento de Reexecução]]
-- [[Procedimentos Analíticos]]
+- [[Procedimento Analítico]]
 - [[Procedimento de Indagação]]
 
 ![[Pasted image 20260110084323.png]]

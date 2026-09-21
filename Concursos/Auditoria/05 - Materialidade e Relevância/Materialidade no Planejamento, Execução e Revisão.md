@@ -5,10 +5,6 @@ created: 2026-07-03T00:00:00
 updated: 2026-07-03T00:00:00
 ---
 
-## Conceito
-
-> [!note] Materialidade em Auditoria
-> Materialidade é o parâmetro utilizado pelo auditor para avaliar a relevância das distorções e definir a extensão do trabalho.
 
 ## No planejamento
 
@@ -32,7 +28,6 @@ updated: 2026-07-03T00:00:00
 ---
 ## Tópicos Relacionados
 
-- [[Materialidade e Relevância]]
 - [[Julgamento Profissional]]
 - [[Riscos em Auditoria]]
 - [[Avaliação de Distorções Identificadas]]

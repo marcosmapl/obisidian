@@ -1,10 +1,10 @@
-## Regime Tributário Favorecido da ZFM na LC nº 214/2025
 
 _Arts. 439 a 457 da LC nº 214/2025_
 
 O Capítulo I do Título I do Livro III da LC nº 214/2025 disciplina o novo regime tributário do IBS e da CBS aplicável à ZFM, estabelecendo que os benefícios ali previstos **aplicam-se até a data estabelecida pelo art. 92-A do ADCT** (2073).
 
-### 1.1. Conceitos Fundamentais
+---
+## 1.1. Conceitos Fundamentais
 
 Para fins do regime da ZFM, a lei estabelece as seguintes definições centrais:
 
@@ -17,7 +17,8 @@ Para fins do regime da ZFM, a lei estabelece as seguintes definições centrais:
 
 ⚠️ Nas operações entre **partes relacionadas**, observa-se a regra geral de base de cálculo da LC 214/2025, cujo parâmetro é o **valor da operação**, ressalvada a hipótese de partes relacionadas, em que a base de cálculo corresponde ao **valor de mercado** dos bens ou serviços — assim entendido o valor praticado em operações comparáveis entre partes **não** relacionadas.
 
-### 1.2. Habilitação aos Incentivos Fiscais
+---
+## 1.2. Habilitação aos Incentivos Fiscais
 
 _Art. 442 da LC nº 214/2025, com redação da LC nº 227/2026_
 
@@ -30,7 +31,8 @@ A habilitação é **condição** para fruição dos incentivos e se dá em du
 
 No processo de aprovação dos projetos e dos PPBs, **deverão ser ouvidos o Estado do Amazonas e o Município de Manaus**.
 
-### 1.3. Bens Não Contemplados pelo Regime Favorecido da ZFM
+---
+## 1.3. Bens Não Contemplados pelo Regime Favorecido da ZFM
 
 _Art. 441 da LC nº 214/2025_
 
@@ -47,7 +49,8 @@ _Art. 441 da LC nº 214/2025_
 
 **🔥Decore essa lista 🔥**
 
-### 1.4. Suspensão na Importação e Conversão em Isenção
+---
+## 1.4. Suspensão na Importação e Conversão em Isenção
 
 _Art. 443 da LC nº 214/2025_
 
@@ -64,7 +67,8 @@ A suspensão **converte-se em ISENÇÃO** nas seguintes hipóteses:
 
 Caso os bens sejam remetidos para **fora da ZFM antes da conversão em isenção**, o importador deverá recolher os tributos suspensos com acréscimos legais, sendo-lhe permitida, contudo, a apropriação de créditos quanto aos valores efetivamente pagos (exceto acréscimos legais).
 
-### 1.5. Crédito Presumido na Importação para Revenda Presencial
+---
+## 1.5. Crédito Presumido na Importação para Revenda Presencial
 
 _Art. 444 da LC nº 214/2025_
 
@@ -73,29 +77,27 @@ Ao contribuinte **habilitado** (regime regular ou Simples Nacional) é concedi
 Ao importador sujeito ao regime regular, é garantida ainda a apropriação **integral** dos créditos de IBS pelo valor do tributo incidente na importação.
 
 O importador deverá **recolher o IBS correspondente ao valor do crédito presumido deduzido** do valor devido na importação, com os acréscimos legais cabíveis, **desde a data da importação**, caso:
-
-(i) a revenda não cumpra a exigência de ser presencial na ZFM;
-
-(ii) não se comprove o ingresso do bem no estabelecimento de destino nos prazos regulamentares; ou
-
-(iii) o bem seja revendido ou transferido para **fora** da ZFM.
+- (i) a revenda não cumpra a exigência de ser presencial na ZFM;
+- (ii) não se comprove o ingresso do bem no estabelecimento de destino nos prazos regulamentares; ou
+- (iii) o bem seja revendido ou transferido para **fora** da ZFM.
 
 ⚠️ Atenção: aqui a lei determina **recolhimento** do imposto; o **estorno** do crédito presumido é a técnica dos dispositivos que tratam da aquisição de bem industrializado nacional (adiante).
 
-### 1.6. Alíquota Zero nas Remessas para a ZFM (Aquisição Nacional)
+---
+## 1.6. Alíquota Zero nas Remessas para a ZFM (Aquisição Nacional)
 
 _Art. 445 da LC nº 214/2025_
 
 Ficam **REDUZIDAS A ZERO** as alíquotas de IBS e CBS incidentes sobre operação **originada fora da ZFM** que destine **bem material industrializado de origem nacional** a contribuinte estabelecido na ZFM que seja: (i) **habilitado**; e (ii) sujeito ao **regime regular** ou **optante pelo Simples Nacional**.
 
 ⛔ Essa alíquota zero **não se aplica** às operações com:
-
 - os **bens não contemplados pelo regime favorecido** da ZFM; e
 - os bens de **uso e consumo pessoal**, salvo se demonstrado que são necessários ao desenvolvimento da atividade do contribuinte vinculada ao projeto técnico-econômico aprovado.
 
 O contribuinte do regime regular que realizar tais operações **poderá apropriar e utilizar os créditos** relativos às operações antecedentes. Devem ser instituídos **controles específicos** de verificação de entrada dos bens na ZFM; **na ausência de comprovação** de ingresso nos prazos regulamentares, o contribuinte deverá recolher o valor que seria devido sem a redução a zero, com acréscimos legais. A regra se aplica também ao bem intermediário submetido a **industrialização por encomenda**.
 
-### 1.7. Incidência do IBS na Entrada no Estado do Amazonas
+---
+## 1.7. Incidência do IBS na Entrada no Estado do Amazonas
 
 _Art. 446 da LC nº 214/2025_
 
@@ -105,7 +107,8 @@ A ressalva legal é a **destinação a indústria incentivada para utilização
 
 🎯 A função do mecanismo é **preservar a arrecadação do IBS ao Estado do Amazonas**, concentrando a desoneração plena na **indústria incentivada** — com **alívio de 30%** sobre a alíquota cheia para os demais destinatários, além do direito ao crédito correspondente.
 
-### 1.8. Crédito Presumido na Aquisição de Bem Industrializado Nacional
+---
+## 1.8. Crédito Presumido na Aquisição de Bem Industrializado Nacional
 
 _Art. 447 da LC nº 214/2025_
 
@@ -126,7 +129,8 @@ O crédito deve ser **estornado** (com acréscimos legais, se aplicável) caso
 
 Quando do retorno de bens submetidos a **industrialização por encomenda**, o crédito presumido aplica-se **apenas ao valor agregado** nesse processo.
 
-### 1.9. Alíquota Zero entre Indústrias Incentivadas (Bem Intermediário)
+---
+## 1.9. Alíquota Zero entre Indústrias Incentivadas (Bem Intermediário)
 
 _Art. 448 da LC nº 214/2025_
 
@@ -134,13 +138,15 @@ Ficam **REDUZIDAS A ZERO** as alíquotas de IBS e CBS incidentes sobre operaç
 
 O benefício **não se aplica** às operações com os bens de que trata o §1º do art. 443 (bens não contemplados pelo regime e bens de uso e consumo pessoal). É assegurada a apropriação e utilização de créditos relativos às operações antecedentes ao contribuinte do regime regular. Aplica-se também à industrialização por encomenda, quanto ao valor adicionado.
 
-### 1.10. Crédito Presumido na Aquisição de Bem Intermediário Produzido na ZFM
+---
+## 1.10. Crédito Presumido na Aquisição de Bem Intermediário Produzido na ZFM
 
 _Art. 449 da LC nº 214/2025_
 
 À indústria incentivada, sujeita ao regime regular, é concedido **crédito presumido de IBS** na aquisição de **bem intermediário produzido na ZFM** e contemplado pela alíquota zero do art. 448 acima, desde que utilizado para **incorporação** ou **consumo** na produção de **bens finais**. O percentual é fixo de ****7,5% sobre o valor da operação**. No retorno de industrialização por encomenda, aplica-se apenas ao valor agregado.
 
-### 1.11. Crédito Presumido nas Vendas ao Território Nacional (Coração do Regime)
+---
+## 1.11. Crédito Presumido nas Vendas ao Território Nacional (Coração do Regime)
 
 _Art. 450 da LC nº 214/2025, com redação da LC nº 227/2026_
 
@@ -187,13 +193,15 @@ A LC nº 227/2026 **incluiu o §6º** ao art. 450, disciplinando a **operacio
 
 (iv) havendo **saldo a recuperar**, os valores dos débitos extintos no período de apuração são **transferidos à indústria incentivada, até o limite do referido saldo a recuperar, em até 3 dias úteis** da conclusão da apuração.
 
-### 1.12. Alíquota Zero de CBS nas Operações Internas à ZFM
+---
+## 1.12. Alíquota Zero de CBS nas Operações Internas à ZFM
 
 _Art. 451 da LC nº 214/2025_
 
 Ficam **reduzidas a zero** as alíquotas da **CBS** (apenas CBS, não IBS) incidentes sobre operações realizadas por **pessoas jurídicas** estabelecidas na ZFM, com bem material de origem nacional ou serviços prestados fisicamente, quando destinadas a pessoa física ou jurídica **localizadas dentro da própria ZFM**. É assegurada a apropriação e utilização dos créditos das operações antecedentes.
 
-### 1.13. Limites de Utilização dos Créditos Presumidos
+----
+## 1.13. Limites de Utilização dos Créditos Presumidos
 
 _Art. 452 da LC nº 214/2025_
 
@@ -201,7 +209,7 @@ Os créditos presumidos de IBS e CBS previstos nos arts. 444, 447, 449 e 450 **
 
 O direito de utilização **extingue-se em 5 anos**, contados do primeiro dia do mês subsequente ao da apropriação.
 
-### 1.14. Regra Residual
+## 1.14. Regra Residual
 
 _Art. 453 da LC nº 214/2025_
 

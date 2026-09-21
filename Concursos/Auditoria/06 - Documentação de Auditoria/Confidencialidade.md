@@ -12,4 +12,3 @@ updated: 2026-01-06T21:10:00
 
 > [!tip] É muito mais em relação a terceiros do que propriamente em relação à entidade auditada
 
-#auditoria/documentacao_auditoria/confidencialidade

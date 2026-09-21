@@ -1,0 +1,16 @@
+
+- Processar e julgar por **responsabilidade** (aí o presidente da sessão será o presidente do STF, e  o quórum será de 2/3, + inabilitação por 8 anos para função pública)
+    - Presidente
+    - Ministros e Comandantes por crimes **conexos** com o Presidente
+    - STF, CNJ, CNMP, PGR e AGU
+- Aprovar por **voto secreto e arguição pública**
+    - Magistrados, TCU indicados pelo Presidente
+    - Governador de Território
+    - Presidente e Diretores do BACEN
+    - PGR e outros que a lei mandar
+- **ÚNICO QUE APROVA POR VOTO SECRETO + ARGUIÇÃO SECRETA**
+    - Chefe de missão diplomática **permanente**
+- **Maioria absoluta + voto secreto**
+    - Exoneração de ofício do PGR
+    - Eleger membros do conselho da república
+- Avaliar periodicamente o Sistema Tributário Nacional

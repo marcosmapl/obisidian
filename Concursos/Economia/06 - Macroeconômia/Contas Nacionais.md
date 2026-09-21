@@ -58,7 +58,9 @@ Entenda como renda que a **NAÇÃO** **(não só o governo )** tem para gasta
 
 $$ RND = RNL + Transferencias $$
 
-|Remda
+Ou
+
+$$ RND = C + S $$
 
 
 ---

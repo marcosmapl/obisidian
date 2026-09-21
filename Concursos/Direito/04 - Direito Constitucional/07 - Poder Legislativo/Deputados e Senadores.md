@@ -1,0 +1,27 @@
+
+- A partir da **Expedição do Diploma**:
+    - Julga pelo STF
+    - Só vai **preso** se **flagrante inafiançável** à Aí envia os autos em 24hs para a **Casa decidir pela MAIORIA**
+        - Por **iniciativa de qlq partido** político nela representado **+ maioria dos membros**, **pode sustar** a ação até a decisão final
+        - Essa **votação** será no **máximo em 45 dias do recebimento** pela **Mesa**
+    - **Não pode** **firmar contrato** com PJ Pública (**salvo se cláusulas uniformes**)
+    - **Não pode aceitar/exercer cargo** (inclusive comissionado – “ad nutum”)
+- A partir da **POSSE**
+    - Não pode **ser dono/ter cargo** em empresa que **goze de favor por contrato público**
+    - Não pode **ocupar cargo** em **PJ pública**
+    - Não pode **patrocinar** causa de interesse de PJ **Pública**
+    - Não pode ser titular de + de 1 cargo **eletivo**
+- Imunidades só **suspendem** em **Estado de Sítio + voto de 2/3 da casa**
+    - Somente para atos fora do CN incompatíveis com a medida
+- Perde o cargo se:
+    - Faltar à **terça parte** das sessões (salvo licença/missão) **->** (**mesa declara** + ampla defesa)
+    - Houver **perda/suspensão** dos direitos **políticos** (**mesa declara** + ampla defesa)
+    - Decretar a **Justiça Eleitoral** (**mesa declara** + ampla defesa)
+    - Condenação **criminal** **transitada** em julgado (**maioria absoluta decide** + ampla defesa)
+    - Fez as proibições acima ou **faltou com decoro** (**maioria absoluta decide** + ampla defesa)
+- Não perde o cargo se:
+    - Licença p/ interesse próprio **não remunerada - máximo de 120 dias** 
+    - Doença (**sem prazo**)
+- **Passou de 120 dias, ou perdeu o cargo** à Suplente
+- "E se não há suplente?"
+    - Faltando mais de 15 meses pro fim do mandato, faz eleição; menos de 15 meses, vai assim mesmo, sem suplente 😂

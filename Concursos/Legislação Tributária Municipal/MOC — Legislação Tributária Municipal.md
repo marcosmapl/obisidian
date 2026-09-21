@@ -7,7 +7,7 @@
 - [[Decreto Lei nº 406 de 1968]]
 - [[Lei nº 459 de 1998 (ITBI)]]
 - [[Decreto 4.818 de 2000 (ITBI)]]
-- [[Lei 3.008 de 2023 (PAT)]]
+- [[Lei nº 3.008 de 2023 (PAT)]]
 - [[Decreto 5.956 de 2024 (DT-e)]]
 - [[Lei 2.385 de 2018 (CARF-M)]]
 - [[Decreto 4.726 de 2019 (CARF-M).]]

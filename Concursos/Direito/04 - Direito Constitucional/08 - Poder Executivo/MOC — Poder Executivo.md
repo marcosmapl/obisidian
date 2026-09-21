@@ -8,8 +8,8 @@ updated: 2025-12-23T00:00:00
   - moc
 ---
 
-## Navegação — Poder Executivo
+## Índice
 
-- [[Concursos/Direito/03 - Ramos do Direito Público/Direito Constitucional/08 - Poder Executivo/Presidente da República — Competências]]
-- [[Concursos/Direito/03 - Ramos do Direito Público/Direito Constitucional/08 - Poder Executivo/Responsabilidade do Presidente]]
-- [[Concursos/Direito/03 - Ramos do Direito Público/Direito Constitucional/08 - Poder Executivo/Ministros de Estado]]
+- [[Atribuições do Presidente da República]] 🔥🔥🔥
+- [[Responsabilização do Presidente da República]]
+- 
