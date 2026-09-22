@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Economia/06 - Macroeconômia/Modelo Keynesiano.md",
+                "file": "Concursos/Legislação Tributária Municipal/Decreto 4.818 de 2000 (ITBI).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Modelo Keynesiano"
+              "title": "Decreto 4.818 de 2000 (ITBI)"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 386.66926193237305
+    "width": 310.8359184265137
   },
   "right": {
     "id": "36b906953263c637",
@@ -371,6 +371,16 @@
             "id": "d52d9620cda96abd",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "79f896e904467dbe",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -378,7 +388,7 @@
             }
           }
         ],
-        "currentTab": 25
+        "currentTab": 26
       }
     ],
     "direction": "horizontal",
@@ -398,8 +408,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d52d9620cda96abd",
+  "active": "4514393976bc3a0e",
   "lastOpenFiles": [
+    "Concursos/Legislação Tributária Municipal/MOC — Legislação Tributária Municipal.md",
+    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/Lei Complementar nº 214 de 2025/Simples Nacional na ZFM e nas ALCS.md",
+    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/Lei Complementar nº 214 de 2025/MOC — LC 214 de 2025.md",
+    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/Lei Complementar nº 214 de 2025/Regime Tributário Favorecido das ALCS (arts. 458 a 470).md",
+    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/Lei Complementar nº 214 de 2025/Regime Tributário Favorecido da ZFM (arts. 439 a 457).md",
+    "Concursos/Economia/06 - Macroeconômia/Modelo IS-LM.md",
+    "Media/Pasted image 20260921213331.png",
+    "Media/Pasted image 20260921213058.png",
+    "Media/Pasted image 20260921211015.png",
+    "Media/Pasted image 20260921201253.png",
+    "Concursos/Economia/06 - Macroeconômia/MOC — Macroeconômia.md",
+    "Concursos/Economia/06 - Macroeconômia/Modelo Keynesiano.md",
     "Concursos/Economia/06 - Macroeconômia/Moeda.md",
     "Media/Pasted image 20260920172116.png",
     "Media/Pasted image 20260920172043.png",
@@ -407,10 +429,8 @@
     "Media/Pasted image 20260920171838.png",
     "Media/Pasted image 20260920171757.png",
     "Media/Pasted image 20260920171649.png",
-    "Concursos/Economia/06 - Macroeconômia/MOC — Macroeconômia.md",
     "Concursos/Economia/06 - Macroeconômia/Contas Nacionais.md",
     "Concursos/Economia/06 - Macroeconômia/Produto Interno Bruto (PIB).md",
-    "Concursos/Economia/06 - Macroeconômia/Modelo Keynesiano.md",
     "Concursos/Economia/03 - Modelos Econômicos/Demanda.md",
     "Concursos/Economia/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais.md",
     "Concursos/Economia/03 - Modelos Econômicos/Oferta.md",
@@ -418,9 +438,7 @@
     "Concursos/Economia/01 - Conceitos Fundamentais/Custo de Oportunidade.md",
     "Concursos/Economia/01 - Conceitos Fundamentais/Problema Econômico Fundamental.md",
     "Concursos/Legislação Tributária Municipal/Lei nº 3.008 de 2023 (PAT).md",
-    "Concursos/Legislação Tributária Municipal/MOC — Legislação Tributária Municipal.md",
     "Concursos/Auditoria/07 - Procedimentos de Auditoria/Testes em Áreas Específicas das Demonstrações Contábeis.md",
-    "Media/Pasted image 20260919223314.jpg",
     "Concursos/Auditoria/07 - Procedimentos de Auditoria/Procedimentos de Auditoria.md",
     "Concursos/Auditoria/07 - Procedimentos de Auditoria/MOC — Procedimentos de Auditoria.md",
     "Concursos/Auditoria/07 - Procedimentos de Auditoria/Procedimentos Adicionais.md",
@@ -428,18 +446,11 @@
     "Concursos/Auditoria/07 - Procedimentos de Auditoria/Procedimentos Analíticos.md",
     "Concursos/Auditoria/Auditoria.md",
     "Concursos/Auditoria/06 - Documentação de Auditoria/MOC — Documentação de Auditoria.md",
-    "Concursos/Auditoria/06 - Documentação de Auditoria/Requisitos da Documentação.md",
-    "Concursos/Auditoria/06 - Documentação de Auditoria/Confidencialidade.md",
-    "Concursos/Auditoria/05 - Materialidade e Relevância/MOC — Materialidade e Relevância.md",
-    "Concursos/Auditoria/05 - Materialidade e Relevância/Materialidade no Planejamento, Execução e Revisão.md",
     "Concursos/Auditoria/18 - Testes e Procedimentos em Áreas Específicas",
-    "Media/Pasted image 20260919212245.png",
     "Concursos/Contabilidade Geral/20 - Análise das Demonstrações Contábeis/07 - Índices de Atividade",
     "Concursos/Direito/09 - Direito Processual Penal/03 - Das Medidas Assecuratórias",
     "Concursos/Direito/08 - Direito Penal/06 - Crimes contra as Finanças Públicas",
     "Concursos/Direito/08 - Direito Penal/05 - Crimes contra a Fé Pública",
-    "Media/Pasted image 20260916081410.png",
-    "Media/Pasted image 20260914090237.png",
     "Concursos/Contabilidade Geral/20 - Análise das Demonstrações Contábeis/06 - Índices de Endividamento",
     "Concursos/Contabilidade Geral/20 - Análise das Demonstrações Contábeis/03 - Alavancagem Financeira",
     "Concursos/Contabilidade Geral/20 - Análise das Demonstrações Contábeis/02 - Índices de Rentabilidade",

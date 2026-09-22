@@ -209,13 +209,15 @@ Os créditos presumidos de IBS e CBS previstos nos arts. 444, 447, 449 e 450 **
 
 O direito de utilização **extingue-se em 5 anos**, contados do primeiro dia do mês subsequente ao da apropriação.
 
+---
 ## 1.14. Regra Residual
 
 _Art. 453 da LC nº 214/2025_
 
 As operações com bens e serviços ocorridas dentro da ZFM ou a ela destinadas, inclusive importações, que **não estejam contempladas** pelos arts. 443, 445, 446 e 448, sujeitam-se à incidência normal do IBS e da CBS conforme as regras gerais da LC 214/2025.
 
-### 1.15. IPI Residual da ZFM
+---
+## 1.15. IPI Residual da ZFM
 
 _Art. 454 e Art. 455 da LC nº 214/2025_
 
