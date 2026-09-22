@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Legislação Tributária Municipal/Decreto 4.818 de 2000 (ITBI).md",
+                "file": "Concursos/Economia/07 - Estruturas de Mercado/Monopólio.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Decreto 4.818 de 2000 (ITBI)"
+              "title": "Monopólio"
             }
           }
         ]
@@ -381,6 +381,16 @@
             "id": "79f896e904467dbe",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "f691666526cfdf51",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -388,7 +398,7 @@
             }
           }
         ],
-        "currentTab": 26
+        "currentTab": 27
       }
     ],
     "direction": "horizontal",
@@ -410,6 +420,12 @@
   },
   "active": "4514393976bc3a0e",
   "lastOpenFiles": [
+    "Concursos/Economia/07 - Estruturas de Mercado/MOC — Estruturas de Mercado.md",
+    "Concursos/Economia/07 - Estruturas de Mercado/Monopsônio.md",
+    "Concursos/Economia/07 - Estruturas de Mercado/Monopólio.md",
+    "Media/Pasted image 20260922170206.png",
+    "Media/Pasted image 20260922170141.png",
+    "Concursos/Legislação Tributária Municipal/Decreto 4.818 de 2000 (ITBI).md",
     "Concursos/Legislação Tributária Municipal/MOC — Legislação Tributária Municipal.md",
     "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/Lei Complementar nº 214 de 2025/Simples Nacional na ZFM e nas ALCS.md",
     "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/Lei Complementar nº 214 de 2025/MOC — LC 214 de 2025.md",
@@ -427,8 +443,6 @@
     "Media/Pasted image 20260920172043.png",
     "Media/Pasted image 20260920171940.png",
     "Media/Pasted image 20260920171838.png",
-    "Media/Pasted image 20260920171757.png",
-    "Media/Pasted image 20260920171649.png",
     "Concursos/Economia/06 - Macroeconômia/Contas Nacionais.md",
     "Concursos/Economia/06 - Macroeconômia/Produto Interno Bruto (PIB).md",
     "Concursos/Economia/03 - Modelos Econômicos/Demanda.md",
@@ -442,10 +456,6 @@
     "Concursos/Auditoria/07 - Procedimentos de Auditoria/Procedimentos de Auditoria.md",
     "Concursos/Auditoria/07 - Procedimentos de Auditoria/MOC — Procedimentos de Auditoria.md",
     "Concursos/Auditoria/07 - Procedimentos de Auditoria/Procedimentos Adicionais.md",
-    "Concursos/Auditoria/07 - Procedimentos de Auditoria/Procedimento Analítico.md",
-    "Concursos/Auditoria/07 - Procedimentos de Auditoria/Procedimentos Analíticos.md",
-    "Concursos/Auditoria/Auditoria.md",
-    "Concursos/Auditoria/06 - Documentação de Auditoria/MOC — Documentação de Auditoria.md",
     "Concursos/Auditoria/18 - Testes e Procedimentos em Áreas Específicas",
     "Concursos/Contabilidade Geral/20 - Análise das Demonstrações Contábeis/07 - Índices de Atividade",
     "Concursos/Direito/09 - Direito Processual Penal/03 - Das Medidas Assecuratórias",

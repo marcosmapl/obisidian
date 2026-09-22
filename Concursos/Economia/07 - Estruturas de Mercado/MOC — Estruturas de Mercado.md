@@ -20,4 +20,8 @@
 - [[Receita Média]]
 - [[Receita Marginal]]
 - [[Concorrência Perfeita]]
+- [[Monopólio]]
+- [[Monopsônio]]
+
+
 
