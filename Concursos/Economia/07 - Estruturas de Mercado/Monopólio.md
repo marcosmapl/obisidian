@@ -2,16 +2,18 @@
 
 ## Principais Características
 
-- **Quantidade**: Somente **um** **ofertante** e
-    - **Tipo de produto**: um **único produto** 
-    - **Poder de Monopólio**: Capacidade do monopolista influenciar o preço do mercado
-        - **Determina preço ou quantidade**
+- Mercado no qual só há **um vendedor** para **muitos consumidores**, desta maneira ==não há competição== porque só dá para comprar desse vendedor e seu produto é único no mercado;
+- ==Não há transparência das informações== de mercado;
+- Há **barreiras à entrada de novos ofertantes**.
+	- Dificuldade de novas empresas entrarem no mercado, podem ser **legais e institucionais, tecnológicas** e outras.
+- **MONOPÓLIO NATURAL**: Tipo de firma que pode produzir sozinha para todo o mercado a um **custo menor** ao que existiria caso houvesse várias empresas. 
+- Exemplo: 
+	- **Petrobrás**.
+- **Poder de Monopólio**: Capacidade do monopolista influenciar o preço do mercado
+	- **Determina preço ou quantidade**
 - **Existência de barreiras de entrada:** 
-    - Dificuldade de novas empresas entrarem no mercado, podem ser **legais e institucionais, tecnológicas** e outras;
-- **Vantagem**:
-    - Permite economia de escala, necessárias em alguns setores.
 - **Desvantagem**:  
-    - Em regra, é **INEFICIENTE**, pois P > Cmg (existe excedente), **PODE** ser eficiente se houver discriminação perfeita.
+	- Em regra, é **INEFICIENTE**, pois P > Cmg (existe excedente), **PODE** ser eficiente se houver discriminação perfeita.
 - **Ponto de equilíbrio/ maximização do lucro**: **RMg = CMg < P** (note a diferença da concorrência perfeita)
     - Ônus do imposto acaba sendo suportado pela empresa monopolista, pois já opera no ponto de maximização de lucro. 
 - Mark Up: **P / CMg**

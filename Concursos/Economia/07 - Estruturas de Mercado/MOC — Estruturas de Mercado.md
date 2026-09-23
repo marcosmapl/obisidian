@@ -3,25 +3,28 @@
 > [!note] Mercado
 > Lugar, concreto ou abstrato, que reúne **compradores** e **vendedores** de determinado bem.
 
-| Estrutura                  | Compradores | Vendedores | Diferenciação do Produto | Fácil entrada e saída |
-| -------------------------- | ----------- | ---------- | ------------------------ | --------------------- |
-| Concorrência Perfeita      | Muitos      | Muitos     | ❌                        | ✅                     |
-| Monopólio                  | Muitos      | Um         | ❌                        | ❌                     |
-| Oligopólio                 | Muitos      | Poucos     | ❌                        | ❌                     |
-| Concorrência Monopolística | Muitos      | Muitos     | ✅                        | ✅                     |
-| Monopsônio                 | Um          | Muitos     | ❌                        | ❌                     |
-| Oligopsônio                | Poucos      | Muitos     | ❌                        | ❌                     |
+| Estrutura                  | Compradores | Vendedores | Diferenciação do Produto | Barreiras de Entrada       | Transparência de Info. |
+| -------------------------- | ----------- | ---------- | ------------------------ | -------------------------- | ---------------------- |
+| Concorrência Perfeita      | Muitos      | Muitos     | ❌                        | ❌                          | ✅                      |
+| Monopólio                  | Muitos      | Um         | ❌                        | ✅                          | ❌                      |
+| Oligopólio                 | Muitos      | Poucos     | ❌                        | ✅                          | ❌                      |
+| Concorrência Monopolística | Muitos      | Muitos     | ✅                        | ✅ (poucas)                 | ❌                      |
+| Monopsônio                 | Um          | Muitos     | ❌                        | ✅ (para novos compradores) | ✅                      |
+| Oligopsônio                | Poucos      | Muitos     | ❌                        | ✅ (para novos compradores) | ✅                      |
 
 ---
 ## Índice
 
 - [[Lucro de Produção]]
 - [[Receita Total]]
-- [[Receita Média]]
 - [[Receita Marginal]]
+- [[Receita Média]]
 - [[Concorrência Perfeita]]
 - [[Monopólio]]
+- [[Concorrência Monopolística]]
+- [[Oligopólio]]
 - [[Monopsônio]]
+- [[Oligopsônio]]
 
 
 

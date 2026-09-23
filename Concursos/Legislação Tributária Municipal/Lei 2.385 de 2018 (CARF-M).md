@@ -1,8 +1,10 @@
 
-## Estrutura e Competências do Órgão Julgador
+## Natureza Jurídica, Vinculação e Competências (Arts. 1º ao 5º)
 
-- O Conselho Administrativo de Recursos Fiscais do Município (CARF-M) atua como Órgão de **Segunda Instância** do processo administrativo tributário contencioso, sendo integrado de forma hierárquica à estrutura organizacional da Secretaria Municipal de Finanças - SEMEF.
-- Sua composição orgânica subdivide-se em: (Art. 2º)
+### Estrutura e Independência
+
+- **Natureza:** É o órgão de **Segunda Instância de julgamento** do Processo Administrativo Tributário (PAT) Contencioso do Município de Manaus.
+- Sua composição orgânica subdivide-se em: (Art. 2º) 
 	- **Tribunal Pleno**
 	- **Primeira** Câmara Julgadora
 	- **Segunda** Câmara Julgadora.
@@ -15,6 +17,8 @@
 
 ![[Pasted image 20260902114604.png]]
 
+![[Pasted image 20260923084217.png]]
+
 ![[Pasted image 20260902114640.png]]
 
 ![[Pasted image 20260902120025.png]]
@@ -22,8 +26,8 @@
 ---
 ## Composição, Indicações e Mandato dos Conselheiros
 
-- A formação exige completa paridade julgadora. O Corpo Deliberativo de cada Câmara possui **6 conselheiros titulares** (três da Fazenda e três dos contribuintes) e **4 suplentes**. O Tribunal Pleno abriga todos eles de forma simultânea.
-- Os representantes da Fazenda devem ser auditores ou fiscais em exercício **há pelo menos 5 anos, sendo metade da composição obrigatoriamente indicada pelo Secretário da SEMEF e a outra metade pelo Sindicato da categoria**. Para estes servidores, **é proibido exercer funções no órgão de julgamento de primeira instância durante todo o curso do mandato** no colegiado.
+- A formação exige completa paridade julgadora. O Corpo Deliberativo de cada Câmara possui **6 conselheiros titulares** (três da Fazenda e três dos contribuintes) e **4 suplentes**.
+- Os representantes da Fazenda devem ser auditores ou fiscais em exercício há pelo menos **5 anos**, sendo metade da composição obrigatoriamente **indicada pelo Secretário da SEMEF** e a outra metade **indicada pelo Sindicato da categoria**. Para estes servidores, **é proibido exercer funções no órgão de julgamento de primeira instância durante todo o curso do mandato** no colegiado.
 - Os representantes dos contribuintes também devem deter registro no órgão de classe **há no mínimo 5 anos, sendo nomeados a partir de lista tríplice elaborada por entidades formadoras** como FIEAM, Sindicatos de Indústria (Construção Civil), Associação Comercial, CRC e CORECON.
 - A estabilidade nas cadeiras do tribunal administrativo assevera que **o exercício da função dar-se-á por mandato de 2 anos, admitindo-se uma única recondução consecutiva para o Conselheiro Titular**.
 
