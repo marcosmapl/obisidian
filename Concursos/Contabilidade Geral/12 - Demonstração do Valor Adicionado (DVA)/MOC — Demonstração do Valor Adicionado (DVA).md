@@ -12,6 +12,8 @@ updated: 2026-07-03T00:00:00
 
 > [!important] É obrigatória para **companhia aberta**.
 
+> CPC 09
+
 ## Estrutura da pasta
 
 - [[Demonstração do Valor Adicionado (DVA)]]

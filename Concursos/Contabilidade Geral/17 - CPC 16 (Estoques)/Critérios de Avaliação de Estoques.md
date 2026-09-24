@@ -1,6 +1,6 @@
 ## Critérios de Avaliação de Estoques
 
-Mais cobrados: [[Primeiro que Entra e o Primeiro que Sai (PEPS)]],  [[Último que Entra e Primeiro que Sai (UEPS)]], [[Concursos/Contabilidade Geral/15 - CPC 16 (Estoques)/Média Ponderada]] e Custo Específico.
+Mais cobrados: [[Primeiro que Entra e o Primeiro que Sai (PEPS)]],  [[Último que Entra e Primeiro que Sai (UEPS)]], [[Concursos/Contabilidade Geral/17 - CPC 16 (Estoques)/Média Ponderada]] e Custo Específico.
 - **CPC 16 indica apenas o PEPS, a média ponderada e o custo específico** (este para itens não intercambiáveis).
 - **Portanto o UEPS NÃO É CITADO pelo pronunciamento nem é aceito pela legislação brasileira!**
 - **⚠️UEPS não é autorizado pela legislação do Imposto de Renda.**

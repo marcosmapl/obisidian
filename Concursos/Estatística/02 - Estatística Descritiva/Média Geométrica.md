@@ -16,5 +16,5 @@ A **média geométrica** é uma medida estatística muito utilizada em situaçõ
 ## Tópicos Relacionados
 
 - [[Média Aritmética]]
-- [[Concursos/Contabilidade Geral/15 - CPC 16 (Estoques)/Média Ponderada]]
+- [[Concursos/Contabilidade Geral/17 - CPC 16 (Estoques)/Média Ponderada]]
 - [[Média Harmônica]]

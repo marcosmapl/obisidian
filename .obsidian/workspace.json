@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "83b02095512db1a7",
+        "id": "70d0c50dcbbe5c4c",
         "type": "tabs",
         "children": [
           {
-            "id": "e4d6983771ce38e6",
+            "id": "4514393976bc3a0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Economia/07 - Estruturas de Mercado/Concorrência Perfeita.md",
+                "file": "Concursos/Contabilidade Geral/13 - Demonstração de Resultados Abrangetes (DRA)/MOC — Demonstração dos Resultados Abrangentes (DRA).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Concorrência Perfeita"
+              "title": "MOC — Demonstração dos Resultados Abrangentes (DRA)"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 405.8359184265137
+    "width": 512.5026054382324
   },
   "right": {
     "id": "36b906953263c637",
@@ -381,16 +381,6 @@
             "id": "79f896e904467dbe",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "afcbed696e5d8ee1",
-            "type": "leaf",
-            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -398,7 +388,7 @@
             }
           }
         ],
-        "currentTab": 27
+        "currentTab": 26
       }
     ],
     "direction": "horizontal",
@@ -418,25 +408,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e4d6983771ce38e6",
+  "active": "4514393976bc3a0e",
   "lastOpenFiles": [
+    "Concursos/Contabilidade Geral/12 - Demonstração do Valor Adicionado (DVA)/Demonstração do Valor Adicionado (DVA).md",
+    "Concursos/Contabilidade Geral/12 - Demonstração do Valor Adicionado (DVA)/MOC — Demonstração do Valor Adicionado (DVA).md",
+    "Concursos/Contabilidade Geral/10 - Demonstração das Mutações do Patrimônio Líquido (DMPL)/Demonstração das Mutações do Patrimônio Líquido (DMPL).md",
+    "Concursos/Contabilidade Geral/10 - Demonstração das Mutações do Patrimônio Líquido (DMPL)/MOC — Demonstração das Mutações do Patrimônio Líquido (DMPL).md",
+    "Concursos/Contabilidade Geral/13 - Demonstração de Resultados Abrangetes (DRA)/MOC — Demonstração dos Resultados Abrangentes (DRA).md",
+    "Concursos/Contabilidade Geral/14 - Princípios Contábeis/MOC — Princípios Contábeis.md",
+    "Concursos/Contabilidade Geral/Contabilidade Geral.md",
+    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/Regra Matriz de Incidência Tributária (RMIT).md",
+    "Concursos/Contabilidade Geral/13 - Demonstração de Resultados Abrangetes (DRA)",
     "Media/Pasted image 20260923165317.jpg",
     "Media/Pasted image 20260923164853.jpg",
-    "Concursos/Economia/07 - Estruturas de Mercado/Lucro de Produção.md",
     "Media/Pasted image 20260923110050.png",
-    "Concursos/Economia/07 - Estruturas de Mercado/Receita Total.md",
-    "Concursos/Economia/07 - Estruturas de Mercado/MOC — Estruturas de Mercado.md",
-    "Concursos/Economia/07 - Estruturas de Mercado/Receita Média.md",
-    "Concursos/Economia/07 - Estruturas de Mercado/Receita Marginal.md",
-    "Concursos/Economia/07 - Estruturas de Mercado/Oligopsônio.md",
-    "Concursos/Economia/07 - Estruturas de Mercado/Monopsônio.md",
-    "Concursos/Economia/07 - Estruturas de Mercado/Concorrência Monopolística.md",
-    "Concursos/Economia/07 - Estruturas de Mercado/Oligopólio.md",
-    "Concursos/Economia/07 - Estruturas de Mercado/Monopólio.md",
-    "Concursos/Economia/07 - Estruturas de Mercado/Concorrência Perfeita.md",
-    "Concursos/Legislação Tributária Municipal/Lei 2.385 de 2018 (CARF-M).md",
     "Media/Pasted image 20260923084217.png",
-    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/Regra Matriz de Incidência Tributária (RMIT).md",
+    "Concursos/Economia/07 - Estruturas de Mercado/Oligopólio.md",
+    "Concursos/Economia/07 - Estruturas de Mercado/Oligopsônio.md",
+    "Concursos/Economia/07 - Estruturas de Mercado/Concorrência Monopolística.md",
     "Concursos/Legislação Tributária Municipal/Lei nº 3.008 de 2023 (PAT).md",
     "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/Lei Complementar nº 227 de 2026/Disposições Preliminares (arts. 103 e 104).md",
     "Media/Pasted image 20260922221945.png",
@@ -444,6 +433,8 @@
     "Concursos/Legislação Tributária Municipal/Decreto 4.818 de 2000 (ITBI).md",
     "Media/Pasted image 20260922170206.png",
     "Media/Pasted image 20260922170141.png",
+    "Concursos/Economia/07 - Estruturas de Mercado/Monopólio.md",
+    "Concursos/Economia/07 - Estruturas de Mercado/Monopsônio.md",
     "Concursos/Legislação Tributária Municipal/MOC — Legislação Tributária Municipal.md",
     "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/Lei Complementar nº 214 de 2025/Simples Nacional na ZFM e nas ALCS.md",
     "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/Lei Complementar nº 214 de 2025/MOC — LC 214 de 2025.md",
@@ -453,9 +444,9 @@
     "Media/Pasted image 20260921213331.png",
     "Media/Pasted image 20260921213058.png",
     "Media/Pasted image 20260921211015.png",
-    "Media/Pasted image 20260921201253.png",
     "Concursos/Economia/06 - Macroeconômia/MOC — Macroeconômia.md",
     "Concursos/Economia/06 - Macroeconômia/Modelo Keynesiano.md",
+    "Concursos/Economia/06 - Macroeconômia/Moeda.md",
     "Concursos/Auditoria/18 - Testes e Procedimentos em Áreas Específicas",
     "Concursos/Contabilidade Geral/20 - Análise das Demonstrações Contábeis/07 - Índices de Atividade",
     "Concursos/Direito/09 - Direito Processual Penal/03 - Das Medidas Assecuratórias",
@@ -464,7 +455,6 @@
     "Concursos/Contabilidade Geral/20 - Análise das Demonstrações Contábeis/06 - Índices de Endividamento",
     "Concursos/Contabilidade Geral/20 - Análise das Demonstrações Contábeis/03 - Alavancagem Financeira",
     "Concursos/Contabilidade Geral/20 - Análise das Demonstrações Contábeis/02 - Índices de Rentabilidade",
-    "Concursos/Contabilidade Geral/20 - Análise das Demonstrações Contábeis/05 - Índices de Liquidez",
-    "Concursos/Contabilidade Geral/20 - Análise das Demonstrações Contábeis/04 - Análises Vertical e Horizontal"
+    "Concursos/Contabilidade Geral/20 - Análise das Demonstrações Contábeis/05 - Índices de Liquidez"
   ]
 }
