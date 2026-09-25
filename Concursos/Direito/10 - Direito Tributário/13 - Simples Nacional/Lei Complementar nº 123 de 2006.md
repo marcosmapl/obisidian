@@ -49,6 +49,8 @@ Indicados pelos órgãos e entidades, sendo designados pelo **Ministro de Estado
  
 ### Vedação Plena - Tratamento Jurídico Diferenciado 
 
+*Art. 3º § 4º*
+
 | Situação de Vedação                                                                                              | Exceção                                                                                                                                          |
 | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Capital com **participação de outra PJ**                                                                         | -                                                                                                                                                |
@@ -117,14 +119,14 @@ Indicados pelos órgãos e entidades, sendo designados pelo **Ministro de Estado
 
 ### Impostos Recolhidos
 
-- IRPJ
-- IPI
-- CSLL
-- COFINS
+- IRPJ - inclusive relativo aos ganhos de capital auferidos na **alienação de bens do ativo permanente**
+- IPI (inclusive na **importação de bens e serviços**)
+- Contribuição Social sobre o Lucro Líquido - **CSLL**
+- Contribuição para o Financiamento da Seguridade Social - **COFINS**
 - PIS/PASEP
 - CPP
 - ICMS
-- ISS
+- ISSQN
 
 ![[Pasted image 20260808180736.png]]
 
@@ -167,6 +169,25 @@ Indicados pelos órgãos e entidades, sendo designados pelo **Ministro de Estado
 > **ME e EPP optantes pelo simples** ==não farão jus à apropriação nem transferirão créditos relativos a imposto ou contribuição== abrangidos pelo Simples Nacional.
 > 
 > **Empresas jurídicas não optantes pelo Simples Nacional terão direito a crédito de ICMS incidente sobre as suas aquisições de mercadorias de ME ou EPP optante pelo Simples Nacional**, desde que **destinadas à comercialização ou industrialização**, observado como limite o ICMS efetivamente devido pelas optantes pelo Simples Nacional em relação a essas aquisições.
+
+---
+## Das Alíquotas e Base de Cálculo
+
+§ 4º  O contribuinte deverá considerar, destacadamente, para fim de pagamento, as **receitas** decorrentes da:  
+- I - **revenda** de mercadorias (**ICMS**)
+- II - **venda** de **mercadorias industrializadas** pelo contribuinte (**ICMS** e **IPI**)
+- III e IV - **prestação de serviços** e os serviços vinculados à locação de bens imóveis e corretagem de imóveis (**ISSQN**)
+- V - **locação de bens móveis** (sem Imposto [[Súmula Vinculante 31 (STF)]])
+- VI - atividade com incidência simultânea de **IPI** e de **ISS**
+- VII - comercialização de **medicamentos** e produtos magistrais produzidos por **manipulação de fórmulas** (**ISSQN** ou **ICMS**)
+
+§ 4o-A.  O contribuinte deverá segregar, também, as receitas:
+- I - decorrentes de operações ou prestações sujeitas à tributação concentrada em uma única etapa (**monofásica**)
+- II - sobre as quais houve **retenção de ISS**
+- III - sujeitas à tributação em **valor fixo** ou que tenham sido objeto de **isenção ou redução de ISS ou de ICMS**
+- IV - decorrentes da **exportação** para o exterior
+- V - sobre as quais o **ISS** seja devido a **Município diverso do estabelecimento prestador**
+
 
 ---
 ## Fiscalização

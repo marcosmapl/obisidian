@@ -12,11 +12,15 @@ updated: 2026-04-03T19:47:00
 ![[Pasted image 20260317113611.png]]
 
 ---
-## Regras
+## Progressividade
 
-- **Art. 155 VI**, será progressivo em razão do valor do quinhão.
-- **Art. 155 V**, não incidirá sobre as doações destinadas, no âmbito do Poder Executivo da União, a projetos socioambientais ou destinados a mitigar os efeitos das mudanças climáticas e às instituições federais de ensino.
-- **Art. 155 VII**, não incidirá sobre as doações destinadas a instituições sem fins lucrativos e entidades religiosas.
+- **Art. 155 VI**, será **progressivo** em razão do **valor do quinhão**.
+
+---
+## Não Incidência
+
+- **Art. 155 V**, ==não incidirá== sobre as doações destinadas, no âmbito do **Poder Executivo da União**, a **projetos socioambientais** ou destinados a mitigar os efeitos das mudanças climáticas e às **instituições federais de ensino**.
+- **Art. 155 VII**, ==não incidirá== sobre as doações destinadas a **instituições sem fins lucrativos** e **entidades religiosas**.
 ### Resumo
 
 - Doações a projetos **socioambientais**.
