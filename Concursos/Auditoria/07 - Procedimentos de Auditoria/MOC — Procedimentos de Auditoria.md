@@ -37,7 +37,7 @@ updated: 2026-01-10T08:45:00
 - [[Procedimento de Reexecução]]
 - [[Procedimento Analítico]]
 - [[Procedimentos Adicionais]]
-- [[Testes de Observância]]
+- [[Testes de Controle (Observância)]]
 - [[Testes Substantivos]]
 
 ### Afirmações

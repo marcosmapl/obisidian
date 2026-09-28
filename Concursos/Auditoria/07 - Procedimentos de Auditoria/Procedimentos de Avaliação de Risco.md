@@ -28,7 +28,6 @@ Os procedimentos de avaliação de risco incluem:
 - [[Procedimento de Indagação]]
 - [[Procedimento de Inspeção]]
 - [[Procedimento de Observação]]
-- [[Procedimentos Analíticos]]
 
 ---
 ## Tópicos Relacionados
@@ -36,3 +35,4 @@ Os procedimentos de avaliação de risco incluem:
 - [[Riscos em Auditoria]]
 - [[Planejamento da Auditoria]]
 - [[Procedimentos de Auditoria]]
+- [[Procedimentos Adicionais]]

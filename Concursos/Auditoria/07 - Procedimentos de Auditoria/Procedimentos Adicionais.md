@@ -12,14 +12,13 @@ updated: 2026-07-03T00:00:00
 
 ## Abrangência
 
-- Testes de controle
-- Procedimentos substantivos
-- Ajuste da estratégia diante de novos achados
+- [[Testes de Controle (Observância)]]
+- [[Testes Substantivos]]
 
 ---
 ## Tópicos Relacionados
 
 - [[Procedimentos de Avaliação de Risco]]
-- [[Teste de Controle]]
+- [[Testes de Controle (Observância)]]
 - [[Testes Substantivos]]
 - [[Execução da Auditoria]]

@@ -8,6 +8,10 @@ updated: 2025-12-27T16:30:00
 > [!note] Testes Substantivos  
 > Os **testes substantivos** são procedimentos de auditoria interna destinados a **obter evidências** para proporcionar **segurança razoável** quanto à **suficiência, exatidão e validade** das **informações e registros** produzidos pelos sistemas de informação da entidade.
 
+Podem ser:
+- [[Testes de Detalhes]]
+- [[Procedimento Analítico]]
+
 > [!warning]  
 > Testes substantivos **não substituem** os testes de observância, mas os **complementam**.
 
@@ -33,4 +37,4 @@ updated: 2025-12-27T16:30:00
 ---
 ## Tópicos Relacionados
 
-- [[Testes de Observância]]
+- [[Testes de Controle (Observância)]]

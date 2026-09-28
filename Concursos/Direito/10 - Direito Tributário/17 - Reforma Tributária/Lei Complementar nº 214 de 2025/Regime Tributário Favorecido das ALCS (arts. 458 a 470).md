@@ -48,3 +48,38 @@ Os demais dispositivos das ALCs (arts. 461 a 470) **reproduzem a lógica geral 
 📜 As ALCs **não possuem rol próprio de bens excluídos**: a vedação aplicável é a **mesma da ZFM**, incorporada por remissão tanto na suspensão da importação quanto no crédito presumido de venda ao território nacional.
 
 ⚠️ **Divergências relevantes**: nas ALCs **não há dispositivo equivalente** aos arts. 448 e 449 da ZFM (alíquota zero e crédito presumido específicos para bem intermediário entre indústrias incentivadas). Em contrapartida, o **crédito presumido de CBS sobre bem produzido na própria área e destinado ao território nacional** (art. 467 das ALCs) tem **percentual único de 6%**, calculado sobre o valor da operação — **não havendo, nas ALCs, a segmentação em bens de consumo final/capital/intermediários/informática (55/75/90,25/100%) nem o crédito presumido de IBS sobre saldo devedor** que caracteriza o art. 450 da ZFM.
+
+### 2.4. Crédito Presumido do Art. 467 (ALCs) — Detalhamento
+
+_Art. 467 da LC nº 214/2025_
+
+À indústria do regime regular, habilitada nos termos do inciso II do art. 460 (atividade industrial incentivada), é concedido crédito presumido de **CBS** relativo à operação que destine ao território nacional bem material produzido pela própria indústria na ALC, calculado mediante **6%** sobre o valor da operação registrado em documento fiscal idôneo.
+
+Não se aplica a operações não sujeitas à incidência (ou já contempladas por isenção, alíquota zero, suspensão ou diferimento **da CBS**) nem a bens não contemplados pelo regime (art. 441, por remissão). Aos adquirentes do regime regular, é garantida a apropriação integral dos créditos de CBS.
+
+🎯 Quatro diferenças frente ao art. 450 da ZFM:
+
+- o art. 450 concede créditos presumidos de **IBS e CBS**; o art. 467, **apenas de CBS**;
+- o art. 450 alcança operações destinadas ao território nacional **inclusive à própria ZFM**; o art. 467 não traz cláusula equivalente;
+- o art. 467 **exige expressamente** sujeição ao regime regular; o art. 450 concede o benefício à indústria incentivada **sem qualificar o regime**;
+- a exclusão do art. 467 refere-se a benefícios **da CBS**; a do art. 450, a benefícios **do IBS e da CBS**.
+
+### 2.5. Redução de Arrecadação e Alíquotas de Referência
+
+_Art. 456 (ZFM) e Art. 470 (ALCs) da LC nº 214/2025_
+
+Em ambos os regimes, a **redução de arrecadação do IBS e da CBS** decorrente dos benefícios (inclusive créditos presumidos) **deverá ser considerada para fixação das alíquotas de referência** — mecanismo que reflete o método de cálculo das alíquotas de referência previsto na EC 132/2023, segundo o qual a carga tributária agregada da Reforma deve manter a **neutralidade de arrecadação**, distribuindo o custo dos incentivos regionais no cálculo nacional das alíquotas.
+
+---
+## Resumo para revisão rápida
+
+**ALCs Contempladas (Art. 459):** Tabatinga (AM), Guajará-Mirim (RO), Boa Vista e Bonfim (RR), Macapá e Santana (AP), Brasiléia, Epitaciolândia e Cruzeiro do Sul (AC)6.
+
+|Artigo|Operação / Hipótese|Tributo|Alíquota ou Crédito Presumido|Regra e Observações|
+|---|---|---|---|---|
+|**Art. 461**|Importação de bem por indústria habilitada na ALC|IBS / CBS|**Suspensão** $\rightarrow$ **Isenção**|Converte-se em **isenção** após o consumo/incorporação no processo produtivo ou **48 meses** no ativo imobilizado28more_horiz.|
+|**Art. 462**|Importação de bem para revenda presencial em ALC|IBS|Crédito Presumido de **50%**|Calculado sobre a alíquota do IBS incidente na importação31.|
+|**Art. 463**|Remessa de bem nacional industrializado de fora para ALC|IBS / CBS|**Alíquota Zero**|Exige comprovação de ingresso do bem na ALC sob pena de recolhimento dos tributos devidos3233.|
+|**Art. 465**|Aquisição na ALC de bens nacionais com Alíquota Zero (do Art. 463)|IBS|Crédito Presumido:<br>• **7,5%** (Sul / Sudeste, exceto ES)<br>• **13,5%** (Norte, NE, CO e ES)|Concedido ao contribuinte no regime regular na ALC. Sujeito a estorno em caso de saída do bem para fora da ALC34more_horiz.|
+|**Art. 466**|Operações internas na ALC com bens/serviços nacionais|CBS|**Alíquota Zero**|Válido para bens materiais nacionais ou serviços prestados fisicamente a pessoas na ALC37.|
+|**Art. 467**|Venda de produto de indústria de ALC para o Mercado Nacional|CBS|Crédito Presumido de **6%**|Aplicado sobre o valor da operação na NF. Adquirente no regime regular aproveita o crédito integral3839.|

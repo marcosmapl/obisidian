@@ -7,6 +7,7 @@
 - [[Auditoria Operacional (NBASP 300)]]
 - [[Auditoria de Conformidade (NBASP 400)]]
 - [[Instrumentos de Fiscalização (TCU)]]
+- [[ISSAI (NBASP) 100]]
 
 
 |                                | **Auditoria de Conformidade**<br>**(NBASP 400)**                                                                                                 | **Auditoria Operacional**<br>**(NBASP 300)**                                                                                 | **Auditoria Financeira**<br>**(NBASP 200)**                                                                                                         |

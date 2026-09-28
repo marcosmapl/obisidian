@@ -29,9 +29,9 @@ updated: 2026-04-30T14:30:00
 ---
 ## Repartições Públicas Brasileiras com Sede no Exterior
 
-- Estão sujeitas às **peculiaridades locais**, ou seja, não precisam necessariamente seguir todos os procedimentos da Lei nº 14.133.
-- Devem obedecer os princípios básicos (**LIMPE**).
-- As regras específicas para contratação devem ser estabelecidas por **regulamentação específicas**, a ser determinada pelo **Ministro de Estado**.
+1. **Repartições sediadas no exterior** - regulamento próprio/ peculiaridades
+2. **Recursos de agências e organismos internacionais** - podem ter regras próprias
+3. **Reservas internacionais** - ato normativo BACEN
 
 ---
 ## Objetos Licitáveis

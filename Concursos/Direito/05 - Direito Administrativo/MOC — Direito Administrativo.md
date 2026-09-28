@@ -90,7 +90,7 @@ updated: 2026-06-23T11:09:49
 - [[Dispensa de Licitação]]
 - [[Inexigibilidade de Licitação]]
 - [[Vedação à Licitação]]
-- [[Modalidades de Licitação]]
+- [[Da Fase Preparatória (art. 18 a 46)]]
 - [[Procedimentos Licitatórios]]
 - [[Anulação e Revogação da Licitação]]
 - [[Sanções Penais em Licitações]]

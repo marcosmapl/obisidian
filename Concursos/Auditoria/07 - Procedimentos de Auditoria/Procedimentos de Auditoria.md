@@ -33,12 +33,10 @@ updated: 2026-01-20T21:40:00
 
 Os testes compreendem dois grandes grupos:
 
-- [[Testes de Observância]] → controles internos → _funcionam?_ 
+- [[Testes de Controle (Observância)]] → controles internos → _funcionam?_ 
 - [[Testes Substantivos]] → dados e registros → _estão corretos, completos e válidos_?
 
 ![[Pasted image 20251227163014.png]]
-
-- [[Teste de Controle]]
 
 ---
 ## Tópicos Relacionados
