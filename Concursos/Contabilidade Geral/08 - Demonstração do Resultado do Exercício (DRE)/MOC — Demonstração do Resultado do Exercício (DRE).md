@@ -5,25 +5,17 @@ created: 2026-07-03T00:00:00
 updated: 2026-07-03T00:00:00
 ---
 
-## Definição
-
-> [!note] DRE
-> Demonstração que evidencia a **formação do lucro ou prejuízo** do exercício pela confrontação entre **receitas** e **despesas**.
-
-> [!important] Segue o **regime de competência**.
-
-## Estrutura da pasta
+## Índice
 
 - [[Demonstração do Resultado do Exercício (DRE)]]
-
-## Essencial para revisão
-
-- Receita bruta e deduções
-- Receita líquida
-- Custos e lucro bruto
-- Despesas e receitas operacionais
-- Resultado antes e depois de IR/CSLL
-- Lucro ou prejuízo líquido do exercício
+- [[Receita Operacional Bruta (ROB)]]
+- [[Receita Operacional Líquida (ROL)]]
+- [[Custos Mercadoria Vendida (CMV)]]
+- [[Resultado Operacional Líquido (LOL)]]
+- [[Resultado antes e depois de IR/CSLL (RAIR)]]
+- [[Resultado do Exercício antes das Participações (REAP)]]
+- [[Resultado Líquido do Exercício (LLE)]]
+- [[Lucro Líquido por Ação do Capital]]
 
 ---
 ## Tópicos relacionados

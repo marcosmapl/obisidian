@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "70d0c50dcbbe5c4c",
+        "id": "c511c307bd1774fe",
         "type": "tabs",
+        "dimension": 77.84860557768924,
         "children": [
           {
-            "id": "4514393976bc3a0e",
+            "id": "0764bdbe3be201bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Auditoria/17 - Auditoria Governamental/ISSAI (NBASP) 100.md",
+                "file": "Concursos/Tecnologia da Informação/12 - Segurança da Informação/Segurança da Informação — Conceitos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ISSAI (NBASP) 100"
-            }
+              "title": "Segurança da Informação — Conceitos"
+            },
+            "group": "d380a07358176e05"
+          }
+        ]
+      },
+      {
+        "id": "6e37404ae317a054",
+        "type": "tabs",
+        "dimension": 22.15139442231076,
+        "children": [
+          {
+            "id": "c3d67843b2db9fc9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Concursos/Tecnologia da Informação/12 - Segurança da Informação/Segurança da Informação — Conceitos.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Segurança da Informação — Conceitos"
+            },
+            "group": "d380a07358176e05"
           }
         ]
       }
@@ -55,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Agrega",
+                "query": "LGPD",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -83,7 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.0860481262207
+    "width": 346.66926193237305
   },
   "right": {
     "id": "36b906953263c637",
@@ -159,6 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Concursos/Tecnologia da Informação/12 - Segurança da Informação/Segurança da Informação — Conceitos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -288,37 +314,7 @@
             }
           },
           {
-            "id": "62f027006d157c9c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
             "id": "21efde1fb294be12",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "d7d7fde7ac8f2d67",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "2faefb540b7db498",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -338,57 +334,7 @@
             }
           },
           {
-            "id": "ba92af23df9a60e7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "ac9c10f01a4ba2ca",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "d0a604825d8c4e9c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "d52d9620cda96abd",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "79f896e904467dbe",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "ae90eb8c301ad067",
+            "id": "247ba5a3e666706b",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -398,7 +344,7 @@
             }
           }
         ],
-        "currentTab": 27
+        "currentTab": 19
       }
     ],
     "direction": "horizontal",
@@ -413,58 +359,57 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "markdown-importer:Abrir importador Markdown": false,
       "bases:Criar nova base": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4514393976bc3a0e",
+  "active": "0764bdbe3be201bc",
   "lastOpenFiles": [
-    "Concursos/Auditoria/17 - Auditoria Governamental/MOC — Auditoria Governamental.md",
-    "Concursos/Auditoria/17 - Auditoria Governamental/ISSAI (NBASP) 100.md",
-    "Concursos/Direito/05 - Direito Administrativo/08 - Contratos Administrativos/MOC — Contratos Administrativos.md",
-    "Concursos/Direito/05 - Direito Administrativo/07 - Licitações Públicas/MOC — Licitações Públicas.md",
-    "Concursos/Direito/05 - Direito Administrativo/07 - Licitações Públicas/Procedimentos Auxiliares.md",
-    "Concursos/Direito/05 - Direito Administrativo/07 - Licitações Públicas/Do Sistema de Registro de Preços – SRP.md",
-    "Concursos/Direito/05 - Direito Administrativo/07 - Licitações Públicas/Das Alienações.md",
-    "Concursos/Direito/05 - Direito Administrativo/07 - Licitações Públicas/Contratação Direta, Inexigibilidade e Dispensa.md",
-    "Concursos/Direito/05 - Direito Administrativo/07 - Licitações Públicas/Dos Serviços em Geral.md",
-    "Concursos/Direito/05 - Direito Administrativo/07 - Licitações Públicas/Das Obras e Serviços de Engenharia.md",
-    "Concursos/Direito/05 - Direito Administrativo/07 - Licitações Públicas/Da Fase Preparatória (art. 18 a 46).md",
-    "Concursos/Direito/05 - Direito Administrativo/07 - Licitações Públicas/Do Processo Licitatório (arts. 11 a ).md",
-    "Media/Pasted image 20260927155116.png",
-    "Media/Pasted image 20260927154935.png",
-    "Concursos/Direito/05 - Direito Administrativo/07 - Licitações Públicas/Dos Agentes Públicos (arts. 7º 10º).md",
-    "Media/Pasted image 20260927154459.png",
-    "Media/Pasted image 20260927154403.png",
-    "Media/Pasted image 20260927154256.png",
-    "Concursos/Direito/05 - Direito Administrativo/07 - Licitações Públicas/Das Definições (art. 6º).md",
-    "Concursos/Direito/05 - Direito Administrativo/07 - Licitações Públicas/Dos Princípios (art. 5º).md",
-    "Concursos/Direito/05 - Direito Administrativo/07 - Licitações Públicas/Do Âmbito de Aplicação (arts. 1º a 4º).md",
-    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/Lei Complementar nº 214 de 2025/Da Harmonização do Ibs e da Cbs (arts. 318 a).md",
-    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/Lei Complementar nº 214 de 2025/MOC — LC 214 de 2025.md",
-    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/Lei Complementar nº 214 de 2025/Do Regulamento do Ibs e da Cbs (art. 317).md",
-    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/Lei Complementar nº 214 de 2025/Sujeição Passiva (IBS e CBS).md",
-    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/Lei Complementar nº 214 de 2025/Regime Tributário Favorecido das ALCS (arts. 458 a 470).md",
-    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/Lei Complementar nº 214 de 2025/Regime Tributário Favorecido da ZFM (arts. 439 a 457).md",
-    "Concursos/Direito/10 - Direito Tributário/17 - Reforma Tributária/Lei Complementar nº 214 de 2025/Simples Nacional na ZFM e nas ALCS.md",
-    "Concursos/Auditoria/07 - Procedimentos de Auditoria/Procedimentos de Auditoria.md",
-    "Concursos/Auditoria/07 - Procedimentos de Auditoria/Procedimentos de Avaliação de Risco.md",
-    "Concursos/Auditoria/07 - Procedimentos de Auditoria/Procedimentos Adicionais.md",
-    "Media/Pasted image 20260924223729.jpg",
-    "Media/Pasted image 20260924223723.jpg",
-    "Concursos/Contabilidade Geral/13 - Demonstração de Resultados Abrangetes (DRA)",
-    "Media/Pasted image 20260923165317.jpg",
-    "Media/Pasted image 20260923164853.jpg",
-    "Media/Pasted image 20260923110050.png",
-    "Concursos/Auditoria/18 - Testes e Procedimentos em Áreas Específicas",
-    "Concursos/Contabilidade Geral/20 - Análise das Demonstrações Contábeis/07 - Índices de Atividade",
-    "Concursos/Direito/09 - Direito Processual Penal/03 - Das Medidas Assecuratórias",
-    "Concursos/Direito/08 - Direito Penal/06 - Crimes contra as Finanças Públicas",
-    "Concursos/Direito/08 - Direito Penal/05 - Crimes contra a Fé Pública",
-    "Concursos/Contabilidade Geral/20 - Análise das Demonstrações Contábeis/06 - Índices de Endividamento",
-    "Concursos/Contabilidade Geral/20 - Análise das Demonstrações Contábeis/03 - Alavancagem Financeira",
-    "Concursos/Contabilidade Geral/20 - Análise das Demonstrações Contábeis/02 - Índices de Rentabilidade",
-    "Concursos/Contabilidade Geral/20 - Análise das Demonstrações Contábeis/05 - Índices de Liquidez"
+    "Concursos/Tecnologia da Informação/12 - Segurança da Informação/MOC — Segurança da Informação.md",
+    "Concursos/Tecnologia da Informação/12 - Segurança da Informação/Segurança da Informação — Conceitos.md",
+    "Concursos/Tecnologia da Informação/12 - Segurança da Informação/Controle de Acesso.md",
+    "Concursos/Tecnologia da Informação/12 - Segurança da Informação/Firewall.md",
+    "Concursos/Tecnologia da Informação/12 - Segurança da Informação/Criptografia.md",
+    "Concursos/Contabilidade Geral/12 - Demonstração do Valor Adicionado (DVA)/Demonstração do Valor Adicionado (DVA).md",
+    "Concursos/Contabilidade Geral/08 - Demonstração do Resultado do Exercício (DRE)/Demonstração do Resultado do Exercício (DRE).md",
+    "Concursos/Contabilidade Geral/13 - Demonstração de Resultados Abrangetes (DRA)/Demonstração dos Resultados Abrangestes (DRA).md",
+    "Concursos/Contabilidade Geral/12 - Demonstração do Valor Adicionado (DVA)/MOC — Demonstração do Valor Adicionado (DVA).md",
+    "Media/Pasted image 20261029175757.jpg",
+    "Concursos/Contabilidade Geral/11 - Demonstração dos Fluxos de Caixa (DFC)/MOC — Demonstração dos Fluxos de Caixa (DFC).md",
+    "Concursos/Contabilidade Geral/11 - Demonstração dos Fluxos de Caixa (DFC)/Atividades de Investimento (AI).md",
+    "Media/Pasted image 20261029174426.png",
+    "Concursos/Contabilidade Geral/11 - Demonstração dos Fluxos de Caixa (DFC)/Demonstração dos Fluxos de Caixa (DFC).md",
+    "Concursos/Contabilidade Geral/11 - Demonstração dos Fluxos de Caixa (DFC)/Atividades de Financiamento (AF).md",
+    "Concursos/Contabilidade Geral/11 - Demonstração dos Fluxos de Caixa (DFC)/Atividades Operacionais (AO).md",
+    "Concursos/Contabilidade Geral/10 - Demonstração das Mutações do Patrimônio Líquido (DMPL)/Demonstração das Mutações do Patrimônio Líquido (DMPL).md",
+    "Concursos/Contabilidade Geral/10 - Demonstração das Mutações do Patrimônio Líquido (DMPL)/Elaboração da DMPL — Passo a Passo.md",
+    "Concursos/Contabilidade Geral/11 - Demonstração dos Fluxos de Caixa (DFC)/Método Indireto (DFC).md",
+    "Concursos/Contabilidade Geral/11 - Demonstração dos Fluxos de Caixa (DFC)/Método Direto (DFC).md",
+    "Concursos/Contabilidade Geral/11 - Demonstração dos Fluxos de Caixa (DFC)/Pagamentos a Fornecedores.md",
+    "Recebimento de Clientes 1.md",
+    "Concursos/Contabilidade Geral/11 - Demonstração dos Fluxos de Caixa (DFC)/Recebimento de Clientes.md",
+    "Concursos/Contabilidade Geral/11 - Demonstração dos Fluxos de Caixa (DFC)/Juros e Dividendos (DFC).md",
+    "Concursos/Contabilidade Geral/11 - Demonstração dos Fluxos de Caixa (DFC)/Caixa e Equivalentes de Caixa.md",
+    "Concursos/Contabilidade Geral/08 - Demonstração do Resultado do Exercício (DRE)/MOC — Demonstração do Resultado do Exercício (DRE).md",
+    "Concursos/Contabilidade Geral/07 - Patrimônio Líquido/Patrimônio Líquido.md",
+    "Media/Pasted image 20261029102356.png",
+    "Concursos/Contabilidade Geral/07 - Patrimônio Líquido/MOC — Patrimônio Líquido.md",
+    "Media/Pasted image 20261029082337.png",
+    "Media/Pasted image 20261029082315.png",
+    "Media/Pasted image 20261027234310.png",
+    "Media/Pasted image 20261027234246.png",
+    "Media/Pasted image 20261027133503.png",
+    "Concursos/Economia/14 - Tributação",
+    "Concursos/Direito/09 - Direito Processual Penal/Sem título",
+    "Concursos/Direito Processual Penal/05 - Lei dos Crimes Contra a Ordem Tributária",
+    "Concursos/Direito Processual Penal/04 - Lei de Delitos Informáticos",
+    "Media/Pasted image 20261021213022.png",
+    "Concursos/Direito Empresarial/04 - Dos Títulos de Crédito",
+    "Concursos/Direito Civil/03 - Código Civil/Livro I - Das Pessoas",
+    "Concursos/Direito Tributário/17 - Reforma Tributária/Lei Complementar nº 214 de 2025/Livro III - ZFM e ALCs",
+    "Concursos/Direito Tributário/17 - Reforma Tributária/Lei Complementar nº 214 de 2025/Livro II - IS",
+    "Concursos/Direito Tributário/17 - Reforma Tributária/Lei Complementar nº 214 de 2025/Livro I  - IBS e CBS",
+    "Media/Pasted image 20261019154114.png",
+    "Concursos/Economia/08 - Falhas de Mercado"
   ]
 }

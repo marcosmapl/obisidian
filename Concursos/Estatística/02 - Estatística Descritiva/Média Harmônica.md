@@ -12,6 +12,8 @@ A média harmônica é muito utilizada quando precisamos trabalhar com **grandez
 > [!note] Harmônica
 > $$ \bar{x}_{h} = \frac{n}{\sum_{i=1}^{n} \frac{1}{x_i}} $$
 
+>[!important] **n** é o **número de taxas observadas**!
+
 ---
 ## Tópicos Relacionados
 

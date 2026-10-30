@@ -36,7 +36,7 @@ updated: 2026-05-21T21:55:00
 - [[Análise das Demonstrações Contábeis (Técnica Contábil)]]
 - [[Auditoria (Técnica Contábil)]]
 - [[Escrituração Contábil]]
-- [[MOC — Balanço Patrimonial]]
+- [[Balanço Patrimonial]]
 - [[Demonstração de Lucros ou Prejuízos Acumulados (DLPA)]]
 - [[Demonstração do Resultado do Exercício (DRE)]]
 - [[Demonstração dos Fluxos de Caixa (DFC)]]

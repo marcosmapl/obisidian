@@ -5,10 +5,10 @@ created: 2025-12-19T15:36:53
 updated: 2026-07-03T11:00:23
 ---
 
-## 🔸 Classificação Quanto à Finalidade
+## Classificação Quanto à Finalidade
 
 A doutrina classifica as aziendas, **quanto ao fim a que se destinam**, em três grupos:
-### 🔹 Aziendas Econômicas
+### Aziendas Econômicas
 
 > São aziendas que **objetivam o lucro**.
 
@@ -16,7 +16,7 @@ A doutrina classifica as aziendas, **quanto ao fim a que se destinam**, em três
 
 💡**Exemplo:**
 - **Empresas** (sociedades empresárias)
-### 🔹 Aziendas Econômico-Sociais
+### Aziendas Econômico-Sociais
 
 > São aziendas que **não visam à remuneração do capital**
 
@@ -25,7 +25,7 @@ A doutrina classifica as aziendas, **quanto ao fim a que se destinam**, em três
 💡**Exemplos:**
 - **Associações**
 - Fundações privadas sem fins lucrativos
-### 🔹  Aziendas Sociais
+### Aziendas Sociais
 
 > São aziendas que **não possuem escopo lucrativo**
 
@@ -37,27 +37,11 @@ A doutrina classifica as aziendas, **quanto ao fim a que se destinam**, em três
 - **Municípios**
 - Demais entes da Administração Pública
 
-#contabilidade/azienda
-#contabilidade/azienda/econômica
-#contabilidade/azienda/social
-#contabilidade/azienda/econômico-social
-
----
-### 🔹 Pontos de Atenção (Prova)
-
-📌**Todas as aziendas** possuem patrimônio → **todas** são objeto da Contabilidade.
-
-📌A existência ou não de **lucro** **não afasta** a aplicação da Contabilidade.
-
-📌Azienda **≠** empresa
-- Empresa é **espécie** de azienda econômica.
 
 ![[tipos-azienda.png]]
 
 ---
 ## Tópicos Relacionados
 
-- [[Entidade — Conceito]]
 - [[Patrimônio — Conceito]]
 - [[Funções da Contabilidade]]
-- [[MOC — Conceitos Fundamentais]]

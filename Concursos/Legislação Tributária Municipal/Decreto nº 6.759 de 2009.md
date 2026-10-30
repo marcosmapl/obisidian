@@ -81,6 +81,20 @@ _Arts. 524 a 533 do Decreto nº 6.759/2009_
 
 As **áreas de livre comércio de importação e de exportação** são as que, **sob regime fiscal especial**, se estabelecem com a finalidade de **promover o desenvolvimento de áreas fronteiriças específicas da Região Norte** e de **incrementar as relações bilaterais com os países vizinhos**, segundo a **política de integração latino-americana**.
 
+💡 Todas as ALCs são **administradas pela SUFRAMA** e a elas se aplica, **no que couber, a legislação pertinente à Zona Franca de Manaus**, com suas alterações e respectivas disposições regulamentares.
+
+### Quadro das ALCs 🎯
+
+|ALC (sigla)|Municípios abrangidos|UF|Diploma criador|Regulamento|
+|---|---|---|---|---|
+|**ALCT** — Tabatinga|**Tabatinga**|AM|Lei nº 7.965/1989|—|
+|**ALCGM** — Guajará-Mirim|**Guajará-Mirim**|RO|Lei nº 8.210/1991|Decreto nº 843/1993|
+|**ALCBV** — Boa Vista|**Boa Vista** e **Pacaraima**|RR|Lei nº 8.256/1991|Decreto nº 6.614/2008|
+|**ALCB** — Bonfim|**Bonfim**|RR|Lei nº 8.256/1991|Decreto nº 6.614/2008|
+|**ALCMS** — Macapá e Santana|**Macapá e Santana**|AP|Lei nº 8.387/1991|Decreto nº 517/1992|
+|**ALCB** — Brasiléia|**Brasiléia**, com **extensão a Epitaciolândia**|AC|Lei nº 8.857/1994|Decreto nº 1.357/1994|
+|**ALCCS** — Cruzeiro do Sul|**Cruzeiro do Sul**|AC|Lei nº 8.857/1994|Decreto nº 1.357/1994|
+
 🎯 A finalidade das ALCs é **fronteiriça e de integração internacional** — não se confunde com a finalidade **industrial, comercial e agropecuária** da ZFM.
 
 A entrada de produtos estrangeiros ocorre **com suspensão** do pagamento dos impostos de importação e sobre produtos industrializados, **convertida em isenção** quando os produtos forem destinados a:

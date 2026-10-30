@@ -13,7 +13,6 @@ updated: 2026-07-01T15:30:00
 ---
 ## Estrutura essencial
 
-
 | **Receita Operacional Bruta** (**ROB**, retirada do BP)             |
 | ------------------------------------------------------------------- |
 | (-) **DE**voluções de vendas e cancelamentos                        |
@@ -35,21 +34,25 @@ updated: 2026-07-01T15:30:00
 | (+) **Receitas Operacionais**                   | (+) Receitas **Financeiras**<br>(+) Resultado Positivo de **Equivalência Patrimonial**<br>(+) **Variações Monetárias Ativas**<br>(+) **Dividendos recebidos** (investimentos avaliados pelo custo)<br>(+) **Outras Receitas** |
 | (=) **Resultado Antes do IR e CSLL** (**RAIR**) |                                                                                                                                                                                                                               |
 
-| **Resultado Antes do IR e CSLL** (**RAIR**)         |
-| --------------------------------------------------- |
-| (-) IRPJ a pagar                                    |
-| (-) CSLL a pagar                                    |
-| (=) **Resultado Antes das Participações** (**RAP**) |
+| **Resultado Antes do IR e CSLL** (**RAIR**)                       |
+| ----------------------------------------------------------------- |
+| (-) IRPJ a pagar                                                  |
+| (-) CSLL a pagar                                                  |
+| (=) **Resultado do Exercício Antes das Participações** (**REAP**) |
 
-| **Resultado Antes das Participações** (**RAP**)             |
-| ----------------------------------------------------------- |
-| (-) **D**ebentures                                          |
-| (-) **E**mpregados                                          |
-| (-) **A**dministradores                                     |
-| (-) **P**artes Beneficiárias                                |
-| (-) **F**undos de Assistência e Previdência para Empregados |
-| (=) **Lucro Líquido do Exercício** (**LLE**)                |
-****
+| **Resultado do Exercício Antes das Participações** (**REAP**) |
+| ------------------------------------------------------------- |
+| (-) **D**ebentures                                            |
+| (-) **E**mpregados                                            |
+| (-) **A**dministradores                                       |
+| (-) **P**artes Beneficiárias                                  |
+| (-) **F**undos de Assistência e Previdência para Empregados   |
+| (=) **Lucro Líquido do Exercício** (**LLE**)                  |
+
+> **DEAPF**
+
+----
+
 > [!tip] Sequência de Elaboração
 > **ROB** (DRE) - **DEDIA** = **ROL**
 > **ROL** - **Custos** = **LOB**

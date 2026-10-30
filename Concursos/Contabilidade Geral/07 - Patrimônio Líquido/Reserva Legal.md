@@ -15,7 +15,7 @@ updated: 2026-06-23T21:55:00
 
 > [!tip] Constituição Obrigatória
 
-![[Pasted image 20260724113536.png]]
+![[Pasted image 20261019131632.png]]
 
 ---
 ## Base de Cálculo

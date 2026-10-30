@@ -5,7 +5,7 @@ created: 2025-12-29T11:41:00
 updated: 2025-12-29T11:42:00
 ---
 
-## 🔸Definição
+## Definição
 
 > [!note] Bens Tangíveis  
 > Bens que **possuem forma física**, podendo ser **vistos e tocados**.

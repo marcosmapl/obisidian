@@ -3,3 +3,5 @@
 
 $$ GAF = \frac{\frac{LL}{PL}}{\frac{LL + DF}{A}}  $$
 
+
+$$ GAF = \frac{LAJIR}{LAIR} $$

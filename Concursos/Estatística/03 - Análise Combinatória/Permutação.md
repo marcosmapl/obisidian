@@ -10,18 +10,24 @@ updated: 2026-06-03T09:30:00
 - Ordem importa
 - De quantas formas distintas posso combinar os elementos
 
-### Permutação Simples
+---
+## Permutação Simples
 
 $$P_n = n!$$
 
-### Permutação Simples Com Restrição
+---
+## Permutação Simples Com Restrição
 
 $$ P_{n-p} = (n - p)! $$
 
-### Permutação com Repetição
+Onde **p** é o número de elementos que estão **restritos**
+
+---
+## Permutação com Repetição
 
 $$P_n^{K,L,M,...} = \frac{n!}{K! \times L! \times M! \dots } $$
 
-### Permutação Circular
+---
+## Permutação Circular
 
-$$ PC_n = (n - 1)! $$
+$$ PC_n = P_{n-1} = (n - 1)! $$

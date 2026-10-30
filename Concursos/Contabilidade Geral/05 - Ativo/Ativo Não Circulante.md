@@ -23,7 +23,8 @@ O **Ativo Realizável a Longo Prazo** (**ARLP**) é composto por:
 
 > [!tip] Neste último caso, quando em **negócios não usuais** da entidade, o **prazo é irrelevante**, por isso são classificados como ARLP.
 
-![[259831-109bc0cf-f116-4288-8cfc-8f16e4622045.png]]
+
+![[Pasted image 20261029082315.png]]
 
 Exemplos
 - Duplicatas a receber a longo prazo
@@ -39,6 +40,8 @@ Exemplos
 > [!note] Art. 179 (...) III - em **investimentos**: as **participações permanentes em outras sociedades** e os **direitos de qualquer natureza**, ==não classificáveis no ativo circulante==, e que ==não se destinem à manutenção da atividade da companhia ou da empresa==;
 
 Participações permanentes em **OUTRAS SOCIEDADES** e os **DIREITOS DE QUALQUER NATUREZA**, não classificáveis no **Ativo Circulante**, e que não se destinem à manutenção da atividade da companhia ou da empresa.
+
+![[Pasted image 20261029082337.png]]
 
 Exemplos
 - Participações em Outras Empresas
@@ -59,6 +62,8 @@ Exemplos
 > - (a) é mantido para **uso na produção ou fornecimento de mercadorias ou serviços, para aluguel a outros, ou para fins administrativos**; e 
 > - (b) se espera **utilizar por mais de um período**
 
+> [!tip] Imobilizado é todo **bem corpóreo** (o que o diferencia do Intangível) destinado à **manutenção das atividades** (o que o diferencia de Investimento) da entidade.
+
 Exemplos:
 - Veículos
 - Móveis e Utensílios
@@ -77,6 +82,8 @@ Exemplos:
 > - **Controlável**
 > - **Gerador de Benefícios Futuros**
 
+> [!tip] Ativo intangível é um ativo **não monetário** **identificável** **sem substância física**.
+
 > [!note] Goodwill
 > - Gerado internamento -> Despesa
 > - Adquirido -> Ativo Intangível
@@ -93,7 +100,6 @@ Exemplos:
 - [[MOC — Ativo]]
 - [[Ativo Circulante]]
 - [[Bens — Conceito]]
-- [[Direitos — Conceito]]
 - [[Empresa Coligada]]
 - [[Empresa Controlada]]
 

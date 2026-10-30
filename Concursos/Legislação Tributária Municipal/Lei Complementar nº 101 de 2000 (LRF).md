@@ -2,37 +2,48 @@
 
 ## Disposições Gerais
 
-Art. 1.º Esta Lei Complementar estabelece **normas de finanças públicas voltadas para a responsabilidade na gestão fiscal**, com amparo no Capítulo II do Título VI da Constituição.
+### Art. 1º
 
-§ 1o A responsabilidade na gestão fiscal pressupõe a ação planejada e transparente, em que se previnem riscos e corrigem desvios capazes de afetar o equilíbrio das contas públicas, mediante o cumprimento de metas de resultados entre receitas e despesas e a obediência a limites e condições no que tange a renúncia de receita, geração de despesas com pessoal, da seguridade social e outras, dívidas consolidada e mobiliária, operações de crédito, inclusive por antecipação de receita, concessão de garantia e inscrição em Restos a Pagar.
+§ 1º A responsabilidade na gestão fiscal pressupõe a **ação planejada e transparente**, em que se **previnem riscos** e **corrigem desvios** capazes de **afetar o equilíbrio das contas públicas**, mediante o **cumprimento de metas de resultados entre receitas e despesas** e a **obediência a limites e condições** no que tange a **renúncia de receita**, **geração de despesas** com pessoal, da seguridade social e outras, **dívidas consolidada e mobiliária**, **operações de crédito**, inclusive por **antecipação de receita**, **concessão de garantia** e inscrição em **Restos a Pagar**.
 
-§ 2o As disposições desta Lei Complementar obrigam a **União**, os **Estados**, o **Distrito Federal** e os **Municípios**.
+§ 2º As disposições desta Lei Complementar obrigam a **União**, os **Estados**, o **Distrito Federal** e os **Municípios**.
 
-§ 3o Nas referências:
-I - à **União**, aos **Estados**, ao **Distrito Federal** e aos **Municípios**, estão compreendidos:
-- a) o **Poder Executivo**, o **Poder Legislativo**, neste abrangidos os **Tribunais de Contas**, o **Poder Judiciário** e o **Ministério Público**;
-- b) as respectivas **administrações diretas**, **fundos**, **autarquias**, **fundações** e **empresas estatais dependentes**;
-II - a Estados entende-se considerado o Distrito Federal;
-III - a Tribunais de Contas estão incluídos: Tribunal de Contas da União, Tribunal de Contas do Estado e, quando houver, Tribunal de Contas dos Municípios.
+§ 3º Nas referências:
+- **União**
+- **Estados**
+- **Distrito Federal**
+- **Municípios**
+- **Poder Executivo**
+- **Poder Legislativo**
+- **Tribunais de Contas**
+- **Poder Judiciário**
+- **Ministério Público**
+- As respectivas **administrações diretas**, **fundos**, **autarquias**, **fundações** e **empresas estatais dependentes**;
 
 ---
-## Receita Líquida
+## Receita Corrente Líquida (RCL)
 
-Art. 2° V - receita corrente líquida: somatório das receitas tributárias, de contribuições, patrimoniais, industriais, agropecuárias, de serviços, transferências correntes e outras receitas também correntes, deduzidos:
+Art. 2° V - **receita corrente líquida**: somatório das receitas tributárias, de contribuições, patrimoniais, industriais, agropecuárias, de serviços, transferências correntes e outras receitas também correntes, **deduzidos**:
+- a) na **União**:
+	- os **valores transferidos** aos **Estados** e **Municípios** por determinação constitucional ou legal
+	- Art. 195, I, "a" da CF: **Contribuições sociais do empregador**, da empresa e da entidade a ela equiparada na forma da lei, incidentes sobre a folha de salários e demais rendimentos do trabalho.
+	- • Art. 195, II da CF: **Contribuições sociais dos trabalhadores** e dos demais segurados da **previdência social**.
+	- Art. 239 da CF: As **contribuições para o Programa de Integração Social (PIS)** e para o **Programa de Formação do Patrimônio do Servidor Público (PASEP)**.
+- b) nos **Estados**:
+	- as **parcelas entregues** aos **Municípios** por **determinação constitucional**;
+- c) na **União**, nos **Estados** e nos **Municípios**:
+	- a **contribuição dos servidores para o custeio do seu sistema de previdência e assistência social** 
+	- as **receitas provenientes da compensação financeira** citada no § 9º do art. 201 da Constituição.
 
-a) na União, os valores transferidos aos Estados e Municípios por determinação constitucional ou legal, e as contribuições mencionadas na alínea a do inciso I e no inciso II do art. 195, e no art. 239 da Constituição;
-
-b) nos Estados, as parcelas entregues aos Municípios por determinação constitucional;
-
-c) na União, nos Estados e nos Municípios, a contribuição dos servidores para o custeio do seu sistema de previdência e assistência social e as receitas provenientes da compensação financeira citada no § 9º do art. 201 da Constituição.
+> **Receita Corrente Líquida (RCL)**: Calculada somando-se as receitas arrecadas no **mês de referência** e no **onze anteriores**, ==excluídas as duplicidades==.
 
 ---
 ## Da Lei de Diretrizes Orçamentárias
 
 Art. 4º I - disporá também sobre:
-- equilíbrio entre receitas e despesas;
-- critérios e forma de limitação de empenho;
-- demais condições e exigências para transferências de recursos a entidades públicas e privadas;
+- equilíbrio entre **receitas** e **despesas**;
+- critérios e forma de **limitação de empenho**;
+- demais condições e exigências para **transferências de recursos a entidades públicas e privadas**;
 
 
 § 1.º Integrará o projeto de lei de diretrizes orçamentárias **Anexo de Metas Fiscais**:
@@ -234,11 +245,10 @@ A concessão, ampliação ou prorrogação de **benefício/incentivo tributário
 Deve atender à **LDO** e a **pelo menos uma** das condições:
 - **I — Renúncia já considerada:** Demonstrar que a renúncia foi considerada na estimativa de receita da LOA e **não afetará as metas fiscais** da LDO.
 - **II — Compensação:**  Adotar medidas de compensação, no período mencionado, por meio de aumento de receita decorrente de:
-
-- Elevação de alíquotas;
-- Ampliação da base de cálculo;
-- Majoração de tributo/contribuição;
-- Criação de tributo/contribuição.
+	- Elevação de **alíquotas**;
+	- Ampliação da **base de cálculo**;
+	- Majoração de **tributo/contribuição**;
+	- Criação de **tributo/contribuição**.
 
 > **Memorização:** Renúncia = **Impacto + LDO + (não afeta metas OU compensação)**.
 

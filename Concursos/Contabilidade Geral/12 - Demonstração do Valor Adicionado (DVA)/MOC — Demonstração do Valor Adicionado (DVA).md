@@ -5,18 +5,11 @@ created: 2026-07-03T00:00:00
 updated: 2026-07-03T00:00:00
 ---
 
-## Definição
-
-> [!note] DVA
-> Demonstração que evidencia a **riqueza gerada pela entidade** e a forma como essa riqueza foi **distribuída**.
-
-> [!important] É obrigatória para **companhia aberta**.
-
-> CPC 09
-
-## Estrutura da pasta
+## Índice
 
 - [[Demonstração do Valor Adicionado (DVA)]]
+
+![[Pasted image 20261029175757.jpg]]
 
 ---
 ## Tópicos relacionados

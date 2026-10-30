@@ -5,19 +5,22 @@ created: 2026-07-03T00:00:00
 updated: 2026-07-03T00:00:00
 ---
 
-## Definição
+## Índice
 
-> [!note] DFC
-> Demonstração que evidencia as **entradas e saídas de caixa e equivalentes de caixa** do período.
+### Classificação das Atividades
 
-> [!important] Não segue a lógica da DRE: seu foco é o **caixa**, não o regime de competência.
+- [[Atividades Operacionais (AO)]]
+- [[Atividades de Investimento (AI)]]
+- [[Atividades de Financiamento (AF)]]
 
-## Estrutura da pasta
+![[Pasted image 20261029174426.png]]
+
+### DFC
 
 - [[Demonstração dos Fluxos de Caixa (DFC)]]
-- [[Atividades Operacionais]]
-- [[Atividades de Investimento]]
-- [[Atividades de Financiamento]]
+- [[Caixa e Equivalentes de Caixa]]
+- [[Recebimento de Clientes]]
+- [[Pagamentos a Fornecedores]]
 - [[Juros e Dividendos (DFC)]]
 - [[Método Direto (DFC)]]
 - [[Método Indireto (DFC)]]

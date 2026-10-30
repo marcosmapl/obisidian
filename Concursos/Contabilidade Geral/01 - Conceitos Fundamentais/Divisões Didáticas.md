@@ -38,6 +38,5 @@ updated: 2026-05-19T09:30:00
 
 - [[Técnicas Contábeis]]
 - [[Funções da Contabilidade]]
-- [[MOC — Conceitos Fundamentais]]
 
----
+

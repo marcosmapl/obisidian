@@ -35,6 +35,7 @@ Utilizados conforme a necessidade da entidade, para melhor controle gerencial.
 ---
 ## Tópicos Relacionados
 
-- [[Livro Caixa]]
 - [[Livro Diário]]
 - [[Livro Razão]]
+- [[Livro Caixa]]
+

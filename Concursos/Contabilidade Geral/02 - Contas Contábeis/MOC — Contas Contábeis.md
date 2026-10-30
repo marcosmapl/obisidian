@@ -59,17 +59,9 @@ updated: 2026-07-03T00:00:00
 - [[Principais Contas Utilizadas]]
 
 ---
-## Roteiro rápido de revisão
-
-1. Fixar o conceito de [[Conta Contábil]] e suas classificações.
-2. Revisar as três [[Teoria das Contas|teorias das contas]] e suas diferenças.
-3. Separar [[Contas Patrimoniais]] de [[Contas de Resultado]].
-4. Fechar com [[Contas Credoras]] e [[Contas Devedoras]] e sua relação com a natureza do saldo.
-
----
 ## Tópicos Relacionados
 
-- [[MOC — Conceitos Fundamentais]]
+- [[Concursos/Economia/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais]]
 - [[MOC — Escrituração Contábil]]
 - [[MOC — Balanço Patrimonial]]
 

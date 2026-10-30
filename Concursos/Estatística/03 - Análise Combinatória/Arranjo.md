@@ -5,10 +5,20 @@ created: 2026-08-04T22:04:00
 updated: 2026-08-04T22:05:00
 ---
 
-> [!note] Definição
-> O **arranjo** é **um subconjunto** de elementos, de tal maneira que a sua **ordenação seja relevante**.
+## Definição
 
+> [!note] Arranjo
+> **Um subconjunto** de elementos, de tal maneira que a sua **ordenação seja relevante**.
+
+---
+## Características
+
+- Parte dos elementos
+- Ordem importa
+
+---
+## Fórmulas
 ### Arranjo Simples
 
-$$ A_{n,k} = A_n^k = \frac{ n! }{ (n - k)! } $$
+$$ A_{n,p} = A_n^p = \frac{ n! }{ (n - p)! } $$
 

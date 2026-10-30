@@ -10,15 +10,11 @@ updated: 2026-03-04T16:10:00
 > [!note] Subscrição
 > Ato pelo qual os sócios se **compromentem**, formalmente, a entregar recursos para a constituição de uma empresa. (**promessa**)
 
-#contabilidade/subscricao
-
 ---
 ## Integralização
 
 > [!note] Integralização
-> Ato pelo qual os sócios efetivam a entrega de recursos.
-
-#contabilidade/Integralização
+> Ato pelo qual os sócios **efetivam a entrega de recursos**.
 
 ---
 ## Tópicos Relacionados

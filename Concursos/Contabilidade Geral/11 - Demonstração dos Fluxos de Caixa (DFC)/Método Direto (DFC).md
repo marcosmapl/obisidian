@@ -66,36 +66,7 @@ VI - Saldo Final do Disponível (IV + V)
 - O CPC 03 permite seu uso, mas exige conciliação com o fluxo operacional.
 
 ---
-## Recebimento de Clientes
 
-$$ S_f = S_i + V - R $$
-- **Si**: Saldo inicial
-- **Sf**: Saldo final
-- **V**: Vendas
-- **R**: Recebimentos
-
-> [!important] Outras operações
-> - (-) Devoluções e Abatimentos
-> - (-) Descontos incondicionais (comerciais)
-> - (+) Adiantamento de cliente (saldo inicial)
-> - (-) Adiantamento de cliente (saldo final)
-
----
-## Pagamentos a Fornecedores
-
-### DFC
-
-$$ S_f = S_i + C - P_g $$
-### CMV
-
-$$ CMV = E_{i} + C - E_f $$
-- **CMV**: Custo da Mercadoria Vendida
-- **Ei**: Estoque Inicial
-- **Ef**: Estoque Final
-- **Si**: Saldo inicial
-- **Sf**: Saldo final
-- **C**: Compras
-- **Pg**: Pagamentos
 
 ---
 ## Tópicos Relacionados
@@ -103,3 +74,5 @@ $$ CMV = E_{i} + C - E_f $$
 - [[MOC — Demonstração dos Fluxos de Caixa (DFC)]]
 - [[Demonstração dos Fluxos de Caixa (DFC)]]
 - [[Método Indireto (DFC)]]
+- [[Recebimento de Clientes]]
+- [[Pagamentos a Fornecedores]]

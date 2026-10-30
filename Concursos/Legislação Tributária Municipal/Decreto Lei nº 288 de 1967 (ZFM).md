@@ -236,7 +236,14 @@ As isenções federais só entraram em vigor após contrapartidas estaduais e mu
 1. **Estado do Amazonas:** Concessão de crédito de imposto (equivalente ao ICMS atual) nas operações internas, igual ao montante que seria pago se a remessa para a ZFM fosse uma exportação para o estrangeiro.
 2. **Municípios:** Concessão de **isenção do Imposto sobre Serviços (ISS)** na área da Zona Franca.
 
-**8. Disposições Finais**
+---
+## Quadro-Síntese das Operações
 
-- **Revogação:** O Decreto-Lei nº 288/1967 revogou expressamente a Lei nº 3.173/1957 (a lei anterior da Zona Franca).
-- **Recursos Iniciais:** Foi aberto um crédito especial de NCR$ 1.000.000,00 (um milhão de cruzeiros novos) para as despesas do primeiro ano (1967)
+|Operação|Tratamento tributário|
+|:--|:--|
+|**Entrada** de mercadoria estrangeira na ZFM (finalidades legais)|**Isenção de II e IPI**, com rol de exclusões|
+|**Remessa** de mercadoria nacional para a ZFM|**Equiparada a exportação** para todos os efeitos fiscais (exceto derivados de petróleo)|
+|**Saída** da ZFM para o **exterior**|**Isenta do imposto de exportação**, qualquer que seja a origem|
+|**Internamento** de mercadoria estrangeira estocada|**Todos os impostos de uma importação do exterior**|
+|**Internamento** de produto industrializado na ZFM|**II sobre insumos estrangeiros**, com **coeficiente de redução** + **isenção de IPI** condicionada|
+|Mercadoria **nacional** estocada para retorno ao mercado interno|**Todos os impostos** de produção e circulação|

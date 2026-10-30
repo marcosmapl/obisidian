@@ -7,16 +7,3 @@ Em Juros Simples, a sequência formada pelos valores dos Montantes em cada perí
 
 ![[Pasted image 20260811210741.png]]
 
----
-## Cálculo dos Juros Simples
-
-$$ J = C \times i \times t $$
-
-A **Taxa de Juros** deve ser inserida na **forma unitária** e a **grandeza da Taxa de Juros e do Tempo devem estar**, ==OBRIGATORIAMENTE==, na mesma **unidade de grandeza**.
-
----
-## Cálculo do Montante Simples
-
-$$ M = C \times ((1 + i) \times t) $$
-
-A **Taxa de Juros** deve ser inserida na **forma unitária** e a **grandeza da Taxa de Juros e do Tempo devem estar**, ==OBRIGATORIAMENTE==, na mesma **unidade de grandeza**.

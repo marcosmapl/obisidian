@@ -12,11 +12,6 @@ updated: 2026-07-03T00:00:00
 
 > [!important] Não se confundem com [[Reservas de Lucros]], que decorrem da apropriação do lucro líquido.
 
-## Ideia-chave para prova
-
-- Decorrem de aportes ou operações societárias específicas.
-- Têm destinação legal mais restrita.
-
 ---
 ## Exemplos clássicos
 

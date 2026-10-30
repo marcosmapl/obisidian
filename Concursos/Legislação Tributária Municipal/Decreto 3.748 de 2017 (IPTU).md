@@ -85,14 +85,14 @@ Para fins de incidência e classificação fiscal, são estabelecidas definiçõ
 ---
 ## Lançamento e Impugnação do IPTU (Artigos 7º a 10)
 
-- **Regra Geral**: O lançamento do IPTU é **de ofício** e anual, realizado em nome do contribuinte registrado. Admitir-se-á o lançamento ou revisão durante o exercício, garantindo o **parcelamento em até 12 vezes** e o prazo de **impugnação de 30 dias** contados do vencimento da cota única ou da primeira parcela.
+- **Regra Geral**: O lançamento do IPTU é **de ofício** e anual, realizado em nome do contribuinte registrado. Admitir-se-á o lançamento ou revisão durante o exercício, garantindo o **parcelamento em até 12 vezes** e o prazo de **impugnação de 30 dias** contados do vencimento da **cota única ou da primeira parcela**.
 - **Mudanças Físicas**: Atualizações cadastrais decorrentes de modificações físicas ocorridas no imóvel no exercício somente produzirão **efeitos no lançamento a partir do exercício seguinte**.
 - **Procedimento de Impugnação**: O pedido de revisão do lançamento **suspende a exigibilidade** do crédito tributário. Caso o contribuinte concorde parcialmente com o lançamento, ele pode recolher o valor que julgar correto por meio de DAM Avulso.
-- **Nulidades**: Constatado vício formal insanável, **o lançamento será integralmente anulado**, devendo ser efetuado um novo lançamento de ofício, com renovação do direito de defesa e pagamento.
+- **Nulidades**: Constatado **vício formal insanável**, **o lançamento será integralmente anulado**, devendo ser efetuado um novo lançamento de ofício, com renovação do direito de defesa e pagamento.
 - **Resultados do Julgamento**:
-    - **Improcedência****:** O contribuinte recolhe a diferença com os devidos encargos moratórios vigentes desde o vencimento original.
+    - **Improcedência**: O contribuinte recolhe a diferença com os devidos encargos moratórios vigentes desde o vencimento original.
     - **Procedência**: Retifica-se o lançamento e o cadastro, gerando DAM corrigido, e eventuais valores pagos a maior serão creditados ao contribuinte para restituição, compensação ou aproveitamento futuro.
-    - **Procedência parcial****:** Retifica-se o cadastro e cobra-se o valor de saldo com encargos acumulados.
+    - **Procedência parcial**: Retifica-se o cadastro e cobra-se o valor de saldo com encargos acumulados.
 
 ---
 ## Obrigações Acessórias e DMI-e (Artigos 11 a 13)
@@ -121,4 +121,4 @@ Para fins de incidência e classificação fiscal, são estabelecidas definiçõ
 ## Infrações e Casos Singulares (Artigos 20 a 24)
 
 - **Lançamento de Multas**: Realizado por **auto de infração** (cientificado pessoalmente ou por edital no DOM) ou **notificação de lançamento** com Aviso de Recebimento (AR).
-- **Revisão por Tributação Injusta (Casos Singulares)**: Permite ao Fisco rever, de ofício (por ato do Secretário da SEMEF ou Subsecretário da Receita) ou a pedido, os valores venais quando a aplicação direta da PGV gerar tributação manifestamente injusta. **A injustiça é caracterizada quando o valor venal apurado pelas tabelas padrão da lei supera o maior valor venal obtido pelos métodos comparativos de mercado da PGM ou de guia de ITBI recente efetivamente paga****.**
+- **Revisão por Tributação Injusta (Casos Singulares)**: Permite ao Fisco rever, de ofício (por ato do Secretário da SEMEF ou Subsecretário da Receita) ou a pedido, os valores venais quando a aplicação direta da PGV gerar tributação manifestamente injusta. **A injustiça é caracterizada quando o valor venal apurado pelas tabelas padrão da lei supera o maior valor venal obtido pelos métodos comparativos de mercado da PGM ou de guia de ITBI recente efetivamente paga**.

@@ -40,7 +40,7 @@ updated: 2026-07-03T00:00:00
 
 ### 12. [[MOC — Demonstração do Valor Adicionado (DVA)]]
 
-### 13. 
+### 13. [[MOC — Demonstração dos Resultados Abrangentes (DRA)]]
 
 ### 13. [[MOC — Princípios Contábeis]]
 

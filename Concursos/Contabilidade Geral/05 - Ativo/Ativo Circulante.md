@@ -12,6 +12,8 @@ updated: 2026-05-19T09:30:00
 > - Ativos **mantidos para negociação**;
 > - **Caixa** ou **equivalente** caixa
 
+> São os bens e direitos de curto prazo: 
+
 ---
 ## Classificações do AC
 
@@ -38,7 +40,7 @@ Art. 179, Lei 6.404/76, as contas do **ativo circulante** serão classificadas d
 - **Direitos Realizáveis Reais**: Bens da Empresa
 	- Estoques
 
-### Aplicações de Recursos em Despesas do Exerício Seguinte
+### Aplicações de Recursos em Despesas do Exercício Seguinte
 
 Compreendem as **despesas do exercício seguinte pagas no exercício atual** (**DESPESAS ANTECIPADAS**).
 - Seguros
@@ -52,4 +54,3 @@ Compreendem as **despesas do exercício seguinte pagas no exercício atual** (**
 - [[MOC — Ativo]]
 - [[Ativo Não Circulante]]
 - [[Bens — Conceito]]
-- [[Direitos — Conceito]]

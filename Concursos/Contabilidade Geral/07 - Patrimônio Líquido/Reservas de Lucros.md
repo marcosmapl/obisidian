@@ -39,6 +39,12 @@ updated: 2026-07-03T00:00:00
 > [!tip] Lei nº 12.973/2014, art. 31
 > Incluiu também a reserva específica de prêmio de debêntures.
 
+> **L E O ES** < **Capital Social**
+> **L**egal
+> **E**statutária
+> **O**rçamentária (retenção de lucros)
+> **ES**pecial
+
 ---
 ## Tópicos Relacionados
 

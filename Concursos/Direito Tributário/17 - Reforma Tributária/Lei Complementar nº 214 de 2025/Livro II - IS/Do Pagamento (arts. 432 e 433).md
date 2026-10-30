@@ -1,0 +1,4 @@
+
+## Art. 433 - Pagamento Centralizado
+
+O pagamento do Imposto Seletivo será **centralizado em um único estabelecimento** e, na forma do seu regulamento, poderá ocorrer na **liquidação financeira da operação (split payment)**, observado o disposto nos arts. 31 a 35 desta Lei Complementar.

@@ -30,26 +30,28 @@ $$ Riqueza_c = Vendas - Insumos - Depreciação $$
 
 > [!tip] A riqueza criada inclui também o valor adicionado recebido em transferência (produzido por terceiros).
 
+---
 ## Estrutura essencial
 
+### Valor Adicionado a Distribuir
 
 | 1 - RECEITAS                                                | Exemplo                                    |
 | ----------------------------------------------------------- | ------------------------------------------ |
 | 1.1) Vendas de **mercadorias**, **produtos** e **serviços** | Receita Bruta (DRE)                        |
 | 1.2) Outras receitas                                        | Lucro ou prejuízo com venda de Imobilizado |
 | 1.3) Receitas relativas à construção de **ativos próprios** |                                            |
-| 1.4) PCLD                                                   | Reversão / (Constituição)                  |
+| 1.4) PCLD                                                   | Reversão (+) / Constituição (-)            |
 
 > [!important] Vendas de mercadorias, produtos e serviços inclui valores dos tributos incidentes sobre essas receitas (ICMS, IPI, PIS e COFINS)
 
-| 2 - Insumos Adquiridos de Terceiros                                           | Exemplo                                                       |
-| ----------------------------------------------------------------------------- | ------------------------------------------------------------- |
-| 2.1) Custos dos **produtos**, das **mercadorias** e dos **serviços** vendidos | ==NÃO exclui tributos recuperáveis (ICMS, IPI, PIS, COFINS)== |
-| 2.2) **Materiais**, **energia**, **serviços de terceiros** e outros           | Despesa com seguros                                           |
-| 2.3) **Perda** / **Recuperação** de **valores ativos**                        |                                                               |
-| 2.4) Outras (especificar)                                                     |                                                               |
-
-> [!important] Inclui os valores dos tributos recuperáveis - ICMS, IPI, PIS e COFINS
+> [!important] Vendas = **RECEITA DE CONTRATO COM CLIENTE**
+ 
+| 2 - Insumos Adquiridos de Terceiros                                 | Exemplo                                                         |
+| ------------------------------------------------------------------- | --------------------------------------------------------------- |
+| 2.1) CMV / CPV / CSV                                                | Deve **incluir tributos recuperáveis** (ICMS, IPI, PIS, COFINS) |
+| 2.2) **Materiais**, **energia**, **serviços de terceiros** e outros | Despesa com seguros                                             |
+| 2.3) **Perda** / **Recuperação** de **valores ativos**              |                                                                 |
+| 2.4) Outras (especificar)                                           |                                                                 |
 
 | 3 - Valor Adicionado Bruto (1-2) |
 | -------------------------------- |
@@ -65,12 +67,15 @@ $$ Riqueza_c = Vendas - Insumos - Depreciação $$
 
 | 6 - Valor Adicionado Recebido em Transferência | Considerações                                                                            |
 | ---------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| 6.1) Resultado de equivalência patrimonial     | Somente o resultado, não computador dividendos pelo MEP                                  |
-| 6.2) Receitas financeiras                      | Juros Ativos                                                                             |
+| 6.1) Resultado de Equivalência Patrimonial     | Somente o resultado, não computador dividendos pelo MEP                                  |
+| 6.2) Receitas Financeiras                      | Juros Ativos                                                                             |
 | 6.3) Outras                                    | Receita de Aluguel<br>Dividendos (método de custo)<br>Doações<br>Subvenções<br>Royalties |
 
 | 7 - Valor Adicionado Total a Distribuir (5 + 6) |
 | ----------------------------------------------- |
+
+---
+### Distribuição do Valor Adicionado
 
 | 8 - Distribuição do Valor Adicionado                                               |     |
 | ---------------------------------------------------------------------------------- | --- |
@@ -99,9 +104,6 @@ $$ Riqueza_c = Vendas - Insumos - Depreciação $$
 | 8.4.2 – Dividendos                                                                 |
 | 8.4.3 – Lucros retidos / Prejuízo do exercício                                     |
 | 8.4.4 – Participação dos não-controladores nos lucros retidos (só p/ consolidação) |
-
-
-
 
 > [!tip] Riqueza de Exercícios Anteriores 
 > A DVA considera apenas a distribuição da riqueza do exercício, desconsiderando os resultados de exercícios anteriores, conforme CPC 09
@@ -135,6 +137,8 @@ Tributos federais, estaduais e municipais.
     - _Cuidado:_ Apenas dividendos relativos ao **resultado do próprio exercício** entram na DVA. Dividendos de anos anteriores não constam.
 
 ![[Pasted image 20260723161054.png]]
+
+---
 ## Pontos de prova
 
 | Item                         | Tratamento na DVA                               | Onde os candidatos erram                                       |

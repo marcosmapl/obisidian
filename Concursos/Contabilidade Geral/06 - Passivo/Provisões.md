@@ -12,6 +12,8 @@ updated: 2026-07-03T00:00:00
 
 > [!important] A incerteza recai sobre o **valor** ou o **momento da liquidação**, não sobre a existência da obrigação presente.
 
+![[Pasted image 20261009205610.png]]
+
 ## Ideia-chave para prova
 
 - Provisão não é sinônimo genérico de **despesa estimada**.
@@ -26,6 +28,5 @@ updated: 2026-07-03T00:00:00
 ---
 ## Tópicos Relacionados
 
-- [[Contingências Passivas]]
 - [[Passivo Circulante]]
 - [[Provisões de Longo Prazo]]

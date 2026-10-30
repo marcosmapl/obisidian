@@ -31,17 +31,7 @@ C – Prejuízos Acumulados
 ---
 ## 2. Reserva Legal
 
-> [!note] Art. 193, Lei nº 6.404/76
-> 5% do lucro líquido do exercício, antes de qualquer outra destinação.
-
-- **Limite**: 20% do capital social integralizado.
-- Quando atingir o limite, a constituição é **dispensada**.
-- Finalidade: garantir a integridade do capital social.
-
-```
-D – Lucros Acumulados
-C – Reserva Legal
-```
+- [[Reserva Legal]]
 
 ---
 ## 3. Dividendos obrigatórios
@@ -77,11 +67,6 @@ Após atender à Reserva Legal e aos dividendos obrigatórios, o lucro remanesce
 | Incorporação ao Capital Social | — |
 
 ---
-## Lucro líquido ajustado — fórmula
-
-$$\text{Lucro Líquido Ajustado} = \text{LL} - \text{Constituição Res. Legal} - \text{Constituição Res. Contingências} + \text{Reversão Res. Contingências}$$
-
----
 ## Resumo na DMPL
 
 | Evento | Lucros Acum. | Reserva Legal | Res. Lucros | Dividendos | Total |
@@ -100,7 +85,7 @@ $$\text{Lucro Líquido Ajustado} = \text{LL} - \text{Constituição Res. Legal} 
 - [[Demonstração das Mutações do Patrimônio Líquido (DMPL)]]
 - [[Elaboração da DMPL — Passo a Passo]]
 - [[Absorção de Prejuízos na DMPL]]
-- [[Demonstração de Lucros ou Prejuízos Acumulados (DLPA)]]
+- [[Lucro Líquido Ajustado]]
 - [[Reserva Legal]]
 - [[Reservas de Lucros]]
 - [[Reserva de Lucros a Realizar]]

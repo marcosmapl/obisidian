@@ -20,9 +20,7 @@ Também denominado:
 
 > **PL = Ativo − Passivo Exigível**
 
-## Ideia-chave para prova
 
-- O PL mostra o valor residual dos ativos depois de deduzidas as obrigações perante terceiros.
 - Nem toda conta do PL aumenta seu saldo: [[Ações em Tesouraria]] e [[Prejuízos Acumulados]] são exemplos de efeito redutor.
 
 ---
@@ -35,6 +33,8 @@ Art. 178. (...) III – **Patrimônio Líquido**, dividido em:
 - [[Reservas de Lucros]] (C)
 - [[Ações em Tesouraria]] (D)
 - [[Prejuízos Acumulados]] (D)
+
+![[Pasted image 20261029102356.png]]
 
 > [!note] O manual FIPECAFI destaca que podem existir outras contas não previstas na Lei nº 6.404/76.
 

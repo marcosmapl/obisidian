@@ -5,10 +5,6 @@ created: 2025-12-23T00:00:00
 updated: 2026-07-03T00:00:00
 ---
 
-## Definição
-
-> [!note] Conceitos Fundamentais
-> Bloco introdutório que reúne as bases da Contabilidade: **patrimônio**, seus elementos, os **usuários**, as **técnicas** e os principais conceitos de reconhecimento e variação patrimonial.
 
 ## Estrutura de estudo
 
@@ -16,9 +12,6 @@ updated: 2026-07-03T00:00:00
 
 - [[Patrimônio — Conceito]]
 - [[Bens — Conceito]]
-- [[Direitos — Conceito]]
-- [[Obrigações — Conceito]]
-- [[Entidade — Conceito]]
 
 ### Desdobramentos dos bens
 
@@ -44,6 +37,7 @@ updated: 2026-07-03T00:00:00
 ### Técnicas contábeis
 
 - [[Técnicas Contábeis]]
+- [[Escrituração Contábil]]
 - [[Elaboração das Demonstrações Contábeis]]
 - [[Auditoria (Técnica Contábil)]]
 - [[Análise das Demonstrações Contábeis (Técnica Contábil)]]
@@ -63,20 +57,19 @@ updated: 2026-07-03T00:00:00
 ---
 ## Objetivo da Contabilidade
 
-> [!note] CPC 00
+> [!note] **CPC 00**
 > O objetivo do relatório financeiro para fins gerais é fornecer informações financeiras sobre a entidade que reporta que sejam úteis para investidores, credores por empréstimos e outros credores, existentes e potenciais, na tomada de decisões referente à oferta de recursos à entidade.
 
 ---
 ## Finalidade da Contabilidade
 
-> [!note] Doutrina
+> [!note] **Doutrina**
 > A Contabilidade possui a finalidade de controlar o patrimônio administrado.
 
 ---
-## Estrutura conceitual
+## Estrutura Conceitual
 
 ![[Pasted image 20260812090451.png]]
-
 
 
 ---

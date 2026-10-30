@@ -83,9 +83,10 @@ O lançamento realizado de forma errônea pode ser corrigido (retificado) por me
 ---
 ## Tópicos relacionados
 
+- [[Escrituração Contábil]]
+- [[Elaboração das Demonstrações Contábeis]]
 - [[Auditoria (Técnica Contábil)]]
 - [[Análise das Demonstrações Contábeis (Técnica Contábil)]]
-- [[Elaboração das Demonstrações Contábeis]]
 - [[Fórmulas de Lançamento]]
 - [[Balancetes de Verificação]]
 

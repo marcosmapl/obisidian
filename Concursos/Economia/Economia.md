@@ -19,3 +19,13 @@ updated: 2026-05-28T22:15:00
 
 ### 4. [[MOC — Elasticidades]]
 
+### 5. [[MOC — Teoria da Firma]]
+
+### 6. [[MOC — Macroeconômia]]
+
+### 7. [[MOC — Estruturas de Mercado]]
+
+### 8. [[MOC — Falhas de Mercado]]
+
+### 9. [[MOC — Economia Internacional]]
+

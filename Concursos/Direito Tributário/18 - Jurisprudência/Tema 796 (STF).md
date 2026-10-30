@@ -1,0 +1,2 @@
+
+==🟣Jurisprudência — STF, Tema 796==: a imunidade na integralização de capital ==🔴não alcança o valor dos bens que exceder o limite do capital social a ser integralizado==. Portanto, se o imóvel vale mais do que o montante efetivamente destinado à integralização, o excedente não fica automaticamente protegido pela imunidade.

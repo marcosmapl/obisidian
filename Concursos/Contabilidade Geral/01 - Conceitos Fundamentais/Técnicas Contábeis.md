@@ -10,8 +10,6 @@ updated: 2026-01-13T20:35:00
 > [!note] Técnicas Contábeis
 > Representam o **modo de aplicação prática do conhecimento contábil**, permitindo registrar, demonstrar, verificar e interpretar os fatos que afetam o patrimônio.
 
-#contabilidade/técnicas
-
 ---
 ## Principais Técnicas
 
@@ -20,11 +18,6 @@ Existem quatro principais técnicas contábeis:
 - [[Elaboração das Demonstrações Contábeis]]
 - [[Auditoria (Técnica Contábil)]]
 - [[Análise das Demonstrações Contábeis (Técnica Contábil)]]
-
-#contabilidade/tecnicas_contabil/escrituracao
-#contabilidade/tecnicas_contabil/demonstracoes
-#contabilidade/tecnicas_contabil/auditoria
-#contabilidade/tecnicas_contabil/analise
 
 ---
 ## Quadro resumo
@@ -42,6 +35,7 @@ Existem quatro principais técnicas contábeis:
 ## Tópicos Relacionados
 
 - [[Divisões Didáticas]]
+- [[Escrituração Contábil]]
 - [[Elaboração das Demonstrações Contábeis]]
 - [[Auditoria (Técnica Contábil)]]
 - [[Análise das Demonstrações Contábeis (Técnica Contábil)]]

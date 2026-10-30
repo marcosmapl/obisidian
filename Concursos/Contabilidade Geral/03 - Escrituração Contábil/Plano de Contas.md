@@ -20,10 +20,12 @@ Ele funciona como um **mapa da contabilidade**, garantindo **uniformidade**, **c
 ## Componentes Essenciais
 
 ### Elenco das Contas
+
 - Relação de contas (intitulação)
 - Também chamado de **Rol de Contas**
 - Envolve **títulação (nome)** e o **código** da conta;
 ### Manual de Contas
+
 - Apresenta **informações minuciosas** (**função** e **funcionamento**) de cada conta
 - **Função da Conta**: identifica se a conta é **patrimonial** (ativo, passivo ou patrimônio líquido) ou de **resultado** (receita ou despesa)
 - **Funcionamento da Conta**: identifica sua natureza (devedora ou credora)

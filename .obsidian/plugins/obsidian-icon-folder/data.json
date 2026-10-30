@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiCalculator",
-      "💰",
-      "📈",
-      "📊",
-      "🧩"
+      "💼",
+      "💱",
+      "LiHandCoins",
+      "LiScanSearch",
+      "LiGavel"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -36,7 +36,6 @@
   },
   "Concursos/Contabilidade Geral": "📊",
   "Concursos/Auditoria": "🔍",
-  "Concursos/Direito": "⚖",
   "Concursos/Estatística": "📈",
   "Concursos/Legislação Tributária Municipal": "🏦",
   "Concursos/Língua Portuguesa": "📖",
@@ -46,5 +45,14 @@
   "Concursos": "📝",
   "Mídia": "📁",
   "Concursos/Economia": "💰",
-  "Concursos/Mat. Financeira": "LiCalculator"
+  "Concursos/Mat. Financeira": "LiCalculator",
+  "Concursos/Direito Constitucional": "⚖",
+  "Concursos/Direito Administrativo": "LiLandmark",
+  "Concursos/Direito Civil": "🤝",
+  "Concursos/Direito Processual Civil": "LiFiles",
+  "Concursos/Direito Penal": "LiGavel",
+  "Concursos/Direito Processual Penal": "LiScanSearch",
+  "Concursos/Direito Tributário": "LiHandCoins",
+  "Concursos/Direito Financeiro": "💱",
+  "Concursos/Direito Empresarial": "💼"
 }

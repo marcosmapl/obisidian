@@ -22,4 +22,4 @@ updated: 2025-12-29T10:24:00
 - [[Usuários das Informações Contábeis]]
 - [[Usuários Externos]]
 - [[Entidade — Conceito]]
-- [[MOC — Conceitos Fundamentais]]
+- [[Concursos/Contabilidade Geral/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais]]

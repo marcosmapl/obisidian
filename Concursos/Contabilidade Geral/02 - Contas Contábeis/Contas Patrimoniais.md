@@ -10,8 +10,6 @@ updated: 2026-01-08T21:42:00
 > [!note] Contas Patrimoniais
 > São as contas que representam os **Bens**, **Direitos**, **Obrigações** e o **Patrimônio Líquido** da entidade.
 
-#contabilidade/contas_patrimoniais
-
 ---
 ## Características
 
@@ -23,5 +21,5 @@ updated: 2026-01-08T21:42:00
 - [[Conta Contábil]]
 - [[Contas de Resultado]]
 - [[MOC — Ativo]]
-- [[MOC — Passivo|Passivo]]
-- [[Patrimônio Líquido]]
+- [[MOC — Passivo]]
+- [[MOC — Patrimônio Líquido]]

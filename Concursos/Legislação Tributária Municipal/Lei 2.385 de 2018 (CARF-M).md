@@ -1,21 +1,32 @@
 
-## Natureza Jurídica, Vinculação e Competências (Arts. 1º ao 5º)
 
-### Estrutura e Independência
+## Art. 1º - Instituição
 
-- **Natureza:** É o órgão de **Segunda Instância de julgamento** do Processo Administrativo Tributário (PAT) Contencioso do Município de Manaus.
-- Sua composição orgânica subdivide-se em: (Art. 2º) 
+- É o órgão de **Segunda Instância de julgamento** do Processo Administrativo Tributário (PAT) Contencioso do Município de Manaus.
+
+---
+## Art. 2º e 3º - Composição Orgânica
+
+- Sua composição orgânica subdivide-se em:
 	- **Tribunal Pleno**
+		- Corpo Deliberativo
+		- Representação Fiscal
+		- Secretaria das Câmaras Julgadoras
 	- **Primeira** Câmara Julgadora
+		- Presidência
+		- Vice-Presidência
+		- Corpo Deliberativa
+		- Representação Fiscal
+		- Secretaria
 	- **Segunda** Câmara Julgadora.
+		- Presidência
+		- Vice-Presidência
+		- Corpo Deliberativa
+		- Representação Fiscal
+		- Secretaria
 
-> [!info] Câmaras Julgadoras possuem a seguinte **composição**: **Presidência**, **Vice-Presidência**, **Corpo Deliberativo**, **Representação Fiscal** e **Secretaria**.
-
-- Na sua atuação para conhecer e julgar recursos voluntários e de ofício,  ==é expressamente vedado aos órgãos do CARF-M pronunciarem-se sobre a constitucionalidade da legislação tributária e processual do Município==.
 - As Câmaras e o Tribunal Pleno só funcionam quando presente a maioria de seus membros, e suas decisões ocorrem por maioria simples, sendo **garantido ao Presidente, além do voto ordinário, o voto de desempate**.
 - O processo de uniformização demanda rigor. A competência para conhecer e julgar o chamado "Recurso de Revista" (cabível perante divergência jurisprudencial entre as Câmaras) **é exclusiva do Tribunal Pleno**, possuindo o contribuinte **o prazo de 15 dias corridos para interpô-lo, enquanto o Representante Fiscal possui 30 dias corridos**.
-
-![[Pasted image 20260902114604.png]]
 
 ![[Pasted image 20260923084217.png]]
 
@@ -24,28 +35,104 @@
 ![[Pasted image 20260902120025.png]]
 
 ---
-## Composição, Indicações e Mandato dos Conselheiros
+## Art. 4º - Competências
 
-- A formação exige completa paridade julgadora. O Corpo Deliberativo de cada Câmara possui **6 conselheiros titulares** (três da Fazenda e três dos contribuintes) e **4 suplentes**.
-- Os representantes da Fazenda devem ser auditores ou fiscais em exercício há pelo menos **5 anos**, sendo metade da composição obrigatoriamente **indicada pelo Secretário da SEMEF** e a outra metade **indicada pelo Sindicato da categoria**. Para estes servidores, **é proibido exercer funções no órgão de julgamento de primeira instância durante todo o curso do mandato** no colegiado.
-- Os representantes dos contribuintes também devem deter registro no órgão de classe **há no mínimo 5 anos, sendo nomeados a partir de lista tríplice elaborada por entidades formadoras** como FIEAM, Sindicatos de Indústria (Construção Civil), Associação Comercial, CRC e CORECON.
-- A estabilidade nas cadeiras do tribunal administrativo assevera que **o exercício da função dar-se-á por mandato de 2 anos, admitindo-se uma única recondução consecutiva para o Conselheiro Titular**.
+- **Conhece e julgar**, com fundamento jurídico tributário, os **Recursos de Ofício e Voluntário**.
+- Solicitar **diligência** ou **perícia**.
+- Declarar **nulidade do lançamento** quando verificar ==erro insanável==.
+- Uniformizar **julgamentos divergentes** entre as Câmaras Julgadoras
+
+> [!warning] Vedação sobre Constitucionalidade da Legislação
+> Art. 4º § 1º É ==vedado== aos órgãos do CARF-M pronunciaremse sobre a **constitucionalidade da legislação tributária e processual** do Município.
+
+---
+## Art. 9º - Corpo deliberativo das Câmaras Julgadoras
+
+- Câmara: **6 conselheiros titulares** (3/3) e **4 suplentes** (2/2).
+- **Presidente e Vice** designados pelo **Prefeito**
+- **Presidente** possui **voto ordinário** e **voto de desempate**
+
+---
+## Art. 10º - Corpo deliberativo do Tribunal Pleno
+
+- Tribunal Pleno: **12 conselheiros titulares** (6 da Fazenda e 6 dos contribuintes) e **8 suplentes** (4/4).
+- **Presidente do Tribunal Pleno** é o **Presidente da 1ª Câmara Julgadora**
+- **Vice-presidente do Tribunal Pleno** é o **Vice-presidente da 1ª Câmara Julgadora**
+
+---
+## Art. 11 - Conselheiros
+
+- Representantes da Fazenda: 
+	- **Auditores ou fiscais** em exercício há pelo menos **5 anos**
+	- Metade **indicada pelo Secretário da SEMEF** e a outra metade **indicada pelo Sindicato da categoria**.
+	- Para estes servidores, ==é proibido exercer funções no órgão de julgamento de primeira instância durante todo o curso do mandato== no colegiado, bem como **atuar em cargos DAS** que sejam diretamente relacionados a **julgamento administrativo tributário**.
+- Representantes dos Contribuintes: 
+	- Registro no órgão de classe **há no mínimo 5 anos**
+	- **Lista tríplice** elaborada:
+		- FIEAM
+		- Sindicatos de Indústria (Construção Civil)
+		- Associação Comercial
+		- CRC
+		- CORECON.
+- **Mandato de 2 anos, admitindo-se uma única recondução consecutiva para o Conselheiro Titular**.
 
 ![[Pasted image 20260902120129.png]]
 
 ![[Pasted image 20260902114656.png]]
 
 ---
-## Impedimentos no Processo e Quarentena Pós-Mandato
+## Art. 13 - Impedimento e Quarentena
 
-- Para garantir um rito imparcial e blindado no contencioso de autos de infração, a lei assevera que o conselheiro estará **impedido** de votar em processos nos quais tenha efetuado a fiscalização autuadora, ou quando figurar como parte **o seu cônjuge ou parente (consanguíneo ou afim) até o terceiro grau**.
-- Também não poderá apreciar a lide o membro que possuir vínculo trabalhista ou societário com o autuado, ou ainda aquele conselheiro que **já tenha conhecido da mesma matéria em primeira instância administrativa e proferido decisão**.
-- Para inibir o tráfico de influência após a saída do colegiado, o diploma decreta uma quarentena: **os conselheiros titulares ou suplentes ficam impedidos de atuar na advocacia em matéria tributária contra a Fazenda Pública Municipal pelo período de 2 anos a contar da data em que deixarem a função**.
+- **Conselheiros titulares e suplentes** ficam ==🔴impedidos== de exercer **advocacia em matéria tributária** contra a **Fazendo Pública Municipal**
+- Período de **2 anos**, a contar da **data em que deixar a função**
 
 ---
-## Perda de Mandato e Remuneração Indenizatória (Jetons)
+## Art. 16 - Perda de Mandato
 
-- O acúmulo demasiado de ausências atrai o desligamento imediato. O conselheiro perderá o seu mandato se atuar com dolo, fraude ou caso **venha a faltar injustificadamente a mais de 3 sessões consecutivas ou a 6 sessões alternadas no período de um ano**.
-- Os membros julgam exercendo uma função de caráter honorífico, contudo, possuem o amparo legislativo determinando que **terão direito ao recebimento de uma parcela pecuniária indenizatória na forma de jetons por cada sessão de julgamento** da qual participem.
-- O valor geral desse jetom é de 10 Unidades Fiscais do Município (UFMs). Porém, a norma remunera de forma destacada e diferenciada a chefia: **o Presidente da Primeira Câmara, que acumula obrigatoriamente a função de Presidente do Tribunal Pleno, receberá o correspondente a 20 UFMs por sessão**.
+- ==🔴NÃO== observar as **limitações para exercício do cargo**
+- No exercício das **funções** proceder com **dolo** ou **fraude**
+- Receber **benefícios indevidos**
+- **Recusar**, **omitir** ou **retardar**, sem justo motivo, o **exame e o julgamento de processos**
+- Falta **injustificadamente**, no período de **um ano**:
+	- mais de **3 sessões consecutivas** ou 
+	- **6 sessões alternadas**
+
+---
+
+## Art. 18 - Representação Fiscal
+
+- **Dois titulares** e **dois suplentes**
+- Indicação do **Procurador-Geral do Município**, dentre os **Procuradores do Município**.
+- Em exercício há no mínimo **5 anos**
+- Os **titulares da 1ª e 2ª Câmara** serão, respectivamente, o **titula** e o **suplente** do **Tribunal Pleno**
+
+---
+## Art. 19 - Função Honorífica
+
+- Percepção de **parcela pecuniária indenizatória**
+- **10 UFMs** por **participação nas sessões**
+- **Presidente da 1ª Câm. (Presidente do Tribunal Pleno)** receberá **20 UFMs**
+- **Vice-presidente da 1º Câm. (Vice-presidente do Tribunal Pleno)** receberá **16.25 UFMs**
+
+---
+## Art. 20 - Secretaria do CARF-M
+
+- Função de **apoio administrativo e nas sessões das Câmaras Julgadores e do Tribunal Pleno**
+- **2 secretários** indicados pelo **Presidente do Tribunal Pleno**
+- Devem ser **servidores efetivos**
+- Gratificação **mensal** de **25 UFMs**
+
+---
+## Art. 21 - Restrições aos Conselheiros no Processo
+
+- Atuado na **fiscalização direta do tributo** ou na **instrução do feito**
+	- **Auditor**
+	- **Diligenciador**
+	- **Perito**
+- Matéria de julgamento seja de **Interesse Pessoal** ou de **Cônjuge / Parente Consanguíneo / Afim (linha reta ou colateral até 3º)**
+- **Sócio / Empregador / Empregado** do **sujeito passivo**
+- Atuado na **1ª Instância**, tendo **proferido decisão**
+- O representante do **Sujeito Passivo** seja seu **Cônjuge / Parente Consanguíneo / Afim (linha reta ou colateral até 3º)**
+- Atuado na **direção ou administração do sujeito passivo**
+- Aplicável ao **Representante Fiscal**
 

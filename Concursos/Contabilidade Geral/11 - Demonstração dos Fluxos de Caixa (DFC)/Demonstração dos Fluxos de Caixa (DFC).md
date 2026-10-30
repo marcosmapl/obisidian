@@ -34,9 +34,9 @@ updated: 2026-07-03T00:00:00
 ---
 ## Fluxos de Caixa
 
-- [[Atividades Operacionais]]
-- [[Atividades de Investimento]]
-- [[Atividades de Financiamento]]
+- [[Atividades Operacionais (AO)]]
+- [[Atividades de Investimento (AI)]]
+- [[Atividades de Financiamento (AF)]]
 
 > [!important] Transação incluindo mais de um fluxo
 > Uma única transação pode incluir fluxos de caixa classificados em mais de uma atividade.
@@ -64,8 +64,8 @@ updated: 2026-07-03T00:00:00
 ## Tópicos Relacionados
 
 - [[MOC — Demonstração dos Fluxos de Caixa (DFC)]]
-- [[Atividades Operacionais]]
-- [[Atividades de Investimento]]
-- [[Atividades de Financiamento]]
+- [[Atividades Operacionais (AO)]]
+- [[Atividades de Investimento (AI)]]
+- [[Atividades de Financiamento (AF)]]
 - [[Método Direto (DFC)]]
 - [[Método Indireto (DFC)]]

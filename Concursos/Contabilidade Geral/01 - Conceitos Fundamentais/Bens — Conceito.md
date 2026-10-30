@@ -28,6 +28,4 @@ updated: 2026-05-18T16:55:00
 ## Tópicos Relacionados
 
 - [[MOC — Ativo]]
-- [[Direitos — Conceito]]
-- [[Obrigações — Conceito]]
 - [[Patrimônio — Conceito]]

@@ -2,7 +2,6 @@
 ## Provisão e Passivo Contingente
 
 - [[Provisões]]
-- [[Contingências Passivas]]
 
 | **Probabilidade de Perda** | **Reconhece Provisão** | **Divulga em Nota Explicativa** |
 | -------------------------- | ---------------------- | ------------------------------- |
@@ -12,6 +11,8 @@
 
 ![[Pasted image 20260903213001.png]]
 
+> CPC 25, 27. A entidade ==não== deve reconhecer um **passivo contingente**.
+
 ---
 ## Ativo Contingente
 
@@ -20,6 +21,8 @@
 | Praticamente certo           | ✅             | ✅                               |
 | Provável                     | ❌             | ✅                               |
 | Remota                       | ❌             | ❌                               |
+
+> CPC 25, 31. A entidade ==não== deve reconhecer um **ativo contingente**.
 
 ---
 ## Reestruturação

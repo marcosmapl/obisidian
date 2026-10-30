@@ -14,6 +14,7 @@ updated: 2025-12-29T10:00:00
     - Devem seguir normas da **Comissão de Valores Mobiliários (CVM)**
     - Serão **obrigatoriamente submetidas à auditoria independente**
 
+---
 ## Tipos de Auditoria
 
 ### Auditoria Independente
@@ -31,15 +32,11 @@ updated: 2025-12-29T10:00:00
 > [!note] Auditoria Fiscal
 > É a auditoria realizada por auditores fiscais dos entes públicos.
 
-### 🧩Lembrar para prova
-
-> [!tip] Auditoria independente **não se confunde** com auditoria interna.
-
-#contabilidade/técnica_contábil/auditoria
-
 ---
 ## Tópicos Relacionados
 
-- [[Análise das Demonstrações Contábeis (Técnica Contábil)]]
 - [[Escrituração Contábil]]
 - [[Elaboração das Demonstrações Contábeis]]
+- [[Auditoria (Técnica Contábil)]]
+- [[Análise das Demonstrações Contábeis (Técnica Contábil)]]
+

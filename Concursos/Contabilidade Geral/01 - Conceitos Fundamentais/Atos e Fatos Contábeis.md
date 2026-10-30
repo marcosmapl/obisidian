@@ -11,8 +11,6 @@ updated: 2026-01-14T20:00:00
 > [!note] Ato Contábil
 > Os atos contábeis são acontecimentos que ocorrem na entidade, mas que **não provocam alterações imediatas no patrimônio.** Eles representam ações administrativas que podem, eventualmente, vir a alterar o patrimônio no futuro, mas no momento de sua ocorrência não modificam a equação fundamental da contabilidade.
 
-#contabilidade/ato_contabil
-
 > [!important] Por não alterarem o patrimônio de imediato, **seu registro não é obrigatório** na contabilidade geral, mas, quando ocorre, é feito por meio de **Contas de Compensação** (também chamadas de extrapatrimoniais) ou evidenciado em **Notas Explicativas**. (Lei 6.404/76, art. 176, § 4º)
  
 ### Exemplo
@@ -27,11 +25,10 @@ updated: 2026-01-14T20:00:00
 > [!note] Fato Contábil
 > Os fatos contábeis são os acontecimentos que, de forma diversa dos atos, provocam variações no patrimônio da entidade. Esses eventos devem ser obrigatoriamente contabilizados, pois alteram a composição ou o valor monetário dos elementos patrimoniais.
 
-#contabilidade/fato_contabil
-
 > [!important] São **registrados** através das **contas patrimoniais** (Ativo, Passivo e Patrimônio Líquido) e/ou das contas de resultado (Receitas e Despesas).
 
 ### Fato Permutativo
+
 - São fatos quanto **não existe alteração no PL**, apenas mudança na composição quantitativo ou qualitativa das contas.
 
 > [!tip] São também chamados de **Fatos Qualitativos** ou **Fatos Compensativos**.
@@ -41,6 +38,7 @@ Exemplos:
 - O pagamento de contas a pagar envolve a troca de um **ativo (caixa)** por um **passivo (contas a pagar)**. 
 
 ### Fato Modificativo
+
 - São fatos onde há **alteração no patrimônio líquido**.
 - Podem ser classificados em:
 	- **Aumentativo**: quando há um aumento quantitativo no PL.
@@ -65,6 +63,7 @@ C - Salários a pagar (passivo) ........... R$ 20.000,00
 ```
 
 ### Fato Misto
+
 - São fatos que combinam as **Fatos Permutativos** e **Fatos Modificativos**
 
 #### Fato Misto Aumentativo

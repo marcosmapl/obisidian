@@ -10,29 +10,7 @@ updated: 2026-06-03T09:20:00
 ## Índice
 
 - [[Probabilidade]]
-- [[Combinação de Eventos]]
-- 
-
----
-## Conceitos Fundamentais
-
-> [!info] Definição
-> **Probabilidade** é uma medida numérica da chance de ocorrência de um evento, variando entre 0 (impossível) e 1 (certo).
-
-**Fórmulas Básicas:**
-
-**Probabilidade Clássica:**
-$$P(A) = \frac{\text{casos favoráveis}}{\text{casos possíveis}}$$
-
-**Probabilidade Condicional:**
-$$P(A|B) = \frac{P(A \cap B)}{P(B)}$$
-
-**Teorema de Bayes:**
-$$P(A|B) = \frac{P(B|A) \cdot P(A)}{P(B)}$$
-
-**Propriedades:**
-- $0 \leq P(A) \leq 1$
-- $P(\Omega) = 1$ (evento certo)
-- $P(\emptyset) = 0$ (evento impossível)
-- $P(A^c) = 1 - P(A)$ (evento complementar)
-
+- [[Evento Complementar]]
+- [[Probabilidade Condicional]]
+- [[União de Eventos]]
+- [[Teorema de Bayes]]

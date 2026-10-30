@@ -1,0 +1,63 @@
+---
+disciplina: Direito Processual Civil
+tópico: Processo Civil
+created: 2025-12-23T00:00:00
+updated: 2025-12-23T00:00:00
+  - direito/processual/civil
+  - moc
+---
+
+## Índice
+
+### 1. [[MOC — Da Formação, Suspensão e Extinção do Processo]]
+
+### 2. [[MOC — Do Procedimento Comum]]
+
+### 3. [[MOC — Da Tutela Provisória]]
+
+### 4. [[MOC — Das Provas]]
+
+### 5. [[MOC — Da Sentença e Da Coisa Julgada]]
+
+### 6. [[MOC — Dos Procedimentos Especiais]]
+
+### 7. [[MOC — Da Ação Rescisória]]
+
+### 8. [[MOC — Incidente de Resolução de Demandas Repetitivas (IRDR)]]
+
+### 9. [[MOC — Da Reclamação]]
+
+### 10. [[MOC — Dos Recursos]]
+
+
+---
+## Fontes Normativas Principais
+
+### Código de Processo Civil (CPC)
+- Lei nº 13.105/2015
+- Entrou em vigor em 18/03/2016
+- Substituiu CPC de 1973
+
+### Legislação Complementar
+- Constituição Federal de 1988
+- Código Civil (normas processuais)
+- Leis especiais (ações possessórias, etc.)
+
+---
+## Estrutura Processual
+
+### Fases do Processo Civil
+
+1. **Abertura** — Apresentação das pretensões
+2. **Instrução** — Produção de provas
+3. **Julgamento** — Decisão da causa
+4. **Execução** — Cumprimento da sentença
+
+### Principios Fundamentais
+
+- **Contraditório e ampla defesa**
+- **Acesso à justiça**
+- **Igualdade das partes**
+- **Duração razoável do processo**
+- **Celeridade processual**
+

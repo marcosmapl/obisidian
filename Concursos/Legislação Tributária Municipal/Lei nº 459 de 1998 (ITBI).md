@@ -1,5 +1,7 @@
 
-## Fato Gerador e Hipóteses de Incidência
+
+## Capítulo I - Da Incidência
+### Art. 1º - Fato Gerador
 
 O **Imposto Sobre a Transmissão "Inter Vivos", a Qualquer Título, Por Ato Oneroso, de Bens Imóveis (ITBI)** incide sobre transmissões relativas a imóveis situados no território do Município de Manaus.
 
@@ -7,70 +9,122 @@ O **Imposto Sobre a Transmissão "Inter Vivos", a Qualquer Título, Por Ato Oner
     - **Transmissão onerosa**, a qualquer título, de **propriedade e domínio útil de bens imóveis** por natureza ou acessão física.
     - **Transmissão onerosa** de **direitos reais sobre imóveis**, exceto os de garantia.
     - **Cessão onerosa** de **direitos relativos à aquisição desses bens**.
+
+### Art. 2º -  Hipóteses de Incidência
+
 - **Principais Hipóteses Específicas de Incidência (Art. 2º):**
     - **Compra e venda** pura ou com cláusulas especiais.
     - **Arrematação**, **adjudicação** e **remição**.
     - Mandato em causa própria ou equivalentes e seus substabelecimentos translativos.
-    - **Permuta e dação em pagamento**.
-    - Diferença entre o valor da quota-parte material recebida por condômino na divisão para extinção de condomínio e a sua quota-parte ideal.
-    - Transferência de direitos sobre construções em terreno alheio.
-    - Instituição do usufruto, enfiteuse e subenfiteuse.
-    - Acessão física quando houver pagamento de indenização.
+    - **Permuta a dação em pagamento**.
+    - Diferença entre o **valor da quota-parte material** recebida por condômino na **divisão para extinção de condomínio** e a sua **quota-parte ideal**.
+    - Transferência de direitos sobre **construções em terreno alheio**.
+    - Instituição do **usufruto**, **enfiteuse** e **subenfiteuse**.
+    - **Acessão física** quando houver **pagamento de indenização**.
     - Cessão de direitos por ato oneroso relativa a arrematação, adjudicação, usufruto, usucapião, concessão real de uso e compromisso de compra e venda.
 
 ---
-## Hipóteses de Não Incidência e Imunidades
+## Capítulo II - Da Não Incidência
+### Art. 3º Hipóteses de Não Incidência e Imunidades
 
-O ITBI **não incide** sobre a transmissão de bens ou direitos nas seguintes hipóteses (Art. 3º)[4][5]:
+| Dispositivo | O que memorizar                                                                      |
+| ----------- | ------------------------------------------------------------------------------------ |
+| Inciso I    | Integralização de **capital social**.                                                |
+| Inciso II   | **Fusão**, **incorporação**, **cisão** ou **extinção**.                              |
+| Inciso III  | **Direitos reais de garantia**.                                                      |
+| Inciso IV   | **Desincorporação**.                                                                 |
+| Inciso V    | **Entidades públicas e outras entidades protegidas**, conforme os requisitos legais. |
+| § 1º        | Exceção para **atividade preponderantemente imobiliária**: incisos I, II e IV.       |
+| §§ 2º e 3º  | Mais de 50% da receita; regra de 2 anos ou, em certas empresas, 3 anos posteriores.  |
+| § 4º        | Imposto devido conforme a lei da data da aquisição.                                  |
+| § 5º        | Alienação da totalidade do patrimônio da pessoa jurídica.                            |
 
-- **Imunidades Constitucionais e Legais:** Transmissões cujos adquirentes sejam a **União**, **Estados**, **Municípios**, **autarquias**, **fundações públicas**, **partidos políticos** (e suas fundações), **templos** de qualquer culto, **instituições de educação** e **assistência social** sem fins lucrativos, e **entidades sindicais dos trabalhadores**.
-- **Integralização de Capital:** Incorporação ao patrimônio de pessoa jurídica em realização de capital.
-- **Reorganização Societária:** Operações decorrentes de **fusão**, **incorporação**, **cisão** ou **extinção** de pessoa jurídica.
-- **Desincorporação:** Reversão dos bens ou direitos ao patrimônio dos primitivos alienantes.
-- **Direitos Reais de Garantia:** Instituição de direitos reais de garantia.
-- **Ressalva da Atividade Preponderante (Art. 3º, §§ 1º ao 5º):**
-    - A não incidência para PJ (integralização, fusão, cisão, etc.) **não se aplica** se a empresa adquirente tiver como atividade preponderante a compra e venda, locação ou arrendamento mercantil de imóveis.
-    - **Caracterização:** Ocorre quando mais de **50% da receita operacional** da adquirente decorrer dessas transações nos 2 anos anteriores e/ou 2 anos posteriores à aquisição.
-    - **Empresas novas:** Se a atividade iniciar após a aquisição ou menos de 2 anos antes, avalia-se a preponderância nos **3 anos subsequentes**.
-    - **Exceção:** A análise da atividade preponderante **não se aplica** se a transmissão for realizada em conjunto com a alienação da totalidade do patrimônio da PJ.
-
----
-## Hipóteses de Isenção
-
-Ficam **isentos** do imposto (Art. 4º):
-
-- Promitentes compradores ou mutuários de imóvel edificado adquirido por meio da **SUHAB** (Superintendência de Habitação do Amazonas) ou sua sucedida.
-- **Requisitos Cumulativos:** O imóvel deve ser destinado exclusivamente à **casa própria** do adquirente (que não pode possuir outro imóvel) e o seu valor não pode ultrapassar **29.000 UFIR**.
+- [[Tema 796 (STF)]]
 
 ---
-## Sujeito Passivo: Contribuintes e Responsáveis
+## Capítulo III - Da Isenção
 
-- **Contribuinte (Art. 5º):** É o **adquirente** ou **cessionário** do bem ou direito. Na permuta, **cada um dos permutantes** é contribuinte relativo ao bem adquirido.
-- **Responsáveis Solidários (Art. 6º):** Respondem solidariamente pelo pagamento nas transmissões sem o devido recolhimento:
-    - O transmitente e o cedente.
-    - Cada um dos permutantes.
-    - Os tabeliães, escrivães e demais serventuários de ofício relativamente aos atos praticados por eles ou perante eles.
+### Art. 4º - Hipóteses de Isenção
 
----
-## Base de Cálculo
+O artigo prevê isenção do ITBI para promitentes compradores ou mutuários de imóveis edificados adquiridos por meio da SUHAB (Superintendência de Habitação do Amazonas), ou da entidade que venha a sucedê-la.
 
-A regra geral determina que a base de cálculo é o **valor venal** dos bens ou direitos no momento da transmissão ou cessão (Art. 7º).
+### Requisitos cumulativos
 
-- **Regras de Apuração:**
-    - Nenhuma dívida que onere o imóvel pode ser abatida da base de cálculo.
-    - Não integra a base de cálculo o valor da construção que o **adquirente provar já ter executado diretamente às suas custas**.
-    - No pagamento efetuado antes da transmissão, a base de cálculo é o valor do bem na data do pagamento.
-    - A avaliação pela Administração Tributária considera elementos como a Planta de Valores Imobiliários, pesquisas de mercado, declaração das partes e características físicas/locacionais do imóvel.
-    - A base calculada **não poderá ser inferior** ao valor estipulado na Planta de Valores Imobiliários.
-    - A avaliação fiscal tem validade máxima de **30 (trinta) dias**.
-- **Bases de Cálculo Proporcionais (Art. 10):**
-    - Instituição de fideicomisso e cessão de direitos de usufruto: **70%** do valor venal.
-    - Rendas constituídas sobre imóveis: **30%** do valor venal.
-    - Concessão de direito real de uso: **40%** do valor venal.
-    - Transmissão por acessão física: valor da indenização ou o valor venal do acréscimo, se maior.
+Para ter direito à isenção, é necessário cumprir as duas condições:
+- a) **Destinação residencial própria**: o imóvel deve ser destinado à **moradia do adquirente**, que ==🔴não pode possuir outro imóvel==.
+- b) **Limite de valor**: o valor do imóvel não pode ultrapassar ==🟠29.000 UFIR==.
 
 ---
-## Alíquotas
+## Capítulo IV - Do Contribuinte e Responsáveis
+
+### Art. 5º — Contribuinte do ITBI
+
+O artigo define quem é o contribuinte responsável pelo pagamento do ITBI.
+- **Inciso I — Adquirente ou cessionário**: quem recebe o imóvel ou o direito sobre ele.
+- **Inciso II — Permuta**: cada um dos permutantes é contribuinte em relação à transmissão que recebe.
+
+**Exemplo**: duas pessoas trocam imóveis. Cada uma é contribuinte do ITBI relativo ao imóvel que adquire, conforme as regras aplicáveis.
+
+### Art. 6º — Responsabilidade solidária pelo ITBI não pago
+
+Quando ocorre uma transmissão sem o pagamento do imposto devido, a lei estabelece responsabilidade solidária para:
+- **I — Transmitente**: quem transfere o bem ou direito.
+- **II — Cedente**: quem transfere ou cede o direito.
+- **III — Permutantes**: cada uma das partes envolvidas na permuta.
+- **IV — Serventuários de ofício**: tabeliães, escrivães e demais profissionais, em relação aos atos praticados por eles ou perante eles, ou às omissões pelas quais sejam responsáveis.
+
+---
+## Capítulo V - Da Base de Cálculo
+
+### Art. 7º — Base de cálculo do ITBI
+
+A base de cálculo do ITBI é o **valor venal do bem ou direito transmitido ou cedido**, considerado no **momento da transmissão ou cessão**.
+
+#### 1. Dívidas que oneram o imóvel (§ 1º)
+
+==🔴Nenhuma dívida que recaia sobre o imóvel pode ser descontada da base de cálculo==.
+
+**Exemplo**: se o imóvel possui uma dívida, isso não autoriza reduzir o valor venal utilizado para calcular o ITBI.
+
+#### 2. Construção realizada pelo adquirente (§ 2º)
+
+O **valor total ou parcial da construção** ==🔴não integra a base de cálculo== quando o **adquirente** comprovar que:
+- Executou a construção diretamente;
+- Pagou a construção com recursos próprios;
+- A construção já integra seu patrimônio.
+
+Exemplo: o adquirente compra um terreno e comprova que construiu, às próprias custas, uma edificação no local. O valor comprovado dessa construção pode ser excluído da base de cálculo, conforme o dispositivo.
+
+### Art. 9º — Determinação da base de cálculo do ITBI
+
+A **Administração Tributária é responsável por determinar a base de cálculo do ITBI** e pode utilizar um ou mais critérios para avaliar o imóvel.
+
+#### 1. Elementos utilizados na avaliação
+- **I — Planta de valores imobiliários**: valores de referência dos imóveis definidos pela Administração.
+- **II — Pesquisa de mercado**: preços correntes praticados no mercado imobiliário.
+- **III — Declaração das partes**: informações declaradas pelos envolvidos na operação.
+- **IV — Características do imóvel**: área do terreno e construída, localização, padrão construtivo, conservação, topografia, formato do lote, acessibilidade e outros fatores técnicos.
+
+#### 2. Regras importantes
+- **§ 2º — Valor mínimo**: a base de cálculo determinada pela Administração não pode ser inferior ao valor estipulado na planta de valores imobiliários.
+- **§ 3º — Validade da avaliação**: a avaliação realizada pela Administração Tributária tem ==🟠validade máxima de 30 dias==.
+
+Dica de prova: memorize os dois números principais: a base não pode ficar abaixo da planta de valores e a avaliação vale por, no máximo, 30 dias.
+
+### Art. 10 — Base de cálculo em determinadas transmissões de direitos
+
+Nas transações subsequentes previstas no artigo, quando o **valor venal indicado** for superior ao **valor da transação**, serão considerados os seguintes percentuais do valor venal:
+
+|Operação|Percentual|
+|---|---|
+|I — Instituição de fideicomisso e cessão de direitos de usufruto|70%|
+|II — Rendas expressamente constituídas sobre imóveis|30%|
+|III — Concessão de direito real de uso|40%|
+
+---
+## Capítulo VI - Da Alíquota
+
+### Art. 13 - Alíquotas do ITBI
 
 As alíquotas do ITBI variam de acordo com o momento do recolhimento do tributo (Art. 13):
 
@@ -81,28 +135,115 @@ As alíquotas do ITBI variam de acordo com o momento do recolhimento do tributo 
 | **Após o Registro Imobiliário**                                                                      | **2,0%** |
 
 ---
-## Processo Administrativo, Lançamento e Pagamento
+## Capítulo VII - Do Lançamento
 
-- **Lançamento (Art. 14):** Efetuado de ofício ou por declaração na repartição fazendária competente. Se o imóvel ocupar área de mais de um município, lança-se proporcionalmente à fração situada em Manaus.
-- **Prazos de Pagamento (Art. 15):**
-    - Até **30 dias** contados do registro imobiliário (regra geral e operações financiadas).
-    - Na arrematação: **antes** de expedida a respectiva carta.
-    - Decisão judicial: até **30 dias** contados do trânsito em julgado.
-    - Financiamento pelo SFH: até **15 dias** da assinatura da hipoteca pelo agente financeiro.
-- **Impugnação e Reavaliação (Art. 12):** Em caso de discordância do valor avaliado pela fiscalização, o contribuinte ou responsável pode solicitar reavaliação técnica no prazo regulamentar, a qual será executada _in loco_ por técnicos da SEMEF mediante emissão de laudo.
+### Art. 14 — Lançamento do ITBI
+
+O lançamento do ITBI pode ocorrer de duas formas, na repartição fazendária competente:
+- **De ofício**: realizado pela própria Administração Tributária.
+- **Por declaração**: realizado com base nas informações declaradas pelo contribuinte ou pelos envolvidos na operação.
+
+#### Imóvel localizado em mais de um município
+
+Se o imóvel ocupar território de mais de um município, Manaus considerará, para o lançamento, somente o valor correspondente à parte do imóvel localizada dentro do município.
+
+Exemplo: se um imóvel estiver dividido entre Manaus e outro município, o lançamento do ITBI por Manaus deverá considerar o valor da parcela situada em Manaus.
 
 ---
-## Obrigações Acessórias e Penalidades
+## Capítulo VIII - Do Pagamento
 
-- **Obrigações Acessórias Declaratórias:**
-    - **DMO-ITBI (Declaração Mensal de Operações):** Apresentada pelos **titulares de cartório de notas e registro** até o dia **20 do mês seguinte**. A falta de entrega ou omissão enseja multa de **50 UFMs** por declaração.
-    - **DCI (Declaração do Contribuinte do ITBI):** Apresentada pelo contribuinte ao assinar instrumento translativo ou registro imobiliário no prazo de **30 dias**. A omissão ou falta gera multa de **10 UFMs**.
-    - Ambas as declarações devem abranger inclusive operações imunes ou isentas.
-- **Penalidades e Multas de Ofício (Art. 23 e 24):**
-    - **Atraso de pagamento:** Multa de mora de 0,33% ao dia (limite de 20%) e juros de 1% ao mês.
-    - **Falta de recolhimento no prazo legal:** Multa de **80%** do imposto devido.
-    - **Omissão ou inexatidão em declaração:** Multa de **50%** do valor ou diferença devida.
-    - **Falsa alegação de isenção/imunidade/não incidência:** Multa de **150%** do imposto devido.
-    - **Dolo, fraude ou simulação:** Multa de **300%** do imposto devido.
-    - **Embaraço à fiscalização cartorária:** Multa de **100 UFMs** ao titular do cartório que não apresentar documentos ou livros.
-    - **Reincidência:** Ocorre com a prática da mesma infração no prazo de **1 ano**, hipótese em que as penalidades são aplicadas em **dobro**.
+### Art. 15 — Prazos para pagamento do ITBI
+
+O artigo estabelece os prazos para recolher o ITBI, que variam conforme o tipo de transmissão do imóvel.
+
+#### 1. Prazos de pagamento
+
+|Situação|Prazo|
+|---|---|
+|I — Regra geral, inclusive operações financiadas|Até 30 dias após o registro imobiliário.|
+|II, “a” — Pagamento antecipado|Até a data da lavratura do instrumento de transmissão, conforme o art. 13, I, “a”.|
+|II, “b” — Instrumento lavrado em outro município|Até 30 dias após a lavratura, conforme o art. 13, I, “b”.|
+|II, “c” — Outra hipótese de antecipação|Até a data do registro imobiliário, conforme o art. 13, I, “c”.|
+|III — Arrematação|Antes da expedição da respectiva carta.|
+|IV — Transmissão por sentença judicial|Até 30 dias após o trânsito em julgado da decisão.|
+|V — Transmissão ou cessão financiada pelo SFH|Até 15 dias após a assinatura, pelo agente financeiro, do instrumento da hipoteca.|
+
+Atenção: as alíneas do inciso II dependem do conteúdo do art. 13, que não foi apresentado aqui. Para saber exatamente a quais operações cada uma se aplica, é necessário analisar esse artigo também.
+
+### 2. Forma de pagamento (§ 1º)
+
+O pagamento deve ser realizado por meio de documento próprio emitido pelo setor competente da SEMEF, conforme o regulamento.
+
+---
+## Capítulo IX - Das Obrigações Acessórias
+
+### Art. 16 — Declaração Mensal de Operações sujeitas ao ITBI (DMO-ITBI)
+
+Os **titulares de cartórios de registro imobiliário e de notas** são obrigados a apresentar à Administração Tributária a **DMO-ITBI**, informando as operações sujeitas ao imposto.
+
+#### 1. Prazo e conteúdo
+
+- **Prazo**: até o dia **20 do mês seguinte** à data da inscrição, averbação, lavratura ou ato de sua competência.
+    
+- **Conteúdo**: informações definidas em regulamento, incluindo operações isentas ou imunes.
+    
+- **Formato**: a SEMEF pode disponibilizar uma versão eletrônica da declaração.
+
+#### 2. Penalidade (§§ 3º e 4º)
+
+O descumprimento da obrigação ou o envio de declaração com omissões ou inexatidões gera multa de:
+- **50 UFMs por declaração**, aplicada de ofício por notificação de lançamento ou auto de infração.
+
+### Art. 18 — Declaração do Contribuinte do ITBI (DCI)
+
+O contribuinte deve informar à SEMEF, por meio da **DCI**, toda operação sujeita à incidência do ITBI, inclusive operações isentas ou imunes.
+
+A declaração **pode ser exigida antes mesmo da ocorrência do fato gerador**, nas hipóteses previstas no artigo.
+
+#### 1. Quando apresentar?
+
+- **Inciso I — Assinatura do instrumento de transmissão ou cessão**: prazo de 30 dias contados da assinatura.
+    
+- **Inciso II — Assinatura relacionada ao registro imobiliário**: prazo de 30 dias contados da assinatura, conforme a redação fornecida.
+    
+
+A DCI deve conter as informações estabelecidas em regulamento, e a SEMEF pode disponibilizar uma versão eletrônica.
+
+#### 2. Penalidade (§§ 3º e 4º)
+
+A falta de DCI ou a entrega de declaração com omissões ou inexatidões gera multa de:
+
+- **10 UFMs por falta de DCI**, aplicada de ofício por notificação de lançamento ou auto de infração.
+
+---
+## Capítulo X - Das Infrações e Penalidades
+
+### Art. 24 — Falta de recolhimento do ITBI e penalidades
+
+Quando a Administração Tributária constatar que o ==🔴ITBI não foi pago==, poderá lançar o imposto por meio de **notificação de lançamento ou auto de infração**, aplicando a **penalidade** correspondente à situação.
+
+#### 1. Percentuais das penalidades
+
+| Situação                                                                                                                       | Penalidade                                |
+| ------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------- |
+| I — **Falta de pagamento no prazo legal**                                                                                      | **80%** do imposto devido                 |
+| II — **Omissão ou inexatidão** na declaração que influencie o cálculo do imposto                                               | **50%** do imposto ou da diferença devida |
+| III — Não pagamento sob **alegação de isenção, imunidade ou não incidência**, sem documento da SEMEF que certifique a situação | **150%** do imposto devido                |
+| IV — Falta de pagamento com **dolo, fraude ou simulação**                                                                      | **300%** do imposto devido                |
+
+### 2. Outras regras importantes
+
+- **§ 1º — Possível crime**: se o fato também configurar crime, a autoridade competente deverá representar ao Ministério Público, observadas as condições previstas no dispositivo.
+    
+- **§ 2º — Aplicação cumulativa**: as penalidades podem ser aplicadas cumulativamente ao contribuinte e ao tabelião ou escrivão.
+    
+- **§ 3º — Identificação do responsável**: o lançamento poderá ser feito em nome do contribuinte ou do responsável, a critério da autoridade fiscal competente.
+
+### Art. 26 — Multa por não apresentação de documentos à fiscalização
+
+O **titular de cartório de registro ou de notas** que não apresentar integralmente os documentos e livros fiscais ou contábeis solicitados pela autoridade fiscal estará sujeito à multa de:
+
+**100 UFMs.**
+
+A penalidade se aplica tanto às fiscalizações de rotina quanto às decorrentes de ações de inteligência fiscal realizadas remotamente.
+

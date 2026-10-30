@@ -7,7 +7,7 @@
 
 
 ---
-## Fórmula
+## Fórmula CESPE
 
 $$ ILS = \frac{AC - E - D_{ant}}{PC} $$
 
@@ -16,3 +16,14 @@ $$ ILS = \frac{AC - E - D_{ant}}{PC} $$
 - **E**: estoques
 - **Dant**: despesas antecipadas
 - **PC**: passivo circulante
+
+---
+## Fórmula FCC e FGV
+
+$$ ILS = \frac{AC - E}{PC} $$
+
+
+- **AC**: ativo circulante
+- **E**: estoques
+- **PC**: passivo circulante
+

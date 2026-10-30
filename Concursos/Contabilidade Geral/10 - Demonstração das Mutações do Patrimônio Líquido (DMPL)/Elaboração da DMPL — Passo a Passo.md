@@ -12,7 +12,6 @@ A DMPL é uma tabela matricial onde:
 - **Colunas** = contas do PL
 - **Coluna Total** = somatório horizontal de cada linha
 
----
 
 ---
 ## Tópicos Relacionados
@@ -20,5 +19,4 @@ A DMPL é uma tabela matricial onde:
 - [[Demonstração das Mutações do Patrimônio Líquido (DMPL)]]
 - [[Absorção de Prejuízos na DMPL]]
 - [[Destinação do Resultado (DMPL)]]
-- [[Demonstração de Lucros ou Prejuízos Acumulados (DLPA)]]
 - [[MOC — Demonstração das Mutações do Patrimônio Líquido (DMPL)]]

@@ -48,3 +48,18 @@ $$ \sigma^2 = \frac{\sum_{i=1}^m (x_i - \mu)^2 \times f_i}{n} $$
 ### Variância Amostral
 
 $$ s^2 = \frac{\sum_{i=1}^n (x_i - \bar{x})^2 \cdot f_i}{n} \cdot \frac{n}{n - 1} $$
+
+---
+## Propriedades da Variância
+
+### Não negatividade
+
+$$ Var(X) \ge 0 $$
+
+### Multiplicação por Constante
+
+$$ Var(a \cdot X) = a^2 \cdot Var(X) $$
+
+### Soma com constante
+
+$$ Var(X + c) = Var(X) $$

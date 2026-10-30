@@ -34,6 +34,8 @@ updated: 2026-05-21T21:20:00
 
 > [!important] É o único livro que apresenta **Saldo da Conta**.
 
+![[Pasted image 20261018213654.png]]
+
 ---
 ## Obrigatoriedade
 
