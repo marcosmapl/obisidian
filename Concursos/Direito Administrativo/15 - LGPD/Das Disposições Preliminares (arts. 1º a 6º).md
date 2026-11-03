@@ -26,8 +26,6 @@
 ---
 ## Art. 4º da LGPD — Hipóteses de não aplicação
 
-**Ideia central**: o artigo estabelece situações em que a LGPD não se aplica ao tratamento de dados pessoais, total ou parcialmente.
-
 ### 1. Quando a LGPD não se aplica?
 
 - Inciso I — **Uso particular**: pessoa natural trata dados para fins exclusivamente pessoais e não econômicos.
@@ -81,7 +79,6 @@
 - **IX - Não Discriminação** (vedação a fins discriminatórios ilícitos).
 - **X - Responsabilização e Prestação de Contas** (demonstração de eficácia das medidas).
 
-
 | **Princípio**                               | Palavra-chave                                                             |
 | ------------------------------------------- | ------------------------------------------------------------------------- |
 | **finalidade**                              | **propósitos** legítimos, específicos, explícitos e informados ao titular |
@@ -95,3 +92,4 @@
 | **não discriminação**                       | impossibilidade de discriminação                                          |
 | **responsabilização e prestação de contas** | **medidas eficazes**                                                      |
 
+---

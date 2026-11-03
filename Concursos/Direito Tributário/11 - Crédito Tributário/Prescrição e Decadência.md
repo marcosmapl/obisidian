@@ -21,4 +21,4 @@ IV - por qualquer ato inequívoco ainda que extrajudicial, que importe em reconh
 
 O art. 174, I, traz como hipótese interruptiva do prazo prescricional o despacho do juiz que ordena citação em execução fiscal.
 
-Súmula STJ 653 - O pedido de parcelamento fiscal, ainda que indeferido, interrompe o prazo prescricional, pois caracteriza confissão extrajudicial do débito.
+Súmula STJ 653 - O pedido de parcelamento fiscal, ainda que indeferido, **interrompe** o prazo prescricional, pois caracteriza confissão extrajudicial do débito.

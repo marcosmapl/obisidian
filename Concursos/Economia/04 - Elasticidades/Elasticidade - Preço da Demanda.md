@@ -5,11 +5,18 @@ created: 2026-07-20T15:55:00
 updated: 2026-07-20T16:00:00
 ---
 
+## Definição
 
 > [!note] Elasticidade Preço da Demanda (EPD)
 > Mede a **sensibilidade** da **quantidade demandada** a **mudanças no preço**.
 
 $$ E_{pd} = \frac{ \% \Delta Q}{ \% \Delta P} $$
+
+### Método do Ponto Médio
+
+- Também chamado de **Elasticidade-Arco**
+
+$$ E_{pd} = \frac{ \frac{\Delta Q_d}{(\frac{Q_f - Q_i}{2})} }{ \frac{\Delta P_d}{(\frac{P_f - p_i}{2})} } $$
 
 | Valor da Epd | Tipo                             |
 | ------------ | -------------------------------- |

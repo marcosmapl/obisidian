@@ -12,8 +12,6 @@ updated: 2026-01-05T05:35:00
 
 > [!tip] A tributação deve respeitar a **aptidão econômica** do contribuinte.
 
-#direito/tributario/principio_capacidade_contributiva
-
 ---
 ## Fundamento Constitucional
 
@@ -59,7 +57,6 @@ updated: 2026-01-05T05:35:00
 ---
 ## Tópicos Relacionados
 
-- [[Limitações ao Poder de Tributar]]
 - [[Princípio da Isonomia Tributária]]
 - [[Princípio do Não Confisco]]
 - [[Competência Tributária — Conceito]]

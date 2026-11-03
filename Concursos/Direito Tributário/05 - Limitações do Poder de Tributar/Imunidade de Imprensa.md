@@ -12,8 +12,6 @@ updated: 2026-01-04T16:35:00
 
 > [!tip] Finalidade: garantir o **acesso à cultura, à educação e à informação**, promovendo o pluralismo de ideias.
 
-#direito/tributario/imunidade_cultural
-
 ---
 ## Fundamento Constitucional
 
@@ -61,5 +59,4 @@ updated: 2026-01-04T16:35:00
 ## Tópicos Relacionados
 
 - [[Imunidade Tributária  — Conceito]]
-- [[Limitações ao Poder de Tributar]]
-- [[Competência Tributária]]
+
