@@ -11,7 +11,7 @@ Ideia central: controlador ou operador que **causar dano** a alguém por violar 
     
     - **Operador**: responde solidariamente quando ==🔴descumpre a lei ou não segue as instruções lícitas do controlador==.
         
-    - **Controladores**: respondem solidariamente ==🔴quando estão diretamente envolvidos no tratamento que causou o dan==o.
+    - **Controladores**: respondem solidariamente ==🔴quando estão diretamente envolvidos no tratamento que causou o dano==.
     
 - § 2º — **Inversão do ônus da prova**: o juiz pode determinar que a parte ==🟣controladora== prove os fatos quando a alegação for verossímil, o titular for hipossuficiente para produzir a prova ou essa produção for excessivamente onerosa.
     
@@ -24,7 +24,7 @@ Ideia central: controlador ou operador que **causar dano** a alguém por violar 
 ---
 ## Art. 43 da LGPD — Exclusão da responsabilidade
 
-Ideia central: os agentes de tratamento só **deixam de ser responsabilizados** se provarem uma das três hipóteses legais:
+Ideia central: os **agentes de tratamento** só **deixam de ser responsabilizados** se provarem uma das três hipóteses legais:
 
 1. **Não realizaram o tratamento**: o agente ==🔴não foi responsável pelo tratamento== atribuído a ele.
     

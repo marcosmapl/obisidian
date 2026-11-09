@@ -10,8 +10,6 @@ updated: 2026-01-23T04:50:00
 > [!note] Legislação Tributária
 > A expressão **"Legislação Tributária"** compreende as **Leis**, os **Tratados e as Convenções Internacionais**, os **Decretos** e as **Normas Complementares** que versem, no todo ou em parte, sobre tributos e relações jurídicas a eles pertinentes.
 
-#direito/tributario/legislacao_tributaria
-
 > [!important] Todas as normas que versem sobre tributos e as relações jurídicas a eles pertinentes integram a **Legislação Tributária**.
 
 ---
@@ -143,5 +141,6 @@ updated: 2026-01-23T04:50:00
 ## Tópicos Relacionados
 
 - [[Vigência da Legislação Tributária]]
-- 
+
+
 

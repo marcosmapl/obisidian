@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Tecnologia da Informação/12 - Segurança da Informação/Segurança da Informação — Conceitos.md",
+                "file": "Concursos/Direito Tributário/17 - Reforma Tributária/Lei Complementar nº 214 de 2025/Livro II - IS/Das Disposições Preliminares (arts. 409 a 411).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Segurança da Informação — Conceitos"
+              "title": "Das Disposições Preliminares (arts. 409 a 411)"
             },
             "group": "d380a07358176e05"
           }
@@ -36,13 +36,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concursos/Tecnologia da Informação/12 - Segurança da Informação/Segurança da Informação — Conceitos.md",
+                "file": "Concursos/Direito Tributário/17 - Reforma Tributária/Lei Complementar nº 214 de 2025/Livro II - IS/Das Disposições Preliminares (arts. 409 a 411).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Segurança da Informação — Conceitos"
+              "title": "Sumário de Das Disposições Preliminares (arts. 409 a 411)"
             },
             "group": "d380a07358176e05"
           }
@@ -80,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "LGPD",
+                "query": "Prescrição",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concursos/Tecnologia da Informação/12 - Segurança da Informação/Segurança da Informação — Conceitos.md",
+                "file": "Concursos/Direito Tributário/17 - Reforma Tributária/Lei Complementar nº 214 de 2025/Livro II - IS/Das Disposições Preliminares (arts. 409 a 411).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -376,35 +376,36 @@
   },
   "active": "4abc8955ccdafcff",
   "lastOpenFiles": [
-    "Concursos/Tecnologia da Informação/12 - Segurança da Informação/MOC — Segurança da Informação.md",
-    "Concursos/Tecnologia da Informação/12 - Segurança da Informação/Segurança da Informação — Conceitos.md",
-    "Concursos/Tecnologia da Informação/12 - Segurança da Informação/Controle de Acesso.md",
-    "Concursos/Tecnologia da Informação/12 - Segurança da Informação/Firewall.md",
-    "Concursos/Tecnologia da Informação/12 - Segurança da Informação/Criptografia.md",
-    "Concursos/Contabilidade Geral/12 - Demonstração do Valor Adicionado (DVA)/Demonstração do Valor Adicionado (DVA).md",
-    "Concursos/Contabilidade Geral/08 - Demonstração do Resultado do Exercício (DRE)/Demonstração do Resultado do Exercício (DRE).md",
-    "Concursos/Contabilidade Geral/13 - Demonstração de Resultados Abrangetes (DRA)/Demonstração dos Resultados Abrangestes (DRA).md",
-    "Concursos/Contabilidade Geral/12 - Demonstração do Valor Adicionado (DVA)/MOC — Demonstração do Valor Adicionado (DVA).md",
+    "Concursos/Direito Tributário/17 - Reforma Tributária/Lei Complementar nº 214 de 2025/MOC — LC 214 de 2025.md",
+    "Concursos/Direito Tributário/17 - Reforma Tributária/Lei Complementar nº 214 de 2025/Livro II - IS/Da Base de Cálculo (arts. 414 a 418).md",
+    "Concursos/Direito Tributário/17 - Reforma Tributária/Lei Complementar nº 214 de 2025/Livro I  - IBS e CBS/Das Alíquotas (arts. 14 a 20).md",
+    "Concursos/Direito Tributário/17 - Reforma Tributária/Lei Complementar nº 214 de 2025/Livro I  - IBS e CBS/Modalidades de Extinção.md",
+    "Concursos/Direito Tributário/17 - Reforma Tributária/Lei Complementar nº 214 de 2025/Livro I  - IBS e CBS/Do Momento da Ocorrência do Fato Gerador (art.10).md",
+    "Concursos/Direito Tributário/17 - Reforma Tributária/Lei Complementar nº 227 de 2026/MOC — LC 227 de 2026.md",
+    "Concursos/Direito Tributário/12 - Administração Tributária/Fiscalização Tributária.md",
+    "Concursos/Direito Tributário/12 - Administração Tributária/MOC — Administração Tributária.md",
+    "Concursos/Direito Tributário/11 - Crédito Tributário/Exclusão do Crédito Tributário.md",
+    "Concursos/Direito Tributário/11 - Crédito Tributário/MOC — Crédito Tributário.md",
+    "Concursos/Direito Tributário/11 - Crédito Tributário/Extinção do Crédito Tributário.md",
+    "Concursos/Direito Tributário/11 - Crédito Tributário/Suspensão do Crédito Tributário.md",
+    "Concursos/Direito Tributário/11 - Crédito Tributário/Impugnação (Crédito Tributário).md",
+    "Concursos/Direito Tributário/11 - Crédito Tributário/Moratória — Conceito.md",
+    "Concursos/Direito Tributário/11 - Crédito Tributário/Prescrição e Decadência.md",
+    "Concursos/Direito Tributário/11 - Crédito Tributário/Lançamento Tributário.md",
+    "Concursos/Direito Tributário/11 - Crédito Tributário/Crédito Tributário — Conceito.md",
+    "Concursos/Direito Tributário/10 - Obrigação Tributária/MOC — Obrigação Tributária.md",
+    "Concursos/Direito Tributário/10 - Obrigação Tributária/Responsabilidade Tributária.md",
+    "Concursos/Direito Tributário/10 - Obrigação Tributária/Sujeito Passivo.md",
+    "Concursos/Direito Tributário/10 - Obrigação Tributária/Sujeito Ativo.md",
+    "Concursos/Direito Tributário/01 - Conceitos Fundamentais/Fato Gerador da Obrigação Tributária.md",
+    "Concursos/Direito Tributário/10 - Obrigação Tributária/Obrigação Tributária.md",
+    "Concursos/Direito Tributário/09 - Legislação Tributária/MOC — Legislação Tributária.md",
+    "Concursos/Direito Tributário/09 - Legislação Tributária/Integração da Legislação Tributária.md",
+    "Concursos/Direito Tributário/09 - Legislação Tributária/Interpretação da Legislação Tributária.md",
+    "Concursos/Economia/10 - Política Fiscal e Monetária",
     "Media/Pasted image 20261029175757.jpg",
-    "Concursos/Contabilidade Geral/11 - Demonstração dos Fluxos de Caixa (DFC)/MOC — Demonstração dos Fluxos de Caixa (DFC).md",
-    "Concursos/Contabilidade Geral/11 - Demonstração dos Fluxos de Caixa (DFC)/Atividades de Investimento (AI).md",
     "Media/Pasted image 20261029174426.png",
-    "Concursos/Contabilidade Geral/11 - Demonstração dos Fluxos de Caixa (DFC)/Demonstração dos Fluxos de Caixa (DFC).md",
-    "Concursos/Contabilidade Geral/11 - Demonstração dos Fluxos de Caixa (DFC)/Atividades de Financiamento (AF).md",
-    "Concursos/Contabilidade Geral/11 - Demonstração dos Fluxos de Caixa (DFC)/Atividades Operacionais (AO).md",
-    "Concursos/Contabilidade Geral/10 - Demonstração das Mutações do Patrimônio Líquido (DMPL)/Demonstração das Mutações do Patrimônio Líquido (DMPL).md",
-    "Concursos/Contabilidade Geral/10 - Demonstração das Mutações do Patrimônio Líquido (DMPL)/Elaboração da DMPL — Passo a Passo.md",
-    "Concursos/Contabilidade Geral/11 - Demonstração dos Fluxos de Caixa (DFC)/Método Indireto (DFC).md",
-    "Concursos/Contabilidade Geral/11 - Demonstração dos Fluxos de Caixa (DFC)/Método Direto (DFC).md",
-    "Concursos/Contabilidade Geral/11 - Demonstração dos Fluxos de Caixa (DFC)/Pagamentos a Fornecedores.md",
-    "Recebimento de Clientes 1.md",
-    "Concursos/Contabilidade Geral/11 - Demonstração dos Fluxos de Caixa (DFC)/Recebimento de Clientes.md",
-    "Concursos/Contabilidade Geral/11 - Demonstração dos Fluxos de Caixa (DFC)/Juros e Dividendos (DFC).md",
-    "Concursos/Contabilidade Geral/11 - Demonstração dos Fluxos de Caixa (DFC)/Caixa e Equivalentes de Caixa.md",
-    "Concursos/Contabilidade Geral/08 - Demonstração do Resultado do Exercício (DRE)/MOC — Demonstração do Resultado do Exercício (DRE).md",
-    "Concursos/Contabilidade Geral/07 - Patrimônio Líquido/Patrimônio Líquido.md",
     "Media/Pasted image 20261029102356.png",
-    "Concursos/Contabilidade Geral/07 - Patrimônio Líquido/MOC — Patrimônio Líquido.md",
     "Media/Pasted image 20261029082337.png",
     "Media/Pasted image 20261029082315.png",
     "Media/Pasted image 20261027234310.png",
@@ -420,7 +421,6 @@
     "Concursos/Direito Tributário/17 - Reforma Tributária/Lei Complementar nº 214 de 2025/Livro III - ZFM e ALCs",
     "Concursos/Direito Tributário/17 - Reforma Tributária/Lei Complementar nº 214 de 2025/Livro II - IS",
     "Concursos/Direito Tributário/17 - Reforma Tributária/Lei Complementar nº 214 de 2025/Livro I  - IBS e CBS",
-    "Media/Pasted image 20261019154114.png",
-    "Concursos/Economia/08 - Falhas de Mercado"
+    "Media/Pasted image 20261019154114.png"
   ]
 }

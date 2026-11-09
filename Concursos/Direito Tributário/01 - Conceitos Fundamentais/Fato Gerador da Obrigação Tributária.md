@@ -9,7 +9,7 @@ updated: 2026-01-05T05:50:00
 
 ### Hipótese de Incidência
 
-- É a descriçaõ **abstrata** e prevista em **Lei**
+- É a descrição **abstrata** e prevista em **Lei**
 - Fato gerador **in abstrato** 
 - **Hipótese Tributária**
 - Pressuposto Legal

@@ -1,7 +1,7 @@
 
 ## Índice
 
-### 1. [[Princípios da Tribução]]
+### 1. [[Princípios da Tributação]]
 
 ### 2. [[Curva de Laffer]]
 

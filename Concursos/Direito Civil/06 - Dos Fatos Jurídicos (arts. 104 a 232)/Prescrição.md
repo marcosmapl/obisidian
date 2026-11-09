@@ -14,12 +14,9 @@
 - Aqui a **lei seca é imprescindível**, e acredite, **ela aparece quase que na literalidade em prova,** então:
 
 Estabelece o **art. 197** que não corre a prescrição:
-
-I - entre os cônjuges, na constância da sociedade conjugal;
-
-II - entre ascendentes e descendentes, durante o poder familiar;
-
-III - entre tutelados ou curatelados e seus tutores ou curadores, durante a tutela ou curatela.  
+- I - entre os cônjuges, na constância da sociedade conjugal;
+- II - entre ascendentes e descendentes, durante o poder familiar;
+- III - entre tutelados ou curatelados e seus tutores ou curadores, durante a tutela ou curatela.  
   
 
 Já o **art. 198** prevê que também não corre a prescrição:

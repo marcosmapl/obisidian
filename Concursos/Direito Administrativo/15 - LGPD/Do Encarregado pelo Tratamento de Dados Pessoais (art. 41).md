@@ -1,7 +1,7 @@
 
 ## Art. 41 da LGPD — Encarregado de dados (DPO)
 
-Ideia central: o controlador deve **indicar um encarregado** pelo tratamento de dados pessoais.
+Ideia central: o **controlador** deve **indicar um encarregado** pelo tratamento de dados pessoais.
 
 ### Principais regras
 
