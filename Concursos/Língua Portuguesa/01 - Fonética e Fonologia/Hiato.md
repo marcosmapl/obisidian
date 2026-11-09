@@ -2,20 +2,9 @@
 disciplina: Língua Portuguesa
 tópico: Ortografia e Acentuação
 created: 2026-02-05T20:50:00
-updated: 2026-02-05T20:55:00
+updated: 2026-11-09T14:44:00
 ---
 
-## Classificações independentes
-
-> ✍️ **Hiato** → classificação **fonética/silábica**
-
-> ✍️ **Oxítona / Paroxítona** → classificação **tônica**
-
-Uma palavra pode ser:
-- Oxítona **e** apresentar hiato (_a-ça-í_)
-- Paroxítona **e** apresentar hiato (_sa-ú-de_)
-
----
 ## Regra Geral do Hiato
 
 Acentuam-se o **i** ou **u** **tônicos**, quando:

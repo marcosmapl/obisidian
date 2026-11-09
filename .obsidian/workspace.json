@@ -4,31 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "c511c307bd1774fe",
-        "type": "tabs",
-        "dimension": 77.84860557768924,
-        "children": [
-          {
-            "id": "0764bdbe3be201bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concursos/Direito Tributário/17 - Reforma Tributária/Lei Complementar nº 214 de 2025/Livro II - IS/Das Disposições Preliminares (arts. 409 a 411).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Das Disposições Preliminares (arts. 409 a 411)"
-            },
-            "group": "d380a07358176e05"
-          }
-        ]
-      },
-      {
         "id": "6e37404ae317a054",
         "type": "tabs",
-        "dimension": 22.15139442231076,
         "children": [
           {
             "id": "c3d67843b2db9fc9",
@@ -36,17 +13,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concursos/Direito Tributário/17 - Reforma Tributária/Lei Complementar nº 214 de 2025/Livro II - IS/Das Disposições Preliminares (arts. 409 a 411).md",
+                "file": "Concursos/Língua Portuguesa/02 - Ortografia e Acentuação/MOC — Ortografia e Acentuação.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Das Disposições Preliminares (arts. 409 a 411)"
-            },
-            "group": "d380a07358176e05"
+              "title": "Sumário"
+            }
+          },
+          {
+            "id": "f74ade927cc421c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concursos/Língua Portuguesa/02 - Ortografia e Acentuação/MOC — Ortografia e Acentuação.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MOC — Ortografia e Acentuação"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concursos/Direito Tributário/17 - Reforma Tributária/Lei Complementar nº 214 de 2025/Livro II - IS/Das Disposições Preliminares (arts. 409 a 411).md",
+                "file": "Concursos/Língua Portuguesa/02 - Ortografia e Acentuação/MOC — Ortografia e Acentuação.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -347,6 +338,16 @@
             "id": "4abc8955ccdafcff",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "cd13f07e149ff245",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -354,16 +355,14 @@
             }
           }
         ],
-        "currentTab": 20
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "markdown-importer:Abrir importador Markdown": false,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
@@ -374,34 +373,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4abc8955ccdafcff",
+  "active": "f74ade927cc421c0",
   "lastOpenFiles": [
+    "Concursos/Língua Portuguesa/02 - Ortografia e Acentuação/Expressões Problemáticas.md",
+    "Concursos/Língua Portuguesa/02 - Ortografia e Acentuação/Onde x Aonde.md",
+    "Concursos/Língua Portuguesa/02 - Ortografia e Acentuação/MOC — Ortografia e Acentuação.md",
+    "Concursos/Língua Portuguesa/02 - Ortografia e Acentuação/A fim x Afim.md",
+    "Concursos/Língua Portuguesa/02 - Ortografia e Acentuação/Hífen.md",
+    "Concursos/Língua Portuguesa/02 - Ortografia e Acentuação/Acentuação Gráfica.md",
+    "Concursos/Língua Portuguesa/01 - Fonética e Fonologia/MOC — Fonética e Fonologia.md",
+    "Concursos/Língua Portuguesa/01 - Fonética e Fonologia/Classificações das Palavras.md",
+    "Concursos/Língua Portuguesa/01 - Fonética e Fonologia/Hiato.md",
+    "Concursos/Língua Portuguesa/01 - Fonética e Fonologia/Tritongo.md",
+    "Concursos/Língua Portuguesa/01 - Fonética e Fonologia/Ditongo.md",
+    "Concursos/Língua Portuguesa/01 - Fonética e Fonologia/Encontro Consonantal.md",
+    "Concursos/Língua Portuguesa/01 - Fonética e Fonologia/Dígrafo.md",
+    "Encontro Vocálico 1.md",
+    "Sem título.md",
+    "Concursos/Língua Portuguesa/01 - Ortografia e Acentuação/Encontro Vocálico.md",
+    "Concursos/Língua Portuguesa/01 - Ortografia e Acentuação/Hiato 1.md",
+    "Concursos/Língua Portuguesa/01 - Ortografia e Acentuação/Encontro Vocálico 1.md",
+    "Concursos/Língua Portuguesa/02 - Ortografia e Acentuação/Ortografia.md",
+    "Concursos/Língua Portuguesa/01 - Fonética e Fonologia/Fonema.md",
+    "Concursos/Língua Portuguesa/01 - Fonética e Fonologia/Letra.md",
+    "Concursos/Língua Portuguesa/Língua Portuguesa.md",
     "Concursos/Direito Tributário/17 - Reforma Tributária/Lei Complementar nº 214 de 2025/MOC — LC 214 de 2025.md",
     "Concursos/Direito Tributário/17 - Reforma Tributária/Lei Complementar nº 214 de 2025/Livro II - IS/Da Base de Cálculo (arts. 414 a 418).md",
     "Concursos/Direito Tributário/17 - Reforma Tributária/Lei Complementar nº 214 de 2025/Livro I  - IBS e CBS/Das Alíquotas (arts. 14 a 20).md",
     "Concursos/Direito Tributário/17 - Reforma Tributária/Lei Complementar nº 214 de 2025/Livro I  - IBS e CBS/Modalidades de Extinção.md",
-    "Concursos/Direito Tributário/17 - Reforma Tributária/Lei Complementar nº 214 de 2025/Livro I  - IBS e CBS/Do Momento da Ocorrência do Fato Gerador (art.10).md",
-    "Concursos/Direito Tributário/17 - Reforma Tributária/Lei Complementar nº 227 de 2026/MOC — LC 227 de 2026.md",
-    "Concursos/Direito Tributário/12 - Administração Tributária/Fiscalização Tributária.md",
-    "Concursos/Direito Tributário/12 - Administração Tributária/MOC — Administração Tributária.md",
-    "Concursos/Direito Tributário/11 - Crédito Tributário/Exclusão do Crédito Tributário.md",
-    "Concursos/Direito Tributário/11 - Crédito Tributário/MOC — Crédito Tributário.md",
-    "Concursos/Direito Tributário/11 - Crédito Tributário/Extinção do Crédito Tributário.md",
-    "Concursos/Direito Tributário/11 - Crédito Tributário/Suspensão do Crédito Tributário.md",
-    "Concursos/Direito Tributário/11 - Crédito Tributário/Impugnação (Crédito Tributário).md",
-    "Concursos/Direito Tributário/11 - Crédito Tributário/Moratória — Conceito.md",
-    "Concursos/Direito Tributário/11 - Crédito Tributário/Prescrição e Decadência.md",
-    "Concursos/Direito Tributário/11 - Crédito Tributário/Lançamento Tributário.md",
-    "Concursos/Direito Tributário/11 - Crédito Tributário/Crédito Tributário — Conceito.md",
-    "Concursos/Direito Tributário/10 - Obrigação Tributária/MOC — Obrigação Tributária.md",
-    "Concursos/Direito Tributário/10 - Obrigação Tributária/Responsabilidade Tributária.md",
-    "Concursos/Direito Tributário/10 - Obrigação Tributária/Sujeito Passivo.md",
-    "Concursos/Direito Tributário/10 - Obrigação Tributária/Sujeito Ativo.md",
-    "Concursos/Direito Tributário/01 - Conceitos Fundamentais/Fato Gerador da Obrigação Tributária.md",
-    "Concursos/Direito Tributário/10 - Obrigação Tributária/Obrigação Tributária.md",
-    "Concursos/Direito Tributário/09 - Legislação Tributária/MOC — Legislação Tributária.md",
-    "Concursos/Direito Tributário/09 - Legislação Tributária/Integração da Legislação Tributária.md",
-    "Concursos/Direito Tributário/09 - Legislação Tributária/Interpretação da Legislação Tributária.md",
     "Concursos/Economia/10 - Política Fiscal e Monetária",
     "Media/Pasted image 20261029175757.jpg",
     "Media/Pasted image 20261029174426.png",
