@@ -6,7 +6,6 @@
       {
         "id": "c511c307bd1774fe",
         "type": "tabs",
-        "dimension": 77.84860557768924,
         "children": [
           {
             "id": "0764bdbe3be201bc",
@@ -14,37 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Direito Tributário/17 - Reforma Tributária/Lei Complementar nº 214 de 2025/Livro II - IS/Das Disposições Preliminares (arts. 409 a 411).md",
+                "file": "Concursos/Direito Administrativo/15 - LGPD/Das Disposições Preliminares (arts. 1º a 6º).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Das Disposições Preliminares (arts. 409 a 411)"
-            },
-            "group": "d380a07358176e05"
-          }
-        ]
-      },
-      {
-        "id": "6e37404ae317a054",
-        "type": "tabs",
-        "dimension": 22.15139442231076,
-        "children": [
-          {
-            "id": "c3d67843b2db9fc9",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Concursos/Direito Tributário/17 - Reforma Tributária/Lei Complementar nº 214 de 2025/Livro II - IS/Das Disposições Preliminares (arts. 409 a 411).md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Sumário de Das Disposições Preliminares (arts. 409 a 411)"
-            },
-            "group": "d380a07358176e05"
+              "title": "Das Disposições Preliminares (arts. 1º a 6º)"
+            }
           }
         ]
       }
@@ -108,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.66926193237305
+    "width": 346.66926193237305,
+    "collapsed": true
   },
   "right": {
     "id": "36b906953263c637",
@@ -337,6 +313,16 @@
             "id": "247ba5a3e666706b",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "4762e071f0ba2792",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -344,7 +330,7 @@
             }
           }
         ],
-        "currentTab": 19
+        "currentTab": 20
       }
     ],
     "direction": "horizontal",
@@ -365,6 +351,8 @@
   },
   "active": "0764bdbe3be201bc",
   "lastOpenFiles": [
+    "Concursos/Direito Administrativo/15 - LGPD/MOC — LGPD.md",
+    "Concursos/Direito Tributário/17 - Reforma Tributária/Lei Complementar nº 214 de 2025/Livro II - IS/Das Disposições Preliminares (arts. 409 a 411).md",
     "Concursos/Direito Tributário/17 - Reforma Tributária/Lei Complementar nº 214 de 2025/MOC — LC 214 de 2025.md",
     "Concursos/Direito Tributário/17 - Reforma Tributária/Lei Complementar nº 214 de 2025/Livro II - IS/Da Base de Cálculo (arts. 414 a 418).md",
     "Concursos/Direito Tributário/17 - Reforma Tributária/Lei Complementar nº 214 de 2025/Livro I  - IBS e CBS/Das Alíquotas (arts. 14 a 20).md",
@@ -389,8 +377,6 @@
     "Concursos/Direito Tributário/01 - Conceitos Fundamentais/Fato Gerador da Obrigação Tributária.md",
     "Concursos/Direito Tributário/10 - Obrigação Tributária/Obrigação Tributária.md",
     "Concursos/Direito Tributário/09 - Legislação Tributária/MOC — Legislação Tributária.md",
-    "Concursos/Direito Tributário/09 - Legislação Tributária/Integração da Legislação Tributária.md",
-    "Concursos/Direito Tributário/09 - Legislação Tributária/Interpretação da Legislação Tributária.md",
     "Concursos/Economia/10 - Política Fiscal e Monetária",
     "Media/Pasted image 20261029175757.jpg",
     "Media/Pasted image 20261029174426.png",
