@@ -337,6 +337,16 @@
             "id": "247ba5a3e666706b",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "4abc8955ccdafcff",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -344,7 +354,7 @@
             }
           }
         ],
-        "currentTab": 19
+        "currentTab": 20
       }
     ],
     "direction": "horizontal",
@@ -353,6 +363,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "markdown-importer:Abrir importador Markdown": false,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
@@ -363,7 +374,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0764bdbe3be201bc",
+  "active": "4abc8955ccdafcff",
   "lastOpenFiles": [
     "Concursos/Tecnologia da Informação/12 - Segurança da Informação/MOC — Segurança da Informação.md",
     "Concursos/Tecnologia da Informação/12 - Segurança da Informação/Segurança da Informação — Conceitos.md",
