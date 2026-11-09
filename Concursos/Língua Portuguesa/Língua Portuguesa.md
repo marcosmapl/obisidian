@@ -7,9 +7,9 @@ updated: 2026-02-05T20:45:00
 
 ## 📌 Índice de Tópicos
 
-### 01. [[Concursos/Língua Portuguesa/01 - Ortografia e Acentuação/MOC — Ortografia e Acentuação|MOC — Ortografia e Acentuação]]
+### 01. [[MOC — Ortografia e Acentuação|MOC — Ortografia e Acentuação]]
 
-### 02. [[Concursos/Língua Portuguesa/02 - Fonética e Fonologia/MOC — Fonética e Fonologia|MOC — Fonética e Fonologia]]
+### 02. [[MOC — Fonética e Fonologia|MOC — Fonética e Fonologia]]
 
 ### 03. [[Concursos/Língua Portuguesa/03 - Morfologia/MOC — Morfologia|MOC — Morfologia]]
 
