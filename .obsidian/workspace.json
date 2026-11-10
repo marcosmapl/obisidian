@@ -184,6 +184,16 @@
             "id": "7e1000c994d68d60",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "5753a83ff33873a2",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -191,7 +201,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -211,13 +221,20 @@
   },
   "active": "9a4aa1d3873ac27d",
   "lastOpenFiles": [
-    "Concursos/Tecnologia da Informação/17 - Computação em Nuvem/Características Essenciais.md",
+    "Concursos/Tecnologia da Informação/17 - Computação em Nuvem/Nuvem Comunitária (Community Cloud).md",
     "Concursos/Tecnologia da Informação/17 - Computação em Nuvem/Conceitos Fundamentais.md",
+    "Concursos/Tecnologia da Informação/17 - Computação em Nuvem/Nuvem Híbrida (Hybrid Cloud).md",
+    "Concursos/Tecnologia da Informação/17 - Computação em Nuvem/Nuvem Privada (Private Cloud).md",
+    "Concursos/Tecnologia da Informação/17 - Computação em Nuvem/Nuvem Pública (Public Cloud).md",
+    "Concursos/Tecnologia da Informação/17 - Computação em Nuvem/Infraestrutura como Serviço (IaaS).md",
+    "Concursos/Tecnologia da Informação/17 - Computação em Nuvem/Modelos de Implantação.md",
+    "Concursos/Tecnologia da Informação/17 - Computação em Nuvem/Características Essenciais.md",
+    "Concursos/Tecnologia da Informação/17 - Computação em Nuvem/Modelos de Serviço.md",
+    "Concursos/Tecnologia da Informação/17 - Computação em Nuvem/Software como Serviço (SaaS).md",
+    "Concursos/Tecnologia da Informação/17 - Computação em Nuvem/Plataforma como Serviço (PaaS).md",
     "Concursos/Tecnologia da Informação/17 - Computação em Nuvem/MOC — Computação em Nuvem.md",
     "Concursos/Tecnologia da Informação/Tecnologia da Informação.md",
     "Concursos/Tecnologia da Informação/17 - Computação em Nuvem/Armazenamento em Nuvem.md",
-    "Concursos/Tecnologia da Informação/17 - Computação em Nuvem/Modelos de Implantação.md",
-    "Concursos/Tecnologia da Informação/17 - Computação em Nuvem/Modelos de Serviço.md",
     "Concursos/Tecnologia da Informação/17 - Computação em Nuvem",
     "Concursos/Língua Portuguesa/02 - Ortografia e Acentuação/Expressões Problemáticas.md",
     "Concursos/Língua Portuguesa/02 - Ortografia e Acentuação/Onde x Aonde.md",
@@ -231,13 +248,6 @@
     "Concursos/Língua Portuguesa/01 - Fonética e Fonologia/Tritongo.md",
     "Concursos/Língua Portuguesa/01 - Fonética e Fonologia/Ditongo.md",
     "Concursos/Língua Portuguesa/01 - Fonética e Fonologia/Encontro Consonantal.md",
-    "Concursos/Língua Portuguesa/01 - Fonética e Fonologia/Dígrafo.md",
-    "Encontro Vocálico 1.md",
-    "Sem título.md",
-    "Concursos/Língua Portuguesa/01 - Ortografia e Acentuação/Encontro Vocálico.md",
-    "Concursos/Língua Portuguesa/01 - Ortografia e Acentuação/Hiato 1.md",
-    "Concursos/Língua Portuguesa/01 - Ortografia e Acentuação/Encontro Vocálico 1.md",
-    "Concursos/Língua Portuguesa/02 - Ortografia e Acentuação/Ortografia.md",
     "Concursos/Economia/10 - Política Fiscal e Monetária",
     "Media/Pasted image 20261029175757.jpg",
     "Media/Pasted image 20261029174426.png",
