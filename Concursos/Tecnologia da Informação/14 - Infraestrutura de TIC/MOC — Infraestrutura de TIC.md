@@ -2,16 +2,12 @@
 disciplina: Tecnologia da Informação
 tópico: Infraestrutura de TIC
 created: 2025-12-23T00:00:00
-updated: 2026-01-06T17:05:00
+updated: 2026-11-09T19:45:00
 ---
 
 ## Índice — Infraestrutura de TIC
 
-- [[Computação em Nuvem]]
-- [[IaaS]]
-- [[PaaS]]
-- [[SaaS]]
-- [[Multicloud]]
+- [[MOC — Computação em Nuvem]] *(ver pasta 17)*
 - [[Linux]]
 - [[Windows Server]]
 - [[DNS]]

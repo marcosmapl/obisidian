@@ -4,40 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "6e37404ae317a054",
+        "id": "2332dd70a55be4dc",
         "type": "tabs",
         "children": [
           {
-            "id": "c3d67843b2db9fc9",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Concursos/Língua Portuguesa/02 - Ortografia e Acentuação/MOC — Ortografia e Acentuação.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Sumário"
-            }
-          },
-          {
-            "id": "f74ade927cc421c0",
+            "id": "9a4aa1d3873ac27d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Língua Portuguesa/02 - Ortografia e Acentuação/MOC — Ortografia e Acentuação.md",
+                "file": "Concursos/Tecnologia da Informação/17 - Computação em Nuvem/Conceitos Fundamentais.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MOC — Ortografia e Acentuação"
+              "title": "Conceitos Fundamentais"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.66926193237305,
-    "collapsed": true
+    "width": 306.66926193237305
   },
   "right": {
     "id": "36b906953263c637",
@@ -116,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Concursos/Tecnologia da Informação/17 - Computação em Nuvem/Conceitos Fundamentais.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Concursos/Tecnologia da Informação/17 - Computação em Nuvem/Conceitos Fundamentais.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -176,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concursos/Língua Portuguesa/02 - Ortografia e Acentuação/MOC — Ortografia e Acentuação.md",
+                "file": "Concursos/Tecnologia da Informação/17 - Computação em Nuvem/Conceitos Fundamentais.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -186,167 +171,7 @@
             }
           },
           {
-            "id": "cd6c105427a3a778",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "d717809c7d4d242a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "32287c248470bd21",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "54602549bf7e7dda",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "f40fdc7a520a5fac",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "0e4d0b38bf40bc2b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "1d57399649f8407f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "94608044c40300ec",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "573a5b6d9c5926aa",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "14991651940179f1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "fce82de87c23b6f4",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "983c88fb073b86c6",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "21efde1fb294be12",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "5f512f3483901b9a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "247ba5a3e666706b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "4abc8955ccdafcff",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "cd13f07e149ff245",
+            "id": "ce7ae9f23e515091",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -356,11 +181,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 320.666748046875
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -374,8 +199,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f74ade927cc421c0",
+  "active": "9a4aa1d3873ac27d",
   "lastOpenFiles": [
+    "Concursos/Tecnologia da Informação/17 - Computação em Nuvem/Características Essenciais.md",
+    "Concursos/Tecnologia da Informação/17 - Computação em Nuvem/Conceitos Fundamentais.md",
+    "Concursos/Tecnologia da Informação/17 - Computação em Nuvem/MOC — Computação em Nuvem.md",
+    "Concursos/Tecnologia da Informação/Tecnologia da Informação.md",
+    "Concursos/Tecnologia da Informação/17 - Computação em Nuvem/Armazenamento em Nuvem.md",
+    "Concursos/Tecnologia da Informação/17 - Computação em Nuvem/Modelos de Implantação.md",
+    "Concursos/Tecnologia da Informação/17 - Computação em Nuvem/Modelos de Serviço.md",
+    "Concursos/Tecnologia da Informação/17 - Computação em Nuvem",
     "Concursos/Língua Portuguesa/02 - Ortografia e Acentuação/Expressões Problemáticas.md",
     "Concursos/Língua Portuguesa/02 - Ortografia e Acentuação/Onde x Aonde.md",
     "Concursos/Língua Portuguesa/02 - Ortografia e Acentuação/MOC — Ortografia e Acentuação.md",
@@ -395,29 +228,6 @@
     "Concursos/Língua Portuguesa/01 - Ortografia e Acentuação/Hiato 1.md",
     "Concursos/Língua Portuguesa/01 - Ortografia e Acentuação/Encontro Vocálico 1.md",
     "Concursos/Língua Portuguesa/02 - Ortografia e Acentuação/Ortografia.md",
-    "Concursos/Língua Portuguesa/01 - Fonética e Fonologia/Fonema.md",
-    "Concursos/Língua Portuguesa/01 - Fonética e Fonologia/Letra.md",
-    "Concursos/Língua Portuguesa/Língua Portuguesa.md",
-    "Concursos/Direito Tributário/17 - Reforma Tributária/Lei Complementar nº 214 de 2025/Livro I  - IBS e CBS/Do Momento da Ocorrência do Fato Gerador (art.10).md",
-    "Concursos/Direito Tributário/17 - Reforma Tributária/Lei Complementar nº 227 de 2026/MOC — LC 227 de 2026.md",
-    "Concursos/Direito Tributário/12 - Administração Tributária/Fiscalização Tributária.md",
-    "Concursos/Direito Tributário/12 - Administração Tributária/MOC — Administração Tributária.md",
-    "Concursos/Direito Tributário/11 - Crédito Tributário/Exclusão do Crédito Tributário.md",
-    "Concursos/Direito Tributário/11 - Crédito Tributário/MOC — Crédito Tributário.md",
-    "Concursos/Direito Tributário/11 - Crédito Tributário/Extinção do Crédito Tributário.md",
-    "Concursos/Direito Tributário/11 - Crédito Tributário/Suspensão do Crédito Tributário.md",
-    "Concursos/Direito Tributário/11 - Crédito Tributário/Impugnação (Crédito Tributário).md",
-    "Concursos/Direito Tributário/11 - Crédito Tributário/Moratória — Conceito.md",
-    "Concursos/Direito Tributário/11 - Crédito Tributário/Prescrição e Decadência.md",
-    "Concursos/Direito Tributário/11 - Crédito Tributário/Lançamento Tributário.md",
-    "Concursos/Direito Tributário/11 - Crédito Tributário/Crédito Tributário — Conceito.md",
-    "Concursos/Direito Tributário/10 - Obrigação Tributária/MOC — Obrigação Tributária.md",
-    "Concursos/Direito Tributário/10 - Obrigação Tributária/Responsabilidade Tributária.md",
-    "Concursos/Direito Tributário/10 - Obrigação Tributária/Sujeito Passivo.md",
-    "Concursos/Direito Tributário/10 - Obrigação Tributária/Sujeito Ativo.md",
-    "Concursos/Direito Tributário/01 - Conceitos Fundamentais/Fato Gerador da Obrigação Tributária.md",
-    "Concursos/Direito Tributário/10 - Obrigação Tributária/Obrigação Tributária.md",
-    "Concursos/Direito Tributário/09 - Legislação Tributária/MOC — Legislação Tributária.md",
     "Concursos/Economia/10 - Política Fiscal e Monetária",
     "Media/Pasted image 20261029175757.jpg",
     "Media/Pasted image 20261029174426.png",
@@ -436,7 +246,6 @@
     "Concursos/Direito Civil/03 - Código Civil/Livro I - Das Pessoas",
     "Concursos/Direito Tributário/17 - Reforma Tributária/Lei Complementar nº 214 de 2025/Livro III - ZFM e ALCs",
     "Concursos/Direito Tributário/17 - Reforma Tributária/Lei Complementar nº 214 de 2025/Livro II - IS",
-    "Concursos/Direito Tributário/17 - Reforma Tributária/Lei Complementar nº 214 de 2025/Livro I  - IBS e CBS",
     "Media/Pasted image 20261019154114.png"
   ]
 }
