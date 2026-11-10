@@ -348,6 +348,16 @@
             "id": "cd13f07e149ff245",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "7e1000c994d68d60",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -355,7 +365,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 22
       }
     ],
     "direction": "horizontal",
@@ -373,7 +383,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f74ade927cc421c0",
+  "active": "7e1000c994d68d60",
   "lastOpenFiles": [
     "Concursos/Língua Portuguesa/02 - Ortografia e Acentuação/Expressões Problemáticas.md",
     "Concursos/Língua Portuguesa/02 - Ortografia e Acentuação/Onde x Aonde.md",
