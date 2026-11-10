@@ -2,7 +2,7 @@
 disciplina: Tecnologia da Informação
 tópico: MOC Principal
 created: 2025-12-17T16:00:00
-updated: 2025-12-30T10:57:00
+updated: 2026-11-09T19:45:00
 ---
 
 > [!abstract] Sobre esta disciplina
@@ -40,4 +40,8 @@ updated: 2025-12-30T10:57:00
 ### 14 — [[MOC — Infraestrutura de TIC]]
 
 ### 15 — [[MOC — Ciência de Dados]]
+
+### 16 — [[MOC — Governança de Dados]]
+
+### 17 — [[MOC — Computação em Nuvem]]
 
