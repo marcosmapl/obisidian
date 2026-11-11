@@ -35,14 +35,18 @@ updated: 2026-06-08T09:30:00
 > A receita auferida da arrecadação não está atrelada a uma destinação específica.
 
 ---
-## Código Tributário Nacional (Tripartida)
+## Código Tributário Nacional (Tripartite)
 
-- [[Imposto — Conceito]]
-- [[Taxa — Conceito]]
+- [[Imposto]]
+- [[Taxa]]
 - [[Empréstimos Compulsórios]]
 
-## Constituição Federal (Pentapartida)
+## Constituição Federal (Pentapartite)
 
+- [[Imposto]]
+- [[Taxa]]
+- [[Empréstimos Compulsórios]]
 - [[Contribuições de Melhoria]]
 - [[Contribuições Especiais]]
 
+![[Pasted image 20261111165553.png]]

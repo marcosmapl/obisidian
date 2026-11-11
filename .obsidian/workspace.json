@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Tecnologia da Informação/17 - Computação em Nuvem/Conceitos Fundamentais.md",
+                "file": "Concursos/Direito Tributário/06 - Tributos/MOC — Tributos - Conceito e Espécies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Conceitos Fundamentais"
+              "title": "MOC — Tributos - Conceito e Espécies"
             }
           }
         ]
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concursos/Tecnologia da Informação/17 - Computação em Nuvem/Conceitos Fundamentais.md",
+                "file": "Concursos/Direito Tributário/06 - Tributos/MOC — Tributos - Conceito e Espécies.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -194,6 +194,16 @@
             "id": "5753a83ff33873a2",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "3788a00582cde821",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -201,7 +211,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -221,33 +231,34 @@
   },
   "active": "9a4aa1d3873ac27d",
   "lastOpenFiles": [
-    "Concursos/Tecnologia da Informação/17 - Computação em Nuvem/Nuvem Comunitária (Community Cloud).md",
+    "Media/Pasted image 20261111165600.png",
+    "Concursos/Direito Tributário/06 - Tributos/Espécies Tributárias.md",
+    "Media/Pasted image 20261111165553.png",
+    "Concursos/Direito Tributário/06 - Tributos/MOC — Tributos - Conceito e Espécies.md",
+    "Concursos/Direito Tributário/06 - Tributos/Contribuições Especiais.md",
+    "Concursos/Direito Tributário/06 - Tributos/Tributo.md",
+    "Concursos/Direito Tributário/06 - Tributos/Natureza Jurídica do Tributo.md",
+    "Concursos/Direito Tributário/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais.md",
+    "Concursos/Direito Tributário/06 - Tributos/Imposto.md",
+    "Concursos/Direito Tributário/06 - Tributos/Taxa.md",
+    "Concursos/Direito Tributário/18 - Jurisprudência/MOC — Jurisprudência e Súmulas Vinculantes em Matéria Tributária.md",
+    "Concursos/Direito Tributário/18 - Jurisprudência/SV nº 52 (STF).md",
+    "Concursos/Direito Tributário/18 - Jurisprudência/SV nº 41 (STF).md",
+    "Concursos/Direito Tributário/18 - Jurisprudência/SV nº 656 (STF).md",
+    "Concursos/Direito Tributário/18 - Jurisprudência/SV nº 539 (STF).md",
+    "Concursos/Direito Tributário/18 - Jurisprudência/SV nº 50 (STF).md",
+    "Concursos/Direito Tributário/18 - Jurisprudência/SV nº 29 (STF).md",
+    "Concursos/Direito Tributário/18 - Jurisprudência/SV nº 19 (STF).md",
+    "Concursos/Direito Tributário/18 - Jurisprudência/Jurisprudência sobre o Ônus da Prova.md",
+    "Concursos/Direito Tributário/18 - Jurisprudência/Súmula nº 160 (STJ).md",
+    "Concursos/Direito Tributário/18 - Jurisprudência/Tema nº 1140 (STF).md",
+    "Concursos/Direito Tributário/18 - Jurisprudência/Tema nº 796 (STF).md",
+    "Concursos/Direito Tributário/18 - Jurisprudência/ADI 2405 de 2019 (STF).md",
+    "Concursos/Direito Tributário/18 - Jurisprudência/ADI 3717 de 2025 (STF).md",
+    "Concursos/Direito Tributário/18 - Jurisprudência/ADI 1917 de 1998 (STF).md",
+    "Concursos/Direito Tributário/01 - Conceitos Fundamentais/Preço Público.md",
     "Concursos/Tecnologia da Informação/17 - Computação em Nuvem/Conceitos Fundamentais.md",
-    "Concursos/Tecnologia da Informação/17 - Computação em Nuvem/Nuvem Híbrida (Hybrid Cloud).md",
-    "Concursos/Tecnologia da Informação/17 - Computação em Nuvem/Nuvem Privada (Private Cloud).md",
-    "Concursos/Tecnologia da Informação/17 - Computação em Nuvem/Nuvem Pública (Public Cloud).md",
-    "Concursos/Tecnologia da Informação/17 - Computação em Nuvem/Infraestrutura como Serviço (IaaS).md",
-    "Concursos/Tecnologia da Informação/17 - Computação em Nuvem/Modelos de Implantação.md",
-    "Concursos/Tecnologia da Informação/17 - Computação em Nuvem/Características Essenciais.md",
-    "Concursos/Tecnologia da Informação/17 - Computação em Nuvem/Modelos de Serviço.md",
-    "Concursos/Tecnologia da Informação/17 - Computação em Nuvem/Software como Serviço (SaaS).md",
-    "Concursos/Tecnologia da Informação/17 - Computação em Nuvem/Plataforma como Serviço (PaaS).md",
-    "Concursos/Tecnologia da Informação/17 - Computação em Nuvem/MOC — Computação em Nuvem.md",
-    "Concursos/Tecnologia da Informação/Tecnologia da Informação.md",
-    "Concursos/Tecnologia da Informação/17 - Computação em Nuvem/Armazenamento em Nuvem.md",
     "Concursos/Tecnologia da Informação/17 - Computação em Nuvem",
-    "Concursos/Língua Portuguesa/02 - Ortografia e Acentuação/Expressões Problemáticas.md",
-    "Concursos/Língua Portuguesa/02 - Ortografia e Acentuação/Onde x Aonde.md",
-    "Concursos/Língua Portuguesa/02 - Ortografia e Acentuação/MOC — Ortografia e Acentuação.md",
-    "Concursos/Língua Portuguesa/02 - Ortografia e Acentuação/A fim x Afim.md",
-    "Concursos/Língua Portuguesa/02 - Ortografia e Acentuação/Hífen.md",
-    "Concursos/Língua Portuguesa/02 - Ortografia e Acentuação/Acentuação Gráfica.md",
-    "Concursos/Língua Portuguesa/01 - Fonética e Fonologia/MOC — Fonética e Fonologia.md",
-    "Concursos/Língua Portuguesa/01 - Fonética e Fonologia/Classificações das Palavras.md",
-    "Concursos/Língua Portuguesa/01 - Fonética e Fonologia/Hiato.md",
-    "Concursos/Língua Portuguesa/01 - Fonética e Fonologia/Tritongo.md",
-    "Concursos/Língua Portuguesa/01 - Fonética e Fonologia/Ditongo.md",
-    "Concursos/Língua Portuguesa/01 - Fonética e Fonologia/Encontro Consonantal.md",
     "Concursos/Economia/10 - Política Fiscal e Monetária",
     "Media/Pasted image 20261029175757.jpg",
     "Media/Pasted image 20261029174426.png",
@@ -265,7 +276,6 @@
     "Concursos/Direito Empresarial/04 - Dos Títulos de Crédito",
     "Concursos/Direito Civil/03 - Código Civil/Livro I - Das Pessoas",
     "Concursos/Direito Tributário/17 - Reforma Tributária/Lei Complementar nº 214 de 2025/Livro III - ZFM e ALCs",
-    "Concursos/Direito Tributário/17 - Reforma Tributária/Lei Complementar nº 214 de 2025/Livro II - IS",
-    "Media/Pasted image 20261019154114.png"
+    "Concursos/Direito Tributário/17 - Reforma Tributária/Lei Complementar nº 214 de 2025/Livro II - IS"
   ]
 }

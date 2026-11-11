@@ -18,7 +18,7 @@
 > - Exploração de atividades econômicas sob regras do setor privado
 > - Cobrança de preços e tarifas de usuários
 
-- [[Tema nº 1140 do STF]]
+- [[Tema nº 1140 (STF)]]
 
 ### Religiosa
 

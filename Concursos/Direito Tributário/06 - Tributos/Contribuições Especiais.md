@@ -11,10 +11,13 @@ updated: 2026-06-08T16:10:00
 > Art. 149, CF 88 - Compete **privativamente** à **União** institui **contribuições sociais**, de **intervenção no domínio econômico** e de **interesses das categorias profissionais ou econômicas**.
 > 
 
+> [!tip] ==🔴EXCETO== a **contribuição de melhoria**, todas as demais contribuições são majoritariamente classificadas na categoria **contribuições especiais**!
+
 ---
 ## Classificação
 
 ### Contribuições Sociais
+
 - Todos os entes podem instituir, por meio de lei, **contribuição previdenciária** a ser cobrada de seus servidores, para o custeio do **Regime Próprio de Previdência Social**.
 - Contribuições de **seguridade social**: Previdência + Saúde + Assistência Social (PAS)
 	- **Empregador**: Folha de salários, Receita, Faturamento, Lucro (CSLL)
@@ -41,8 +44,6 @@ updated: 2026-06-08T16:10:00
 
 ### Contribuições Corporativas
 
-### Contribuição de Iluminação Pública
-- Somente **Distrito Federal** e **Municípios**
 
 ### Contribuição para o Custeio do Serviço de Iluminação Pública - COSIP
 

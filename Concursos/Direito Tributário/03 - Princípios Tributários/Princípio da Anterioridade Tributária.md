@@ -78,7 +78,7 @@ updated: 2026-01-05T05:25:00
 - Revogação de Isenção
 - Redução ou extinção
 
-[[Súmula Vinculante 50 (STF)]]
+[[SV nº 50 (STF)]]
 
 ---
 ## Tópicos Relacionados

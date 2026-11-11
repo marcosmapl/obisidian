@@ -11,7 +11,7 @@ updated: 2025-12-23T00:00:00
 > Art. 77, CTN - As **taxas** cobradas pela União, Estados, Distrito Federal ou Municípios, no âmbito de suas respectivas atribuições, têm como **Fato Gerador** o **exercício regular do poder de polícia, ou a utilização efetiva ou potencial, de serviço público específico e divisível, prestado ao contribuinte ou posto a sua disposção**.
 
 > [!important] Base de cálculo
-> Art. 145, § 2º da CF/88 - As taxas não podem ter base de cálculo própria de impostos. Contudo o STF entende que é constitucional a adoção de um ou mais elementos da base de cálculo própria de um imposto, desde que não sejam todos os elementos ([[Súmula Vinculante 29 (STF)]])
+> Art. 145, § 2º da CF/88 - As taxas não podem ter base de cálculo própria de impostos. Contudo o STF entende que é constitucional a adoção de um ou mais elementos da base de cálculo própria de um imposto, desde que não sejam todos os elementos ([[SV nº 29 (STF)]])
 
 ---
 ## Característica
@@ -57,10 +57,10 @@ O contribuinte ==não poderá fazer opção por não receber determinada presta�
 ---
 ## Jurisprudência
 
-- [[Súmula Vinculante 19 (STF)]] (Coleta de Lixo)
-- [[Súmula Vinculante 41 (STF)]]
+- [[SV nº 19 (STF)]] (Coleta de Lixo)
+- [[SV nº 41 (STF)]]
 - [[RE 1.417.155 RN STF]] (Combate à Incêndio)
-- [[ADI 3.717]] (Eventos esportivos e de Lazer)
+- [[ADI 3717 de 2025 (STF)]] (Eventos esportivos e de Lazer)
 
 
 > [!note] Taxa de Polícia
@@ -87,4 +87,4 @@ O contribuinte ==não poderá fazer opção por não receber determinada presta�
 ## Tópicos Relacionados
 
 - [[Preço Público]]
-- [[Imposto — Conceito]]
+- [[Imposto]]

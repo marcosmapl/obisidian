@@ -5,16 +5,18 @@ created: 2025-12-23T00:00:00
 updated: 2025-12-29T21:53:00
 ---
 
-## Conceitos Fundamentais
+## Índice
 
-- [[Tributo — Conceito|Tributo — Conceito]]
+- [[Tributo]]
 - [[Espécies Tributárias]]
 
----
-## Espécies de Tributos
+![[Pasted image 20261111165600.png]]
 
-- [[Imposto — Conceito|Imposto — Conceito]]
-- [[Taxa — Conceito|Taxas — Conceito]]
+---
+## Tópicos Relacionados
+
+- [[Imposto]]
+- [[Taxa]]
 - [[Contribuições de Melhoria|Contribuições de Melhoria]]
 - [[Empréstimos Compulsórios|Empréstimos Compulsórios]]
 - [[Contribuições Especiais|Contribuições Especiais]]

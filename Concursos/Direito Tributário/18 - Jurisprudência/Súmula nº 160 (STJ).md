@@ -1,1 +1,3 @@
+
+
 **Súmula STJ 160** – É defeso, ao Município, atualizar o IPTU (BC), mediante decreto, em percentual superior ao índice oficial de correção monetária.

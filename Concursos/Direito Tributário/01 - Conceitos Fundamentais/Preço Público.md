@@ -18,4 +18,4 @@ updated: 2026-06-08T15:35:00
 ---
 ## Tópicos Relacionados
 
-- [[Taxa — Conceito]]
+- [[Taxa]]

@@ -33,7 +33,7 @@ updated: 2026-04-03T19:45:00
 - Em regra, possui alíquota **proporcional**.
 - A **progressividade com base no valor venal** é vedada pela jurisprudência do STF.
 
-- [[Súmula Vinculante 656 (STF)]]
+- [[SV nº 656 (STF)]]
 
 ---
 ## Princípios

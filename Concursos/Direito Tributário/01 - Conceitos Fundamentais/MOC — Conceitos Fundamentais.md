@@ -5,18 +5,18 @@ created: 2025-12-23T00:00:00
 updated: 2026-06-08T09:02:00
 ---
 
-## Conceitos Fundamentais
+## Índice
 
-### Tributos
-
-- [[Tributo — Conceito]]
+- [[Tributo]]
 - [[Fato Gerador da Obrigação Tributária]]
-- [[Preço Público|Preço Público — Conceito]]
+- [[Preço Público]]
+
 ### Receitas
 
 - [[Receita Pública]]
 - [[Receita Tributária]]
 - [[Receita Não Tributária]]
+
 ### Capacidade Tributária
 
 - [[Capacidade Tributária Ativa]]

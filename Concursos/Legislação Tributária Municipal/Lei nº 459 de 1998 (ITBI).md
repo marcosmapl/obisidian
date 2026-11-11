@@ -39,7 +39,7 @@ O **Imposto Sobre a Transmissão "Inter Vivos", a Qualquer Título, Por Ato Oner
 | § 4º        | Imposto devido conforme a lei da data da aquisição.                                  |
 | § 5º        | Alienação da totalidade do patrimônio da pessoa jurídica.                            |
 
-- [[Tema 796 (STF)]]
+- [[Tema nº 796 (STF)]]
 
 ---
 ## Capítulo III - Da Isenção

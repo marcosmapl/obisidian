@@ -31,7 +31,7 @@ updated: 2025-12-23T00:00:00
 
 - [[Fato Gerador da Obrigação Tributária]]
 - [[Receitas Derivadas]]
-- [[Taxa — Conceito]]
+- [[Taxa]]
 - [[Contribuições de Melhoria]]
 - [[Empréstimos Compulsórios]]
 - [[Contribuições Especiais]]

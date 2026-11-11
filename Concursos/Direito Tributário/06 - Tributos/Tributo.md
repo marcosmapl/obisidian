@@ -18,11 +18,9 @@ updated: 2026-06-08T09:05:00
 - Pagamento deve ser feito em **dinheiro (pecúnia)**.
 - Em regra geral, ==não admite-se pagamento de tributos in natura (bens) ou in labore (serviços)==.
 
-> [!important] Lei Complementar 104/2002, adicionou o inciso XI ao Art. 156 do CTN (Lei 5,172):
-> Art. 156. Extingue o **crédito tributário**:
-> XI - a dação em pagamento em **bens imóveis**, na forma e condiçoes estabelecidas em **LEI**.
+>  [[ADI 1917 de 1998 (STF)]]
 
-> [!important] ADI 1.917, o STF decidiu que lei local de determinado ente federado ==NÃO== pode estabelecer a dação em pagamento de **BENS MÓVEIS** como forma de extinção do crédito tributário.
+> [[ADI 2405 de 2019 (STF)]]
 
 ---
 ## Prestação Compulsória
@@ -64,6 +62,14 @@ updated: 2026-06-08T09:05:00
 ## Resumo
 
 ![[Pasted image 20251229231614.png]]
+
+---
+## Natureza Jurídica Específica
+
+> [!note] CTN, Art. 4º
+> A **natureza jurídica específica do tributo** é determinada pelo **fato gerador** da respectiva obrigação, sendo irrelevantes para qualificá-la:
+> - I - a denominação e demais características formais adotadas pela lei;
+> - II - a destinação legal do produto da sua arrecadação.
 
 ---
 ## Tópicos Relacionados
