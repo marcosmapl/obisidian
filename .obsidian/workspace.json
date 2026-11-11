@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "9cfc1187f138285a",
+    "id": "d1c7e611cde458ce",
     "type": "split",
     "children": [
       {
-        "id": "2332dd70a55be4dc",
+        "id": "4cdca8929d71871e",
         "type": "tabs",
         "children": [
           {
-            "id": "9a4aa1d3873ac27d",
+            "id": "dd3ab40051e49153",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Direito Tributário/06 - Tributos/MOC — Tributos - Conceito e Espécies.md",
+                "file": "Concursos/Direito Tributário/06 - Tributos/Tributo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MOC — Tributos - Conceito e Espécies"
+              "title": "Tributo"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d8060ac0f7d9ca35",
+    "id": "35709e9c91af3e69",
     "type": "split",
     "children": [
       {
-        "id": "420b22ca22bc3916",
+        "id": "62e0bc95733e2f34",
         "type": "tabs",
         "children": [
           {
-            "id": "5ffe0c98325b273f",
+            "id": "53994062b73d5dab",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -50,15 +50,15 @@
             }
           },
           {
-            "id": "f94d038188226016",
+            "id": "91b36791296ab01b",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "Prescrição",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -67,7 +67,7 @@
             }
           },
           {
-            "id": "2a0368a764bf5f82",
+            "id": "0ca5db44108b1145",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -83,23 +83,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.66926193237305
+    "width": 413.2162322998047
   },
   "right": {
-    "id": "36b906953263c637",
+    "id": "2826644379b11855",
     "type": "split",
     "children": [
       {
-        "id": "f3a28bbfd3fb0d3d",
+        "id": "0c8ea64bfc6c4949",
         "type": "tabs",
         "children": [
           {
-            "id": "2c7fde6dd8508d9c",
+            "id": "e367e92fa19c66f6",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concursos/Tecnologia da Informação/17 - Computação em Nuvem/Conceitos Fundamentais.md",
+                "file": "Concursos/Direito Tributário/06 - Tributos/Tributo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,12 +113,12 @@
             }
           },
           {
-            "id": "4aad59fb9b866d07",
+            "id": "346c240cd3cdfdef",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concursos/Tecnologia da Informação/17 - Computação em Nuvem/Conceitos Fundamentais.md",
+                "file": "Concursos/Direito Tributário/06 - Tributos/Tributo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -127,7 +127,7 @@
             }
           },
           {
-            "id": "333d6ba89d4334cc",
+            "id": "5dd0b2583ce2dfd5",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -142,7 +142,7 @@
             }
           },
           {
-            "id": "4bbd613215751e1d",
+            "id": "512cbd5229e5593e",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -156,12 +156,12 @@
             }
           },
           {
-            "id": "b08577f6a1280787",
+            "id": "9840308a30f2f2d3",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concursos/Direito Tributário/06 - Tributos/MOC — Tributos - Conceito e Espécies.md",
+                "file": "Concursos/Direito Tributário/06 - Tributos/Tributo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -171,37 +171,7 @@
             }
           },
           {
-            "id": "ce7ae9f23e515091",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "7e1000c994d68d60",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "5753a83ff33873a2",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "3788a00582cde821",
+            "id": "b64fc5278e4154d8",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -211,11 +181,12 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 320.666748046875
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,53 +200,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9a4aa1d3873ac27d",
+  "active": "dd3ab40051e49153",
   "lastOpenFiles": [
-    "Media/Pasted image 20261111165600.png",
-    "Concursos/Direito Tributário/06 - Tributos/Espécies Tributárias.md",
-    "Media/Pasted image 20261111165553.png",
-    "Concursos/Direito Tributário/06 - Tributos/MOC — Tributos - Conceito e Espécies.md",
-    "Concursos/Direito Tributário/06 - Tributos/Contribuições Especiais.md",
-    "Concursos/Direito Tributário/06 - Tributos/Tributo.md",
-    "Concursos/Direito Tributário/06 - Tributos/Natureza Jurídica do Tributo.md",
     "Concursos/Direito Tributário/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais.md",
-    "Concursos/Direito Tributário/06 - Tributos/Imposto.md",
+    "Concursos/Direito Tributário/06 - Tributos/Tributo.md",
     "Concursos/Direito Tributário/06 - Tributos/Taxa.md",
-    "Concursos/Direito Tributário/18 - Jurisprudência/MOC — Jurisprudência e Súmulas Vinculantes em Matéria Tributária.md",
-    "Concursos/Direito Tributário/18 - Jurisprudência/SV nº 52 (STF).md",
-    "Concursos/Direito Tributário/18 - Jurisprudência/SV nº 41 (STF).md",
-    "Concursos/Direito Tributário/18 - Jurisprudência/SV nº 656 (STF).md",
-    "Concursos/Direito Tributário/18 - Jurisprudência/SV nº 539 (STF).md",
-    "Concursos/Direito Tributário/18 - Jurisprudência/SV nº 50 (STF).md",
-    "Concursos/Direito Tributário/18 - Jurisprudência/SV nº 29 (STF).md",
-    "Concursos/Direito Tributário/18 - Jurisprudência/SV nº 19 (STF).md",
-    "Concursos/Direito Tributário/18 - Jurisprudência/Jurisprudência sobre o Ônus da Prova.md",
-    "Concursos/Direito Tributário/18 - Jurisprudência/Súmula nº 160 (STJ).md",
-    "Concursos/Direito Tributário/18 - Jurisprudência/Tema nº 1140 (STF).md",
-    "Concursos/Direito Tributário/18 - Jurisprudência/Tema nº 796 (STF).md",
-    "Concursos/Direito Tributário/18 - Jurisprudência/ADI 2405 de 2019 (STF).md",
-    "Concursos/Direito Tributário/18 - Jurisprudência/ADI 3717 de 2025 (STF).md",
-    "Concursos/Direito Tributário/18 - Jurisprudência/ADI 1917 de 1998 (STF).md",
-    "Concursos/Direito Tributário/01 - Conceitos Fundamentais/Preço Público.md",
-    "Concursos/Tecnologia da Informação/17 - Computação em Nuvem/Conceitos Fundamentais.md",
-    "Concursos/Tecnologia da Informação/17 - Computação em Nuvem",
-    "Concursos/Economia/10 - Política Fiscal e Monetária",
-    "Media/Pasted image 20261029175757.jpg",
-    "Media/Pasted image 20261029174426.png",
-    "Media/Pasted image 20261029102356.png",
-    "Media/Pasted image 20261029082337.png",
-    "Media/Pasted image 20261029082315.png",
-    "Media/Pasted image 20261027234310.png",
-    "Media/Pasted image 20261027234246.png",
-    "Media/Pasted image 20261027133503.png",
-    "Concursos/Economia/14 - Tributação",
-    "Concursos/Direito/09 - Direito Processual Penal/Sem título",
-    "Concursos/Direito Processual Penal/05 - Lei dos Crimes Contra a Ordem Tributária",
-    "Concursos/Direito Processual Penal/04 - Lei de Delitos Informáticos",
-    "Media/Pasted image 20261021213022.png",
-    "Concursos/Direito Empresarial/04 - Dos Títulos de Crédito",
-    "Concursos/Direito Civil/03 - Código Civil/Livro I - Das Pessoas",
-    "Concursos/Direito Tributário/17 - Reforma Tributária/Lei Complementar nº 214 de 2025/Livro III - ZFM e ALCs",
-    "Concursos/Direito Tributário/17 - Reforma Tributária/Lei Complementar nº 214 de 2025/Livro II - IS"
+    "Concursos/Direito Tributário/06 - Tributos/MOC — Tributos - Conceito e Espécies.md",
+    "Concursos/Direito Tributário/06 - Tributos/Imposto.md"
   ]
 }

@@ -2,7 +2,7 @@
 disciplina: Direito Tributário
 tópico: Tributos
 created: 2025-12-29T21:55:00
-updated: 2026-06-08T09:05:00
+updated: 2026-11-10T23:07:00
 ---
 
 ## Conceito
@@ -71,9 +71,3 @@ updated: 2026-06-08T09:05:00
 > - I - a denominação e demais características formais adotadas pela lei;
 > - II - a destinação legal do produto da sua arrecadação.
 
----
-## Tópicos Relacionados
-
-- [[Princípio do Estado Democrático de Direito]]
-- [[Princípio do Pecúnia Non Olet]]
-- [[Ato Administrativo Vinculado]]
