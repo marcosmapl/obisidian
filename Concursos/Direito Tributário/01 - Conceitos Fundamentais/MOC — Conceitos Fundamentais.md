@@ -9,9 +9,9 @@ updated: 2026-06-08T09:02:00
 
 ### Tributos
 
-- [[Tributo — Conceito]]
+- [[Tributo]]
 - [[Fato Gerador da Obrigação Tributária]]
-- [[Preço Público|Preço Público — Conceito]]
+- [[Preço Público]]
 ### Receitas
 
 - [[Receita Pública]]

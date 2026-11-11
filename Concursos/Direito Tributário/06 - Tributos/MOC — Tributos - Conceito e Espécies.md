@@ -7,7 +7,7 @@ updated: 2025-12-29T21:53:00
 
 ## Conceitos Fundamentais
 
-- [[Tributo — Conceito|Tributo — Conceito]]
+- [[Tributo|Tributo — Conceito]]
 - [[Espécies Tributárias]]
 
 ---

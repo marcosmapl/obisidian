@@ -2,7 +2,7 @@
 disciplina: Direito Tributário
 tópico: Tributos
 created: 2025-12-29T21:55:00
-updated: 2026-06-08T09:05:00
+updated: 2026-11-10T23:07:00
 ---
 
 ## Conceito
@@ -65,9 +65,4 @@ updated: 2026-06-08T09:05:00
 
 ![[Pasted image 20251229231614.png]]
 
----
-## Tópicos Relacionados
 
-- [[Princípio do Estado Democrático de Direito]]
-- [[Princípio do Pecúnia Non Olet]]
-- [[Ato Administrativo Vinculado]]
