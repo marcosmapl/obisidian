@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Direito Tributário/06 - Tributos/Tributo.md",
+                "file": "Concursos/Direito Tributário/06 - Tributos/MOC — Tributos - Conceito e Espécies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tributo"
+              "title": "MOC — Tributos - Conceito e Espécies"
             }
           }
         ]
@@ -174,6 +174,16 @@
             "id": "b64fc5278e4154d8",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "087e7edd4d64d044",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -181,7 +191,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -202,10 +212,10 @@
   },
   "active": "dd3ab40051e49153",
   "lastOpenFiles": [
-    "Concursos/Direito Tributário/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais.md",
     "Concursos/Direito Tributário/06 - Tributos/Tributo.md",
-    "Concursos/Direito Tributário/06 - Tributos/Taxa.md",
     "Concursos/Direito Tributário/06 - Tributos/MOC — Tributos - Conceito e Espécies.md",
+    "Concursos/Direito Tributário/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais.md",
+    "Concursos/Direito Tributário/06 - Tributos/Taxa.md",
     "Concursos/Direito Tributário/06 - Tributos/Imposto.md"
   ]
 }
