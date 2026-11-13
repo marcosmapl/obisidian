@@ -42,7 +42,7 @@ updated: 2026-01-03T16:54:00
 ---
 ## Tópicos Relacionados
 
-- [[Receitas Originárias]]
-- [[Direito Público]]
+- [[Receita Originária]]
+
 
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Direito Tributário/06 - Tributos/MOC — Tributos - Conceito e Espécies.md",
+                "file": "Concursos/Direito Tributário/06 - Tributos/Espécies Tributárias.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MOC — Tributos - Conceito e Espécies"
+              "title": "Espécies Tributárias"
             }
           }
         ]
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concursos/Direito Tributário/06 - Tributos/Tributo.md",
+                "file": "Concursos/Direito Tributário/06 - Tributos/Espécies Tributárias.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -184,6 +184,16 @@
             "id": "087e7edd4d64d044",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "9a1c5c4fdccf4ce0",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -191,12 +201,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 282.774658203125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,10 +221,13 @@
   },
   "active": "dd3ab40051e49153",
   "lastOpenFiles": [
-    "Concursos/Direito Tributário/06 - Tributos/Tributo.md",
     "Concursos/Direito Tributário/06 - Tributos/MOC — Tributos - Conceito e Espécies.md",
-    "Concursos/Direito Tributário/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais.md",
     "Concursos/Direito Tributário/06 - Tributos/Taxa.md",
+    "Concursos/Direito Tributário/06 - Tributos/Tributo.md",
+    "Concursos/Direito Tributário/01 - Conceitos Fundamentais/Receita Derivada.md",
+    "Concursos/Direito Tributário/01 - Conceitos Fundamentais/Receita Originária.md",
+    "Concursos/Direito Tributário/06 - Tributos/Espécies Tributárias.md",
+    "Concursos/Direito Tributário/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais.md",
     "Concursos/Direito Tributário/06 - Tributos/Imposto.md"
   ]
 }

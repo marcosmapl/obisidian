@@ -14,8 +14,8 @@ updated: 2026-01-06T09:57:50
 ## Classificações
 
 Há duas formas de o Estado conseguir o dinheiro. São as chamadas
-- [[Receitas Originárias]]
-- [[Receitas Derivadas]]
+- [[Receita Originária]]
+- [[Receita Derivada]]
 
 ---
 ## Elementos essenciais
