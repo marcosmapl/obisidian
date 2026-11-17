@@ -43,5 +43,5 @@ updated: 2026-01-03T16:44:00
 ---
 ## Tópicos Relacionados
 
-- [[Receitas Derivadas]]
-- [[Direito Privado]]
+- [[Receita Derivada]]
+
