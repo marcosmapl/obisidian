@@ -214,4 +214,4 @@ Os responsáveis tributários ficam ==desobrigados da retenção e do pagamento 
 ---
 ## Tópicos Relacionados
 
-- [[Súmula Vinculante 31 (STF)]]
+- [[SV nº 31 (STF)]]

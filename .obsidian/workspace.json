@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Direito Tributário/06 - Tributos/MOC — Tributos - Conceito e Espécies.md",
+                "file": "Concursos/Direito Tributário/18 - Jurisprudência/MOC — Jurisprudência e Súmulas Vinculantes em Matéria Tributária.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MOC — Tributos - Conceito e Espécies"
+              "title": "MOC — Jurisprudência e Súmulas Vinculantes em Matéria Tributária"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 413.2162322998047
+    "width": 361.66926193237305
   },
   "right": {
     "id": "2826644379b11855",
@@ -184,6 +184,16 @@
             "id": "087e7edd4d64d044",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "c2e7f8fdcc64c411",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -191,7 +201,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -212,10 +222,31 @@
   },
   "active": "dd3ab40051e49153",
   "lastOpenFiles": [
-    "Concursos/Direito Tributário/06 - Tributos/Tributo.md",
-    "Concursos/Direito Tributário/06 - Tributos/MOC — Tributos - Conceito e Espécies.md",
-    "Concursos/Direito Tributário/01 - Conceitos Fundamentais/MOC — Conceitos Fundamentais.md",
+    "Concursos/Direito Tributário/18 - Jurisprudência/Súmula nº 595 (STF).md",
+    "Concursos/Direito Tributário/18 - Jurisprudência/MOC — Jurisprudência e Súmulas Vinculantes em Matéria Tributária.md",
+    "Concursos/Direito Tributário/18 - Jurisprudência/Súmula nº 667 (STF).md",
     "Concursos/Direito Tributário/06 - Tributos/Taxa.md",
-    "Concursos/Direito Tributário/06 - Tributos/Imposto.md"
+    "Concursos/Direito Tributário/18 - Jurisprudência/SV nº 29 (STF).md",
+    "Concursos/Direito Tributário/18 - Jurisprudência/Tema de Repercussão Geral 1.035 (STF).md",
+    "Concursos/Direito Tributário/18 - Jurisprudência/ADI 7.400 de 2023 MT (STF).md",
+    "Concursos/Direito Tributário/18 - Jurisprudência/ADI 4.786 de 2022 PA (STF).md",
+    "Concursos/Direito Tributário/18 - Jurisprudência/ADI 1.917 de 1998 (STF).md",
+    "Concursos/Direito Tributário/18 - Jurisprudência/ADI 1.942 de 1999 (STF).md",
+    "Concursos/Direito Tributário/18 - Jurisprudência/ADI 2.405 de 2019 (STF).md",
+    "Concursos/Direito Tributário/18 - Jurisprudência/ADI 3.717 de 2025 (STF).md",
+    "Concursos/Direito Tributário/18 - Jurisprudência/ADI 5.688 de 2022 PB (STF).md",
+    "Concursos/Direito Tributário/18 - Jurisprudência/RE 222.252 de 2001 SP (STF).md",
+    "Concursos/Direito Tributário/06 - Tributos/MOC — Tributos - Conceito e Espécies.md",
+    "Concursos/Direito Tributário/18 - Jurisprudência/SV nº 665 (STF).md",
+    "Concursos/Direito Tributário/18 - Jurisprudência/SV nº 668 (STF).md",
+    "Concursos/Direito Tributário/18 - Jurisprudência/SV nº 19 (STF).md",
+    "Concursos/Direito Tributário/18 - Jurisprudência/SV nº 439 (STF).md",
+    "Concursos/Direito Tributário/18 - Jurisprudência/SV nº 323 (STF).md",
+    "Concursos/Direito Tributário/18 - Jurisprudência/SV nº 31 (STF).md",
+    "Concursos/Direito Tributário/18 - Jurisprudência/SV nº 160 (STJ).md",
+    "Concursos/Direito Tributário/18 - Jurisprudência/SV nº 614 (STJ).md",
+    "Concursos/Direito Tributário/18 - Jurisprudência/SV nº 656 (STF).md",
+    "Concursos/Direito Tributário/18 - Jurisprudência/RE 789.218  de 2014 MG ST.md",
+    "Concursos/Direito Tributário/18 - Jurisprudência/RE 576.321 de 2008 SP STF.md"
   ]
 }

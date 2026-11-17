@@ -1,0 +1,3 @@
+
+**Súmula STF 665** – É constitucional a taxa de fiscalização dos mercados de títulos e valores mobiliários instituída pela Lei 7.940/1989.
+

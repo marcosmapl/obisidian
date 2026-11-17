@@ -1,0 +1,2 @@
+
+**Tema de Repercussão Geral STF 1035** - É constitucional considerar o tipo de atividade exercida pelo contribuinte como um dos critérios para fixação do valor de taxa de fiscalização do estabelecimento.

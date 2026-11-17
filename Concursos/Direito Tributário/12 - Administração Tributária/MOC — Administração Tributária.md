@@ -16,4 +16,4 @@ updated: 2026-05-25T16:10:00
 - [[Dívida Ativa]]
 - [[Certidão Negativa de Débitos]]
 
-- [[Súmula Vinculante 439 (STF)]]
+- [[SV nº 439 (STF)]]

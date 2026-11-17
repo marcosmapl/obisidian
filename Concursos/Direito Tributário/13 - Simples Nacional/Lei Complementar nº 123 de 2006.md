@@ -177,7 +177,7 @@ Indicados pelos órgãos e entidades, sendo designados pelo **Ministro de Estado
 - I - **revenda** de mercadorias (**ICMS**)
 - II - **venda** de **mercadorias industrializadas** pelo contribuinte (**ICMS** e **IPI**)
 - III e IV - **prestação de serviços** e os serviços vinculados à locação de bens imóveis e corretagem de imóveis (**ISSQN**)
-- V - **locação de bens móveis** (sem Imposto [[Súmula Vinculante 31 (STF)]])
+- V - **locação de bens móveis** (sem Imposto [[SV nº 31 (STF)]])
 - VI - atividade com incidência simultânea de **IPI** e de **ISS**
 - VII - comercialização de **medicamentos** e produtos magistrais produzidos por **manipulação de fórmulas** (**ISSQN** ou **ICMS**)
 

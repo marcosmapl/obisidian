@@ -23,9 +23,9 @@ updated: 2026-05-25T16:10:00
 > [!note] Art. 195. Parágrafo único, CTN. 
 > Os livros obrigatórios de escrituração comercial e fiscal e os comprovantes dos lançamentos neles efetuados **_serão conservados_** **_até que ocorra a prescrição dos créditos tributários_** **_decorrentes das operações a que se refiram_**.
 
-> [!tip] [[Súmula Vinculante 439 (STF)]] -> Quaisquer livros.
+> [!tip] [[SV nº 439 (STF)]] -> Quaisquer livros.
 
-> [!tip] [[Súmula Vinculante 323 (STF)]] -> Inadmissível apreensão para coerção!
+> [!tip] [[SV nº 323 (STF)]] -> Inadmissível apreensão para coerção!
 
 ### Requisitar Informações a Terceiros
 

@@ -28,13 +28,31 @@ updated: 2025-12-23T00:00:00
 	- Serviço público **específico e divisível**
 
 ---
-## Poder de Polícia
+## Taxa de Polícia
 
-> [!note] Taxa de Poder de Polícia
+> [!note] Poder de Polícia
 > Art. 78. Considera-se **pode de polícia** atividade da administração pública que **limitando ou disciplinando direito, interesse ou liberdade**, **regula a prática de ato ou abstenção de fato, em razão de interesse público** concernente à **segurança**, à **higiene**, à **ordem**, aos **costumes**, à **disciplina da produção e do mercado**, ao **exercício de atividades econômicas** dependentes de concessão ou autorização do Poder Público, à **tranquilidade pública** ou ao **respeito à propriedade e aos direitos individuais ou coletivos**.
 
-> [!note] RE 222.252-AgR/SP
-> A cobrança de taxa de localização e funcionamento, ..., **prescinde da efetiva comprovação da atividade fiscalizadora**, bastando a existência do **órgão fiscalizador** e **estrutura adminsitrativa em funcionamento**.
+> [!note] Taxa de Polícia
+> - **Regularidade** do exercício de poder de polícia é **imprescindível**.
+> - Fiscalização in loco (atividade fiscalizadora) é **prescindível**.
+
+### Exemplos de Atividades
+
+- Taxa de **Alvará**
+- Taxa de **Controle e Fiscalização Ambiental (TCFA)** = **IBAMA**
+- Taxa de **Fiscalização dos Mercados de Títulos e Valores Mobiliários** = **Comissão de Valores Mobiliários (CVM)**
+
+### Jurisprudência
+
+- [[RE 222.252 de 2001 SP (STF)]]
+- [[SV nº 665 (STF)]]
+- [[SV nº 29 (STF)]]
+- [[ADI 7.400 de 2023 MT (STF)]]
+- [[ADI 4.786 de 2022 PA (STF)]]
+- [[Tema de Repercussão Geral 1.035 (STF)]]
+- [[Súmula nº 595 (STF)]]
+- [[Súmula nº 667 (STF)]]
 
 ---
 ## Taxas de Serviço
@@ -54,26 +72,19 @@ O contribuinte ==não poderá fazer opção por não receber determinada presta�
 > II - **específicos**, quando possam ser destacados em unidades autônomas de intervenção, de utilidade, ou de necessidades públicas;
 > III - **divisíveis**, quando suscetíveis de utilização, separadamente, por parte de cada um dos seus usuários.
 
----
-## Jurisprudência
+### Jurisprudência
 
-- [[SV nº 19 (STF)]] (Coleta de Lixo)
-- [[SV nº 41 (STF)]]
-- [[RE 1.417.155 RN STF]] (Combate à Incêndio)
-- [[ADI 3717 de 2025 (STF)]] (Eventos esportivos e de Lazer)
+- [[ADI 1.942 de 1999 (STF)]] (**Serviço de Segurança Pública**)
+- [[ADI 3.717 de 2025 (STF)]] (**Eventos esportivos e de Lazer**)
+- [[ADI 5.688 de 2022 PB (STF)]] (**Custas Judiciais e Taxas Judiciárias**)
+- [[SV nº 19 (STF)]] (**Serviço de Coleta de Lixo Residencial**)
+- [[SV nº 41 (STF)]] (**Serviço de Iluminação Pública**)
+- [[RE 1.417.155 de 2025 RN STF]] (Taxa de **Prevenção e Combate a Incêndio, Busca e Salvamento**)
+- [[RE 576.321 de 2008 SP STF]] (Taxa de **Limpeza Pública**)
+- [[RE 789.218  de 2014 MG ST]] (**Emissão de Carnê**)
 
-
-> [!note] Taxa de Polícia
-> - **Regularidade** do exercício de poder de polícia é **imprescindível**.
-> - Fiscalização in loco (atividade fiscalizadora) é **prescindível**.
 
 > [!tip] Regularidade do exercício de poder de polícia pode ser demonstrada por **Órgão ou Estrutura em funcionamento**.
-
-> [!note] Base de Cálculo de Imposto
-> SV 29 - É **constitucional** a adoção, no cálculo do valor de taxa, de um ou mais elementos da **base de cálculo** própria de determinado imposto, desde que não haja integral identidade entre uma base e outra.
-
-> [!note] Taxa de Recursos Minerários
-> É **constitucional** taxa de polícia para acompanhamento e fiscalização das atividades de pesquisa, lavra, exploração ou aproveitamento de **recursos minerários**. Sendo de competência **Estadual** e podendo ser proporcional ao **volume de minérios extraídos**.
 
 ---
 ## Imunidades Constitucionais

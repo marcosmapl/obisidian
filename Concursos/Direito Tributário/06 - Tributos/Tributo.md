@@ -18,9 +18,9 @@ updated: 2026-11-10T23:07:00
 - Pagamento deve ser feito em **dinheiro (pecúnia)**.
 - Em regra geral, ==não admite-se pagamento de tributos in natura (bens) ou in labore (serviços)==.
 
->  [[ADI 1917 de 1998 (STF)]]
+>  [[ADI 1.917 de 1998 (STF)]]
 
-> [[ADI 2405 de 2019 (STF)]]
+> [[ADI 2.405 de 2019 (STF)]]
 
 ---
 ## Prestação Compulsória
