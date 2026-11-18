@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "d1c7e611cde458ce",
+    "id": "b9de3cecfb1e25d0",
     "type": "split",
     "children": [
       {
-        "id": "4cdca8929d71871e",
+        "id": "bf22110e27b0284a",
         "type": "tabs",
         "children": [
           {
-            "id": "dd3ab40051e49153",
+            "id": "bae98454a59ca6ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "35709e9c91af3e69",
+    "id": "1fce4f7490e7aad3",
     "type": "split",
     "children": [
       {
-        "id": "62e0bc95733e2f34",
+        "id": "1755e5d9c56721b3",
         "type": "tabs",
         "children": [
           {
-            "id": "53994062b73d5dab",
+            "id": "952e3d6edb3b5b9e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -50,7 +50,7 @@
             }
           },
           {
-            "id": "91b36791296ab01b",
+            "id": "50e6236ed93eaa5e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -67,7 +67,7 @@
             }
           },
           {
-            "id": "0ca5db44108b1145",
+            "id": "6b0b7a6efc7f5ad7",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -83,23 +83,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 361.66926193237305
+    "width": 300
   },
   "right": {
-    "id": "2826644379b11855",
+    "id": "33f03e2e0ac9e038",
     "type": "split",
     "children": [
       {
-        "id": "0c8ea64bfc6c4949",
+        "id": "6aa88e88f9db5ed0",
         "type": "tabs",
         "children": [
           {
-            "id": "e367e92fa19c66f6",
+            "id": "557f280775365e6d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concursos/Direito Tributário/06 - Tributos/Tributo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,12 +112,11 @@
             }
           },
           {
-            "id": "346c240cd3cdfdef",
+            "id": "1a423bb39b3b9387",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concursos/Direito Tributário/06 - Tributos/Tributo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -127,7 +125,7 @@
             }
           },
           {
-            "id": "5dd0b2583ce2dfd5",
+            "id": "d661c0b3a381fce9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -142,7 +140,7 @@
             }
           },
           {
-            "id": "512cbd5229e5593e",
+            "id": "7ae96b1d5f60410d",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -156,12 +154,11 @@
             }
           },
           {
-            "id": "9840308a30f2f2d3",
+            "id": "469a19b5eb58298a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concursos/Direito Tributário/06 - Tributos/Tributo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -171,7 +168,7 @@
             }
           },
           {
-            "id": "b64fc5278e4154d8",
+            "id": "43999c7560f41a51",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -181,27 +178,7 @@
             }
           },
           {
-            "id": "087e7edd4d64d044",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "c2e7f8fdcc64c411",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "1d3f5a9be46caa6b",
+            "id": "8e6b923f3c1f8855",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -211,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -230,33 +207,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dd3ab40051e49153",
+  "active": "bae98454a59ca6ff",
   "lastOpenFiles": [
     "Concursos/Direito Tributário/18 - Jurisprudência/Súmula nº 407 (STJ).md",
-    "Concursos/Direito Tributário/06 - Tributos/Preço Público (Tarifa).md",
-    "Concursos/Direito Tributário/06 - Tributos/MOC — Tributos - Conceito e Espécies.md",
     "Concursos/Direito Tributário/06 - Tributos/Taxa.md",
-    "Concursos/Direito Tributário/18 - Jurisprudência/ADI 4.786 de 2022 PA (STF).md",
-    "Concursos/Direito Tributário/18 - Jurisprudência/ADI 7.400 de 2023 MT (STF).md",
-    "Concursos/Direito Tributário/18 - Jurisprudência/SV nº 29 (STF).md",
-    "Concursos/Direito Tributário/18 - Jurisprudência/SV nº 665 (STF).md",
-    "Concursos/Direito Tributário/18 - Jurisprudência/RE 222.252 de 2001 SP (STF).md",
-    "Concursos/Direito Tributário/06 - Tributos/Tributo.md",
-    "Concursos/Direito Tributário/18 - Jurisprudência/Súmula nº 667 (STF).md",
-    "Concursos/Direito Tributário/18 - Jurisprudência/MOC — Jurisprudência e Súmulas Vinculantes em Matéria Tributária.md",
-    "Concursos/Direito Tributário/18 - Jurisprudência/Súmula nº 595 (STF).md",
-    "Concursos/Direito Tributário/18 - Jurisprudência/Tema de Repercussão Geral 1.035 (STF).md",
-    "Concursos/Direito Tributário/18 - Jurisprudência/ADI 1.917 de 1998 (STF).md",
-    "Concursos/Direito Tributário/18 - Jurisprudência/ADI 1.942 de 1999 (STF).md",
-    "Concursos/Direito Tributário/18 - Jurisprudência/ADI 2.405 de 2019 (STF).md",
-    "Concursos/Direito Tributário/18 - Jurisprudência/ADI 3.717 de 2025 (STF).md",
-    "Concursos/Direito Tributário/18 - Jurisprudência/ADI 5.688 de 2022 PB (STF).md",
-    "Concursos/Direito Tributário/18 - Jurisprudência/SV nº 668 (STF).md",
-    "Concursos/Direito Tributário/18 - Jurisprudência/SV nº 19 (STF).md",
-    "Concursos/Direito Tributário/18 - Jurisprudência/SV nº 439 (STF).md",
-    "Concursos/Direito Tributário/18 - Jurisprudência/SV nº 323 (STF).md",
-    "Concursos/Direito Tributário/18 - Jurisprudência/SV nº 31 (STF).md",
-    "Concursos/Direito Tributário/18 - Jurisprudência/SV nº 160 (STJ).md",
-    "Concursos/Direito Tributário/18 - Jurisprudência/SV nº 614 (STJ).md"
+    "Concursos/Direito Tributário/06 - Tributos/Preço Público (Tarifa).md"
   ]
 }

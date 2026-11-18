@@ -38,7 +38,7 @@ updated: 2026-11-13
 
 ### Jurisprudência
 
-- [[RE 222.252 de 2001 SP (STF)]]
+- [[RE 222.252 de 2001 SP STF]]
 - [[SV nº 665 (STF)]]
 - [[SV nº 29 (STF)]]
 - [[ADI 7.400 de 2023 MT (STF)]]
@@ -73,7 +73,7 @@ updated: 2026-11-13
 - [[SV nº 41 (STF)]] (**Serviço de Iluminação Pública**)
 - [[RE 1.417.155 de 2025 RN STF]] (Taxa de **Prevenção e Combate a Incêndio, Busca e Salvamento**)
 - [[RE 576.321 de 2008 SP STF]] (Taxa de **Limpeza Pública**)
-- [[RE 789.218  de 2014 MG ST]] (**Emissão de Carnê**)
+- [[RE 789.218  de 2014 MG STF]] (**Emissão de Carnê**)
 
 ### Limites de quantificação
 
@@ -154,11 +154,11 @@ Na ADPF 1.028/PE, a inconstitucionalidade foi modulada a partir da publicação 
 
 **Súmula 545 — STF, Plenário, aprovação em 03/12/1969:** diferencia taxas e preços pela compulsoriedade. Sua menção à prévia autorização orçamentária reflete o regime histórico; **a CF/88 não exige autorização anual no orçamento para cobrar taxa**.
 
-## Fontes e navegação
+---
+## Tópicos Relacionados
 
-- [Tema 1.282 e RE 1.417.155/RN — STF].
-- [ADPF 1.028/PE — STF].
-- [ADI 3.717/PR — STF].
-- [Tema 1.035 e ARE 990.094/SP — STF](https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?classeProcesso=ARE&incidente=5035833&numeroProcesso=990094&numeroTema=1035).
-- [Jurisprudência sobre o art. 145 — STF](https://portal.stf.jus.br/constituicao-supremo/artigo.asp?abrirArtigo=145&abrirBase=CF).
-- [[Tributo]] · [[Espécies Tributárias]] · [[Preço Público]] · [[Contribuições Especiais]]
+- [[Tributo]]
+- [[Espécies Tributárias]]
+- [[Preço Público]]
+- [[Contribuições Especiais]]
+

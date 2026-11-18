@@ -92,21 +92,17 @@ DL 195/1967, art. 2º, sempre **condicionadas à valorização**:
 
 **Pavimentação nova** pode justificar a contribuição se houver valorização. **Mero recapeamento**, como manutenção de via já asfaltada, não a justifica no precedente abaixo.
 
+---
 ## Jurisprudência essencial
 
-| Tipo e número | Órgão e data de julgamento | Tese essencial |
-| --- | --- | --- |
-| **RE 116.148/SP** | STF, Primeira Turma, **16/02/1993** | Mero recapeamento de via já asfaltada não justifica contribuição de melhoria; não se confunde com nova pavimentação valorizadora. |
-| **REsp 1.076.948/RS** | STJ, Primeira Turma, **04/11/2010** | Base é a valorização efetiva; cabe inicialmente ao ente demonstrá-la. Se houver apuração legal e o proprietário discordar, deve fundamentar/provar sua impugnação. |
-| **REsp 1.326.502/RS** | STJ, Primeira Turma, **18/04/2013** | Exige lei prévia e específica e valorização decorrente da obra, cujo ônus de comprovação é do ente tributante. |
-| **AgRg no REsp 1.304.925/RS** | STJ, Primeira Turma, **17/04/2012** | Não se admite cálculo exclusivamente pelo custo da obra; cabe ao ente provar a valorização. |
+| Tipo e número                     | Órgão e data de julgamento          | Tese essencial                                                                                                                                                         |
+| --------------------------------- | ----------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[RE 116.148 de 1993 SP STF]]     | STF, Primeira Turma, **16/02/1993** | Mero recapeamento de via já asfaltada não justifica contribuição de melhoria; não se confunde com nova pavimentação valorizadora.                                      |
+| [[REsp 1.076.948 de 2010 RS STJ]] | STJ, Primeira Turma, **04/11/2010** | **Base é a valorização efetiva**; cabe inicialmente ao ente demonstrá-la. Se houver apuração legal e o proprietário discordar, deve fundamentar/provar sua impugnação. |
+| [[REsp 1.326.502 de 2013 RS STJ]] | STJ, Primeira Turma, **18/04/2013** | Exige lei prévia e específica e valorização decorrente da obra, cujo **ônus de comprovação é do ente tributante**.                                                     |
 
-**Para prova:** obra ≠ fato gerador isoladamente; valorização deve ter **nexo causal** com a obra; benefício presumido não dispensa a demonstração legal.
+---
+## Tópicos Relacionados
 
-## Fontes e navegação
-
-- Referência principal: Fábio Dutra, *1. Conceito de Tributo*, **pp. 62–70**; complementos dos arts. 8º e 12 do DL 195/1967 e dos precedentes do STJ.
-- [REsp 1.076.948/RS — STJ](https://scon.stj.jus.br/SCON/jurisprudencia/toc.jsp?livre=%28RESP+INPATH%28CLAS%29+AND+1076948+INPATH%28NUM%29%29+OR+%28NEAR%28%28RESP%2C1076948%29%2C0%2CTRUE%29+INPATH%28SUCE%29%29).
-- [Informativo 522: REsp 1.326.502/RS — STJ](https://processo.stj.jus.br/jurisprudencia/externo/informativo/?acao=pesquisarumaedicao&from=feed&livre=0522.cod.).
-- [Precedentes sobre valorização — STJ](https://www.stj.jus.br/websecstj/cgi/revista/REJ.cgi/ITA?CodOrgaoJgdr=&SeqCgrmaSessao=&dt=20140409&formato=PDF&nreg=201303321938&salvar=false&seq=1309278&tipo=0).
-- [[Tributo]] · [[Taxa]] · [[Jurisprudência sobre o Ônus da Prova]] · [[Espécies Tributárias]]
+- [[Tributo]] 
+- [[Espécies Tributárias]]

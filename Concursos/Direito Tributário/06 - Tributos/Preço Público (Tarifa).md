@@ -48,3 +48,8 @@
 - Exemplos:
 	- Serviços **telefônicos**, distribuição de **energia elétrica**, de **gás** etc.
 
+---
+## Tópicos Relacionados
+
+- [[Tributo]]
+- [[Taxa]]

@@ -5,14 +5,6 @@ created: 2025-12-23T00:00:00
 updated: 2026-01-05T21:40:00
 ---
 
-
-- [[RE 1.417.155 de 2025 RN STF]] (**Combate à incêndio**)
-
-### Contribuições de Melhoria
-
-- [[Jurisprudência sobre o Ônus da Prova]]
-
----
 ## Súmulas
 
 - [[Súmula nº 595 (STF)]] ➡️ Taxa de Conservação de Estradas
@@ -62,9 +54,20 @@ updated: 2026-01-05T21:40:00
 ---
 ## Recurso Extraordinário
 
-- [[RE 1.253.706 de 2020 RS STF]] (**Revogação de Benefício Fiscal**)
-- [[RE 1.417.155 de 2025 RN STF]] (**Taxa de Prevenção e Combate a Incêndio, Busca e Salvamento**)
-- [[RE 222.252 de 2001 SP (STF)]] (**Taxa de Fiscalização**)
-- [[RE 576.321 de 2008 SP STF]] (**Taxa de Limpeza Pública**)
-- [[RE 789.218  de 2014 MG ST]] (**Emissão de Carnê**)
+- [[RE 116.148 de 1993 SP STF]] ➡️ **Obra de Recapeamento**
+- [[RE 175.385 de 1994 SC STF]] ➡️ **Restituição** do Empréstimo Compulsório
+- [[RE 222.252 de 2001 SP STF]] ➡️ **Taxa de Fiscalização**
+- [[RE 576.321 de 2008 SP STF]] ➡️ **Taxa de Limpeza Pública**
+- [[RE 789.218  de 2014 MG STF]] ➡️ **Emissão de Carnê**
+- [[RE 1.253.706 de 2020 RS STF]] ➡️ **Revogação de Benefício Fiscal**
+- [[RE 1.417.155 de 2025 RN STF]] ➡️ **Taxa de Prevenção e Combate a Incêndio, Busca e Salvamento**
+
+--- 
+## Recurso Especial
+
+- [[REsp 1.076.948 de 2010 RS STJ]] ➡️ Base de Cálculo das Contribuições de Melhoria
+- [[REsp 1.326.502 de 2013 RS STJ]] ➡️ Lei Prévia para Instituir Contribuição de Melhoria
+
+
+
 

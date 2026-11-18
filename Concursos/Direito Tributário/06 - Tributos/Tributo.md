@@ -19,6 +19,7 @@ Tributo é prestação ==🟣pecuniária compulsória==, que ==🔴não constitu
 
 É [[Receita Derivada]], obtida pelo poder de império. ==🔵Preços e tarifas== são [[Receita Originária]] e não têm natureza tributária. ==🔵Multas== também podem ser [[Receita Derivada]], ==🔴mas não são tributos==. Embora a ==🔵obrigação principal== possa ter por objeto ==🟣tributo ou penalidade pecuniária== (CTN, art. 113, § 1º), isso não transforma multa em tributo.
 
+---
 ## Regra matriz de incidência tributária
 
 É a estrutura que identifica **qual fato gera a obrigação, onde e quando ocorre, quem deve pagar, a quem e quanto**. Não é uma espécie tributária nem uma regra de cobrança já vencida.
@@ -88,4 +89,4 @@ O CTN, art. 4º, privilegia o ==🔵fato gerador==, independentemente do nome da
 ## Tópicos Relacionados
 
 - [[ADI 2405 de 2019 (STF)]].
-- [[MOC — Tributos - Conceito e Espécies]] · [[Espécies Tributárias]]
+- [[Espécies Tributárias]]
