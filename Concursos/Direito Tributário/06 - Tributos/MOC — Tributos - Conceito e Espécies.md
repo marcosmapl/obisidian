@@ -91,8 +91,6 @@ Detalhes e exceções: [[Espécies Tributárias#Instituição e alterações]] e
 Cada nota identifica **tipo, número, órgão e data** do precedente. Nas súmulas, a data é de aprovação; quando usada data de publicação, isso está expresso.
 
 ---
-## Referência e limites de uso
+## Tópicos Relacionados
 
-Base principal: Fábio Dutra, *1. Conceito de Tributo*, PDF de **155 páginas**, especialmente a teoria nas **pp. 3–112**. Os resumos condensam o conteúdo; a regra matriz e os quadros de princípios incluem complementos normativos. Questões e comentários do PDF foram usados para identificar pontos recorrentes, sem reproduzir o banco de exercícios.
-
-**Revisão em 13/11/2026.** Para IBS/CBS e tributos substituídos, consultar a disciplina de transição ao resolver questões com ano específico. Os quadros gerais não substituem o regime completo de cada imposto ou contribuição.
+- [[Preço Público (Tarifa)]]
