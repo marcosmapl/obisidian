@@ -11,6 +11,7 @@ updated: 2026-11-13
 
 Tributo **vinculado** e de **competência comum**: União, Estados, DF e Municípios, no âmbito de suas atribuições. **Obra sem valorização não autoriza a cobrança.** Não confundir com contribuição especial nem com taxa de pavimentação.
 
+---
 ## Antecedente: hipótese de incidência
 
 | Critério | Regra |
@@ -20,6 +21,7 @@ Tributo **vinculado** e de **competência comum**: União, Estados, DF e Municí
 | Espacial | Imóveis situados na zona beneficiada, delimitada nos elementos publicados. Não é necessário serem confrontantes com a obra. |
 | Temporal | Verificação da valorização após a execução total ou de parte suficiente da obra para beneficiar o imóvel. Não se cobra antecipadamente apenas pela expectativa de valorização. |
 
+---
 ## Consequente: sujeitos e valor
 
 | Critério | Regra |
@@ -40,6 +42,7 @@ Tributo **vinculado** e de **competência comum**: União, Estados, DF e Municí
 
 **Pagamento:** o DL 195/1967, art. 12, prevê que a parcela anual não exceda **3% do maior valor fiscal do imóvel, atualizado à época da cobrança**. Esse limite de pagamento anual não substitui os limites global e individual.
 
+---
 ## Instituição, alterações e princípios
 
 - **Lei prévia e específica**, respeitadas as normas gerais do CTN e do DL 195/1967. Edital, sozinho, não cria o tributo.
@@ -48,6 +51,7 @@ Tributo **vinculado** e de **competência comum**: União, Estados, DF e Municí
 - O CTN e o DL 195/1967 são aplicados de forma complementar; os arts. 81 e 82 do CTN não foram simplesmente revogados.
 - A contribuição faz face ao custo da obra, mas não se confunde com a vinculação constitucional finalística dos empréstimos compulsórios.
 
+---
 ## Publicação, defesa e lançamento
 
 O CTN, art. 82, exige **publicação prévia** de:
@@ -65,8 +69,7 @@ Além disso:
 - Obra total ou parcialmente executada em extensão suficiente para produzir benefício; apuração da valorização e publicação do demonstrativo de custos, na forma do DL 195/1967, art. 9º.
 - **Notificação individual** do valor, forma/prazos de pagamento e elementos do cálculo (CTN, **art. 82, § 2º**).
 
-**Roteiro de revisão:** lei anterior ao fato tributável → publicidade e oportunidade de impugnação → obra/etapa útil e valorização comprovada → apuração, lançamento e notificação → cobrança, respeitadas as anterioridades. Não confundir necessidade de prévia lei com a data de cada edital ou presumir retroatividade permitida.
-
+---
 ## Obras que podem gerar a contribuição
 
 DL 195/1967, art. 2º, sempre **condicionadas à valorização**:
@@ -81,21 +84,17 @@ DL 195/1967, art. 2º, sempre **condicionadas à valorização**:
 
 **Pavimentação nova** pode justificar a contribuição se houver valorização. **Mero recapeamento**, como manutenção de via já asfaltada, não a justifica no precedente abaixo.
 
+---
 ## Jurisprudência essencial
 
-| Tipo e número | Órgão e data de julgamento | Tese essencial |
-| --- | --- | --- |
-| **RE 116.148/SP** | STF, Primeira Turma, **16/02/1993** | Mero recapeamento de via já asfaltada não justifica contribuição de melhoria; não se confunde com nova pavimentação valorizadora. |
-| **REsp 1.076.948/RS** | STJ, Primeira Turma, **04/11/2010** | Base é a valorização efetiva; cabe inicialmente ao ente demonstrá-la. Se houver apuração legal e o proprietário discordar, deve fundamentar/provar sua impugnação. |
-| **REsp 1.326.502/RS** | STJ, Primeira Turma, **18/04/2013** | Exige lei prévia e específica e valorização decorrente da obra, cujo ônus de comprovação é do ente tributante. |
-| **AgRg no REsp 1.304.925/RS** | STJ, Primeira Turma, **17/04/2012** | Não se admite cálculo exclusivamente pelo custo da obra; cabe ao ente provar a valorização. |
+| Tipo e número                     | Órgão e data de julgamento          | Tese essencial                                                                                                                                                         |
+| --------------------------------- | ----------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[RE 116.148 de 1993 SP STF]]     | STF, Primeira Turma, **16/02/1993** | Mero recapeamento de via já asfaltada não justifica contribuição de melhoria; não se confunde com nova pavimentação valorizadora.                                      |
+| [[REsp 1.076.948 de 2010 RS STJ]] | STJ, Primeira Turma, **04/11/2010** | **Base é a valorização efetiva**; cabe inicialmente ao ente demonstrá-la. Se houver apuração legal e o proprietário discordar, deve fundamentar/provar sua impugnação. |
+| [[REsp 1.326.502 de 2013 RS STJ]] | STJ, Primeira Turma, **18/04/2013** | Exige lei prévia e específica e valorização decorrente da obra, cujo **ônus de comprovação é do ente tributante**.                                                     |
 
-**Para prova:** obra ≠ fato gerador isoladamente; valorização deve ter **nexo causal** com a obra; benefício presumido não dispensa a demonstração legal.
+---
+## Tópicos Relacionados
 
-## Fontes e navegação
-
-- Referência principal: Fábio Dutra, *1. Conceito de Tributo*, **pp. 62–70**; complementos dos arts. 8º e 12 do DL 195/1967 e dos precedentes do STJ.
-- [REsp 1.076.948/RS — STJ](https://scon.stj.jus.br/SCON/jurisprudencia/toc.jsp?livre=%28RESP+INPATH%28CLAS%29+AND+1076948+INPATH%28NUM%29%29+OR+%28NEAR%28%28RESP%2C1076948%29%2C0%2CTRUE%29+INPATH%28SUCE%29%29).
-- [Informativo 522: REsp 1.326.502/RS — STJ](https://processo.stj.jus.br/jurisprudencia/externo/informativo/?acao=pesquisarumaedicao&from=feed&livre=0522.cod.).
-- [Precedentes sobre valorização — STJ](https://www.stj.jus.br/websecstj/cgi/revista/REJ.cgi/ITA?CodOrgaoJgdr=&SeqCgrmaSessao=&dt=20140409&formato=PDF&nreg=201303321938&salvar=false&seq=1309278&tipo=0).
-- [[Tributo]] · [[Taxa]] · [[Jurisprudência sobre o Ônus da Prova]] · [[Espécies Tributárias]]
+- [[Tributo]] 
+- [[Espécies Tributárias]]

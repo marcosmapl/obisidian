@@ -38,7 +38,7 @@ updated: 2026-11-13
 
 ### Jurisprudência
 
-- [[RE 222.252 de 2001 SP (STF)]]
+- [[RE 222.252 de 2001 SP STF]]
 - [[SV nº 665 (STF)]]
 - [[SV nº 29 (STF)]]
 - [[ADI 7.400 de 2023 MT (STF)]]
@@ -73,7 +73,7 @@ updated: 2026-11-13
 - [[SV nº 41 (STF)]] (**Serviço de Iluminação Pública**)
 - [[RE 1.417.155 de 2025 RN STF]] (Taxa de **Prevenção e Combate a Incêndio, Busca e Salvamento**)
 - [[RE 576.321 de 2008 SP STF]] (Taxa de **Limpeza Pública**)
-- [[RE 789.218  de 2014 MG ST]] (**Emissão de Carnê**)
+- [[RE 789.218  de 2014 MG STF]] (**Emissão de Carnê**)
 
 ### Limites de quantificação
 

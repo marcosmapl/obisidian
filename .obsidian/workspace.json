@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Direito Tributário/06 - Tributos/Tributo.md",
+                "file": "Concursos/Direito Tributário/06 - Tributos/Contribuições Especiais.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tributo"
+              "title": "Contribuições Especiais"
             }
           }
         ]
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concursos/Direito Tributário/06 - Tributos/Tributo.md",
+                "file": "Concursos/Direito Tributário/06 - Tributos/Contribuições Especiais.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -201,12 +201,11 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 311.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,11 +219,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dd3ab40051e49153",
+  "active": "9840308a30f2f2d3",
   "lastOpenFiles": [
+    "Concursos/Direito Tributário/18 - Jurisprudência/MOC — Jurisprudência e Súmulas Vinculantes em Matéria Tributária.md",
+    "Concursos/Direito Tributário/18 - Jurisprudência/RE 222.252 de 2001 SP STF.md",
+    "Concursos/Direito Tributário/06 - Tributos/Empréstimos Compulsórios.md",
+    "Concursos/Direito Tributário/18 - Jurisprudência/RE 175.385 de 1994 SC STF.md",
+    "Concursos/Direito Tributário/18 - Jurisprudência/RE 602.347 de 1999 MG STF.md",
+    "Concursos/Direito Tributário/06 - Tributos/Contribuições de Melhoria.md",
+    "Concursos/Direito Tributário/18 - Jurisprudência/REsp 1.326.502 de 2013 RS STJ.md",
+    "Concursos/Direito Tributário/18 - Jurisprudência/REsp 1.076.948 de 2010 RS STJ.md",
+    "Concursos/Direito Tributário/18 - Jurisprudência/RE 116.148 de 1993 SP STF.md",
+    "Concursos/Direito Tributário/18 - Jurisprudência/RE 1.417.155 de 2025 RN STF.md",
+    "Concursos/Direito Tributário/18 - Jurisprudência/RE 789.218  de 2014 MG STF.md",
+    "Concursos/Direito Tributário/18 - Jurisprudência/Jurisprudência sobre o Ônus da Prova.md",
+    "Concursos/Direito Tributário/06 - Tributos/Contribuições Especiais.md",
+    "Concursos/Direito Tributário/06 - Tributos/Tributo.md",
     "Concursos/Direito Tributário/06 - Tributos/Taxa.md",
     "Concursos/Direito Tributário/18 - Jurisprudência/Súmula nº 667 (STF).md",
-    "Concursos/Direito Tributário/18 - Jurisprudência/MOC — Jurisprudência e Súmulas Vinculantes em Matéria Tributária.md",
     "Concursos/Direito Tributário/18 - Jurisprudência/Súmula nº 595 (STF).md",
     "Concursos/Direito Tributário/18 - Jurisprudência/SV nº 29 (STF).md",
     "Concursos/Direito Tributário/18 - Jurisprudência/Tema de Repercussão Geral 1.035 (STF).md",
@@ -234,19 +246,6 @@
     "Concursos/Direito Tributário/18 - Jurisprudência/ADI 1.942 de 1999 (STF).md",
     "Concursos/Direito Tributário/18 - Jurisprudência/ADI 2.405 de 2019 (STF).md",
     "Concursos/Direito Tributário/18 - Jurisprudência/ADI 3.717 de 2025 (STF).md",
-    "Concursos/Direito Tributário/18 - Jurisprudência/ADI 5.688 de 2022 PB (STF).md",
-    "Concursos/Direito Tributário/18 - Jurisprudência/RE 222.252 de 2001 SP (STF).md",
-    "Concursos/Direito Tributário/06 - Tributos/MOC — Tributos - Conceito e Espécies.md",
-    "Concursos/Direito Tributário/18 - Jurisprudência/SV nº 665 (STF).md",
-    "Concursos/Direito Tributário/18 - Jurisprudência/SV nº 668 (STF).md",
-    "Concursos/Direito Tributário/18 - Jurisprudência/SV nº 19 (STF).md",
-    "Concursos/Direito Tributário/18 - Jurisprudência/SV nº 439 (STF).md",
-    "Concursos/Direito Tributário/18 - Jurisprudência/SV nº 323 (STF).md",
-    "Concursos/Direito Tributário/18 - Jurisprudência/SV nº 31 (STF).md",
-    "Concursos/Direito Tributário/18 - Jurisprudência/SV nº 160 (STJ).md",
-    "Concursos/Direito Tributário/18 - Jurisprudência/SV nº 614 (STJ).md",
-    "Concursos/Direito Tributário/18 - Jurisprudência/SV nº 656 (STF).md",
-    "Concursos/Direito Tributário/18 - Jurisprudência/RE 789.218  de 2014 MG ST.md",
-    "Concursos/Direito Tributário/18 - Jurisprudência/RE 576.321 de 2008 SP STF.md"
+    "Concursos/Direito Tributário/18 - Jurisprudência/ADI 5.688 de 2022 PB (STF).md"
   ]
 }
