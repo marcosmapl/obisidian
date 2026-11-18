@@ -2,6 +2,121 @@
 
 ![[Pasted image 20260809172912.png]]
 
+---
+## Incentivos Regionais - Art. 43
+
+- Sempre que possível considerar critérios de ==🔵sustentabilidade ambiental== e ==🔵redução das emissões de carbono==.
+
+---
+## Convocação pelo Congresso Nacional - Art. 50
+
+### Quem convoca?
+
+- ==🔵Câmara dos Deputados==
+- ==🔵Senado Federal==, ou 
+- ==🟠qualquer de suas Comissões==
+
+###  Quem pode ser convocado?
+
+- ==🔵Ministro de Estado==
+- ==🔵Titulares de Órgãos== ==🟣diretamente subordinados à Presidência da República==
+- ==🔵Presidente do CGIBS==
+
+### Qual a finalidade?
+
+- Prestarem, ==🟠pessoalmente==, ==🟣informações sobre assunto previamente determinado==.
+
+### Quais penalidades aplicáveis?
+
+- ==🔵Crime de responsabilidade== a ==🟠ausência sem justificação adequada==.
+
+---
+## Princípios do STN - Art. 145. § 3º
+
+O sistema tributário nacional deve observar os princípios:
+- Simplicidade
+- Transparência
+- Justiça Tributária
+- Cooperação
+- Defesa do Meio Ambiente
+
+---
+## Atenuação de Efeitos Regressivos - Art. 145. § 4º
+
+- As alterações na ==🔵legislação tributária== buscarão ==🟠atenuar efeitos regressivos==
+
+---
+## Tratamento Diferenciado e Favorecido para ME e EPP - Art. 146, III, d)
+
+- Cabe a ==🔵lei complementar== a definição de ==🟣tratamento diferenciado e favorecido== para as ==🔵microempresas== e para as ==🔵empresas de pequeno porte==, ==🟠inclusive regimes especiais ou simplificados== no caso dos impostos previstos nos arts. 155, II (==🔵ICMS==), e 156-A (==🔵IBS==), das contribuições sociais previstas no art. 195, I (==🔵PIS== e ==🔵COFINS==) e V (==🔵CBS==), e § 12 (não cumulatividade das contribuições sociais sobre receita e faturamento) e da contribuição a que se refere o art. 239 (==🔵PIS/PASEP== destinada ao financiamento do seguro-desemprego e do abono salarial).
+
+---
+## Regime Único (Simples Nacional) - Art. 146, § 3º
+
+A EC nº 132/2023 criou dois tributos sobre o consumo:
+
+| Dispositivo constitucional | Tributo                                      |
+| -------------------------- | -------------------------------------------- |
+| Art. 156-A                 | **IBS** – Imposto sobre Bens e Serviços      |
+| Art. 195, V                | **CBS** – Contribuição sobre Bens e Serviços |
+
+Ambos seguem, como regra, o princípio da ==🔵não cumulatividade==, que ==🟣permite compensar créditos das aquisições com débitos tributários das operações realizadas==.
+
+### Inciso I — A empresa optante pelo Simples não aproveita créditos
+
+O inciso I determina que, ==🟠enquanto a empresa recolher IBS e CBS por meio do regime único do Simples Nacional==, ==🔴não poderá se apropriar de créditos desses tributos==.
+
+![[Pasted image 20261118111132.png]]
+
+### Inciso II — O comprador pode aproveitar créditos
+
+Embora a empresa vendedora optante pelo Simples Nacional ==🔴não possa aproveitar créditos==, seu ==🔵cliente==, ==🟠quando sujeito ao regime regular do IBS e da CBS==, ==🟢poderá apropriar créditos em relação à compra==.
+
+Entretanto, o crédito é limitado ao valor dos tributos cobrado por meio do Simples Nacional, conforme as regras aplicáveis.
+
+![[Pasted image 20261118111116.png]]
+
+### A empresa do Simples pode optar pelo regime regular do IBS e da CBS?
+
+Sim. Essa é uma possibilidade importante estabelecida pela reforma tributária.
+
+A Constituição permite que a empresa permaneça no Simples Nacional para os demais tributos, ==🟠mas escolha apurar e recolher IBS e CBS pelo regime regular==.
+
+Nesse caso:
+- A empresa ==🟣poderá aproveitar créditos de IBS e CBS relativos às suas aquisições==, conforme a legislação.
+- Seus ==🟣clientes sujeitos ao regime regular poderão aproveitar os créditos== correspondentes aos tributos incidentes nas operações, observados os requisitos legais.
+- O ==🟣IBS e a CBS serão apurados fora do recolhimento unificado do Simples Nacional==.
+
+> [!info] Essa possibilidade foi regulamentada pela Lei Complementar nº 214/2025, especialmente nos arts. 41 e 47.
+
+---
+## COSIP - Art. 149-A
+
+A principal novidade da EC nº 132/2023 foi ampliar as ==🔵finalidades== dessa contribuição, permitindo que os ==🟣recursos também sejam utilizados na expansão e melhoria da iluminação pública e em sistemas de monitoramento voltados à segurança e à preservação de logradouros públicos==:
+- Custeio da Iluminação Pública
+- Expansão e melhoria da iluminação pública
+- Monitoramento para segurança e preservação
+
+Observando os princípios da ==🔵Legalidade==, ==🔵Irretroatividade==, ==🔵Anterioridade Anual e Nonagesimal==.
+
+---
+## Regras Observadas - Art. 149-B
+
+IBS e CBS observarão as mesmas regras em relação a:
+- Fatos Geradores
+- Base de Cálculo
+- Hipóteses de Não Incidência
+- Sujeitos Passivos
+- Imunidades
+- Regimes Específicos
+- Regras de Não Cumulatividade e de Creditamento
+
+Parágrafo único. Os tributos de que trata o caput observarão as imunidades previstas no art. 150, VI, não se aplicando a ambos os tributos o disposto no art. 195, § 7º.     (Incluído pela Emenda Constitucional nº 132, de 2023)
+
+![[Pasted image 20260809163451.png]]
+
+
+---
 ## ITCMD para Bens situados no Exterior
 
 Art. 16. A**té que lei complementar regule o disposto no art. 155, § 1º, III, da Constituição Federal, o imposto incidente nas hipóteses de que trata o referido dispositivo competirá:**  
@@ -30,16 +145,6 @@ III - relativamente aos **bens do de cujus, ainda que situados no exterior, ao 
 3. Quem **arrecada e distribui** o imposto → Comitê Gestor
 
 ---
-## Regras Observadas
-
-Art. 149-B. **Os tributos previstos nos arts. 156-A (IBS) e 195, V (CBS), observarão as mesmas regras em relação a:**     (Incluído pela Emenda Constitucional nº 132, de 2023)  
-**I - fatos geradores, bases de cálculo, hipóteses de não incidência e sujeitos passivos;**         
-**II - imunidades;         
-III - regimes específicos, diferenciados ou favorecidos de tributação;      
-IV - regras de não cumulatividade e de creditamento.**  
-Parágrafo único. Os tributos de que trata o caput observarão as imunidades previstas no art. 150, VI, não se aplicando a ambos os tributos o disposto no art. 195, § 7º.     (Incluído pela Emenda Constitucional nº 132, de 2023)
-
-![[Pasted image 20260809163451.png]]
 
 ---
 ## IPVA e ITCMD
