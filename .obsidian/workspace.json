@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 366.66926193237305
   },
   "right": {
     "id": "33f03e2e0ac9e038",
@@ -182,6 +182,16 @@
             "id": "8e6b923f3c1f8855",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "41fbb70272734f04",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -207,7 +217,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bae98454a59ca6ff",
+  "active": "469a19b5eb58298a",
   "lastOpenFiles": [
     "Media/Pasted image 20261118111132.png",
     "Media/Pasted image 20261118111116.png",
