@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 366.66926193237305
+    "width": 305.5
   },
   "right": {
     "id": "33f03e2e0ac9e038",
@@ -159,7 +159,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concursos/Direito Tributário/17 - Reforma Tributária/Emenda Constitucional nº 132 de 2023/MOC — Emenda Constitucional nº 132 de 2023.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -187,19 +186,9 @@
               "icon": "lucide-file",
               "title": "Nova aba"
             }
-          },
-          {
-            "id": "41fbb70272734f04",
-            "type": "leaf",
-            "state": {
-              "type": "graph-analysis",
-              "state": {},
-              "icon": "GA-ICON",
-              "title": "Graph Analysis"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -217,8 +206,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "469a19b5eb58298a",
+  "active": "8e6b923f3c1f8855",
   "lastOpenFiles": [
+    "Concursos/Direito Tributário/17 - Reforma Tributária/Emenda Constitucional nº 132 de 2023/MOC — Emenda Constitucional nº 132 de 2023.md",
     "Media/Pasted image 20261118111132.png",
     "Media/Pasted image 20261118111116.png",
     "Concursos/Direito Tributário/06 - Tributos/Contribuições de Melhoria.md",
