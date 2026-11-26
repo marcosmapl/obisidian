@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 544.1692314147949
   },
   "right": {
     "id": "33f03e2e0ac9e038",
@@ -186,9 +186,19 @@
               "icon": "lucide-file",
               "title": "Nova aba"
             }
+          },
+          {
+            "id": "10b34bb78ea22e3d",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {},
+              "icon": "GA-ICON",
+              "title": "Graph Analysis"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -206,9 +216,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8e6b923f3c1f8855",
+  "active": "bae98454a59ca6ff",
   "lastOpenFiles": [
+    "Concursos/Direito Tributário/07 - Impostos por Competência Constitucional/Imposto Seletivo (IS).md",
     "Concursos/Direito Tributário/17 - Reforma Tributária/Emenda Constitucional nº 132 de 2023/MOC — Emenda Constitucional nº 132 de 2023.md",
+    "Concursos/Direito Tributário/07 - Impostos por Competência Constitucional/Imposto sobre Circulação de Mercadorias e Serviços (ICMS).md",
+    "Concursos/Direito Tributário/07 - Impostos por Competência Constitucional/Cálculo Imposto por Fora.md",
+    "Media/Pasted image 20261126001835.png",
+    "Concursos/Direito Tributário/07 - Impostos por Competência Constitucional/Cálculo Imposto por Dentro.md",
+    "Media/Pasted image 20261126001656.png",
+    "Media/download.svg",
     "Media/Pasted image 20261118111132.png",
     "Media/Pasted image 20261118111116.png",
     "Concursos/Direito Tributário/06 - Tributos/Contribuições de Melhoria.md",

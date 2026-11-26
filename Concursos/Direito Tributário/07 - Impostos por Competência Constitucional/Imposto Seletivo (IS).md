@@ -15,11 +15,30 @@ updated: 2026-03-11T21:40:00
 ---
 ## Regras Constitucionais do IS
 
-- I - **não incidirá sobre as exportações** nem sobre as operações com **energia elétrica** e com **telecomunicações**; (Incluído pela Emenda Constitucional nº 132, de 2023)
-- II - **incidirá uma única vez** sobre o bem ou serviço;
-- III - ==não integrará== sua própria **base de cálculo**;
-- IV - **integrará a base de cálculo** dos tributos previstos nos arts. 155, II, 156, III, 156-A e 195, V; (**ICMS**, **ISS**, **IBS**, **CBS**)
-- V - poderá ter o **mesmo fato gerador** e **base de cálculo** de outros tributos; (Incluído pela Emenda Constitucional nº 132, de 2023)
-- VI - terá suas **alíquotas fixadas em lei ordinária**, podendo ser específicas, por unidade de medida adotada, ou ad valorem;   (Incluído pela Emenda Constitucional nº 132, de 2023)
-- VII - na **extração**, o imposto será cobrado independentemente da destinação, caso em que a **alíquota máxima corresponderá a 1% (um por cento) do valor de mercado do produto**. (Incluído pela Emenda Constitucional nº 132, de 2023)
+- Não incidência nas:
+	- ==🟣Exportações==
+	- ==🟣Operações com Energia Elétrica e Telecomunicações==
+- Monofásico sobre bem/serviço
+- ==🔴Não integrará== sua própria ==🔵BC==.
+- Integrará a ==🔵BC==:
+	- ICMS
+	- ISS
+	- IBS
+	- CBS
+- ==🔵FG== e ==🔵BC== de outros ==🟠TRIBUTOS==
+- ==🔵Alíquotas== fixadas em ==🟠LO== (CF88, Art. 153, VI)
+- ==🟠Extração==, será ==🔴cobrando independente da destinação==.
+	- Alíquota máxima de ==🟠1% do valor de mercado do produto==.
+- 50% da arrecadação da União com ISSQN/IPI/IS será entregue:
+	- 21.5% ao Fundo de Participação dos Estados e do Distrito Federal
+	- 22.5% Fundo de Participação dos Municípios
+	- 3% para aplicação em Programas de Financiamento ao Setor Produtivo das Regiões Norte, Nordeste e Centro-Oeste.
+	- 3 parcelas de 1% ao Fundo de Participação  dos Município, entregue no primeiro decêndio do mês de julho/setembro/dezembro de cada ano.
+- 10% da arrecadação da União com IPI/IS será entregue aos Estados e ao Distrito Federal, proporcionalmente ao valor das respectivas exportações de produtos industrializados.
+	- 25% irá para os municípios
+
+---
+## Tópicos Relacionados
+
+- [[Cálculo Imposto por Fora]]
 

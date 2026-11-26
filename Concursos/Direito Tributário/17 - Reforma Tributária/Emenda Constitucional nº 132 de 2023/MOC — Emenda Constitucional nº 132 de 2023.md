@@ -154,20 +154,7 @@ Quando vinculados a suas ==🟣finalidades essenciais ou delas decorrentes==, é
 ---
 ## Imposto Seletivo (IS) - Art. 153 VIII
 
-- Não incidência
-	- ==🟣Exportações==
-	- ==🟣Operações com Energia Elétrica e Telecomunicações==
-- Monofásico sobre bem/serviço
-- ==🔴Não integrará== sua própria ==🔵BC==.
-- Integrará a BC:
-	- ICMS
-	- ISS
-	- IBS
-	- CBS
-- ==🔵FG== e ==🔵BC== de outros ==🟠TRIBUTOS==
-- ==🔵Alíquotas== fixadas em ==🟠LO== (CF88, Art. 153, VI)
-- ==🟠Extração==, será ==🔴cobrando independente da destinação==.
-	- Alíquota máxima de ==🟠1% do valor de mercado do produto==.
+- [[Imposto Seletivo (IS)]]
 
 ---
 ## ITCMD 

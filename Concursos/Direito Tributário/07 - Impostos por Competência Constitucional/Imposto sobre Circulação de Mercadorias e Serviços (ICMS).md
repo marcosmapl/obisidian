@@ -45,6 +45,8 @@ updated: 2026-03-17T14:50:00
 
 > [!important] EC 85/2015 - DIFAL: destinação de parte da arrecadação ao Estado Destinatário e redução da arrecadação do Estado Remetente.
 
+- [[Cálculo Imposto por Dentro]]
+
 ---
 ## Princípios
 
