@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bf22110e27b0284a",
+        "id": "e63ea910d088eb75",
         "type": "tabs",
         "children": [
           {
-            "id": "bae98454a59ca6ff",
+            "id": "f3b99b1617d4bd13",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos/Direito Tributário/17 - Reforma Tributária/Emenda Constitucional nº 132 de 2023/MOC — Emenda Constitucional nº 132 de 2023.md",
+                "file": "Concursos/Tecnologia da Informação/17 - Computação em Nuvem/MOC — Computação em Nuvem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MOC — Emenda Constitucional nº 132 de 2023"
+              "title": "MOC — Computação em Nuvem"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 544.1692314147949
+    "width": 380.5
   },
   "right": {
     "id": "33f03e2e0ac9e038",
@@ -188,7 +188,7 @@
             }
           },
           {
-            "id": "10b34bb78ea22e3d",
+            "id": "8bea4aee839ff2f7",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -216,16 +216,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bae98454a59ca6ff",
+  "active": "f3b99b1617d4bd13",
   "lastOpenFiles": [
-    "Concursos/Direito Tributário/07 - Impostos por Competência Constitucional/Imposto Seletivo (IS).md",
-    "Concursos/Direito Tributário/17 - Reforma Tributária/Emenda Constitucional nº 132 de 2023/MOC — Emenda Constitucional nº 132 de 2023.md",
-    "Concursos/Direito Tributário/07 - Impostos por Competência Constitucional/Imposto sobre Circulação de Mercadorias e Serviços (ICMS).md",
-    "Concursos/Direito Tributário/07 - Impostos por Competência Constitucional/Cálculo Imposto por Fora.md",
-    "Media/Pasted image 20261126001835.png",
-    "Concursos/Direito Tributário/07 - Impostos por Competência Constitucional/Cálculo Imposto por Dentro.md",
-    "Media/Pasted image 20261126001656.png",
+    "Concursos/Tecnologia da Informação/17 - Computação em Nuvem/Armazenamento em Nuvem.md",
+    "Concursos/Tecnologia da Informação/17 - Computação em Nuvem/MOC — Computação em Nuvem.md",
+    "Concursos/Tecnologia da Informação/17 - Computação em Nuvem/Modelos de Implantação.md",
+    "Características Essenciais.md",
+    "Concursos/Tecnologia da Informação/17 - Computação em Nuvem/Conceitos Fundamentais.md",
     "Media/download.svg",
+    "Media/Pasted image 20261126001835.png",
+    "Media/Pasted image 20261126001656.png",
+    "Concursos/Direito Tributário/07 - Impostos por Competência Constitucional/Cálculo Imposto por Fora.md",
+    "Concursos/Direito Tributário/07 - Impostos por Competência Constitucional/Cálculo Imposto por Dentro.md",
+    "Concursos/Direito Tributário/17 - Reforma Tributária/Emenda Constitucional nº 132 de 2023/MOC — Emenda Constitucional nº 132 de 2023.md",
     "Media/Pasted image 20261118111132.png",
     "Media/Pasted image 20261118111116.png",
     "Concursos/Direito Tributário/06 - Tributos/Contribuições de Melhoria.md",
